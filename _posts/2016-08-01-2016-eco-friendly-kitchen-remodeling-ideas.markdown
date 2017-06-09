@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 2016 Eco Friendly Kitchen Remodeling Ideas
-date: '2016-08-01T01:55:08+00:00'
-permalink: /2016-eco-friendly-kitchen-remodeling-ideas/
+date: 2016-08-01 01:55:08 Z
+permalink: "/2016-eco-friendly-kitchen-remodeling-ideas/"
+layout: post
 ---
+
 <img class="size-full wp-image-3126 alignright" src="http://murraylampert.com/wp-content/uploads/Eco-friendly-kitchen-remodeling-1.jpg" alt="Eco friendly kitchen remodeling" width="500" height="375" />If you are like so many home owners who wish to give their kitchen a design makeover, you might not even know where to begin. There seem to be so <a href="http://murraylampert.com/2016-kitchen-cabinet-trends">many different trends</a> and you simply don’t know which one to go with.
 
 Want to hear our solution?

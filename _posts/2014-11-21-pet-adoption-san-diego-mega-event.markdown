@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Pet Adoption San Diego Mega Event
-date: '2014-11-21T17:18:57+00:00'
-permalink: /pet-adoption-san-diego-mega-event/
+date: 2014-11-21 17:18:57 Z
+permalink: "/pet-adoption-san-diego-mega-event/"
+layout: post
 ---
+
 [caption id="attachment_2668" align="aligncenter" width="129"]<img class="wp-image-2668  " title="Pet Adoption San Diego Mega Event" alt="dogs, cats, pets, adopt" src="http://www.murraylampert.com/wp-content/uploads/10404452_10202992331033654_8887592882185967582_n.jpg" width="129" height="190" /> Pet Adoption San Diego Mega Event[/caption]
 <p style="text-align: justify;"><a title="Santa Paws San Diego Mega Adoption Event" href="http://sdshelters.com/news/Events.html">Santa Paws Pet Adoption Mega Event</a> at Westfield Mission Valley Dog Mall on December 6th from 11 a.m. - 3 p.m.</p>
 Please join the San Diego Animal Support Foundation as we save lives and find homes for the holidays for a hundred adoptable animals from a dozen legitimate, local, non-profit rescue agencies, at the Westfield Mission Valley Shopping Mall.

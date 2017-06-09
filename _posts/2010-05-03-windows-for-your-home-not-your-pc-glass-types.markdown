@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Windows For Your Home, Not Your PC – Glass Types
-date: '2010-05-03T15:28:22+00:00'
-permalink: /windows-for-your-home-not-your-pc-glass-types/
+date: 2010-05-03 15:28:22 Z
+permalink: "/windows-for-your-home-not-your-pc-glass-types/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2010/05/images1.jpg"><img class="alignright size-full wp-image-215" title="images" src="http://murraylampert.com/wp-content/uploads/2010/05/images1.jpg" alt="" width="143" height="143" /></a>
 
 Continuing on my window topic, I thought it would be a good time to discuss glass types before talking about other window types and manufacturers.

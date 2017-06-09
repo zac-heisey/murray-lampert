@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Remodel Your Home in Del Cerro, San Diego
-date: '2011-03-18T15:26:24+00:00'
-permalink: /del-cerro-san-diego/
+date: 2011-03-18 15:26:24 Z
+permalink: "/del-cerro-san-diego/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2011/03/2011-01-24_13-39-15_948.jpg"><img class="size-medium wp-image-746 alignright" style="margin: 5px;" title="View From Del Cerro - San Diego" src="http://murraylampert.com/wp-content/uploads/2011/03/2011-01-24_13-39-15_948-300x169.jpg" alt="Del-Cerro-San-Diego" width="300" height="169" /></a>Known as “The Hill” to locals, Del Cerro is a centrally located community in San Diego. The town is perched up on a hill overlooking its bordering areas of San Diego State University to the south, Mission Valley to the west, and Mission Trails Regional Park to the east and north. Some areas have beautiful views of Lake Murray and on a really clear day you can see all the way out to Mission Bay and downtown San Diego. The small town has one high school and a few stores and restaurants, but the central location gives residents access to all San Diego has to offer. In less than 20 minutes you can be surfing, hiking, dining, or catching the latest flick at the theater. Interstate 8 and San Diego State University is located right next door, giving the south side of Del Cerro a college town feel.
 
 The demographics of Del Cerro include mostly single family homes with the majority of residents above the age of 30. The population in 2000 was recorded at 25,553, but it is estimated to have increased over the past decade to nearly 34,000. It is an upper income area with a median household income of $64,358. There are a total of 10,467 households, of which 6,846 are occupied by families. It never gets too hot or cold, with an average high of 83 in the summer and 68 in the winter. Del Cerro is seven miles to the San Diego International Airport, one mile to San Diego State University, and three miles to the San Diego Chargers stadium, Qualcomm Stadium.

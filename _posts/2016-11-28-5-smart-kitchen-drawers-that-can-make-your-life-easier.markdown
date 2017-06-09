@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Smart Kitchen Drawers that Can Make Your Life Easier
-date: '2016-11-28T02:36:35+00:00'
-permalink: /5-smart-kitchen-drawers-that-can-make-your-life-easier/
+date: 2016-11-28 02:36:35 Z
+permalink: "/5-smart-kitchen-drawers-that-can-make-your-life-easier/"
+layout: post
 ---
+
 Are you tired of the constant mess in your kitchen? It seems that no matter how tidy you are, cutlery, saucepans and other utensils simply get misplaced, cups get chipped and knives turn blunt. Maybe the time has come to seek some help from the outside. That is why we wanted to update you on some incredibly practical innovations you could consider for your next kitchen remodeling in San Diego.
 <h3>Cup/Glass Drawers</h3>
 Instead of keeping all the cups and glasses in the overhead cabinet, move them to a drawer in the lower cabinet. You will be able to reach all the pieces that somehow always end up at the back of the cabinet where you can’t see it. This way, you will have a clear overview of all the cups and glasses and keep it neat.

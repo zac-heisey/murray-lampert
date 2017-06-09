@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Buyer Beware of San Diego House Flippers
-date: '2014-08-06T15:22:13+00:00'
-permalink: /buyer-beware-of-san-diego-house-flippers/
+date: 2014-08-06 15:22:13 Z
+permalink: "/buyer-beware-of-san-diego-house-flippers/"
+layout: post
 ---
+
 [caption id="" align="alignnone" width="442"]<img class=" " alt="" src="http://www.worldpropertychannel.com/news-assets/home-sold-house-for-sale-nki.jpg" width="442" height="248" /> This Picture was found by World Property Channel: http://www.worldpropertychannel.com/north-america-residential-news/house-flipping-realtytrac-home-sales-real-estate-investors-speculators-luxury-homes-home-prices-distressed-sales-phoenix-tampa-atlanta-7510.php[/caption]
 
 Since the recession, buying and flipping homes is a common practice everywhere.  As a buyer, you should scrutinize anything that has been bought and put back on the market quickly.  Unfortunately, the code enforcement departments do not have the staffing to effectively police an activity that is out of control.

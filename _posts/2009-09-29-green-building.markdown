@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Green Building
-date: '2009-09-29T20:52:00+00:00'
-permalink: /green-building/
+date: 2009-09-29 20:52:00 Z
+permalink: "/green-building/"
+layout: post
 ---
+
 <div>
 <div class="separator" style="clear: both; text-align: center;"><a style="clear: left; cssfloat: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/_7AGTcxqqYm8/SsLiUI0JUxI/AAAAAAAAAFo/GSWgrnDn3wU/s1600-h/images.jpg"><img src="http://2.bp.blogspot.com/_7AGTcxqqYm8/SsLiUI0JUxI/AAAAAAAAAFo/GSWgrnDn3wU/s320/images.jpg" border="0" alt="" /></a></div>
 What is the definition of Green Building?

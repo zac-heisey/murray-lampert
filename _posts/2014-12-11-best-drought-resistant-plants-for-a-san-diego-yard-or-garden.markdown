@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Best Drought-Resistant Plants for a San Diego Yard or Garden
-date: '2014-12-11T10:30:48+00:00'
-permalink: /best-drought-resistant-plants-for-a-san-diego-yard-or-garden/
+date: 2014-12-11 10:30:48 Z
+permalink: "/best-drought-resistant-plants-for-a-san-diego-yard-or-garden/"
+layout: post
 ---
+
 Over the past few years, California has been dealt its share of drought. With scarce water and the beautiful sun beaming down during daylight hours, yards and gardens have been at a bit of a disadvantage. To keep your yard from looking like Death Valley, drought tolerant plants are an ideal alternative to those testy patches of grass and wilting water-sensitive plants. But that doesn’t mean you’re limited to a few brambly bushes and various cacti. Here we’ll take a quick nature walk through many drought-tolerant plants that you can use to grow a beautiful, water-wise garden that will hold up under the San Diego sun.
 
 [caption id="attachment_2704" align="alignright" width="380"]<img class="size-full wp-image-2704" src="http://murraylampert.com/wp-content/uploads/outdoorlandscape.jpg" alt="Using water wise plants can help you save money and make your outdoor space more aesthetically pleasing." width="380" height="206" /> Using water wise plants can help you save money and make your outdoor space more aesthetically pleasing.[/caption]

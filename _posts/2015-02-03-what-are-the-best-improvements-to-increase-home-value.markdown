@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What are the Best Improvements to Increase Home Value?
-date: '2015-02-03T09:28:24+00:00'
-permalink: /what-are-the-best-improvements-to-increase-home-value/
+date: 2015-02-03 09:28:24 Z
+permalink: "/what-are-the-best-improvements-to-increase-home-value/"
+layout: post
 ---
+
 Contrary to popular belief, not every home improvement project is valuable to your home’s resale. Understanding where to invest in home improvement projects and where to avoid spending is important to maximizing the value of your home, especially if that is one of your primary goals in home improvement.<img class="alignright  wp-image-2744" src="http://murraylampert.com/wp-content/uploads/bathroom.jpg" alt="San Diego bathroom remodel" width="270" height="338" />
 
 Take a look at some of the best ways to spend your home improvement budget to increase your home’s resale amount.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'A Dry Spell: A Look at Xeriscaping'
-date: '2014-08-15T14:41:53+00:00'
-permalink: /a-dry-spell-a-look-at-xeriscaping/
+date: 2014-08-15 14:41:53 Z
+permalink: "/a-dry-spell-a-look-at-xeriscaping/"
+layout: post
 ---
+
 <img class=" wp-image-2309 alignright" alt="Xeriscaping" src="http://www.murraylampert.com/wp-content/uploads/mediterranean-landscape.jpg" width="416" height="283" />
 
 As California continues its seemingly endless drought, water conservation has become more important than ever from using <a href="http://www.murraylampert.com/why-you-should-choose-plumbing-components-water-wisely/">water-saving plumbing components</a>, to reducing the amount of time watering the lawns. Homeowners can be fined up to $200 a day for wasting water or watering their lawns outside of the designated time.

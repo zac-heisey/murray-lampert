@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Tips on Saving Energy During the Winter in San Diego
-date: '2010-10-28T11:51:19+00:00'
-permalink: /tips-on-saving-energy-during-the-winter-in-san-diego/
+date: 2010-10-28 11:51:19 Z
+permalink: "/tips-on-saving-energy-during-the-winter-in-san-diego/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2010/10/765px-Passivhaus_section_en.jpg"><img class="alignright size-medium wp-image-599" style="margin: 5px;" title="765px-Passivhaus_section_en" src="http://murraylampert.com/wp-content/uploads/2010/10/765px-Passivhaus_section_en-300x235.jpg" alt="" width="300" height="235" /></a>Wintertime is often associated with rising heating bills, as homeowners do their best to keep out the cold. However, there are a number of tricks that may help you beat both the winter chill and leave your pocketbook intact. San Diego residents can rely on various methods to keep themselves and their families comfortable, with many of them requiring just some simple home maintenance and materials. Once you have taken these steps, you will be amazed at the difference they can make in driving energy costs down.
 
 Improving home insulation is one idea you may want to consider, as it is likely to cut your energy bills in half or perhaps even more. Extra insulation can be applied to many areas of a home, such as outside walls, attics, basement walls and more. The material one chooses is up to them, though the most popular among builders are cellulose and fiberglass. Professionals can be hired for this project, which will, of course, add to the expense but eventually save money, time, and hassles in the long run. Home insulation is one of the smartest ways to both keep home temperatures up and bills down. (<a href="http://www.passiv.de/">Image Source</a>)

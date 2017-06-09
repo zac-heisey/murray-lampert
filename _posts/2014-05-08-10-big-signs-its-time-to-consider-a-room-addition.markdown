@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 10 Big Signs it’s Time to Consider a Room Addition
-date: '2014-05-08T13:40:09+00:00'
-permalink: /10-big-signs-its-time-to-consider-a-room-addition/
+date: 2014-05-08 13:40:09 Z
+permalink: "/10-big-signs-its-time-to-consider-a-room-addition/"
+layout: post
 ---
+
 Room additions vary in size, shape, and location. There are 2-wall, 3-wall, single-story, second-story, and two-story <a href="http://www.murraylampert.com/san-diego-room-additions/">room additions</a>. Room additions can include family rooms, great rooms, bedrooms, bathrooms, dining rooms, living rooms, laundry rooms, guest rooms, home offices and garages, just to name a few.
 
 <img class="wp-image-2119 alignright" alt="Room Addition" src="http://www.murraylampert.com/wp-content/uploads/DSC_2421.jpg" width="390" height="259" />

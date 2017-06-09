@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Three Little Pigs Remodel
-date: '2009-09-07T06:30:00+00:00'
-permalink: /the-three-little-pigs-remodel/
+date: 2009-09-07 06:30:00 Z
+permalink: "/the-three-little-pigs-remodel/"
+layout: post
 ---
+
 <a href="http://1.bp.blogspot.com/_7AGTcxqqYm8/SqUcjWroIdI/AAAAAAAAACo/-g1n2znACGo/s1600-h/images.jpg"><img id="BLOGGER_PHOTO_ID_5378736723673489874" style="margin: 0px 0px 10px 10px; width: 132px; float: right; height: 97px; cursor: hand;" src="http://1.bp.blogspot.com/_7AGTcxqqYm8/SqUcjWroIdI/AAAAAAAAACo/-g1n2znACGo/s200/images.jpg" border="0" alt="" /></a> Once upon a time there were three little piggies, Straw Piggy, Wood Piggy and Brick Piggy. The three little piggies were neighbors, and all three wanted to remodel their homes. The problem was that none of the little piggies knew how to get started. They decided to consult with the wise advisor in the woods the lawyer B.B. Wolf.
 
 Brick Piggy, since he was the smartest piggy, arranged the meeting and all three piggies went to meet Mr. Wolf. Brick Piggy asked "Mr. Wolf, we need to remodel our homes, but we don't know how. Can you help us"? "Of course" replied Mr. Wolf "I have a lot of experience with remodeling homes" (wink, wink). There are 2 ways to remodel a home. The first way is the inexpensive way. First you hire a carpenter, and you manage the project. That means that you make the calls to all of the trades, the electrician, the plumber, the <span id="SPELLING_ERROR_0" class="blsp-spelling-error">sheetrocker</span>. It's easy, anybody can do it. Draw up some plans on a <span id="SPELLING_ERROR_1" class="blsp-spelling-corrected">napkin</span> or piece of paper, and you are on your way. Oh, and don't forget to buy your materials at some discount material warehouse.

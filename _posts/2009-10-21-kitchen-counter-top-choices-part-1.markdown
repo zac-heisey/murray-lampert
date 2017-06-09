@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Counter Top Choices Part 1
-date: '2009-10-21T05:57:00+00:00'
-permalink: /kitchen-counter-top-choices-part-1/
+date: 2009-10-21 05:57:00 Z
+permalink: "/kitchen-counter-top-choices-part-1/"
+layout: post
 ---
+
 There are many options when it comes to countertops.  My list of top 10 choices with Pros &amp; Cons will help you make an educated decision when you remodel.
 
  Here are the most popular countertop choices:

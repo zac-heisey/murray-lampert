@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Design Build Home Remodeling
-date: '2011-06-12T07:11:30+00:00'
-permalink: /san-diego-design-build-home-remodeling/
+date: 2011-06-12 07:11:30 Z
+permalink: "/san-diego-design-build-home-remodeling/"
+layout: post
 ---
+
 [caption id="attachment_2434" align="alignleft" width="340"]<a href="http://www.murraylampert.com/wp-content/uploads/003filer-after.jpg"><img class=" wp-image-2434 " src="http://www.murraylampert.com/wp-content/uploads/003filer-after.jpg" alt="Kitchen remodel" width="340" height="200" /></a> Kitchen remodel[/caption]
 
 We have been remodeling San Diego Homes since 1975.  In the 70's, 80's and even the 90's, we completed mostly basic projects like room additions and basic kitchen remodels that didn't require much in the way of design.

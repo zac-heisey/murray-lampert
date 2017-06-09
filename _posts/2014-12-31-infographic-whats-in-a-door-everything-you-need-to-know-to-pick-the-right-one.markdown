@@ -1,10 +1,11 @@
 ---
-layout: post
 title: INFOGRAPHIC - What’s In a Door? Everything You Need to Know to Pick the Right
   One
-date: '2014-12-31T14:00:42+00:00'
-permalink: /infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/
+date: 2014-12-31 14:00:42 Z
+permalink: "/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/"
+layout: post
 ---
+
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.
 
 &nbsp;

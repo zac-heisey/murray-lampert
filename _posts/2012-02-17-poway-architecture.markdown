@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Poway Architecture
-date: '2012-02-17T09:29:46+00:00'
-permalink: /poway-architecture/
+date: 2012-02-17 09:29:46 Z
+permalink: "/poway-architecture/"
+layout: post
 ---
+
 With average home listings in the Poway area nearing $1 million, Poway is a San Diego neighborhood brimming with class. Even though Poway lies geographically in the middle of San Diego County, most consider its relative location to be North County. Poway sits as its own small, self-sufficient San Diego offshoot. <img class="alignright" style="padding-top: 10px;" title="Poway Architecture" src="http://www.murraylampert.com/images/gallery/ra/brown2.jpg" alt="Poway Architecture" width="390" height="266" />
 
 [caption id="attachment_2010" align="alignnone" width="940"]<a href="http://murraylampert.com/wp-content/uploads/Webb-2.jpg"><img class="size-large wp-image-2010" src="http://murraylampert.com/wp-content/uploads/Webb-2-1024x810.jpg" alt="poway, room, addition" width="940" height="743" /></a> Poway Room Addition[/caption]

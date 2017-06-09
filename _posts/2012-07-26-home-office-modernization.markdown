@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Office Modernization
-date: '2012-07-26T09:54:53+00:00'
-permalink: /home-office-modernization/
+date: 2012-07-26 09:54:53 Z
+permalink: "/home-office-modernization/"
+layout: post
 ---
+
 <div>
 
 [caption id="attachment_1123" align="alignleft" width="136" caption="True Power U-Socket"]<a href="http://murraylampert.com/wp-content/uploads/2012/07/Usocket.jpg"><img class="size-full wp-image-1123 " title="Modernize Your Home Office" src="http://murraylampert.com/wp-content/uploads/2012/07/Usocket.jpg" alt="USB Outlet for cellphone and iPad charging" width="136" height="206" /></a>[/caption]

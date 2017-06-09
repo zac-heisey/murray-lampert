@@ -1,9 +1,10 @@
 ---
-layout: post
 title: More On Choosing A Remodeling Contractor
-date: '2009-09-09T21:20:00+00:00'
-permalink: /more-on-choosing-a-remodeling-contractor/
+date: 2009-09-09 21:20:00 Z
+permalink: "/more-on-choosing-a-remodeling-contractor/"
+layout: post
 ---
+
 Here are more things to consider when choosing a contractor to remodel your home:
 
 1. What is the companies track record for finishing on time?

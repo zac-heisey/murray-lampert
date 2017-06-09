@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Architectural Home Design in Del Cerro, CA
-date: '2012-02-01T08:03:10+00:00'
-permalink: /architectural-home-design-in-del-cerro-ca/
+date: 2012-02-01 08:03:10 Z
+permalink: "/architectural-home-design-in-del-cerro-ca/"
+layout: post
 ---
+
 <img class="alignleft" style="margin: 5px;" title="Del Cerro" src="http://murraylampert.com/wp-content/uploads/2011/03/2011-03-14_11-03-44_228.jpg" alt="" width="283" height="159" />
 
 Developed as a distinct community during the 60s and 70s, Del Cerro is Spanish for “of the hill” and its building structures range in both size and architectural design. <a href="http://www.murraylampert.com/san-diego-home-design-serivces/">Contemporary home design</a> and ranch style homes can be seen throughout the Del Cerro area. With long lines of residential homes, Del Cerro is known for being quiet, walkable, kid-friendly, and ideal for the single family unit. Located in central San Diego just east of Mission Valley, backyard pools are a common inclusion in the landscape architecture of these family homes.

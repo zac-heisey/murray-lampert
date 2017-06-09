@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Adding Value to San Diego Homes With Home Remodeling
-date: '2011-05-01T20:17:01+00:00'
-permalink: /adding-value-to-san-diego-homes-with-home-remodeling/
+date: 2011-05-01 20:17:01 Z
+permalink: "/adding-value-to-san-diego-homes-with-home-remodeling/"
+layout: post
 ---
+
 I was proud to see this article in the San Diego Union newspaper on Saturday, May 30, 2011 featuring a home we remodeled in the 90's:
 
 <a href="http://www.signonsandiego.com/news/2011/apr/22/point-loma-listing-has-ties-portuguese-pioneer/">http://www.signonsandiego.com/news/2011/apr/22/point-loma-listing-has-ties-portuguese-pioneer/</a>

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 2016 Kitchen Cabinet Trends – Something for Everyone
-date: '2016-07-12T01:08:50+00:00'
-permalink: /2016-kitchen-cabinet-trends-something-for-everyone/
+date: 2016-07-12 01:08:50 Z
+permalink: "/2016-kitchen-cabinet-trends-something-for-everyone/"
+layout: post
 ---
+
 Changes come fast in the modern world. Styles come and go almost as if they had a will of their own. What’s more, novel trends are pumped out almost every season, so you might realize that just as you have decided on a design makeover, it has become outdated. Luckily, 2016 seems to be the year where adding a personal touch is crucial and that’s especially true for kitchen cabinets. After all, you don’t even have to do a complete kitchen redesign to get a new kitchen. Take a look at the coolest 2016 kitchen cabinet trends and we’re sure you’ll find at least one idea for your kitchen remodel.
 <h3>Paint it Black</h3>
 If you have never really been into the off-white kitchen design movement, you will be happy to know that black has finally made a big-time comeback. Black cabinetry can be combined with black <a href="http://murraylampert.com/what-metal-should-you-use-in-your-kitchen/">stainless steel</a> or granite countertops to get a contemporary black kitchen.

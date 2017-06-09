@@ -1,9 +1,10 @@
 ---
-layout: post
 title: One-Step Home Remodeling & Construction Loans Have Arrived In San Diego
-date: '2014-11-16T10:01:31+00:00'
-permalink: /one-step-home-remodeling-construction-loans-have-arrived-in-san-diego/
+date: 2014-11-16 10:01:31 Z
+permalink: "/one-step-home-remodeling-construction-loans-have-arrived-in-san-diego/"
+layout: post
 ---
+
 <b>One-Step Home Remodeling &amp; Construction Loans </b><b>Highlights:</b>
 <ol>
 	<li><span style="font-size: 13px;">Lock your rate before construction begins to avoid interest rate risk and fluctuations.</span></li>

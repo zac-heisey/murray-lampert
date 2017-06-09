@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Pacific Beach Architectural Home Design
-date: '2012-02-01T08:09:38+00:00'
-permalink: /pacific-beach-architectural-home-design/
+date: 2012-02-01 08:09:38 Z
+permalink: "/pacific-beach-architectural-home-design/"
+layout: post
 ---
+
 As a densely populated beach town, the architectural designs of <a href="http://www.murraylampert.com/wordpress/2011/03/pacific-beach-san-diego/">Pacific Beach</a> vary from tightly-packed 30s-style beachfront cottages to large, pricey hotels and condos built with natural, earthy materials.  Aside from the quaint residential areas that run adjacent to popular businesses and busy streets, Pacific Beach holds an architectural report card that runs from San Diego’s budding first moments to today’s most modern fancies.
 
 <img class="alignleft" style="margin: 5px;" title="Home Construction" src="http://murraylampert.com/wp-content/uploads/2011/01/building-construction-permit-image.jpg" alt="" width="345" height="259" />

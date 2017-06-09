@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Design & Remodeling Firm Big 50 Winner
-date: '2012-05-16T10:22:32+00:00'
-permalink: /design-remodeling-big-50-winner/
+date: 2012-05-16 10:22:32 Z
+permalink: "/design-remodeling-big-50-winner/"
+layout: post
 ---
+
 <h3>Murray Lampert Design, Build, Remodel, San Diego, CA</h3>
 <strong>Award category:</strong> Fine Design
 <strong>Specialty:</strong> Full-service remodeling

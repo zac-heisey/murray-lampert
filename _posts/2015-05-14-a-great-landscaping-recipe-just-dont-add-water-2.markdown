@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'A Great Landscaping Recipe: Just Don’t Add Water!'
-date: '2015-05-14T10:00:09+00:00'
-permalink: /a-great-landscaping-recipe-just-dont-add-water-2/
+date: 2015-05-14 10:00:09 Z
+permalink: "/a-great-landscaping-recipe-just-dont-add-water-2/"
+layout: post
 ---
+
 When landscaping your yard, it is important to keep in mind how much water you will need to maintain it all. A thirsty landscape that depends on a lot of water is not only expensive; it is environmentally harmful.
 
 In California, Governor Jerry Brown ordered <a href="http://gov.ca.gov/docs/4.1.15_Executive_Order.pdf">mandatory water use reductions</a> on April 1 (and no—it’s no joke). A great way you can do your part to bring California back from this 4-year drought is to change your water use habits, and water-wise landscaping is an excellent way to reduce excessive and needless water use.

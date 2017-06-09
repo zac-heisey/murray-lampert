@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Great Uses for an Extra Room
-date: '2012-08-16T08:46:57+00:00'
-permalink: /5-great-uses-for-an-extra-room/
+date: 2012-08-16 08:46:57 Z
+permalink: "/5-great-uses-for-an-extra-room/"
+layout: post
 ---
+
 Most homeowners want to maximize the space in every room of their home, but have trouble deciding what to do with the extra space when their kids have moved out or they no longer need that home office. Conversely, some homeowners don’t have <em>enough </em>space in their home for the things they like to do, and decide to <a href="http://www.murraylampert.com/san-diego-room-additions/">build an additional room</a>. Whether you’ve got an extra room or two waiting for a purpose or you’re considering building one, here are 5 ways you might use that space.
 
 <strong>1. Home Gym</strong>

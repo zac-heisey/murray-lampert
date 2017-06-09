@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Aging in Place: 10 Concepts of Universal Design'
-date: '2013-11-08T01:20:56+00:00'
-permalink: /aging-in-place-10-concepts-of-universal-design/
+date: 2013-11-08 01:20:56 Z
+permalink: "/aging-in-place-10-concepts-of-universal-design/"
+layout: post
 ---
+
 <strong>Aging in Place: 10 Concepts of Universal Design</strong>
 
 For many, buying a home is a lifelong commitment. It takes decades to pay off a mortgage and begin enjoying a home without the hefty monthly payment attached. And as people age, they often outgrow their homes in terms of safety and quality of life, decreasing the value of this major investment. But it doesn’t have to be this way.

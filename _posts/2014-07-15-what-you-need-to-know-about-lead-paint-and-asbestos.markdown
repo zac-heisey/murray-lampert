@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What You Need to Know about Lead Paint and Asbestos
-date: '2014-07-15T08:16:31+00:00'
-permalink: /what-you-need-to-know-about-lead-paint-and-asbestos/
+date: 2014-07-15 08:16:31 Z
+permalink: "/what-you-need-to-know-about-lead-paint-and-asbestos/"
+layout: post
 ---
+
 Your home should be your safe haven, free of any risks that could harm you or your family.  Sometimes, older homes contain building materials that have since been outlawed.  In their latent condition, these materials do not pose a risk. However, when remodeling, it is imperative to take care and properly remove and dispose of hazardous materials.
 
 The two most common hazardous materials come in the form of <b>lead paint</b> and <b>asbestos</b>. Here we’ll take a look at the risks they pose and how a licensed contractor with the proper training can help you test for, remove, and dispose of these materials.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Bay Park, San Diego Home Design
-date: '2011-09-26T07:48:33+00:00'
-permalink: /bay-park-san-diego-home-design/
+date: 2011-09-26 07:48:33 Z
+permalink: "/bay-park-san-diego-home-design/"
+layout: post
 ---
+
 When asked about the community, most people’s first reactions are, “Where is Bay Park?” Although it’s mostly known for cool breezes and proximity to Downtown San Diego, Bay Park is still a growing community. Bay Park is a relatively new neighborhood in the northern area of San Diego. Built on hilly terrain, Bay Park is bordered on the North by Bay Ho, on the East by Claremont and Linda Vista, Mission Bay and Pacific Beach to the West, and Morena to the South.
 
 <img class="aligncenter" style="margin-top: 5px; margin-bottom: 5px;" src="http://www.murraylampert.com/images/gallery/bath/BathroomLaJolla.jpg" alt="" width="439" height="291" />

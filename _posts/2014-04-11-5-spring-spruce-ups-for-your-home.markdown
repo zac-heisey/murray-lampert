@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Spring Spruce-Ups for Your Home
-date: '2014-04-11T08:00:14+00:00'
-permalink: /5-spring-spruce-ups-for-your-home/
+date: 2014-04-11 08:00:14 Z
+permalink: "/5-spring-spruce-ups-for-your-home/"
+layout: post
 ---
+
 With March upon us, it’s a great time to brush off winter’s dust and take a renewed look at your <a href="http://www.murraylampert.com/san-diego-outdoor-living-space-design/">outdoor living space</a>. A good spring cleaning gives every homeowner a chance to learn about the important maintenance that keeps your home running efficiently and looking great, but it also gives you a chance to set up for the warm summer months, something we’re in no short supply of here in San Diego.
 
 Let’s take a look at a few ways you can spruce your space for spring.

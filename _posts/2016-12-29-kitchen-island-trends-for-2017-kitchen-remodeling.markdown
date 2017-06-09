@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Island Trends for 2017 Kitchen Remodeling
-date: '2016-12-29T01:49:36+00:00'
-permalink: /kitchen-island-trends-for-2017-kitchen-remodeling/
+date: 2016-12-29 01:49:36 Z
+permalink: "/kitchen-island-trends-for-2017-kitchen-remodeling/"
+layout: post
 ---
+
 There’s absolutely no evidence that kitchen islands are going to become obsolete any time soon. Apart from enhancing their aesthetic appeal, designers are now trying to include <a href="http://murraylampert.com/smart-drawers-kitchen-remodeling-san-diego">new functionalities</a>. Take a look at some of the kitchen island design trends that are likely to rule kitchen remodeling in 2017.
 <h3>Center of the Kitchen</h3>
 Open-plan kitchens are definitely on the rise, with more and more kitchens having this type of layout. This makes it possible, if not preferable, for having an imposing kitchen island as the central element. Apart from looking fantastic, it also serves a practical purpose in an open space – it connects the meal-preparation area with the dining room and allows for spontaneous social interaction.

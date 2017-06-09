@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Second Story Additions
-date: '2010-10-10T10:04:25+00:00'
-permalink: /second-story-additions/
+date: 2010-10-10 10:04:25 Z
+permalink: "/second-story-additions/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://www.murraylampert.com/san-diego-second-story-addition/"><img class="aligncenter size-full wp-image-548" title="Second Story" src="http://murraylampert.com/wp-content/uploads/2010/10/Second-Story1.jpg" alt="" width="275" height="183" /></a></p>
 With a Second Story Additions, you can add more space without sacrificing your yard and sometimes even capture a view.
 

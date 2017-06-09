@@ -1,9 +1,10 @@
 ---
-layout: post
 title: La Jolla Home Renovations
-date: '2011-06-14T05:59:27+00:00'
-permalink: /la-jolla-home-renovations/
+date: 2011-06-14 05:59:27 Z
+permalink: "/la-jolla-home-renovations/"
+layout: post
 ---
+
 La Jolla is a seaside community, occupying seven miles of coastline along the Pacific Ocean, and home to hundreds of beachside residences and a variety of businesses.
 
 <img class="alignright" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/ss/rob.jpg" alt="" width="261" height="280" /><strong>A Brief History of La Jolla</strong>

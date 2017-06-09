@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Good News for the Home Remodeling Industry
-date: '2011-02-15T14:54:24+00:00'
-permalink: /good-news-for-the-home-remodeling-industry/
+date: 2011-02-15 14:54:24 Z
+permalink: "/good-news-for-the-home-remodeling-industry/"
+layout: post
 ---
+
 The unfortunate news for the housing development market in our struggling economy is turning out to be great news for the <a href="http://www.murraylampert.com/">home remodeling</a> industry. While one industry is fighting off bankruptcy, the other is helping families who cannot afford to buy new homes by fixing up the ones they already own. If you plan to remain in one house for the next five to ten years, you are likely to make it as comfortable as possible.
 
 A recent study completed by Harvard University’s Joint Center for Housing Studies (JCHS) forecasts that “the next decade will yield solid growth and many new opportunities” for the home remodeling industry. The study describes several indicators that are pointing towards a steady increase in business for the remodeling industry.

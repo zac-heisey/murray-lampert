@@ -1,9 +1,10 @@
 ---
-layout: post
 title: INFOGRAPHIC - Murray Lampert Earns Two Customer Satisfaction Awards
-date: '2015-03-03T10:00:35+00:00'
-permalink: /murray-lampert-earns-two-customer-satisfaction-awards/
+date: 2015-03-03 10:00:35 Z
+permalink: "/murray-lampert-earns-two-customer-satisfaction-awards/"
+layout: post
 ---
+
 Murray Lampert Design, Build, Remodel is off to a great start in this new year—we’ve already received accolades for commitment to quality work and stellar customer service.
 <ul>
 	<li><strong>Better Business Bureau Torch Award</strong> – We were fortunate enough to be one of only five recipients of the Torch Award for Marketplace Ethics for San Diego, Orange, and Imperial counties. This is the fourth time Murray Lampert was honored with an award from the BBB—an organization that is synonymous with ethics and integrity.</li>

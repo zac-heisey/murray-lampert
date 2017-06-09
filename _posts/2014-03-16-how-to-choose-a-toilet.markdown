@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How To Choose A Toilet
-date: '2014-03-16T23:26:33+00:00'
-permalink: /how-to-choose-a-toilet/
+date: 2014-03-16 23:26:33 Z
+permalink: "/how-to-choose-a-toilet/"
+layout: post
 ---
+
 &nbsp;
 
 &nbsp;

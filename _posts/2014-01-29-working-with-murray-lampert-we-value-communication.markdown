@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Working With Murray Lampert: We Value Communication'
-date: '2014-01-29T09:00:20+00:00'
-permalink: /working-with-murray-lampert-we-value-communication/
+date: 2014-01-29 09:00:20 Z
+permalink: "/working-with-murray-lampert-we-value-communication/"
+layout: post
 ---
+
 There are so many ways to communicate: land lines, cell phones, fax machines, emails, text messaging, video conferencing, and more. And between spoken, written, and electronic communication, each has its place.
 
 <strong>Rethinking What Face Time Means</strong>

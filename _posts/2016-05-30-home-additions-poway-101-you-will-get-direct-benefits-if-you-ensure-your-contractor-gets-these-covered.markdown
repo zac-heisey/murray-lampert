@@ -1,10 +1,11 @@
 ---
-layout: post
 title: 'Home Additions Poway 101: You Will Get Direct Benefits if You Ensure Your
   Contractor Gets These Covered'
-date: '2016-05-30T00:54:27+00:00'
-permalink: /home-additions-poway-101-you-will-get-direct-benefits-if-you-ensure-your-contractor-gets-these-covered/
+date: 2016-05-30 00:54:27 Z
+permalink: "/home-additions-poway-101-you-will-get-direct-benefits-if-you-ensure-your-contractor-gets-these-covered/"
+layout: post
 ---
+
 <img class="wp-image-3076 size-featured-slide-thumb alignleft" src="http://murraylampert.com/wp-content/uploads/House-Plan-Home-Additions-Poway-250x360.jpg" alt="Renovation Planning - Home Additions Poway" width="250" height="360" />Home additions are by far the most popular type of home improvement projects. When compared with other <a href="http://murraylampert.com/about-murray-lampert-design-build-remodel/">design, build and remodel projects</a>, it doesn’t even have to be the most costly or time consuming, provided it is carefully planned in advance. It is not enough only to choose a <a href="http://murraylampert.com/room-additions-poway">professional home additions Poway contractor</a> – you have to hire the best in terms of quality and reliability to ensure you see immediate results.
 <h2>Why Professionals Know it Best</h2>
 <strong>They have EXPERIENCE</strong> - this is one of the biggest reasons why you should hire a professional to do your home additions. Having relevant experience can have a great impact on the outcome of the project, from the quality of work to spotting potential problems before they happen. You can actually see some of their <a href="http://murraylampert.com/room-additions-gallery/">past projects</a> and gain insight into what kind of work you might be expecting.

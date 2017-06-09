@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Reasons You Need an Architect for Home Remodeling Projects
-date: '2013-08-06T11:24:18+00:00'
-permalink: /5-reasons-you-need-an-architect-for-home-remodeling-projects/
+date: 2013-08-06 11:24:18 Z
+permalink: "/5-reasons-you-need-an-architect-for-home-remodeling-projects/"
+layout: post
 ---
+
 As <a href="http://www.cnbc.com/id/100910852">housing prices continue to rise</a>, homeowners opt to renovate current homes instead of buying new. During this process you talk with several contractors to choose the right one for the project—but how many of those contractors work closely with an architect? Even better—how many of them are design-build contractors with an in-house architect to see your project through?<img class="alignright size-large wp-image-1313" title="Murray Lampert Architect Image" src="http://www.murraylampert.com/wp-content/uploads/2013/08/Gregg-Architect-Blog-Image.jpg" alt="" width="336" height="206" />
 
 Having an architect involved on your home remodeling project from the start is a <a href="http://www.sheknows.com/home-and-gardening/articles/959865/should-i-hire-an-architect-for-my-renovation">smart choice that comes with many benefits</a>. Let’s take a look at five of them:

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Top 10 Reasons to Hire a Design-Build Contractor
-date: '2009-09-24T06:44:00+00:00'
-permalink: /top-10-reasons-to-hire-a-designbuild-contractor/
+date: 2009-09-24 06:44:00 Z
+permalink: "/top-10-reasons-to-hire-a-designbuild-contractor/"
+layout: post
 ---
+
 10. They will work within your budget.
 
 9. You know up front, with no obligation, how much your project will cost.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What Are The Top 10 Home Remodeler Red Flags?
-date: '2012-09-17T10:00:57+00:00'
-permalink: /the-top-10-home-remodeler-red-flags/
+date: 2012-09-17 10:00:57 Z
+permalink: "/the-top-10-home-remodeler-red-flags/"
+layout: post
 ---
+
 &nbsp;
 
 10.  The company doesn’t have a <a href="http://www.murraylampert.com/">website</a> or physical location or is not local.

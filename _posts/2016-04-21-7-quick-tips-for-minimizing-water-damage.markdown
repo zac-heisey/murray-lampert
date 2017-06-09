@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 7 Quick tips for minimizing water damage
-date: '2016-04-21T07:37:04+00:00'
-permalink: /7-quick-tips-for-minimizing-water-damage/
+date: 2016-04-21 07:37:04 Z
+permalink: "/7-quick-tips-for-minimizing-water-damage/"
+layout: post
 ---
+
 In an emergency situation, it’s hard to ignore that urge to DO SOMETHING RIGHT NOW! It’s part of our natural response as thinking people, we want to protect our homes and belongings from the damage that we KNOW water can cause.
 
 Regardless of your emotions it’s imperative that you <a href="http://www.superiorrestorationriverside.com/mold-reason-hire-professional-restoration-company/">do not take the DIY approach</a> to rectifying water damage. This is more out of concern for the protection of you and your home (mold is a tricky and dangerous enemy). It’s easier and better to let professionals handle the situation.

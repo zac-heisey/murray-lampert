@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Improvement Contract Requirements
-date: '2013-06-28T08:30:06+00:00'
-permalink: /home-improvement-contract-requirements/
+date: 2013-06-28 08:30:06 Z
+permalink: "/home-improvement-contract-requirements/"
+layout: post
 ---
+
 In California, contract law is very strict when it comes to home improvement. I decided to write this blog post for anyone who is considering going through the process of hiring a contractor or licensed trade professional to improve their home. In my opinion, any contractor or trade professional who does not follow the laws in California by providing you with all the mandatory forms should not be considered for your project.
 
 There are 7 documents that the state of California requires contractors provide to homeowners. They are:

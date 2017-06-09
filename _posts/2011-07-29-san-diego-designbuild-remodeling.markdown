@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Design/Build Remodeling
-date: '2011-07-29T06:41:26+00:00'
-permalink: /san-diego-designbuild-remodeling/
+date: 2011-07-29 06:41:26 Z
+permalink: "/san-diego-designbuild-remodeling/"
+layout: post
 ---
+
 <p style="text-align: center;"></p>
 
 

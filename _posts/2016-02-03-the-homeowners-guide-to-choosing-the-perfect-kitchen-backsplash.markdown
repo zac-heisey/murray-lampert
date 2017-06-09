@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Homeowner's Guide to Choosing the Perfect Kitchen Backsplash
-date: '2016-02-03T15:42:56+00:00'
-permalink: /the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/
+date: 2016-02-03 15:42:56 Z
+permalink: "/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/"
+layout: post
 ---
+
 <img class="wp-image-2882 alignright" src="http://murraylampert.com/wp-content/uploads/cantor2-1024x685.jpg" alt="cantor2" width="501" height="336" />If you're planning a kitchen remodel, it's easy to feel overwhelmed by the sheer number of decisions you
 have to make. Should you add an island? How do you want to redo the cabinets? Do you need any new appliances,
 and will they match your ideal décor? Do you want a brightly colored kitchen, or would you prefer more muted

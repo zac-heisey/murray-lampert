@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Coronado Home Renovations
-date: '2011-07-25T07:14:18+00:00'
-permalink: /coronado-home-renovations/
+date: 2011-07-25 07:14:18 Z
+permalink: "/coronado-home-renovations/"
+layout: post
 ---
+
 Coronado, often referred to as Coronado Island, is just one of the many beautiful resort cities located in San Diego County. Just a little over 5 miles south of downtown San Diego, Coronado is one of the most upscale places to live in the United States. The city is part of a peninsula connected to the mainland by a ten mile strip of land called the Silver Strand.
 
 According to the 2010 census, the city had a population of 24,697 – an increase from the 24,100 citizens reported in the 2000 census.  This resort town is probably best known for the historic Hotel Del Coronado, but the Crown City has its own rich history and culture.

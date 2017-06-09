@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Countertops - Concrete Part 10
-date: '2009-12-10T07:29:00+00:00'
-permalink: /kitchen-countertops-concrete-part-10/
+date: 2009-12-10 07:29:00 Z
+permalink: "/kitchen-countertops-concrete-part-10/"
+layout: post
 ---
+
 <div class="separator" style="clear: both; text-align: center;"><a style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="http://1.bp.blogspot.com/_7AGTcxqqYm8/Sx_BIQcGmHI/AAAAAAAAAHg/NU-FAmMSq0w/s1600-h/imagesconc.jpg"><img src="http://1.bp.blogspot.com/_7AGTcxqqYm8/Sx_BIQcGmHI/AAAAAAAAAHg/NU-FAmMSq0w/s320/imagesconc.jpg" alt="" border="0" /></a></div>
 If you are looking for a contemporary finish that you don't see all the time, concrete may be a good choice.
 

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Fall Home Maintenance Checklist
-date: '2014-10-13T13:01:07+00:00'
-permalink: /fall-home-maintenance-checklist/
+date: 2014-10-13 13:01:07 Z
+permalink: "/fall-home-maintenance-checklist/"
+layout: post
 ---
+
 After the dog days of summer have passed and before winter begins to bring chilly weather, it’s a great time to pull out the toolbox and take a look around the home to ensure everything is in proper order and ready for the next season.
 
 Take a look at our simple fall maintenance checklist to prepare your home for the seasons ahead. <img class="alignright  wp-image-2402" alt="Fall Home Maintenance Checklist" src="http://www.murraylampert.com/wp-content/uploads/mlampert.jpg" width="506" height="417" />

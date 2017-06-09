@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Take a glance through 2016 most popular bathroom remodeling designs.
-date: '2015-11-30T11:33:33+00:00'
-permalink: /take-a-glance-through-2016-most-popular-bathroom-remodeling-designs/
+date: 2015-11-30 11:33:33 Z
+permalink: "/take-a-glance-through-2016-most-popular-bathroom-remodeling-designs/"
+layout: post
 ---
+
 Bathrooms are one of the most popular remodeling area in American homes and for good reason.  An updated luxury bathroom adds value to your home and creates a beautiful, soothing place to relax after a long day.  With 2016 just around the corner, next year's remodeling trends are innovative and timeless.
 
 Modern conveniences and high-tech updates can make your bathroom the at-home-spa you've always dreamed of, but that's not all that's hot in 2016.  Bold designs, natural glamour, and classic compositions will give your bathroom the breathtaking elegance and sophisticated relaxation you deserve.

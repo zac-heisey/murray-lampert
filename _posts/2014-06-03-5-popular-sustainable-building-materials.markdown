@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Popular Sustainable Building Materials
-date: '2014-06-03T08:00:36+00:00'
-permalink: /5-popular-sustainable-building-materials/
+date: 2014-06-03 08:00:36 Z
+permalink: "/5-popular-sustainable-building-materials/"
+layout: post
 ---
+
 Asking a <a href="http://www.murraylampert.com/san-diego-green-home-construction/">green builder</a> or designer what their favorite sustainable building material is will get you a bevy of different answers. However, there are a few old standby materials that have stood the test of time, along with some new kids on the block making a name for themselves. This list is a mix of both old and new. Let’s take a look at the top five most popular sustainable building materials.
 
 [caption id="attachment_2177" align="alignright" width="324"]<a href="http://www.murraylampert.com/wp-content/uploads/Solid-Bamboo-Flooring-Private-Residence-Louisville-KY_003_1_l.jpg"><img class="wp-image-2177 " alt="Bamboo Flooring" src="http://www.murraylampert.com/wp-content/uploads/Solid-Bamboo-Flooring-Private-Residence-Louisville-KY_003_1_l.jpg" width="324" height="259" /></a> http://www.duro-design.com/img/bamboo/installs/Solid-Bamboo-Flooring-Private-Residence-Louisville-KY_003_1_l.jpg?1386894133[/caption]

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 7 Architectural Styles to Consider for Your New Home
-date: '2012-09-24T12:06:55+00:00'
-permalink: /7-architectural-styles/
+date: 2012-09-24 12:06:55 Z
+permalink: "/7-architectural-styles/"
+layout: post
 ---
+
 Home is where the heart is, so it’s nice to have a home that is at once comfortable and stylish. Like fashion, homes are made up of a whole host of interesting styles suited to various tastes to really bring out a sense of personality. If you’re building a new home from scratch, here are five architectural styles you might consider.
 
 <strong>1. Traditional Ranch-Style</strong>

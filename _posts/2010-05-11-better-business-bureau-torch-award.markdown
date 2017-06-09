@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Better Business Bureau Torch Award
-date: '2010-05-11T18:23:46+00:00'
-permalink: /better-business-bureau-torch-award/
+date: 2010-05-11 18:23:46 Z
+permalink: "/better-business-bureau-torch-award/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://murraylampert.com/wp-content/uploads/2010/05/TA2008-WINBUG-copy5.jpg"><img class="aligncenter size-medium wp-image-239" title="TA2008 WINBUG copy" src="http://murraylampert.com/wp-content/uploads/2010/05/TA2008-WINBUG-copy5-172x300.jpg" alt="" width="47" height="97" /></a><a href="http://murraylampert.com/wp-content/uploads/2010/05/TA2008-WINBUG-copy4.jpg"></a></p>
 As a strong advocate for truth in advertising and consumer support, I feel compelled to write this editorial about<a href="http://murraylampert.com/wp-content/uploads/2010/05/TA2008-WINBUG-copy3.jpg"></a> the local “Best of...” awards.  These competitions are driven by consumer votes and awards are given based on the number of votes received.  I’ve noticed that some companies are paying for advertising to generate votes while others are offering incentives like Visa gift cards in exchange for votes.  The entry guidelines do not regulate such things as multiple votes from the same source nor do they require documentable proof of claims as to why a firm deserves status as “best” in any industry or endeavor.
 

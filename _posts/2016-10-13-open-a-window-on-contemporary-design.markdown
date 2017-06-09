@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Open a Window on Contemporary Design
-date: '2016-10-13T01:52:12+00:00'
-permalink: /open-a-window-on-contemporary-design/
+date: 2016-10-13 01:52:12 Z
+permalink: "/open-a-window-on-contemporary-design/"
+layout: post
 ---
+
 If you believe the axiom that change is the only constant in life, then you may want to consider contemporary home design. Architectural design principles have evolved over the past century to reflect this aspect of life – rather than taking its cues from historic procedures or precedents, contemporary home design is rooted in the belief that a home should be a “machine for the living.”
 
 Known among architects as “contemporary,” this style places the highest importance on a thoughtfully-designed building that can change how it functions as the homeowners’ needs change over the years. Contemporary design means no opportunity for utility is overlooked, and that includes windows. Visible from both inside and out, the size, placement and function of each window is a critical factor in defining the home and its many purposes. Some guidelines to consider for incorporating contemporary style into your home include:

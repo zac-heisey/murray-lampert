@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling Nightmares Are Avoidable
-date: '2010-06-07T05:54:26+00:00'
-permalink: /home-remodeling-nightmares-are-avoidable/
+date: 2010-06-07 05:54:26 Z
+permalink: "/home-remodeling-nightmares-are-avoidable/"
+layout: post
 ---
+
 This is an excerpt of an article written byTommy Barrowdale  with of checklist to follow<a href="http://murraylampert.com/wp-content/uploads/2010/06/images.jpg"><img class="alignright size-full wp-image-288" title="images" src="http://murraylampert.com/wp-content/uploads/2010/06/images.jpg" alt="" width="110" height="135" /></a> when interviewing contractors to remodel your home:
 <div id="body">
 

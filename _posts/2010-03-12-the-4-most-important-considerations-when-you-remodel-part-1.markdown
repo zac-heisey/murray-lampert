@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 4 Important Considerations When You Remodel Part 1
-date: '2010-03-12T06:51:46+00:00'
-permalink: /the-4-most-important-considerations-when-you-remodel-part-1/
+date: 2010-03-12 06:51:46 Z
+permalink: "/the-4-most-important-considerations-when-you-remodel-part-1/"
+layout: post
 ---
+
 <strong>Quality<a href="http://murraylampert.com/wp-content/uploads/2010/03/images2.jpg"><img class="alignright size-full wp-image-91" title="images" src="http://murraylampert.com/wp-content/uploads/2010/03/images2.jpg" alt="" width="169" height="176" /></a></strong>
 
 The sweet taste of low price is quickly forgotten when quality is lacking. 

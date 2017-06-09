@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Things to Know before Tearing Walls Down in Your Home
-date: '2017-01-30T05:27:37+00:00'
-permalink: /things-to-know-before-tearing-walls-down-in-your-home/
+date: 2017-01-30 05:27:37 Z
+permalink: "/things-to-know-before-tearing-walls-down-in-your-home/"
+layout: post
 ---
+
 Many homeowners have at one point or another considered tearing down a wall to extend a narrow room, connect two rooms or simply adapt the floor to their needs. Tearing down a wall opens up a lot of design options.
 
 However, this project is not as simple as it may sound. Tearing down a wall takes a lot of planning, which is why it is best to leave this aspect of home remodel to San Diego <a href="http://murraylampert.com/final-check-before-hiring-remodeling-company-san-diego">experts you can trust</a>. There are several factors you need to consider before you bring a wall down, and in this article we will cover the basics.

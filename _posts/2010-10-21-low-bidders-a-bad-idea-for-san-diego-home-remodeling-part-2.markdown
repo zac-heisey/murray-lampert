@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Low Bidders, A Bad Idea For San Diego Home Remodeling Part 2
-date: '2010-10-21T22:02:31+00:00'
-permalink: /low-bidders-a-bad-idea-for-san-diego-home-remodeling-part-2/
+date: 2010-10-21 22:02:31 Z
+permalink: "/low-bidders-a-bad-idea-for-san-diego-home-remodeling-part-2/"
+layout: post
 ---
+
 <img src="http://murraylampert.com/wp-content/uploads/2010/10/remodeling.jpg" alt="" />
 
 <strong>Quality of Materials and Construction</strong>

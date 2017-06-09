@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Taking The Green Out Of Green Building
-date: '2010-06-18T08:04:11+00:00'
-permalink: /taking-the-green-out-of-green-building/
+date: 2010-06-18 08:04:11 Z
+permalink: "/taking-the-green-out-of-green-building/"
+layout: post
 ---
+
 <a title="Build It Green" href="http://www.builditgreen.org/" target="_blank"><img class="alignright size-medium wp-image-295" title="BIG.logo.rgb.member" alt="" src="http://murraylampert.com/wp-content/uploads/2010/06/BIG.logo_.rgb_.member-164x300.jpg" width="148" height="238" /></a>
 
 By now, most Amercians are familiar with "Going Green".  Green practices include everything from paperless offices, turning off lights to consvere energy, alternative energy, and Green Building.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling Advice and Contractor's Review
-date: '2010-02-15T08:00:00+00:00'
-permalink: /home-remodeling-advice-and-contractors-review/
+date: 2010-02-15 08:00:00 Z
+permalink: "/home-remodeling-advice-and-contractors-review/"
+layout: post
 ---
+
 <a style="clear: left; cssfloat: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/_7AGTcxqqYm8/SsGNjzHbOuI/AAAAAAAAAFg/Lgw4t_LtN2Q/s1600-h/remodelingcontractor.gif"><img src="http://2.bp.blogspot.com/_7AGTcxqqYm8/SsGNjzHbOuI/AAAAAAAAAFg/Lgw4t_LtN2Q/s320/remodelingcontractor.gif" alt="" border="0" /></a>
 <div style="text-align: left;">Remodeling a home can be as simple as changing your interior decorating scheme, or as complex as a major construction job. It can revolve around the ideas and tastes of just the homeowner and his or her spouse, or require the talents and skills of professional architects, designers and contractors. It can be a quick and painless process, or it can involve weeks or months of living in a virtual construction site – it all depends on the planning you do in advance. Planning:Key to a Successful RenovationFor simple remodeling jobs, like, for example, changing the color schemes in a room or a group of rooms, planning might be a simple task. Put together a simple list of needed supplies, block out the time, and visit the local home center for paint color charts and suggestions. Most homeowners can figure out what’s needed: paint, brushes, rollers, a tarp to protect against spills – and even one of those cute little paper hats to keep you from inadvertently changing the color of your hair. This can be a do-it-yourself project, or you might be more comfortable hiring a handyman to do all the prep work, painting and cleanup. Either way, planning for this job is relatively simple, and the successful execution of a project like this is one most homeowners can handle.</div>
 <div style="text-align: left;"><strong> </strong></div>

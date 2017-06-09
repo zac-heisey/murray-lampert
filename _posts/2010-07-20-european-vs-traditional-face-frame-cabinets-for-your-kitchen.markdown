@@ -1,9 +1,10 @@
 ---
-layout: post
 title: European vs Traditional Face Frame Cabinets For Your Kitchen
-date: '2010-07-20T20:00:04+00:00'
-permalink: /european-vs-traditional-face-frame-cabinets-for-your-kitchen/
+date: 2010-07-20 20:00:04 Z
+permalink: "/european-vs-traditional-face-frame-cabinets-for-your-kitchen/"
+layout: post
 ---
+
 What is the difference between true European cabinets and traditional American face frame style?  With European cabinets, the doors/drawer fronts are flush fully overlayed and there are no frames or styles. Here is an example:
 
 <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/"><img class="aligncenter size-full wp-image-437" title="European Kichen" src="http://murraylampert.com/wp-content/uploads/2010/07/IMG_1582.355105720_std.jpg" alt="" width="613" height="861" /></a>

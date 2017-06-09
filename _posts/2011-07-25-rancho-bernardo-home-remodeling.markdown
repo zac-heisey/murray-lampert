@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Rancho Bernardo Home Remodeling
-date: '2011-07-25T08:07:40+00:00'
-permalink: /rancho-bernardo-home-remodeling/
+date: 2011-07-25 08:07:40 Z
+permalink: "/rancho-bernardo-home-remodeling/"
+layout: post
 ---
+
 Rancho Bernardo is a master-planned community located in the northern hills of San Diego County, about 25 miles north of downtown San Diego. The community is north of Carmel Mountain Ranch, south of Escondido, and northwest of Poway.
 
 The land consists mainly of canyons and hills and features the typical shopping malls, golf courses, and office buildings you might expect. Still, this small community possesses a rich history and culture.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Salvage Yards for Your Christmas Kitchen Remodel in Escondido
-date: '2016-12-13T01:04:21+00:00'
-permalink: /salvage-yards-for-your-christmas-kitchen-remodel-in-escondido/
+date: 2016-12-13 01:04:21 Z
+permalink: "/salvage-yards-for-your-christmas-kitchen-remodel-in-escondido/"
+layout: post
 ---
+
 If you wish to boost the holiday spirit this Christmas, where better to start than your kitchen? This Christmas, we want you to fall in love with your kitchen again! Forget about cookie-cutter designer solutions – go for a creative and eco-friendly Escondido kitchen remodel by browsing through one-of-a-kind pieces in California’s salvage yards.
 
 California boasts a number of lovely salvage yards you can literally lose yourself in. Take your family out on a Christmas shopping spree, and have fun looking for unique pieces that will add a touch of magic to your kitchen! From beautiful salvaged wood for countertops and kitchen islands to vintage lighting fixtures, you are sure to find fantastic pieces at budget-friendly prices.

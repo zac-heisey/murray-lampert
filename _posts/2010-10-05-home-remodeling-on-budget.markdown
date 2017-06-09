@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling On Budget
-date: '2010-10-05T12:12:57+00:00'
-permalink: /home-remodeling-on-budget/
+date: 2010-10-05 12:12:57 Z
+permalink: "/home-remodeling-on-budget/"
+layout: post
 ---
+
 <a href="http://www.andersenwindows.com/"><img class="aligncenter size-full wp-image-540" title="Products" src="http://murraylampert.com/wp-content/uploads/2010/10/Products1.jpg" alt="" width="384" height="131" /></a><a href="http://murraylampert.com/wp-content/uploads/2010/10/Products.jpg"></a>
 
 A common practice used by many home remodeling firms is to understate the cost of items such as cabinetry, tile work, plumbing fixtures, appliances and electrical in order to undercut the competition.  When you are in the middle of construction, and it’s too late, you find out the quality of the products the contractor plans on supplying is not what you expected.   Now you are faced with a change order for the upgrades.

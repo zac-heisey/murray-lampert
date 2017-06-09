@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Before You Sign the Contract Part 2
-date: '2009-09-16T05:51:00+00:00'
-permalink: /before-you-sigh-the-contract-part-2/
+date: 2009-09-16 05:51:00 Z
+permalink: "/before-you-sigh-the-contract-part-2/"
+layout: post
 ---
+
 <a href="http://www.cslb.ca.gov/Contractors/"><img id="BLOGGER_PHOTO_ID_5382128003197538690" style="margin: 0px 0px 10px 10px; width: 189px; float: right; height: 145px; cursor: hand;" src="http://4.bp.blogspot.com/_7AGTcxqqYm8/SrEo5zZFkYI/AAAAAAAAADI/RlzRFu3zroA/s200/AnniversaryBug.gif" border="0" alt="" /></a>
 <div>These items should also be on your contract:</div>
 1. Start and end time. Example, "start" with in 7 - 10 days from permit, "commencement" described as "demolition of existing patio cover", and "completion" after "walk through and final punch list".

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home and Architecture Trends to Look out for in 2013
-date: '2013-01-09T10:31:07+00:00'
-permalink: /home-and-architecture-trends-for-2013/
+date: 2013-01-09 10:31:07 Z
+permalink: "/home-and-architecture-trends-for-2013/"
+layout: post
 ---
+
 Households are changing, and more people are choosing to reduce their use of precious resources. To meet these challenges, technological innovators are working overtime to create products to serve the new, energy-efficient, space-saving, outdoor-loving, growing family.
 
 <strong>1. Sustainability and efficiency</strong>

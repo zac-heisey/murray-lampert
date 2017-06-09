@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Final Check Before You Hire a Remodeling Company
-date: '2016-10-03T06:13:28+00:00'
-permalink: /final-check-before-hiring-remodeling-company-san-diego/
+date: 2016-10-03 06:13:28 Z
+permalink: "/final-check-before-hiring-remodeling-company-san-diego/"
+layout: post
 ---
+
 In our last article, we laid out some of the most important criteria to factor in <a href="http://murraylampert.com/find-the-best-general-contractor-san-diego">choosing the best remodeling contractor</a> for your next home improvement project. Even if you’ve already checked the company’s license and insurance policy details and BBB accreditation, there is still a number of factors that could (and sometimes should) make you go for a different remodeling company. Here’s the checklist we prepared for you.
 <h3>References</h3>
 We insisted that a license tells a reliable story about a company’s credibility. Yet, it says little about the quality of customer service and customer satisfaction. To check if the remodeling company you are about to hire has a solid track record of <a href="http://murraylampert.com/murray-lampert-earns-two-customer-satisfaction-awards/">positive customer experience</a>, check out their <a href="http://murraylampert.com/reviews/">reviews</a> on Angie’s List, Houzz, Yelp, Google Reviews, as well as Guild Quality.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Home Office Checklist: Home Additions Project for Telecommuters'
-date: '2016-06-13T07:07:33+00:00'
-permalink: /home-office-pre-construction-checklist-home-additions-la-jolla-project-for-telecommuters/
+date: 2016-06-13 07:07:33 Z
+permalink: "/home-office-pre-construction-checklist-home-additions-la-jolla-project-for-telecommuters/"
+layout: post
 ---
+
 <img class="alignright wp-image-3081 size-full" src="http://murraylampert.com/wp-content/uploads/Home-Office-Light-Home-Additions-La-Jolla.jpg" alt="Home Office Light - Home Additions La Jolla" width="500" height="333" />More and more people telecommute, meaning that there is a growing number of work-from-home job opportunities. However, working from home imposes the need of a functional home office. Home additions La Jolla experts have compiled a <strong>checklist of must-consider questions</strong> to help you decide on the type of the project that will <a href="http://murraylampert.com">give you the home office you want</a> and can afford.
 <h2>Question #1: Why do I need a separate home office?</h2>
 The answer seems only logical – because you want it, because everyone has one nowadays and because it’s really cool to have it. Nevertheless, you have to go a little bit further than that, because the reason for having your own home office can determine the type and cost of the design.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'The Dark Side to Organics: Why Choose Low-VOC Paint?'
-date: '2014-07-21T08:00:25+00:00'
-permalink: /the-dark-side-to-organics-why-choose-low-voc-paint/
+date: 2014-07-21 08:00:25 Z
+permalink: "/the-dark-side-to-organics-why-choose-low-voc-paint/"
+layout: post
 ---
+
 If you’re currently looking at paint in today’s world, you’ve likely <a href="http://www.murraylampert.com/what-you-need-to-know-about-lead-paint-and-asbestos/">heard about lead paint</a> but you've probably also run across the term VOC, which stands for volatile organic compounds. VOCs are carbon-based compounds that vaporize at room temperature and can combine with other airborne compounds to form ozone. When exposed to ozone, individuals can experience symptoms such as difficulty breathing, headaches, nausea, vomiting, nosebleeds, fatigue, shortness of breath, coughing, sore throat, asthma, and even emphysema, among other issues.
 
 [caption id="attachment_2284" align="alignright" width="320"]<a href="http://www.murraylampert.com/wp-content/uploads/paint.jpeg"><img class="size-full wp-image-2284 " alt="Low-VOC Paint" src="http://www.murraylampert.com/wp-content/uploads/paint.jpeg" width="320" height="240" /></a> http://1.bp.blogspot.com/-BICUF56HPQY/TfLMvnuk8zI/AAAAAAAAAHE/UQnXmgLXo3c/s1600/paint.jpeg[/caption]

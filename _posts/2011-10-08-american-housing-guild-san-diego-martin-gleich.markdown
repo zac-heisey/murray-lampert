@@ -1,9 +1,10 @@
 ---
-layout: post
 title: American Housing Guild San Diego Martin Gleich
-date: '2011-10-08T10:25:09+00:00'
-permalink: /american-housing-guild-san-diego-martin-gleich/
+date: 2011-10-08 10:25:09 Z
+permalink: "/american-housing-guild-san-diego-martin-gleich/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2011/10/AHG1.jpg"><img class="aligncenter size-full wp-image-934" title="American Housing Guild Home" src="http://murraylampert.com/wp-content/uploads/2011/10/AHG1.jpg" alt="American Housing Guild San Diego" width="612" height="390" /></a>
 
 I am dedicating this post to the memory of <a title="Martin Gleich" href="http://signonsandiego.com/news/2011/oct/07/martin-gleich-major-san-diego-home-builder-and-phi/">Martin "Marty" Gleich</a>, a San Diego icon who founded American Housing Guild and <a title="Guild Mortgage" href="http://guildmortgage.com/">Guild Mortgage</a>.  Mr. Gleich passed away on September 25, 2011 at the age of 87.

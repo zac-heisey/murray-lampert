@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Before You Sign the Contract
-date: '2009-09-15T10:44:00+00:00'
-permalink: /before-you-sign-the-contract/
+date: 2009-09-15 10:44:00 Z
+permalink: "/before-you-sign-the-contract/"
+layout: post
 ---
+
 When you have completed your contractor interviews, and are ready to contract, here are some things to consider and steps to take before you sign:
 
 1. Ask the contractor to provide you with proof of liability insurance.

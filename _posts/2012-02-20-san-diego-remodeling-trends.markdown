@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Remodeling Trends
-date: '2012-02-20T00:32:06+00:00'
-permalink: /san-diego-remodeling-trends/
+date: 2012-02-20 00:32:06 Z
+permalink: "/san-diego-remodeling-trends/"
+layout: post
 ---
+
 <div class="mceTemp" style="text-align: center;"><dl class="wp-caption alignright" style="width: 160px;"> <dt class="wp-caption-dt"><a href="http://www.murraylampert.com/images/gallery/ra/webb_sm.jpg"><img class=" " title="Granny Flat Poway" src="http://www.murraylampert.com/images/gallery/ra/webb_sm.jpg" alt="Casita" width="150" height="150" /></a></dt> <dd class="wp-caption-dd">Poway Casita</dd> </dl></div>
 With home values down and sales still soft in San Diego, many homeowners will look at ways to improve their existing footprint.  Even when homes start to increase in value again, many homeowners will <a href="http://money.usnews.com/money/personal-finance/articles/2011/05/19/how-more-homeowners-are-making-their-existing-homes-work">still opt to stay put</a> and remodel or add on instead of selling.
 

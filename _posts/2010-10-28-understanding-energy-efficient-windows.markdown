@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Understanding Energy Efficient Windows
-date: '2010-10-28T11:53:07+00:00'
-permalink: /understanding-energy-efficient-windows/
+date: 2010-10-28 11:53:07 Z
+permalink: "/understanding-energy-efficient-windows/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2010/10/Passivhaus_Fenster_Beispiele.png"><img class="alignleft size-medium wp-image-600" style="margin: 5px;" title="Passivhaus_Fenster_Beispiele" src="http://murraylampert.com/wp-content/uploads/2010/10/Passivhaus_Fenster_Beispiele-300x174.png" alt="" width="300" height="174" /></a>In the last few years there has been a big push for people to become more environmentally conscious and energy efficient. People are making the change in several different ways, whether it is by biking to work, buying a hybrid car, or making your home more energy efficient overall. One of the best ways to make your house more environmentally friendly is by purchasing energy efficient windows and replacing your pre-existing windows. They work to maintain and stabilize the inside climate of your home, without letting the outside climate interfere. Energy efficient windows, doors, and skylights can reduce energy bills by up to 15%. If that isn’t enough incentive, you can receive up to a $1,500 tax credit on qualified windows. (<a href="http://www.passiv.de/">Image Source</a>)
 
 There are various types and styles of energy efficient windows to consider. One thing to think about is the natural climate of where you live. Are you fending off the cold weather? Or do you need to reflect exorbitant amounts of direct sunlight? The answer to this question plays a big role in what type of window to purchase.

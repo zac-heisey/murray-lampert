@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Remodel Your Kitchen with These 6 Must-Have Features
-date: '2015-09-24T16:33:07+00:00'
-permalink: /remodel-your-kitchen-with-these-6-must-have-features-2/
+date: 2015-09-24 16:33:07 Z
+permalink: "/remodel-your-kitchen-with-these-6-must-have-features-2/"
+layout: post
 ---
+
 <strong><a href="http://murraylampert.com/wp-content/uploads/ML-Dang-Tran-Kitchen-blob.jpg"><img class="wp-image-2844 alignleft" src="http://murraylampert.com/wp-content/uploads/ML-Dang-Tran-Kitchen-blob.jpg" alt="ML-Dang-Tran Kitchen-blob" width="474" height="330" /></a></strong>You've worked hard to turn your home into something special. You love what you've accomplished, and you want to share that success with your family and friends. So, you often throw dinner parties or host holidays in your home.
 
 But recently, you've realized that your kitchen doesn't exactly feel welcoming. In fact, it looks well-worn and shabbier than you'd like.

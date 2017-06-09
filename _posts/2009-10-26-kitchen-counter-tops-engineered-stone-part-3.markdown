@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Counter Tops - Engineered Stone Part 3
-date: '2009-10-26T06:06:00+00:00'
-permalink: /kitchen-counter-tops-engineered-stone-part-3/
+date: 2009-10-26 06:06:00 Z
+permalink: "/kitchen-counter-tops-engineered-stone-part-3/"
+layout: post
 ---
+
 <div class="separator" style="clear: both; text-align: center;"><a style="clear: right; cssfloat: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="http://1.bp.blogspot.com/_7AGTcxqqYm8/SuWsI1BypiI/AAAAAAAAAGY/rXkSYQGnZtw/s1600-h/3002_1.jpg"><img src="http://1.bp.blogspot.com/_7AGTcxqqYm8/SuWsI1BypiI/AAAAAAAAAGY/rXkSYQGnZtw/s400/3002_1.jpg" border="0" alt="" /></a></div>
 Engineered stone is solid surface slabs manufactured out of quartz and made into sheets.  The most common names are Silestone and Caesarstone.
 

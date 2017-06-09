@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Earthquake Preparedness at Home
-date: '2012-09-04T10:24:37+00:00'
-permalink: /earthquake-preparedness-at-home/
+date: 2012-09-04 10:24:37 Z
+permalink: "/earthquake-preparedness-at-home/"
+layout: post
 ---
+
 Living in California, we have come to expect earthquakes from time to time. We know there is no way to predict exactly when a earthquake will hit, but we should all take steps to be prepared, know what to do to keep your family safe, and how to protect our pets and valuables.
 
 Depending on the magnitude of a quake, the water supply could be affected. It is a good idea to always have an emergency supply of bottled water on hand. Other items that should be accessible in an emergency are flash lights, candles and a radio that runs on batteries. You may want to consider a generator or battery pack to recharge cell phones. If you have pets, keeping carriers handy is also a good idea. Make sure all family members know where to find these items.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Pro's Guide to Deck Restoration
-date: '2015-05-07T10:00:56+00:00'
-permalink: /the-pros-guide-to-deck-restoration/
+date: 2015-05-07 10:00:56 Z
+permalink: "/the-pros-guide-to-deck-restoration/"
+layout: post
 ---
+
 <img class="  wp-image-2811 alignright" src="http://murraylampert.com/wp-content/uploads/Jim-Grant-process-image.jpg" alt="Jim Grant process image" width="436" height="292" />A deck is a great asset to your home and lifestyle. There’s nothing quite like enjoying an afternoon outdoors in the sunshine and fresh air, still right within reach of the comfort of home. A deck is the perfect backdrop for an outdoor paradise outfitted with your favorite outdoor furniture and colorful container garden, but if the bones of your deck could use some love before you get that far, keep reading.
 
 We’ve put together a comprehensive 3-part guide to restoring your deck so that it lasts well in the future.

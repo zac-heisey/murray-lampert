@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Cabinet Lights for Kitchen Remodeling Cardiff
-date: '2016-10-28T02:59:12+00:00'
-permalink: /kitchen-cabinet-lights-for-kitchen-remodeling-cardiff/
+date: 2016-10-28 02:59:12 Z
+permalink: "/kitchen-cabinet-lights-for-kitchen-remodeling-cardiff/"
+layout: post
 ---
+
 Cardiff homeowners have gone absolutely crazy about this kitchen remodeling trend – <strong>cabinet illumination</strong>. It all officially started when Houzz listed well-lit cabinetry as one of 2016 hottest <a href="http://www.houzz.com/ideabooks/57156953/list/kitchen-confidential-9-trends-to-watch-for-in-2016">kitchen remodeling trends</a>. On the one hand, it’s not exactly news that you can’t think about a <a href="http://murraylampert.com/remodel-your-kitchen-with-these-6-must-have-features-2/">modern kitchen remodel</a> these days without an attractive lighting design. However, the concept of lighting the area around, underneath, and even inside the kitchen cabinets started to grow in popularity only recently.
 
 What’s so good about cabinet illumination is that it ensures more than that one obvious benefit (more light). Basically, a carefully designed cabinet lighting scheme will get you more visibility in the cooking area, but also the chance to use the cabinets for decorative purposes.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Choose a Contractor for Successful Home Remodeling Part 2
-date: '2010-07-11T19:25:00+00:00'
-permalink: /how-to-choose-a-contractor-for-successful-home-remodeling-part-2/
+date: 2010-07-11 19:25:00 Z
+permalink: "/how-to-choose-a-contractor-for-successful-home-remodeling-part-2/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://www.murraylampert.com"><img class="aligncenter size-full wp-image-412" title="home_improvement_contractor" src="http://murraylampert.com/wp-content/uploads/2010/07/home_improvement_contractor.jpg" alt="" width="350" height="287" /></a></p>
 1.  Build a list of contractors to interview by asking friends, relatives, neighbors and doing online research.  Only consider companies that specialize in home remodeling.
 

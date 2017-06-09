@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Common Updates for Older Homes
-date: '2014-06-10T08:00:27+00:00'
-permalink: /common-updates-for-older-homes/
+date: 2014-06-10 08:00:27 Z
+permalink: "/common-updates-for-older-homes/"
+layout: post
 ---
+
 Older homes have a lot of charm and personality, but they can also present some problems that all the personality in the world couldn’t compensate for. This leads you down the road of updating, modernizing or even <a href="http://www.murraylampert.com/remodel/">remodeling</a>. Some problems in an older home can be quick and simple DIY fixes, while others can become costly updates. If you’ve already bought your new home, the sticker price of some of these common updates may set you back. However, if you’re starting in the market, you’ll know what to ask of your realtor, current homeowner, and contractor/inspector. Let’s look at the top five most commonly needed updates for older homes.
 
 [caption id="attachment_2185" align="alignnone" width="170"]<a href="http://www.murraylampert.com/wp-content/uploads/104295008.jpg"><img class="size-medium wp-image-2185" alt="Insulation" src="http://www.murraylampert.com/wp-content/uploads/104295008-170x114.jpg" width="170" height="114" /></a> http://www.theepochtimes.com/n2/images/stories/large/2012/11/07/104295008.jpg[/caption]

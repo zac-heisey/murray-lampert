@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Remodeling Change Order
-date: '2009-09-21T05:06:00+00:00'
-permalink: /the-change-order/
+date: 2009-09-21 05:06:00 Z
+permalink: "/the-change-order/"
+layout: post
 ---
+
 <a href="http://3.bp.blogspot.com/_7AGTcxqqYm8/Srevrisf_iI/AAAAAAAAADY/r_yLGM8YZxQ/s1600-h/construction_hat.jpg"><img id="BLOGGER_PHOTO_ID_5383965042127404578" style="margin: 0px 0px 10px 10px; width: 134px; float: right; height: 200px; cursor: hand;" src="http://3.bp.blogspot.com/_7AGTcxqqYm8/Srevrisf_iI/AAAAAAAAADY/r_yLGM8YZxQ/s200/construction_hat.jpg" border="0" alt="" /></a>
 <div>One of the biggest fears homeowners have about remodeling and contractors are change orders. Changes are a normal part of any home improvement project. A reputable contractor will not take advantage of you with <span id="SPELLING_ERROR_0" class="blsp-spelling-corrected">unmerited</span> change orders. Also, if you are presented with change orders for work not requested, do not just sign off. Most contracts state that no additional work shall be performed without a valid change order.</div>
 <div>Here are some typical situations where change orders apply:</div>

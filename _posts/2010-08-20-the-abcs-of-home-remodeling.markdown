@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The ABC's of San Diego Home Remodeling
-date: '2010-08-20T14:13:40+00:00'
-permalink: /the-abcs-of-home-remodeling/
+date: 2010-08-20 14:13:40 Z
+permalink: "/the-abcs-of-home-remodeling/"
+layout: post
 ---
+
 <strong> </strong>
 
 <strong><img title="Home Remodeling Advice" src="http://murraylampert.com/wp-content/uploads/2010/08/remodel.gif" alt="" width="490" height="125" /></strong>

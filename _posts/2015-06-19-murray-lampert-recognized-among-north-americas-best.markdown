@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Murray Lampert Recognized Among North America’s Best
-date: '2015-06-19T15:00:47+00:00'
-permalink: /murray-lampert-recognized-among-north-americas-best/
+date: 2015-06-19 15:00:47 Z
+permalink: "/murray-lampert-recognized-among-north-americas-best/"
+layout: post
 ---
+
 <p style="text-align: left;"><b><img class=" size-full wp-image-2822 alignleft" src="http://murraylampert.com/wp-content/uploads/Guildmaster01.jpg" alt="Guildmaster01" width="400" height="250" />Customer Service Leaders within the Residential Construction Industry</b></p>
 <i>GuildQuality’s 2015 Guildmaster Award Honors Murray Lampert Design, Build Remodel</i>
 

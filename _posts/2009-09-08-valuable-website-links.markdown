@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Valuable Website Links
-date: '2009-09-08T21:36:00+00:00'
-permalink: /valuable-website-links/
+date: 2009-09-08 21:36:00 Z
+permalink: "/valuable-website-links/"
+layout: post
 ---
+
 Website links for consumers:
 
 Contractors State License Board

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Holiday Home Decorating Guide
-date: '2012-11-16T09:56:40+00:00'
-permalink: /holiday-home-decorating-guide/
+date: 2012-11-16 09:56:40 Z
+permalink: "/holiday-home-decorating-guide/"
+layout: post
 ---
+
 The holidays are a very special time of year for families and friends. During the time just before Thanksgiving through to New Year's Day, there is a constant stream of celebrations and gatherings that people are hosting or attending. As soon as Thanksgiving ends, and in some cases before even then, many households start the process of getting creative with their holiday cheer. In fact, today many homes are decorated for a minimum of 5 to 6 weeks of festivities.
 
 The holidays often offer moments of creative inspiration for many homeowners, and there are many parts of a home that can be decorated for the season. The first step is to decide whether you want only the main portions of the house decorated, or if the theme should carry throughout the entire house to help guests and family members feel the cheer in every room. Added areas of creative decorating can include family rooms, <a href="http://www.murraylampert.com/san-diego-bathroom-remodeling-services/">bathrooms</a> and guestrooms, porches, and bedrooms. Once the decision is made on which rooms to decorate, then the overall plan for decorations becomes a cohesive effort that can be much easier to let pour throughout the home.

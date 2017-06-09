@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Pacific Beach, San Diego Home Design
-date: '2011-03-23T10:39:36+00:00'
-permalink: /pacific-beach-san-diego/
+date: 2011-03-23 10:39:36 Z
+permalink: "/pacific-beach-san-diego/"
+layout: post
 ---
+
 One of the most scenic and lively towns in all of San Diego is Pacific Beach, referred to as P.B. by the locals. The small beach community is just north of Mission Bay, south of La Jolla, West of Interstate 5, and East of the great Pacific Ocean. The beautiful city has a very young and exciting feel to it but also a romantic coastline and several family friendly neighborhoods. On any given day you can find the rich and famous mingling with the college kids scene right on the boardwalk. Grand and Garnet Avenue are the main streets with plenty of nightlife, restaurants, cafes, and shopping. The city is surrounded with water sports, biking/walking paths, and beautiful scenery. You can go for a jog in the morning, surf for lunch, and be sailing in the afternoon. There is never a shortage of fun activities in P.B. Whether surfing is your thing or you just enjoy the ocean breeze, Pacific Beach has something for everyone and is the center of San Diego’s youthful lifestyle. <img class="alignright  wp-image-2453" alt="smith-santos-exterior_w" src="http://www.murraylampert.com/wp-content/uploads/smith-santos-exterior_w.jpg" width="520" height="360" />
 
 Pacific Beach is an above average city in almost every statistic. The town has an estimated population of 45,000, median age of 31, and over 64% of its inhabitants have an education level of bachelor’s degree or higher. There are a total of 22,747 households and of those, 7,000 are family households. The per capita income of $31,117 is much higher than the national average of $21,587, most likely due to the higher cost of living in San Diego’s coastal region. The average household net worth is $450,349 and median home sale price is $630,000. The weather is beautiful year around with January’s average high at 65 degrees and low at 49 degrees, as well as July’s average high of 75 degrees and low of 65 degrees in July. During the hot months, you get a cool ocean breeze to keep you and your home from overheating. P.B. is located only seven miles from the San Diego International airport and three miles from University of San Diego.

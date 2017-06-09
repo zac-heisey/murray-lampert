@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Make a Small Room Look Bigger
-date: '2016-08-22T06:52:20+00:00'
-permalink: /how-to-make-a-small-room-look-bigger/
+date: 2016-08-22 06:52:20 Z
+permalink: "/how-to-make-a-small-room-look-bigger/"
+layout: post
 ---
+
 You feel you don’t have enough space in your home? You would like to <a href="http://murraylampert.com/san-diego-room-additions/">have a room addition</a> but you don’t have the budget to undertake such a project at the moment? We have a couple of tips that won’t cost you much but will <a href="http://murraylampert.com/decorating-ideas-small-spaces">add the much needed space</a>. We have compiled a list of ideas on how to make a small room look bigger, whether it’s your bathroom, kitchen, bedroom or home office.
 <h3>How to make your bathroom look bigger</h3>
 Bathrooms often feel cramped with appliances and toiletry. It may be that you simply have to <a href="http://murraylampert.com/small-bathroom-6-tips-to-make-the-space-look-bigger/">organize your bathroom better</a>. If you still cannot afford an additional or master bathroom, don’t despair. You can replace your bathtub with a <strong>walk-in shower</strong>. This type of shower is not only modern and widely popular, but also saves water and consequently reduces your utility bills.

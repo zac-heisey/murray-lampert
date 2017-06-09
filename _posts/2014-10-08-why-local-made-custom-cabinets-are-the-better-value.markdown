@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Why Local Made Custom Cabinets Are The Better Value
-date: '2014-10-08T15:30:13+00:00'
-permalink: /why-local-made-custom-cabinets-are-the-better-value/
+date: 2014-10-08 15:30:13 Z
+permalink: "/why-local-made-custom-cabinets-are-the-better-value/"
+layout: post
 ---
+
 [caption id="attachment_2378" align="alignright" width="208"]<img class="wp-image-2378   " title="For quality and value, locally crafted custom cabinets are your best choice." alt="Custom made wood wine and pantry cabinets." src="http://www.murraylampert.com/wp-content/uploads/Widder-Johnson3_W.jpg" width="208" height="200" /> Locally crafted custom cabinets.[/caption]
 
 Locally constructed custom cabinets provide more value and a shorter lead time than pre-made cabinets sold at the big box stores or home centers.

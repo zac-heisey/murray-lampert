@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 9 Tips for Greening Your Home
-date: '2014-10-27T14:18:49+00:00'
-permalink: /9-tips-for-greening-your-home/
+date: 2014-10-27 14:18:49 Z
+permalink: "/9-tips-for-greening-your-home/"
+layout: post
 ---
+
 <style><!--
 h1.mainhead, article.content h2, .sidebar h2 {margin-bottom: 2px;}
 --></style>

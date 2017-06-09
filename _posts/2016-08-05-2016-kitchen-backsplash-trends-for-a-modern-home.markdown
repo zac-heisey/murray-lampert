@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 2016 Kitchen Backsplash Trends for a Modern Home
-date: '2016-08-05T06:25:53+00:00'
-permalink: /2016-kitchen-backsplash-trends-for-a-modern-home/
+date: 2016-08-05 06:25:53 Z
+permalink: "/2016-kitchen-backsplash-trends-for-a-modern-home/"
+layout: post
 ---
+
 After our extensive <a href="http://murraylampert.com/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/">kitchen backsplash guide</a>, here comes the list of exciting 2016 kitchen backsplash trends. If you are looking for something to make your kitchen stand out without spending a lot of money, a carefully chosen backsplash is just the thing.
 
 You might be surprised to find out that less can actually be more in some cases. Check out these pro tips and design ideas.

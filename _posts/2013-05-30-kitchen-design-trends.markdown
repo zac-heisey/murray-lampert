@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 4 Trends in Kitchen Design
-date: '2013-05-30T15:00:47+00:00'
-permalink: /kitchen-design-trends/
+date: 2013-05-30 15:00:47 Z
+permalink: "/kitchen-design-trends/"
+layout: post
 ---
+
 Remodeling or redecorating your kitchen can change the entire dynamic of your home. Kitchens are no longer just a space for preparing meals and food storage; they are now hybrid spots for family gatherings, wireless work spaces and entertaining guests. Design experts say that the trends reflect this transformation. Clean, modern style complete with warm touches is a great approach to a functional and inviting kitchen.
 
 If you are considering an <a href="/san-diego-kitchen-remodeling-services/">upgrade to your kitchen</a> or if you’re building a new home, keep the following trends in mind.<img class="alignright wp-image-2753 " src="http://murraylampert.com/wp-content/uploads/kitchen-trends-1024x576.jpg" alt="Kitchen Trends" width="468" height="263" />

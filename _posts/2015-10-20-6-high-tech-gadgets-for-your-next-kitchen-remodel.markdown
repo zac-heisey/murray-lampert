@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 6 High-Tech Gadgets for Your Next Kitchen Remodel
-date: '2015-10-20T09:34:30+00:00'
-permalink: /6-high-tech-gadgets-for-your-next-kitchen-remodel/
+date: 2015-10-20 09:34:30 Z
+permalink: "/6-high-tech-gadgets-for-your-next-kitchen-remodel/"
+layout: post
 ---
+
 <p style="text-align: left;"><a href="http://murraylampert.com/wp-content/uploads/2.-Brown-Kitchen-After-2.jpg"><img class="wp-image-2848 alignright" src="http://murraylampert.com/wp-content/uploads/2.-Brown-Kitchen-After-2-1024x752.jpg" alt="2. Brown Kitchen After (2)" width="401" height="295" /></a>Whether you know it or not, your kitchen is the heart of your home. Much like a skilled chef, cook, or baker, a good kitchen has versatility and excels at multitasking.</p>
 From helping you host dinner parties to providing the perfect place to tackle times tables, your kitchen presents a multi-purpose area. With the right tools at your disposal, your kitchen becomes anything you want it to.
 

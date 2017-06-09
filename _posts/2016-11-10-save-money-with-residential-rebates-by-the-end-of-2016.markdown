@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Save Money with Residential Rebates by the End of 2016
-date: '2016-11-10T02:05:25+00:00'
-permalink: /save-money-with-residential-rebates-by-the-end-of-2016/
+date: 2016-11-10 02:05:25 Z
+permalink: "/save-money-with-residential-rebates-by-the-end-of-2016/"
+layout: post
 ---
+
 Did you know that you can actually <a href="http://murraylampert.com/what-home-improvements-are-tax-deductible">save money through various rebates</a> for energy-efficient products and appliances for your home? By purchasing and installing not only energy but also water-efficient products and appliances, you will <strong>pay less, have more money at the end of the month, enhance the value of your property and most importantly – have a healthier living environment.</strong>
 
 San Diego homeowners who are planning a home improvement project by the end of 2016 should definitely consider these rebate opportunities. Moreover, they should consult a reliable remodeling company in San Diego to see how these rebates might influence their upcoming home improvement project. Projects such as bathroom or <a href="http://murraylampert.com/2016-eco-friendly-kitchen-remodeling-ideas/">kitchen remodeling</a> are proven to boost the resale value of a home, especially if they include energy-saving fixtures and fittings.

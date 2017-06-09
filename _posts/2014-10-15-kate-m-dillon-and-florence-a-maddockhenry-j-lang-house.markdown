@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kate M. Dillon and Florence A. Maddock/Henry J. Lang House
-date: '2014-10-15T09:27:20+00:00'
-permalink: /kate-m-dillon-and-florence-a-maddockhenry-j-lang-house/
+date: 2014-10-15 09:27:20 Z
+permalink: "/kate-m-dillon-and-florence-a-maddockhenry-j-lang-house/"
+layout: post
 ---
+
 <div class="featuredp">FEATURED PROJECT</div>
 
 <img class="wp-image-2432   alignright" alt="Kate M. Dillon and Florence A. Maddock/Henry J. Lang House" src="http://www.murraylampert.com/wp-content/uploads/HistoricPlaque.jpg" width="321" height="181" /> <strong><em>Background</em></strong>

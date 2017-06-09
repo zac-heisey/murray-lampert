@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Make It Happen: A Practical Guide to Turning Your Remodeling Dream into Reality'
-date: '2013-02-05T09:04:32+00:00'
-permalink: /make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/
+date: 2013-02-05 09:04:32 Z
+permalink: "/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/"
+layout: post
 ---
+
 Making the decision to <a href="http://www.murraylampert.com/remodel/">remodel your home</a> is a major step, but there are many other steps you have to take before your dream becomes a reality. Determining your goals is the first step, followed by setting a budget and choosing a contractor.
 
 <strong>Determine Your Goals</strong>

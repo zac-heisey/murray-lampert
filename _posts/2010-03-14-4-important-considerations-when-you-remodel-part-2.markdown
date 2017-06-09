@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 4 Important Considerations When You Remodel Part 2
-date: '2010-03-14T20:47:49+00:00'
-permalink: /4-important-considerations-when-you-remodel-part-2/
+date: 2010-03-14 20:47:49 Z
+permalink: "/4-important-considerations-when-you-remodel-part-2/"
+layout: post
 ---
+
 <strong>Value                                                                          <a href="http://murraylampert.com/wp-content/uploads/2010/03/home_value1.jpg"><img class="alignright size-full wp-image-119" title="home_value" src="http://murraylampert.com/wp-content/uploads/2010/03/home_value1.jpg" alt="" width="300" height="388" /></a></strong>
 
 Price may be very important to many homeowners, but if the end result is low quality materials and poor workmanship where is the value?

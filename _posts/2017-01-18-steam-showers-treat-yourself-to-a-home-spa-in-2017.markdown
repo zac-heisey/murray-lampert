@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Steam Showers: Treat Yourself to a Home Spa in 2017'
-date: '2017-01-18T02:37:28+00:00'
-permalink: /steam-showers-treat-yourself-to-a-home-spa-in-2017/
+date: 2017-01-18 02:37:28 Z
+permalink: "/steam-showers-treat-yourself-to-a-home-spa-in-2017/"
+layout: post
 ---
+
 Holiday preparations tend to leave many homeowners exhausted and glad the season is finally over. Many choose to visit expensive spas or go away during the weekend to relax and enjoy. But what if you could bring the spa experience to your home?
 
 Steam showers are going to be a huge trend in 2017 and part of almost every bathroom remodel in San Diego. Their function is two-fold: they provide a fantastic stress-relief and bring luxury to your bathroom. A steam shower is something you are going to enjoy for years to come and not just a passing trend or a whim. Having such a powerful stress-relief in your own home can make your every single day better.

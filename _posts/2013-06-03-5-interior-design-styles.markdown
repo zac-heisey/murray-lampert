@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Interior Design Styles
-date: '2013-06-03T08:30:42+00:00'
-permalink: /5-interior-design-styles/
+date: 2013-06-03 08:30:42 Z
+permalink: "/5-interior-design-styles/"
+layout: post
 ---
+
 When was the last time you gave your home a decorating update? A HomeGoods survey found that 47 percent of Americans haven’t changed home décor in the past five years. If you are among the near-majority, a better understanding of interior design may help you know where to start when it comes to updating your home.
 
 While interior design styles are as varied as the people who create them in their homes, there are some basic elements that can help determine the feel of a particular space. Take a look at these five common types of interior design: <a href="http://murraylampert.com/wp-content/uploads/2013/05/bathroom.jpg"><img class="alignright size-full wp-image-1278" title="bathroom" alt="" src="http://murraylampert.com/wp-content/uploads/2013/05/bathroom.jpg" width="300" height="169" /></a>

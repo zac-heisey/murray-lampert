@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Cutting Down on Your Energy Bills
-date: '2010-07-26T11:20:08+00:00'
-permalink: /cutting-down-on-your-energy-bills/
+date: 2010-07-26 11:20:08 Z
+permalink: "/cutting-down-on-your-energy-bills/"
+layout: post
 ---
+
 <a href="http://www.energy.ca.gov/"><img class="aligncenter size-full wp-image-459" title="images (1)" src="http://murraylampert.com/wp-content/uploads/2010/07/images-1.jpg" alt="" width="185" height="273" /></a><a href="http://www.energy.ca.gov/"></a>
 
 <strong>Cutting your gas and electric spending is easy.  Here are a few no or low cost ways of lowering your energy bills:</strong>

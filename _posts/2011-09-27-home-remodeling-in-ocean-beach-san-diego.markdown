@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling in Ocean Beach, San Diego
-date: '2011-09-27T06:55:39+00:00'
-permalink: /home-remodeling-in-ocean-beach-san-diego/
+date: 2011-09-27 06:55:39 Z
+permalink: "/home-remodeling-in-ocean-beach-san-diego/"
+layout: post
 ---
+
 Just seven miles from Downtown San Diego, Ocean Beach is a quaint neighborhood, bordered by the San Diego River to the north, the Pacific Ocean on the west, and local streets on the east and south. Interpretations of neighborhood lines tend to vary from resident to resident. Flourishing business and development over the years has led to the laid-back, tight-knit community of Ocean Beach today.
 
 <strong>Neighborhood Facts</strong>

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Better Business Bureau San Diego
-date: '2012-03-12T11:43:38+00:00'
-permalink: /better-business-bureau-san-diego/
+date: 2012-03-12 11:43:38 Z
+permalink: "/better-business-bureau-san-diego/"
+layout: post
 ---
+
 [caption id="attachment_995" align="alignright" width="190" caption="Proud BBB Member Since 1976"]<a href="http://murraylampert.com/wp-content/uploads/2012/03/BBB1002.jpg"><img class="size-full wp-image-995" title="Better Business Bureau 1912 - 2012" src="http://murraylampert.com/wp-content/uploads/2012/03/BBB1002.jpg" alt="Better Business Bureau Centenial" width="190" height="137" /></a>[/caption]
 
 On March 7, 2012, we are being honored as one of the 100 oldest San Diego Better Business Bureau members at the <a href="http://www.thinkplaycreate.org/">Children's Museum</a>.  We rank 36 out of 100.

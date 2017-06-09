@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How Much Will My Home Remodeling Project Cost?
-date: '2013-07-01T14:33:54+00:00'
-permalink: /how-much-will-my-home-remodeling-project-cost/
+date: 2013-07-01 14:33:54 Z
+permalink: "/how-much-will-my-home-remodeling-project-cost/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://murraylampert.com/wp-content/uploads/2013/07/kitchen-remodel.jpg"><img class="size-full wp-image-1305 aligncenter" title="kitchen-remodel" alt="" src="http://murraylampert.com/wp-content/uploads/2013/07/kitchen-remodel.jpg" width="640" height="427" /></a></p>
 Asking a home remodeler how much a home remodeling project will cost is like going to a dealership and asking how much a car on the lot will cost. When buying a car, cost depends on the manufacturer, warranty, and options. With home remodeling, every project is unique due to location, size, scope, and the finishes/fixtures.<strong></strong>
 

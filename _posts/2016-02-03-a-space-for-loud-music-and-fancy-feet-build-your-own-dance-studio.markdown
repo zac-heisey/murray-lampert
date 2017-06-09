@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'A Space for Loud Music and Fancy Feet: Build Your Own Dance Studio'
-date: '2016-02-03T15:54:36+00:00'
-permalink: /a-space-for-loud-music-and-fancy-feet-build-your-own-dance-studio/
+date: 2016-02-03 15:54:36 Z
+permalink: "/a-space-for-loud-music-and-fancy-feet-build-your-own-dance-studio/"
+layout: post
 ---
+
 Have you ever dreamed about having your own ballroom or dance studio in your home? Sadly, most modern homes don't come with these specialized rooms. And you probably can't find any local manors or other houses that would have these rooms, much less afford these properties when you find them.
 
 However, even if your budget can't accommodate an entire Victorian manor house, it probably can handle an addition or renovation. And you can use that addition or renovation to build your dream ballroom on your property.

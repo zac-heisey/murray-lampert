@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Home Remodeling Galleries (including updated photos)
-date: '2014-11-14T13:08:10+00:00'
-permalink: /san-diego-home-remodeling-galleries-including-updated-photos/
+date: 2014-11-14 13:08:10 Z
+permalink: "/san-diego-home-remodeling-galleries-including-updated-photos/"
+layout: post
 ---
+
 [caption id="" align="alignleft" width="320"]<img alt="" src="http://www.murraylampert.com/wp-content/uploads/galleries.jpg" width="320" height="254" /> Home Remodel Galleries[/caption]
 
 We are very proud of the quality and value remodel work we have provided to thousands of San Diego homeowners for 40 years.  Please take a moment and check out our freshly updated galleries (more to come soon) that have new images added from recent home remodel work from all over San Diego County. As well, all of the beautiful image galleries are categorized, have easy navigation and pop-up high resolution images so you can take a closer look and get a sense of the quality craftsmanship we put into all of our customers design, build, remodel projects.

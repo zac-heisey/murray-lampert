@@ -1,10 +1,11 @@
 ---
-layout: post
 title: 'Working with Murray Lampert: Our Architectural Design and Color Rendering
   Process'
-date: '2014-01-24T09:00:42+00:00'
-permalink: /working-with-murray-lampert-our-architectural-design-and-color-rendering-process/
+date: 2014-01-24 09:00:42 Z
+permalink: "/working-with-murray-lampert-our-architectural-design-and-color-rendering-process/"
+layout: post
 ---
+
 A critical part of any home remodeling or construction project is the design development process. Keep reading to learn more about the design development phase you will experience by working with Murray Lampert Design, Build, and Remodel.
 
 <strong>Step 1: Gain a good understanding of the client’s needs and goals.<img class="alignright" alt="" src="http://www.murraylampert.com/wp-content/gallery/architectural-design/design1_page_3.png" width="336" height="224" /></strong>

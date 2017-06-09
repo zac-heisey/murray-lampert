@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Four Recent Home Remodeling Trends
-date: '2012-06-19T09:04:57+00:00'
-permalink: /four-recent-home-remodeling-trends/
+date: 2012-06-19 09:04:57 Z
+permalink: "/four-recent-home-remodeling-trends/"
+layout: post
 ---
+
 Every year brings something new to the forefront of home remodeling. Trends of this year tend to be focused on practicality as well as environmental friendliness. Let’s take a look at how homeowners are changing up flooring, organizing living spaces, finding a moment of relaxation, and conserving energy of late.
 
 <strong>Flooring</strong>

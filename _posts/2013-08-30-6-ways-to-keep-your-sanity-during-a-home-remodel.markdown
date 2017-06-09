@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 6 Ways to Keep Your Sanity during a Home Remodel
-date: '2013-08-30T09:30:15+00:00'
-permalink: /6-ways-to-keep-your-sanity-during-a-home-remodel/
+date: 2013-08-30 09:30:15 Z
+permalink: "/6-ways-to-keep-your-sanity-during-a-home-remodel/"
+layout: post
 ---
+
 Remodeling is a stressful time for homeowners that ranks right up there with moving or putting a home on the real estate market. There’s the planning, unexpected expenses, and some inconveniences that go along with remodeling projects. The value of the finished product is worth the upfront challenges, though, considering that you’ll be getting the home you desire and increasing the value of your home as well.
 
 <img class="alignright size-medium wp-image-1320" title="Murray Lampert Remodel Construction" alt="Remodel Construction" src="http://murraylampert.com/wp-content/uploads/2013/08/Murray-Lampert-Remodel-Construction-300x169.jpg" width="300" height="169" /><em>Research contractors.</em> The most expensive architect, plumber or electrician will not always be the best one, just as the least expensive will not always be the worst. The best way to decide which contractors to allow in your home is to ask for recommendations, visit consumer review sites, and use your instinct to choose the contractor you will work with best. For example, it might be important to you to hire a <a href="http://www.murraylampert.com/san-diego-green-home-construction/">green contractor</a>. Going with the right contractors will help you avoid potential headaches along the way.We understand—home remodeling can be a headache. Keep your sanity with these six tips.

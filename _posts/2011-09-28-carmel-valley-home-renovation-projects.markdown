@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Carmel Valley Home Renovation Projects
-date: '2011-09-28T06:38:59+00:00'
-permalink: /carmel-valley-home-renovation-projects/
+date: 2011-09-28 06:38:59 Z
+permalink: "/carmel-valley-home-renovation-projects/"
+layout: post
 ---
+
 <img class="alignleft" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/outdoor/OutdoorSpacePatioWalls.jpg" alt="" width="371" height="248" />Located in the northwestern corner of San Diego, Carmel Valley is a wealthy, master-planned coastal community, full of commercial office buildings, residential units, hotels, retail stores, and restaurants. Carmel Valley is bordered to the north by the North City Future Urbanizing Area and Pacific Highlands Ranch, to the east by Del Mar Mesa, to the west by the I-5 freeway and Torrey Pines, and to the south by Los Peñasquitos Canyon Preserve and Torrey Hills.
 
 <strong>Neighborhood Facts</strong>

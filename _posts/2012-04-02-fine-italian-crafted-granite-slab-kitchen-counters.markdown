@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Fine Italian Crafted Granite Slab Kitchen Counters
-date: '2012-04-02T09:10:05+00:00'
-permalink: /fine-italian-crafted-granite-slab-kitchen-counters/
+date: 2012-04-02 09:10:05 Z
+permalink: "/fine-italian-crafted-granite-slab-kitchen-counters/"
+layout: post
 ---
+
 Granite slab is the most popular materials to use for counters during <a href="http://www.murraylampert.com/san-diego-bathroom-remodeling-services/">bath</a> and <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/">kitchen remodels</a>.  Coming naturally from the earth, and mined from quarries all over the world, each piece of granite is a unique piece of art with different color movement and veining.  There are hundreds of colors to choose from, so it is easy to make your own individual statement.
 
 [caption id="attachment_1013" align="alignright" width="168" caption="Installation of Granite Slab Kitchen Counters"]<img class="size-medium wp-image-1013" title="Granite Slab Kitchen Counters" src="http://www.murraylampert.com/wp-content/uploads/2012/04/2012-03-28_13-38-40_177-150x150.jpg" alt="Custom Kitchen Remodeling With Granite Slab" width="168" height="300" />[/caption]

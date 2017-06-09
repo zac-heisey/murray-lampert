@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Five Ways to Make Your Home Your Favorite Place
-date: '2013-01-12T08:30:07+00:00'
-permalink: /how-to-make-your-home-your-favorite-place/
+date: 2013-01-12 08:30:07 Z
+permalink: "/how-to-make-your-home-your-favorite-place/"
+layout: post
 ---
+
 Close your eyes and imagine your dream house. Go through it room by room (don't forget the patio and back yard). What colors do you see? What kind of furniture is there? What do you find on the walls and the floor? You may want to write everything down, make a board using photos from magazines, or try out a free online design program. Now, think about how you can translate the feel of your perfect space into areas of where you live right now.
 
 <strong>1. Paint</strong>

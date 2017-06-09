@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Simple Ways to Improve Your Home
-date: '2013-09-09T09:00:15+00:00'
-permalink: /5-simple-ways-to-improve-your-home-2/
+date: 2013-09-09 09:00:15 Z
+permalink: "/5-simple-ways-to-improve-your-home-2/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-4_W.jpg"><img class="alignleft size-medium wp-image-1338" title="Simple Ways to Improve Your Home - Remodeling Tips" src="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-4_W-227x300.jpg" alt="Simple Ways to Improve Your Home - Remodeling Tips" width="227" height="300" /></a>Not all  home improvements are created equal. Sometimes it makes more sense to spend a  little less on a simple improvement project to add value and aesthetic beauty  to your home than to do nothing at all if you just can’t afford that <a href="/san-diego-home-remodeling-services/">home renovation</a> of your dreams right now.
 
 Here  are five simple ways to improve your home and add value while you are at it:

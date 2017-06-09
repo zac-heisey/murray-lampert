@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 3 Ways to Start Planning an Eco-friendly Remodel
-date: '2013-11-08T01:27:41+00:00'
-permalink: /3-ways-to-start-planning-an-eco-friendly-remodel/
+date: 2013-11-08 01:27:41 Z
+permalink: "/3-ways-to-start-planning-an-eco-friendly-remodel/"
+layout: post
 ---
+
 What makes a remodeling project eco-friendly? There’s no set list of criteria that will make a home remodel eco-friendly, but there are a number of ways to approach the process and the finished product with eco-friendliness in mind. An eco-friendly remodel will make the home more sustainable—decrease the size of its carbon footprint—but the way it’s done can also be responsible and with minimal impact to the environment
 
 There are three main things to keep in mind as you plan a remodel with green intentions: materials, resource consumption, and design sustainability. These three elements work together to create a sustainable, eco-friendly remodeling project.

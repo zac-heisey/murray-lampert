@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What are Home Improvement Contract Allowances?
-date: '2014-03-14T13:34:37+00:00'
-permalink: /what-are-home-improvement-contract-allowances/
+date: 2014-03-14 13:34:37 Z
+permalink: "/what-are-home-improvement-contract-allowances/"
+layout: post
 ---
+
 If you are undertaking <a href="http://www.murraylampert.com/remodel/">home remodeling</a> or construction, you must have a clear understanding of what contract allowances mean up front.
 
 <img class=" wp-image-2031 alignright" alt="Glass Mosaics" src="http://www.murraylampert.com/wp-content/uploads/2014-03-13-15.23.10-1024x576.jpg" width="338" height="190" />

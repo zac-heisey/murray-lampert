@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Point Loma, California Home Remodeling
-date: '2011-04-22T15:04:06+00:00'
-permalink: /point-loma-california/
+date: 2011-04-22 15:04:06 Z
+permalink: "/point-loma-california/"
+layout: post
 ---
+
 Point Loma, California is the small coastal town located a few miles south of Mission Bay and north of San Diego Bay. As its name implies, the city is a small peninsula that forms a point between the Pacific Ocean and San Diego Bay. Point Loma was first discovered by the Portuguese navigator Juan Rodriguez Cabrillo in 1542 and is said to be “where California began” because it was the first landing spot of any explorer. A monument commemorating Cabrillo is located at the southern tip of Point Loma and is a popular tourist attraction. Point Loma is in a prime location for living in San Diego. From the park at the far southwest tip of the city, visitors can see Tijuana, Coronado Island, and even Catalina Island, on a clear day. Residents have quick access to the I-5 and Interstate 8 freeways, the San Diego airport, and the majority of the popular sites and activities in San Diego. There are several public boat marinas, the San Diego Yacht Club, and a large naval base on the south side of the peninsula, operated by the government.
 
 The city is a part of the San Diego Unified School District and has one high school, two middle schools, seven elementary schools, and a large public charter school. The estimated population of both 92106 and 92107 zip codes was 48,285 in 2008. It is a highly educated and affluent neighborhood with a median age of 33 and average household income of $70,360. The median real estate value is $439,000 and out of the 6,828 total occupied housing units, 69% are occupied by their owners and 31% by renters. The rate of crime in Point Loma is far below the national average in almost every category, especially automobile theft. The Point Loma Nazarene University, San Diego Airport, and San Diego Padres are all within five miles of Point Loma.

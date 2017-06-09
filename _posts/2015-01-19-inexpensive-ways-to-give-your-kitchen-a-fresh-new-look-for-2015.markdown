@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Inexpensive Ways to Give Your Kitchen a Fresh New Look for 2015
-date: '2015-01-19T13:00:24+00:00'
-permalink: /inexpensive-ways-to-give-your-kitchen-a-fresh-new-look-for-2015/
+date: 2015-01-19 13:00:24 Z
+permalink: "/inexpensive-ways-to-give-your-kitchen-a-fresh-new-look-for-2015/"
+layout: post
 ---
+
 Is your kitchen beginning to show signs of the times—times that have passed, that is? Are you a century or more behind in the latest fashions? Well, you don’t have to go all-in for a complete overhaul to make a big difference. With some small, inexpensive changes you can refresh the look of your kitchen and revive your décor. Here we’ll look at some quick and easy ideas to give your kitchen a fresh new look for the 2015.
 
 

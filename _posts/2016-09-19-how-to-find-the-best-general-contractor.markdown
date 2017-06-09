@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Find the Best General Contractor
-date: '2016-09-19T04:27:33+00:00'
-permalink: /how-to-find-the-best-general-contractor/
+date: 2016-09-19 04:27:33 Z
+permalink: "/how-to-find-the-best-general-contractor/"
+layout: post
 ---
+
 Doing home improvements can turn into a complete nightmare if you don’t choose the contractor well. The last thing you want is an unreliable contractor who would turn your home upside down only to leave the job half-done. Not to mention the leak in your finances which you would be hard-pressed to repair. You need someone who is able to get the job done as planned, come hell or high water. Take a look at our checklist that will help you evaluate and choose the right contractor for your next project.
 <h3>License</h3>
 Some people may disregard a contractor’s license as a pure formality, but that’s a huge mistake! Home improvement companies that are on the list of Licensed Contractors have to adhere to strict industry standards and regulations. Moreover, once you have the contractor’s license number (#xxxxxx), you can check their license details, which include the license status, general business and bonding information, and the workers’ compensation policy, among other. You can check the license of any contractor in California <a href="https://www2.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx">here</a>.

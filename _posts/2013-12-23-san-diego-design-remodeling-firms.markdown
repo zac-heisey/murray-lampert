@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Design & Remodeling Firms
-date: '2013-12-23T08:42:31+00:00'
-permalink: /san-diego-design-remodeling-firms/
+date: 2013-12-23 08:42:31 Z
+permalink: "/san-diego-design-remodeling-firms/"
+layout: post
 ---
+
 [caption id="attachment_1873" align="alignright" width="540"]<a href="http://www.murraylampert.com/wp-content/uploads/Miller5.jpg"><img class=" wp-image-1873    " title="Architectural Design &amp; Remodeling Services" alt="Custom Design" src="http://www.murraylampert.com/wp-content/uploads/Miller5.jpg" width="540" height="303" /></a> Del Mar California Custom Designed Bathroom[/caption]
 
 We have been designing and building residential home remodeling projects since 1975, making us the oldest <a title="Murray Lampert Design, Build, Remodel" href="http://www.murraylampert.com">Design, Build and Remodeling firm in San Diego</a>.  As a 3 generation family business, I have seen major changes in the market and how home remodeling contractors have evolved.  Our success comes from continuing to expand our services without ever changing our core values which are providing innovative design, quality remodeling, reasonable pricing, great service and the best warranty in the business.

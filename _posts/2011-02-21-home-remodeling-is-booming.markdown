@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Top 10 Reasons Why Home Remodeling is Booming
-date: '2011-02-21T09:25:43+00:00'
-permalink: /home-remodeling-is-booming/
+date: 2011-02-21 09:25:43 Z
+permalink: "/home-remodeling-is-booming/"
+layout: post
 ---
+
 The housing market boom of the late 90’s and early 2000’s has completely flat lined. People are no longer able to qualify for a new home loan easily and their finances have most likely tightened during their daily lives. Instead of searching for new homes to buy in better neighborhoods, they are accepting that they will be living in their current home for many years to come. The mentality has changed from new home buying to improving the home you already live in. The <a href="http://www.murraylampert.com/">home remodeling</a> industry is making a strong comeback and there are several factors that help explain the recent and future remodeling boom. <img class="alignright  wp-image-2458" alt="Major Home Remodel" src="http://www.murraylampert.com/wp-content/uploads/major_renovations_03.jpg" width="600" height="350" />
 <ol>
 	<li><strong>Stabilizing economy</strong>: The economy may not be making a full rebound, but it seems to be stabilizing and should remain somewhat constant through the next several years. People will regain trust in the economy and feel more comfortable spending money on larger projects such as home remodels.</li>

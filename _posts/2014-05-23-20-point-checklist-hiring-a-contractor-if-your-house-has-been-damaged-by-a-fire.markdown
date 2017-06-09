@@ -1,10 +1,11 @@
 ---
-layout: post
 title: '20-Point Checklist: Hiring A Contractor If Your House Has Been Damaged By
   A Fire'
-date: '2014-05-23T10:58:16+00:00'
-permalink: /20-point-checklist-hiring-a-contractor-if-your-house-has-been-damaged-by-a-fire/
+date: 2014-05-23 10:58:16 Z
+permalink: "/20-point-checklist-hiring-a-contractor-if-your-house-has-been-damaged-by-a-fire/"
+layout: post
 ---
+
 The recent wildfires in San Diego caused damage to over 55 properties, costing the county millions of dollars. As devastating as the fires were, the community has remained steadfast and hopeful, and we’re here to do our part. For those who lost their homes and businesses in the fires, we've put together a quick checklist to help you find a reliable contractor to begin the rebuilding process. <img class="alignright" alt="20-Point Checklist: Hiring A Contractor If Your House Has Been Damaged By A Fire" src="http://www.murraylampert.com/wp-content/gallery/under-construction/Leung.jpg" width="392" height="220" />
 <ol>
 	<li>Hire a local contractor. The San Diego BIA (Building Industry Association) is an excellent source for referrals. The BIA can be reached at (858) 450-1221.</li>

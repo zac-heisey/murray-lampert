@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Home Remodeler Awards
-date: '2010-09-05T05:42:00+00:00'
-permalink: /home-remodeler-awards/
+date: 2010-09-05 05:42:00 Z
+permalink: "/home-remodeler-awards/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/about/"><img class="aligncenter size-full wp-image-505" title="images" src="http://murraylampert.com/wp-content/uploads/2010/09/images.jpg" alt="" width="333" height="151" /></a>
 
 When you evaluate contractors, what attributes are important?

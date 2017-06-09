@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Backyard Bliss: Tips for Creating a Backyard Wonderland'
-date: '2014-09-04T08:00:55+00:00'
-permalink: /backyard-bliss-tips-for-creating-a-backyard-wonderland/
+date: 2014-09-04 08:00:55 Z
+permalink: "/backyard-bliss-tips-for-creating-a-backyard-wonderland/"
+layout: post
 ---
+
 At the end of a long day, during the dog days of summer, on a wind-down weekend, or any other time that you want a little bliss in your life, your backyard can be your own private sanctuary from the world. If yours is looking a little bit more like an impenetrable jungle or an arid desert these days, here are a few tips to help you clear away the shrubs and create a perfect little paradise.
 
 <b><a href="http://www.murraylampert.com/wp-content/uploads/images.jpg"><img class="size-full wp-image-2334 alignright" alt="Nice Backyard" src="http://www.murraylampert.com/wp-content/uploads/images.jpg" width="259" height="194" /></a>Get Inspired</b>

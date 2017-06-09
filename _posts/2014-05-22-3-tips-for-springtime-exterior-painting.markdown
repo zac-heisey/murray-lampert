@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 3 Tips for Springtime Exterior Painting
-date: '2014-05-22T09:30:39+00:00'
-permalink: /3-tips-for-springtime-exterior-painting/
+date: 2014-05-22 09:30:39 Z
+permalink: "/3-tips-for-springtime-exterior-painting/"
+layout: post
 ---
+
 <img class=" wp-image-2128 alignright" alt="San Diego Frazee Paint" src="http://www.murraylampert.com/wp-content/uploads/FrazeePaint.jpg" width="343" height="191" />
 
 Spring is a great time protect your biggest investment and take a good look at your home’s exterior.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Tips to Get Your Home Holiday Ready
-date: '2013-12-15T08:00:48+00:00'
-permalink: /5-tips-to-get-your-home-holiday-ready/
+date: 2013-12-15 08:00:48 Z
+permalink: "/5-tips-to-get-your-home-holiday-ready/"
+layout: post
 ---
+
 As the holiday season comes knocking, you are likely getting your shopping lists and holiday cards ready to go. But have you given any thought to your how your home will fare during the most wonderful time of the year? Here are a few suggestions for getting your home in holiday mode:
 
 <img class=" wp-image-1846 alignright" alt="Christmas Ornaments" src="http://www.murraylampert.com/wp-content/uploads/purple_pink_christmas.jpg" width="432" height="287" />

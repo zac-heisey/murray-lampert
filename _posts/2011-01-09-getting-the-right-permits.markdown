@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Getting the Right Permits
-date: '2011-01-09T16:08:11+00:00'
-permalink: /getting-the-right-permits/
+date: 2011-01-09 16:08:11 Z
+permalink: "/getting-the-right-permits/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2011/01/building-construction-permit-image.jpg"><img class="alignleft size-full wp-image-697" style="margin: 5px;" title="building-construction-permit-image" src="http://murraylampert.com/wp-content/uploads/2011/01/building-construction-permit-image.jpg" alt="" width="240" height="180" /></a>When it comes to building or <a href="http://www.murraylampert.com/">renovating your  home</a>, you won’t get very far without the correct permits in place. It is essential that you acquire the right  ones, not only under city law, but also for you and your family’s safety. (<a href="http://www.flickr.com/photos/thetruthabout/">Image Source</a>)
 
 The city of San Diego regulates construction  for the safety of all residents, as well as for the preservation of certain  areas of this great county. Visit the <a href="http://www.sandiego.gov/development-services/index.shtml">City  of San Diego</a> website for more detailed information and  guidelines on how to obtain the appropriate permits, or contact them at <a href="mailto:dsdweb@sandiego.gov">dsdweb@sandiego.gov</a>.

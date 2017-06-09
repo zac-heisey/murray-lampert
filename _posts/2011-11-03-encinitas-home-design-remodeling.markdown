@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Encinitas Home Design and Remodeling
-date: '2011-11-03T14:49:33+00:00'
-permalink: /encinitas-home-design-remodeling/
+date: 2011-11-03 14:49:33 Z
+permalink: "/encinitas-home-design-remodeling/"
+layout: post
 ---
+
 Located just 25 miles north of San Diego proper, Encinitas is a beautiful, coastal beach city. The city’s largest industry is the growing and cultivating of ornamental flowers, particularly poinsettias. Well-known for its mild climate and surf scene, Encinitas perfectly illustrates the laidback, beach-going vibe of Southern California, great for tourists and locals alike.
 
 <img class="alignright" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/blog/Roof-Top-Deck2.jpg" alt="" width="356" height="237" />

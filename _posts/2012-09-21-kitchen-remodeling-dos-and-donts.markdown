@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Remodeling Do's and Don'ts
-date: '2012-09-21T09:14:10+00:00'
-permalink: /kitchen-remodeling-dos-and-donts/
+date: 2012-09-21 09:14:10 Z
+permalink: "/kitchen-remodeling-dos-and-donts/"
+layout: post
 ---
+
 The kitchen is one of the most important rooms in the home. A good kitchen can sell a home, which is why so many homeowners look to the kitchen to raise property value. There’s a lot of information about kitchen remodels floating around in the ether, but here are some do’s and don’ts to help get you started.
 
 <strong>1. Do make plans.</strong>

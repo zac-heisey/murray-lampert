@@ -1,9 +1,10 @@
 ---
-layout: post
 title: La Jolla Architecture
-date: '2012-03-22T11:19:40+00:00'
-permalink: /la-jolla-architecture/
+date: 2012-03-22 11:19:40 Z
+permalink: "/la-jolla-architecture/"
+layout: post
 ---
+
 The beautiful area La Jolla is one of San Diego’s more well-known and upscale neighborhoods. With its unique shops, divine eateries and beautiful coastal views, La Jolla has become widely popular for its cozy, yet classy nature.
 
 <img class="size-medium wp-image-999 alignleft" style="margin: 5px;" title="la jolla home architecture" src="http://murraylampert.com/wp-content/uploads/2012/03/la-jolla-home-architecture-300x229.jpg" alt="" width="249" height="190" />La Jolla’s humble roots began as any Southern California beach town, with individual land lots that housed speculators taking up residence for the gold rush. Many of La Jolla’s original lot owners went on to turn a pretty penny selling off these lots in later years. Here and there you can find some of the original beach bungalows of La Jolla still standing, and some of these areas retain older, more humble homes sitting on highly valuable land plots.

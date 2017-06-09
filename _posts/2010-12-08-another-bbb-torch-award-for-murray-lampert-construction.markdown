@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Another BBB Torch Award For Murray Lampert Design, Build, Remodel
-date: '2010-12-08T06:23:26+00:00'
-permalink: /another-bbb-torch-award-for-murray-lampert-construction/
+date: 2010-12-08 06:23:26 Z
+permalink: "/another-bbb-torch-award-for-murray-lampert-construction/"
+layout: post
 ---
+
 [caption id="attachment_665" align="aligncenter" width="600"]<a href="http://sandiego.bbb.org/2010-torch-awards-entry-form/"><img class="size-full wp-image-665   " title="Better Business Bureau San Diego Torch Awards" src="http://murraylampert.com/wp-content/uploads/2010/12/fbb0398da705b521a8bfb535d3b0187.jpg" alt="" width="600" height="450" /></a> Foreground, Don Thomas General Manger - Background, Gregg Cantor President/CEO with Jim Navarra of Jerome's Furniture.[/caption]
 
 On December 7, 2010, <a href="http://www.murraylampert.com">Murray Lampert Design, Build, Remodel</a> received their third <a href="http://www.sd.bbb.org">Better Business Bureau</a> Torch Award in 4 years.  The Torch Award is presented to businesses who demonstrate exemplary ethics in the  <a href="http://www.sdnn.com">San Diego Marketplace</a>.

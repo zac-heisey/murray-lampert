@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Efficiency, Sound Insulation & Curb Appeal With New Windows
-date: '2014-12-18T20:47:10+00:00'
-permalink: /efficiency-sound-insulation-curb-appeal-with-new-windows/
+date: 2014-12-18 20:47:10 Z
+permalink: "/efficiency-sound-insulation-curb-appeal-with-new-windows/"
+layout: post
 ---
+
 [caption id="attachment_2711" align="alignleft" width="537"]<img class="wp-image-2711" src="http://murraylampert.com/wp-content/uploads/Milgard-912x9222.jpg" alt="windows, replacement, vinyl, dual glazed" width="537" height="543" /> Vinyl frame, dual glazed, replacement windows[/caption]
 
 There are many benefits to installing new windows in your home. They include energy efficiency, sound insulation and curb appeal. If you have aluminum frame or wood sash windows in your home, retrofit windows are an affordable, quick and painless way to improve your living and lower your energy bills.

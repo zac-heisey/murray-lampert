@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Green Home Improvements: A Beginner''s Guide'
-date: '2013-02-22T08:30:51+00:00'
-permalink: /green-home-improvements-a-beginners-guide/
+date: 2013-02-22 08:30:51 Z
+permalink: "/green-home-improvements-a-beginners-guide/"
+layout: post
 ---
+
 So you’re new to the “Green” movement?
 
 Well, if you’ve ever turned a off a light when you left a room, opted for reusable instead of paper plates, or driven slower on the highway to get a better mileage, then you’ve contributed to the sustainability of the Earth, and that makes you green. <img class="alignright" style="margin: 5px;" alt="" src="/images/gallery/ss/lap.jpg" width="301" height="248" />

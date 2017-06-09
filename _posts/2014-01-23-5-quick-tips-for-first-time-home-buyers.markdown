@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Quick Tips for First-Time Home Buyers
-date: '2014-01-23T10:02:23+00:00'
-permalink: /5-quick-tips-for-first-time-home-buyers/
+date: 2014-01-23 10:02:23 Z
+permalink: "/5-quick-tips-for-first-time-home-buyers/"
+layout: post
 ---
+
 Like many of the best things in life, purchasing a home for the first time is extremely exciting—but also stressful. But for those that are tired of renting someone else’s space, ready for the responsibilities of homeownership, and financially prepared, buying a home is a smart decision. As you start the home buying process for the first time, consider the following tips. <a href="http://www.murraylampert.com/wp-content/uploads/Sacramento_Model_Homes.jpg"><img class=" wp-image-1881 alignright" alt="Home Remodel" src="http://www.murraylampert.com/wp-content/uploads/Sacramento_Model_Homes-1024x768.jpg" width="564" height="423" /></a>
 
 <p><strong>1. Be realistic about your budget.</strong> Major lender <a href="http://www.investopedia.com/articles/mortgages-real-estate/08/first-time-homebuyer-guide.asp">Fannie Mae recommends</a> that homeowners do not exceed 28 percent of their income on monthly housing costs, including the mortgage itself, property taxes, and insurance. You may think that you can afford a home that is more expensive, but you want to avoid becoming “house poor.” A home should be an investment that brings you happiness and not one that makes you feel financially underwater.</p>

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: For Kitchen Remodeling, Hire A General Contractor
-date: '2010-06-02T09:46:08+00:00'
-permalink: /for-kitchen-remodeling-hire-a-general-contractor/
+date: 2010-06-02 09:46:08 Z
+permalink: "/for-kitchen-remodeling-hire-a-general-contractor/"
+layout: post
 ---
+
 [caption id="attachment_282" align="alignright" width="360"]<a href="http://murraylampert.com/wp-content/uploads/2010/06/Pugh-1.jpg"><img class="size-large wp-image-282 " title="Custom Kitchen" src="http://murraylampert.com/wp-content/uploads/2010/06/Pugh-1-1024x721.jpg" alt="" width="360" height="253" /></a> Custom Cherry Wood Kitchen with Granite Counters[/caption]
 
 Do you have an outdated <span style="text-decoration: underline;">kitchen</span>, or does the layout not fit your needs?  Custom <span style="text-decoration: underline;">kitchen remodeling</span> will give you a functional new look by replacing cabinets, counters, appliances, fixtures and finishes.

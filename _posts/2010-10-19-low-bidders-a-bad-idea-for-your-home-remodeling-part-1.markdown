@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Low Bidders, A Bad Idea For Your San Diego Home Remodeling Part 1
-date: '2010-10-19T20:38:36+00:00'
-permalink: /low-bidders-a-bad-idea-for-your-home-remodeling-part-1/
+date: 2010-10-19 20:38:36 Z
+permalink: "/low-bidders-a-bad-idea-for-your-home-remodeling-part-1/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2010/10/remodeling.jpg"><img class="aligncenter size-medium wp-image-576" title="remodeling" src="http://murraylampert.com/wp-content/uploads/2010/10/remodeling-300x114.jpg" alt="" width="300" height="114" /></a>
 
 When you are ready to remodel your home, one of the most important steps that will lead to a successful project is hiring the right contractor.  Choosing a competent Home Remodeler who has the skills and expertise to orchestrate and construct your project to your satisfaction is extremely important.  With the right approach when interviewing companies, identifying the right company to hire should be easy and rewarding.

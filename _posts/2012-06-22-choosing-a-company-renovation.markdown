@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Choosing A Company For Your Next Renovation
-date: '2012-06-22T10:45:32+00:00'
-permalink: /choosing-a-company-renovation/
+date: 2012-06-22 10:45:32 Z
+permalink: "/choosing-a-company-renovation/"
+layout: post
 ---
+
 Successful home remodeling is a combination of great design and quality construction.  Choosing a <a href="http://www.murraylampert.com/">company</a> that knows how to develop a plan that enhances your existing home will help ensure you get a good value.
 
 Another advantage when you hire a professional design and remodeling firm is the building documents will be created by someone who knows construction.  The end result is an architectural pleasing, structurally sound, energy efficient project.

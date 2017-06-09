@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Energy Efficient San Diego Homes
-date: '2011-05-30T18:19:41+00:00'
-permalink: /energy-efficient-san-diego-homes/
+date: 2011-05-30 18:19:41 Z
+permalink: "/energy-efficient-san-diego-homes/"
+layout: post
 ---
+
 <p style="text-align: center;">&nbsp;</p>
 
 

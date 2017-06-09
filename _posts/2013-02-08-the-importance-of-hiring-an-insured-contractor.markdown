@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Importance of Hiring an Insured Contractor
-date: '2013-02-08T08:30:14+00:00'
-permalink: /the-importance-of-hiring-an-insured-contractor/
+date: 2013-02-08 08:30:14 Z
+permalink: "/the-importance-of-hiring-an-insured-contractor/"
+layout: post
 ---
+
 Before you hire a contractor to help you remodel your home or do any other work on your property, it’s extremely important to verify that the contractor and all his or her employees are covered by general liability insurance and workers’ compensation insurance.
 
 Insurance shouldn't be the only concern, of course. You'll also want to examine what kind of warranty your contractor will offer for his company's work and you should check out his or her reputation. Hiring an insured contractor means you're getting a real professional, not a jack-of-all-trades who might not be up to the specific task you need completed. Otherwise, it's kind of like going to the dentist and finding out that the hygienist is out and your teeth will be cleaned by someone who specializes in billings.

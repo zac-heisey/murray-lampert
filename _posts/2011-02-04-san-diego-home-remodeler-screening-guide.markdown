@@ -1,9 +1,10 @@
 ---
-layout: post
 title: San Diego Home Remodeler Screening Guide
-date: '2011-02-04T11:57:19+00:00'
-permalink: /san-diego-home-remodeler-screening-guide/
+date: 2011-02-04 11:57:19 Z
+permalink: "/san-diego-home-remodeler-screening-guide/"
+layout: post
 ---
+
 [caption id="attachment_723" align="aligncenter" width="320" caption="Home Remodeler Screening Tips"]<a href="http://www.murraylampert.com"><img class="size-full wp-image-723 " title="San Diego Home Remodeler Screening Guide" src="http://murraylampert.com/wp-content/uploads/2011/02/home1.jpg" alt="" width="320" height="320" /></a>[/caption]
 
 <strong> </strong>

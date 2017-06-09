@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Recycling When You Remodel
-date: '2012-09-26T14:29:46+00:00'
-permalink: /recycling-when-you-remodel/
+date: 2012-09-26 14:29:46 Z
+permalink: "/recycling-when-you-remodel/"
+layout: post
 ---
+
 I was interviewed today by Mark Newman, Senior Editor at <a href="http://www.remodeling.hw.net/green-policy/trash-talk.aspx">Remodeling Magazine</a> about our recycling program.  The article will be featured in the November 2012 issue of Remodeling Magazine.
 
 <strong>Here is how we implemented our system, Recycling When You Remodel: </strong>

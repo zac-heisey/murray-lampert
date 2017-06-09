@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Common Home Remodeling Mistakes
-date: '2014-06-18T08:00:17+00:00'
-permalink: /5-common-home-remodeling-mistakes/
+date: 2014-06-18 08:00:17 Z
+permalink: "/5-common-home-remodeling-mistakes/"
+layout: post
 ---
+
 If you’ve ever watched a home remodeling program, you’re well aware that potential problems can spring up. That’s why it’s important to be aware of the most common mistakes homeowners make during the remodeling process to prevent and avoid such disasters. Remodeling can be a large financial undertaking, and mistakes can double—or even triple—the original cost.
 
 <a style="color: #005580; text-decoration: underline;" href="http://www.murraylampert.com/wp-content/uploads/2011-05-26_09-05-21_451.png"><img class="size-full wp-image-2067 alignright" alt="Home Remodel" src="http://www.murraylampert.com/wp-content/uploads/2011-05-26_09-05-21_451.png" width="200" height="200" /></a>

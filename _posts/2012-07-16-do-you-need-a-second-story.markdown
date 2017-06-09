@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Do You Need a Second Story?
-date: '2012-07-16T10:27:05+00:00'
-permalink: /do-you-need-a-second-story/
+date: 2012-07-16 10:27:05 Z
+permalink: "/do-you-need-a-second-story/"
+layout: post
 ---
+
 Many people are outgrowing the space in their homes only to find that larger homes are more costly and selling their old home is difficult given the current market trends. Adding a <a href="http://www.murraylampert.com/san-diego-second-story-addition/">second story</a> to your home instead of relocating can increase the square footage substantially without taking away from your outdoor living space. Here are a few questions you should ask yourself before deciding if you should look into building that second story onto your home.<strong> </strong>
 
 <strong>Do You Love Your Existing Neighborhood?</strong><strong><a href="http://murraylampert.com/wp-content/uploads/2012/07/Remodel.jpg"><img class="size-medium wp-image-1104 alignright" title="Remodel" src="http://murraylampert.com/wp-content/uploads/2012/07/Remodel-300x206.jpg" alt="" width="300" height="206" /></a></strong><strong> </strong>

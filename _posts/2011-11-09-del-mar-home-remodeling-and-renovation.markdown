@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Del Mar Home Remodeling and Renovation
-date: '2011-11-09T14:47:25+00:00'
-permalink: /del-mar-home-remodeling-and-renovation/
+date: 2011-11-09 14:47:25 Z
+permalink: "/del-mar-home-remodeling-and-renovation/"
+layout: post
 ---
+
 A small, upscale beach community, Del Mar is located in San Diego County, right on the coast of the Pacific Ocean. Appropriately, the name Del Mar is Spanish for “of the sea” or “by the sea.” The community is well-known as home to the Del Mar Fairgrounds, which hosts the Del Mar Racetrack during the summer as well as the San Diego County Fair.
 
 <img class="alignright" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/blog/La-Jolla-Remodel.jpg" alt="" width="318" height="473" /><strong>Facts About Del Mar</strong>

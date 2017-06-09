@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Meaning of Change Orders in Home Remodeling
-date: '2014-03-27T08:00:19+00:00'
-permalink: /the-meaning-of-change-orders-in-home-remodeling/
+date: 2014-03-27 08:00:19 Z
+permalink: "/the-meaning-of-change-orders-in-home-remodeling/"
+layout: post
 ---
+
 Change order, agreement for changes, additional work authorization—whatever a <a href="http://www.murraylampert.com/what-are-home-improvement-contract-allowances/">home improvement</a> contractor calls it, they are one of homeowners’ biggest fears when <a href="http://www.murraylampert.com/remodel/">remodeling their homes</a>.<a href="http://www.murraylampert.com/wp-content/uploads/D.P-Design.jpg"><img class="wp-image-2043 alignright" alt="Change Order" src="http://www.murraylampert.com/wp-content/uploads/D.P-Design.jpg" width="327" height="430" /></a>
 
 There are different types of change orders, some due to unforeseen circumstances and others due to owner requested changes or upgrades.

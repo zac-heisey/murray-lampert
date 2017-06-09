@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Kitchen Counters - Soapstone Part 8
-date: '2009-11-20T07:54:00+00:00'
-permalink: /kitchen-counters-soapstone-part-8/
+date: 2009-11-20 07:54:00 Z
+permalink: "/kitchen-counters-soapstone-part-8/"
+layout: post
 ---
+
 <div class="separator" style="clear: both; text-align: center;"><a style="clear: right; cssfloat: right; float: right; margin-bottom: 1em; margin-left: 1em;" href="http://3.bp.blogspot.com/_7AGTcxqqYm8/Swa5rRDJHHI/AAAAAAAAAHI/YyQZZw-uRnE/s1600/images.jpg"><img src="http://3.bp.blogspot.com/_7AGTcxqqYm8/Swa5rRDJHHI/AAAAAAAAAHI/YyQZZw-uRnE/s400/images.jpg" border="0" alt="" /></a></div>
 Soapstone ages nicely and tiny scratches from normal use develop into a patina like fine sliverware. 
 

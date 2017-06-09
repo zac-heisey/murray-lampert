@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Ways to Get Your Home Ready for Summer
-date: '2013-04-05T08:30:10+00:00'
-permalink: /5-ways-to-get-your-home-ready-for-summer/
+date: 2013-04-05 08:30:10 Z
+permalink: "/5-ways-to-get-your-home-ready-for-summer/"
+layout: post
 ---
+
 Summer is just around the corner. While the sun’s rays make a more prominent appearance in your day, your home may not be as ready for the change of season as you are. Here are five ways you can ready your home for the summer to ensure your comfort all season. <img class="alignright" src="http://www.murraylampert.com/images/gallery/outdoor/stonekitch.jpg" alt="" width="350" height="233" />
 
 <strong>1. Install an outdoor kitchen.</strong>

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What Goes into a Home Remodel?
-date: '2014-04-21T08:00:15+00:00'
-permalink: /what-goes-into-a-home-remodel/
+date: 2014-04-21 08:00:15 Z
+permalink: "/what-goes-into-a-home-remodel/"
+layout: post
 ---
+
 The <a href="http://www.murraylampert.com/remodel/">home remodeling</a> process can be both an exciting and a daunting task. The only way to stay stress-free, on schedule, and within budget is to know what to expect and make a plan. Keep reading to get some insight about the steps that are involved in a home remodel.
 
 <strong>Planning</strong>

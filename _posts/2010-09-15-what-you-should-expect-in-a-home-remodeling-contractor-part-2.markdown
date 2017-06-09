@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What You Should Expect in a Home Remodeling Contractor Part 2
-date: '2010-09-15T14:09:05+00:00'
-permalink: /what-you-should-expect-in-a-home-remodeling-contractor-part-2/
+date: 2010-09-15 14:09:05 Z
+permalink: "/what-you-should-expect-in-a-home-remodeling-contractor-part-2/"
+layout: post
 ---
+
 <strong><a href="http://www.murraylampert.com/about/"><img class="aligncenter size-full wp-image-517" title="500_1190239443_homeimprovement_ca" src="http://murraylampert.com/wp-content/uploads/2010/09/500_1190239443_homeimprovement_ca1.jpg" alt="" width="500" height="375" /></a></strong>
 
 <strong>Honesty.</strong>  An honest home remodeler is one who admits when he doesn’t have an answer to your questions and does the research.  It is important that you trust your builder and feel confident that he is detail oriented.  Everything should be clearly written and thoroughly understood up front.

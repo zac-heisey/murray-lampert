@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Choose a Contractor for Successful Home Remodeling
-date: '2010-06-30T07:15:34+00:00'
-permalink: /how-to-choose-a-contractor-for-sucessful-home-remodeling/
+date: 2010-06-30 07:15:34 Z
+permalink: "/how-to-choose-a-contractor-for-sucessful-home-remodeling/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com"><img class="alignright" title="Home Remodeling" src="http://murraylampert.com/wp-content/uploads/2010/06/images1.jpg" alt="" width="125" height="83" /></a>
 
 I have been a <span style="text-decoration: underline;">contractor</span> for over 25 years, always living by honesty, integrity, transparency, and full disclosure.

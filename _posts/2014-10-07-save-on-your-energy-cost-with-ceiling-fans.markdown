@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Save On Your Energy Cost with Ceiling Fans
-date: '2014-10-07T10:26:09+00:00'
-permalink: /save-on-your-energy-cost-with-ceiling-fans/
+date: 2014-10-07 10:26:09 Z
+permalink: "/save-on-your-energy-cost-with-ceiling-fans/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/wp-content/uploads/fans.jpg"><img class="size-full wp-image-2370 alignleft" alt="Save On Your Energy Cost with Ceiling Fans" src="http://www.murraylampert.com/wp-content/uploads/fans.jpg" width="200" height="200" /></a>Did you know that ceilings fans can cut down on your energy costs year round? Not only can ceiling fans reduce your power bill, they provide comfort in your home and make a great design statement.
 
 If used properly, you can realize up to 45 percent energy savings by installing ceiling fans in your home. Many homeowners are unaware of how practical and affordable ceiling fans can be.

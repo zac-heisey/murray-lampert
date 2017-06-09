@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Live Remodeling By Murray Lampert Design, Build, Remodel San Diego Part 2
-date: '2010-08-07T19:27:49+00:00'
-permalink: /live-remodeling-by-murray-lampert-construction/
+date: 2010-08-07 19:27:49 Z
+permalink: "/live-remodeling-by-murray-lampert-construction/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/gallery/"><img class="aligncenter size-full wp-image-472" title="Live Remodel Blog" src="http://murraylampert.com/wp-content/uploads/2010/08/Live-Remodel-Blog.png" alt="" width="1024" height="310" /></a>
 
 Murray Lampert Design, Build, Remodel recently added a new feature called Live Remodel to their website <a href="http://www.murraylampert.com">www.murraylampert.com</a>.  Click on Gallery and then Live Remodel to watch a major home renovation from demolishion to completion.

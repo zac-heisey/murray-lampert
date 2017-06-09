@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Economics of Solar Energy
-date: '2013-06-26T17:06:48+00:00'
-permalink: /the-economics-of-solar-energy/
+date: 2013-06-26 17:06:48 Z
+permalink: "/the-economics-of-solar-energy/"
+layout: post
 ---
+
 <strong>Written by Ted Torre-Bueno</strong>
 <em>President of Empowered Energy Solutions</em>
 

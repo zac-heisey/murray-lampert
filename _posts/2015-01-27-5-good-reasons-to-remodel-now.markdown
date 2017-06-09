@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Good Reasons to Remodel Now
-date: '2015-01-27T09:00:38+00:00'
-permalink: /5-good-reasons-to-remodel-now/
+date: 2015-01-27 09:00:38 Z
+permalink: "/5-good-reasons-to-remodel-now/"
+layout: post
 ---
+
 The economy is improving, property values are increasing, home improvement financing is more readily available and gas prices are low, all creating the most consumer confidence since 2008.
 <img class="alignright size-full wp-image-2741" src="http://murraylampert.com/wp-content/uploads/20141231_131123.jpg" alt="5 Reasons to Remodel Your Home Now" width="450" height="310" />
 2015 should be a huge year for home <a href="http://murraylampert.com/remodel/" target="_blank">remodeling</a> and construction.  There have been many homeowners on the fence for quite some time, who are in need of kitchen remodeling, <a title="San Diego Room Additions" href="http://murraylampert.com/san-diego-room-additions/" target="_blank">additional space</a> or major renovations.

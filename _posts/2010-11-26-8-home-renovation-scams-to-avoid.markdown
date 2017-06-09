@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 8 Home Renovation Scams to Avoid
-date: '2010-11-26T06:00:49+00:00'
-permalink: /8-home-renovation-scams-to-avoid/
+date: 2010-11-26 06:00:49 Z
+permalink: "/8-home-renovation-scams-to-avoid/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2010/11/stack-of-benjamins.jpg"><img class="size-full wp-image-647 alignleft" style="margin: 5px;" title="stack-of-benjamins" src="http://murraylampert.com/wp-content/uploads/2010/11/stack-of-benjamins.jpg" alt="" width="280" height="186" /></a>Scam artists are always thinking of new ways to squeeze more money out of honest people and run away without doing any work. Being the victim of such a crime is a horrible experience and you can prevent an incident by knowing in advance what the current home renovation scams are and avoid them all together. Here are eight well known scams that you should watch out for. (<a href="http://www.flickr.com/photos/amagill/">Image Source</a>)
 
 <strong>Payment First, Work Later</strong>: A true sign of a scam is when the contractor asks for payment upfront before he has done any of the work. Although it sounds like an obvious rip-off, many people are caught up in the heat of the moment and will end up agreeing to pay in full for the job before construction has begun. There is a very high chance that the person will take the money and run. Unless you know the guy personally, close the door on them and find a reputable contractor to bid on the job.

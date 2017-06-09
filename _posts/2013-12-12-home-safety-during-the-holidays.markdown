@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Safety During the Holidays
-date: '2013-12-12T08:00:58+00:00'
-permalink: /home-safety-during-the-holidays/
+date: 2013-12-12 08:00:58 Z
+permalink: "/home-safety-during-the-holidays/"
+layout: post
 ---
+
 The Holidays are times for celebrating, but should also be approached with care. Protect your home and keep your family safe this season by following these tips:
 
 <a style="color: #005580; text-decoration: underline;" href="http://www.murraylampert.com/wp-content/uploads/Clifton_Mill_Christmas_20051.jpg"><img class="wp-image-1843 alignright" alt="Christmas Lights" src="http://www.murraylampert.com/wp-content/uploads/Clifton_Mill_Christmas_20051.jpg" width="400" height="300" /></a>

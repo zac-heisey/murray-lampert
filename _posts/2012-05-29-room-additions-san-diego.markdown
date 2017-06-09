@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Room Additions San Diego
-date: '2012-05-29T09:39:28+00:00'
-permalink: /room-additions-san-diego/
+date: 2012-05-29 09:39:28 Z
+permalink: "/room-additions-san-diego/"
+layout: post
 ---
+
 As the economy continues to improve, more homeowners who need additional space for their growing families, or just want to improve their quality of life, will be ready for room additions.
 
 A design and remodeling firm, also know as <a href="http://www.murraylampert.com/san-diego-design-build-contractors/">"design/build"</a>, can handle the entire project under one umbrella, and it is very affordable.  Depending on the square footage, and if there is a bathroom, prices start at approximately $35,000.

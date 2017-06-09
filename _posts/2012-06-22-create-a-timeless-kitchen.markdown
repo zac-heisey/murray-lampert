@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Ways to Create a Timeless Kitchen
-date: '2012-06-22T13:42:33+00:00'
-permalink: /create-a-timeless-kitchen/
+date: 2012-06-22 13:42:33 Z
+permalink: "/create-a-timeless-kitchen/"
+layout: post
 ---
+
 There are many elements of <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/">kitchen remodeling</a> that make kitchens feel timeless rather than trendy. The wall color, cabinet design, flooring, and counter tops that are the popular trends of today might not stand the test of time. Because trends are just that, a passing popularity, it’s best to choose neutral/natural colors and materials because they always come back in style and can be easily updated or stylized with accent design elements.
 
 <strong>Natural Materials</strong>

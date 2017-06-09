@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Designers For San Diego Home Remodeling and Home Construction
-date: '2010-11-16T15:02:16+00:00'
-permalink: /designers-for-san-diego-home-remodeling-and-home-construction/
+date: 2010-11-16 15:02:16 Z
+permalink: "/designers-for-san-diego-home-remodeling-and-home-construction/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://www.murraylampert.com/san-diego-design-build-contractors/"><img class="aligncenter size-large wp-image-627" title="044849fhg" src="http://murraylampert.com/wp-content/uploads/2010/11/044849fhg5-1024x643.jpg" alt="" width="598" height="346" /></a></p>
 <span style="font-size: 13.2px;">For <a href="http://www.murraylampert.com/tips/remodeling_faqs.php">home remodeling</a> or home construction projects, are you better off hiring an <a href="http://www.murraylampert.com/san-diego-home-design-serivces/">architect</a>, designer or design build contractor?</span>
 

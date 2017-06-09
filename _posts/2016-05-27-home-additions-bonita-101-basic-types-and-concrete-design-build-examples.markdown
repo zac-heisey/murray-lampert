@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Home Additions Bonita: Types and Design-Build Examples'
-date: '2016-05-27T00:48:17+00:00'
-permalink: /home-additions-bonita-101-basic-types-and-concrete-design-build-examples/
+date: 2016-05-27 00:48:17 Z
+permalink: "/home-additions-bonita-101-basic-types-and-concrete-design-build-examples/"
+layout: post
 ---
+
 <img class="wp-image-3074 alignright" src="http://murraylampert.com/wp-content/uploads/Sun-Room-Home-Additions-Bonita.jpg" alt="Sun Room - Home Additions Bonita" width="500" height="333" />As the name itself says, Bonita is simply beautiful. You like living here, your family likes living here, and for many good reasons. You have made a perfect little nest for yourself and your loved ones. Life is good; there is not a single cloud in your Bonita sky. But what if your ideal place starts to feel a bit cramped? There is stuff piling all over the place, and you just feel you desperately need more space. You don’t need to move – a professional <a href="http://murraylampert.com/room-additions-bonita">home additions Bonita</a> service is just what you need!
 
 Now, to make the best of it and make sure you have made a sound investment, you need to know two things: what you are doing and why you are doing it. More specifically, you need to know what type of home addition you need and why you need it. This guide aims to inform you and help you make the best choice. That said, let’s get started.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Winterizing Your Outdoor Spaces
-date: '2012-10-30T13:29:39+00:00'
-permalink: /winterizing-your-outdoor-spaces/
+date: 2012-10-30 13:29:39 Z
+permalink: "/winterizing-your-outdoor-spaces/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/wp-content/uploads/outdoorspace.jpg"><img class=" wp-image-2445 alignright" src="http://www.murraylampert.com/wp-content/uploads/outdoorspace.jpg" alt="Winterize your outdoor space" width="600" height="338" /></a>With winter fast approaching, autumn is a great time to prepare your yard for the coming winter. Check out our tips for preparing your lawn, garden, and <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/">outdoor kitchen</a> for chillier weather.
 
 <strong>The Lawn</strong>

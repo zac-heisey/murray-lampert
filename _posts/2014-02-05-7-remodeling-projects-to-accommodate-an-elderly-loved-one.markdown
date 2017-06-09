@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 7 Remodeling Projects to Accommodate an Elderly Loved One
-date: '2014-02-05T09:00:35+00:00'
-permalink: /7-remodeling-projects-to-accommodate-an-elderly-loved-one/
+date: 2014-02-05 09:00:35 Z
+permalink: "/7-remodeling-projects-to-accommodate-an-elderly-loved-one/"
+layout: post
 ---
+
 If you are preparing to have an elderly parent, grandparent, or other loved one live with you, you have to take care of the obvious things, like where he or she will sleep and how to fit their dietary restrictions into the weekly family dinner menu. But it’s also important to make sure they are comfortable and safe in their new home too.
 
 To ensure your loved one has an easy time getting around your home, using everyday appliances, and generally staying safe, consider updating your home with the principals of universal design in mind. The goal in universal design is to make buildings and other spaces easily accessible to all people, including the elderly and people with disabilities.

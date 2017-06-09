@@ -1,9 +1,10 @@
 ---
-layout: post
 title: INFOGRAPHIC - 5 Questions to Ask Yourself before Undergoing a Home Remodel
-date: '2014-06-26T08:00:45+00:00'
-permalink: /5-questions-to-ask-yourself-before-undergoing-a-home-remodel/
+date: 2014-06-26 08:00:45 Z
+permalink: "/5-questions-to-ask-yourself-before-undergoing-a-home-remodel/"
+layout: post
 ---
+
 <p>[caption id="attachment_2203" align="alignright" width="395"]<a style="color: #005580; text-decoration: underline;" href="http://www.murraylampert.com/wp-content/uploads/Face-with-questions.jpg"><img class=" wp-image-2203 " alt="Questions to Ask Youtself" src="http://www.murraylampert.com/wp-content/uploads/Face-with-questions-1024x599.jpg" width="395" height="230" /></a> http://mirkogosch.com/wp-content/uploads/2010/05/Face-with-questions.jpg[/caption]</p>
 <p>Home remodeling takes time, money, a vision, and perseverance to pull off successfully. So before you embark on what could become an epic journey through the trials and tribulations of homeownership and remodeling, ask yourself these five questions first.</p>
 <p><b>Can I afford it?</b></p>

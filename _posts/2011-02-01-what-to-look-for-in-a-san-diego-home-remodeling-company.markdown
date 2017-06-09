@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What To Look For In A San Diego Home Remodeling Company?
-date: '2011-02-01T13:02:08+00:00'
-permalink: /what-to-look-for-in-a-san-diego-home-remodeling-company/
+date: 2011-02-01 13:02:08 Z
+permalink: "/what-to-look-for-in-a-san-diego-home-remodeling-company/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2011/01/SCAN1213_000.jpg"><img class="alignleft size-medium wp-image-719" style="margin-bottom: 10px; margin-right: 10px;" title="SCAN1213_000" src="http://murraylampert.com/wp-content/uploads/2011/01/SCAN1213_000-300x160.jpg" alt="" width="300" height="160" /></a>A recent article written by one of our <a href="http://www.sdhg.net/">San Diego Remodeling</a> competitors states that if a company offers a free design, you will get what you pay for, and also claims that the fees are hidden in the overall cost.  This makes no sense, since many design/build contractors have their own licensed architect on staff, the homeowner is under no obligation, and a firm price including all fees is quoted up front.
 
 In the same article, this <a href="http://www.sandiego.com">San Diego Home Remodeling</a> company claims that they provide specific costs for six different concepts at the first meeting with clients.  It is obvious that the homeowner pays for that in the price of construction.  Do you really need 6 different designs?  If the contractor listens to your needs and budget, a well developed plan will be presented to you the first time. You will also have the opportunity to actively contribute to any modifications

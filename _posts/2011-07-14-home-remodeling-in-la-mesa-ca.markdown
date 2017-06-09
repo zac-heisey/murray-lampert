@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling in La Mesa, CA
-date: '2011-07-14T07:16:41+00:00'
-permalink: /home-remodeling-in-la-mesa-ca/
+date: 2011-07-14 07:16:41 Z
+permalink: "/home-remodeling-in-la-mesa-ca/"
+layout: post
 ---
+
 La Mesa is a city in San Diego County and is inland, about twelve miles east of the Pacific Ocean. Because of this distance from the coast, temperatures are generally warmer and dryer than the weather that people might traditionally associate with San Diego.
 
 The city is bordered on the west and north by the city of San Diego, Spring Valley and Lemon Grove on the south, and El Cajon on the east.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Scripps Ranch, CA Home Renovations
-date: '2011-05-24T07:13:18+00:00'
-permalink: /scripps-ranch-ca-home-renovations/
+date: 2011-05-24 07:13:18 Z
+permalink: "/scripps-ranch-ca-home-renovations/"
+layout: post
 ---
+
 San Diego has several different regions and communities, some coastal and others far inland. If you move to San Diego, you can choose a cool coastal breeze or a hot desert landscape. But, there is one specific area where you can have the best of both worlds, Scripps Ranch. The city is smack dab in the middle of San Diego County and has a climate that is not too hot and never too cold. It is not a mountain town that freezes over or a desert landscape full of cacti. In fact, the city is famous for its abundance of shady Eucalyptus trees, popular lake, and numerous annual events that bring the community together. Residents can go boating and fishing in the Miramar Reservoir which provides a fun alternative to driving out to the famous San Diego beaches that are only 20 minutes away. Scripps Ranch is such an attractive place to live that even members of the NFL own homes in the area.
 
 <img class="alignleft" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/kitch/filer.jpg" alt="" width="242" height="179" />Scripps Ranch is located just east of Interstate 15, north of the Miramar Air Force Base, and south of the city of Poway. In a 30 minute or less drive, residents can be downtown, at the beach, in the mountains, or even in wine country. The approximate population is 32,476 but the city still feels like a small town community. There are four elementary schools, one junior high school, and one high school in Scripps Ranch, all of which are high performing institutions. The area is primarily residential and is very family friendly. The majority of the homes in the area have between two and four bedrooms and the median income is $124,438. Seventy-eight percent of the households are family households and the crime rates are significantly lower than the rest of the state and country, making Scripps Ranch a great place to raise a family or retire.

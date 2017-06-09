@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Design Build vs Hiring an Architect
-date: '2009-09-01T10:17:00+00:00'
-permalink: /design-build-vs-hiring-an-architect/
+date: 2009-09-01 10:17:00 Z
+permalink: "/design-build-vs-hiring-an-architect/"
+layout: post
 ---
+
 Design-Build brings the profession of architectural design together with construction. The unique Murray Lampert Design – Build system engages you with our staff architect in the development of your design.
 The advantage of design – build remodeling with Murray Lampert is our ability to develop a plan within your budget that transitions smoothly through the permit process to construction so your project completes on time.
 Combining the design and construction functions will save you time, provide more value and a better finished product tailored to your needs.

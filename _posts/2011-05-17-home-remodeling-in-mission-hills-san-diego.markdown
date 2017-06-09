@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Home Remodeling in Mission Hills, San Diego
-date: '2011-05-17T13:45:17+00:00'
-permalink: /home-remodeling-in-mission-hills-san-diego/
+date: 2011-05-17 13:45:17 Z
+permalink: "/home-remodeling-in-mission-hills-san-diego/"
+layout: post
 ---
+
 One of the most quaint cities in San Diego County is Mission Hills. Perfectly situated south of the San Diego River, north of downtown, and overlooking the scenic old town and San Diego Bay, residents of Mission Hills have easy access to everything Southern California has to offer. It is easily one of the most desirable places to live in San Diego County for its location, architectural design, and strong community. There are several public and private schools in the area and multiple universities within a 10 minute drive. Residents in the area have access to mass transportation just down the hill in Old Town on the Coaster, Amtrak, and Trolley lines. From Mission Hills, you can quickly get to the 5 freeway, downtown, North County and multiple beaches. Next door, Old Town offers fine Mexican cuisine and shopping.
 
 <img class="alignleft  wp-image-2460" alt="walcher8" src="http://www.murraylampert.com/wp-content/uploads/walcher8.jpg" width="400" height="300" />Mission Hills has a relatively small population compared to the densely populated areas surrounding it. The city has just over 30,000 residents as of the 2000 U.S. Census. The inhabitants are well educated, affluent, and predominately Caucasian. There crime rates are much lower in the Mission Hills residential area than nearby downtown and the county as a whole. The neighborhood is family friendly but has a smaller average household size than the national average. The median age is 39.5 years of age and family income is over $61,000. The median home value is $382,700 and has definitely increased since the last census. Residents only average a 20 minute travel time compared to the 25 minute national average. With only 69.5% of the population still in the work force, the community is slightly oriented towards retirees.

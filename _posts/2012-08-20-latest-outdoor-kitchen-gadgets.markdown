@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Latest Outdoor Kitchen Gadgets
-date: '2012-08-20T09:45:16+00:00'
-permalink: /latest-outdoor-kitchen-gadgets/
+date: 2012-08-20 09:45:16 Z
+permalink: "/latest-outdoor-kitchen-gadgets/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/">Outdoor kitchens</a> used to be as simple as a barbecue grill and a picnic table, but they have grown to include built-in grills, side burners, warming drawers and fully-stocked bars. Nowadays with the latest gadgets, you can create an outdoor kitchen that is just as useful and technologically advanced as a professional indoor <a href="http://www.murraylampert.com/san-diego-kitchen-remodeling-services/">kitchen</a>.
 
 <strong>Infrared Grill</strong>

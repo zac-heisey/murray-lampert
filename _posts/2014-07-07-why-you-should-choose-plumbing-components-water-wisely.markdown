@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Why You Should Choose Plumbing Components Water-Wisely
-date: '2014-07-07T08:00:48+00:00'
-permalink: /why-you-should-choose-plumbing-components-water-wisely/
+date: 2014-07-07 08:00:48 Z
+permalink: "/why-you-should-choose-plumbing-components-water-wisely/"
+layout: post
 ---
+
 Water-wise plumbing components aren’t just great for the environment—they can be great for your budget, too! The Environmental Protection Agency (EPA) certifies many types of plumbing components to help each one of us do our part to conserve water and save money on our monthly water and energy bills. Here we’ll take a look at a few different pieces of household plumbing and how choosing a water-efficient model of each can help save the planet and your pocketbook.
 
 <img class=" wp-image-2229 alignright" alt="Toilet" src="http://www.murraylampert.com/wp-content/uploads/toilet.png" width="136" height="156" />

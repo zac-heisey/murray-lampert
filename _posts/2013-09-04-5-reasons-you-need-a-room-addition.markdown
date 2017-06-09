@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 5 Reasons You Need a Room Addition
-date: '2013-09-04T09:00:16+00:00'
-permalink: /5-reasons-you-need-a-room-addition/
+date: 2013-09-04 09:00:16 Z
+permalink: "/5-reasons-you-need-a-room-addition/"
+layout: post
 ---
+
 <a href="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-5_W.jpg"><img class="size-medium wp-image-1329 alignleft" title="Reasons for a Room Addition - Home Remodeling Advice" src="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-5_W-300x206.jpg" alt="Reasons for a Room Addition - Home Remodeling Advice" width="400" height="275" /></a>Feel like you are running out of space in your home? The accumulation  of furniture and décor, new bundles of joy in the family, sharing space with  other family members, and the popularity of working from home are all common  reasons your home might feel cramped. Before you call a realtor, however,  consider adding more space to the house you already own with a <a href="/san-diego-room-additions/">room addition</a>.  You can save money and the headaches that come with moving by carefully reconsidering  what you can accomplish with your current property.
 
 Here are five good reasons for a room addition:

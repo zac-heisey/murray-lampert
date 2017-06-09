@@ -1,9 +1,10 @@
 ---
-layout: post
 title: What You Should Expect in a Home Remodeling Contractor Part 1
-date: '2010-09-14T12:36:23+00:00'
-permalink: /what-should-you-expect-in-a-home-remodeling-contractor-part-1/
+date: 2010-09-14 12:36:23 Z
+permalink: "/what-should-you-expect-in-a-home-remodeling-contractor-part-1/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com"><img class="aligncenter size-full wp-image-512" title="500_1190239443_homeimprovement_ca" src="http://murraylampert.com/wp-content/uploads/2010/09/500_1190239443_homeimprovement_ca.jpg" alt="" width="500" height="375" /></a>
 
 Home remodeling is a long term relationship where customer service is paramount. Every project is different and every customer has different needs. 

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Natural Wool or Recycled Cotton:  Which Insulation is Better for Your Home?'
-date: '2014-07-29T08:00:04+00:00'
-permalink: /natural-wool-or-recycled-cotton-which-insulation-is-better-for-your-home/
+date: 2014-07-29 08:00:04 Z
+permalink: "/natural-wool-or-recycled-cotton-which-insulation-is-better-for-your-home/"
+layout: post
 ---
+
 If you’re searching for not only the best, but also the most eco-friendly option for insulating your home, both natural wool and recycled cotton are good places to start. Here we’ll discuss recycled cotton and natural sheep’s wool, and explore their relative composition to help you make an educated decision when building or re-insulating your home.
 
 When evaluating the effectiveness of insulation, it’s important to look at a substance’s R-value. The R-value is used as a measurement of thermal resistance. When it comes to insulation, a higher R-value means a product that will perform better as an insulating compound.

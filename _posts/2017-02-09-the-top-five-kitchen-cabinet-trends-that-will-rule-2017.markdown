@@ -1,9 +1,10 @@
 ---
-layout: post
 title: The Top Five Kitchen Cabinet Trends That Will Rule 2017
-date: '2017-02-09T06:35:19+00:00'
-permalink: /the-top-five-kitchen-cabinet-trends-that-will-rule-2017/
+date: 2017-02-09 06:35:19 Z
+permalink: "/the-top-five-kitchen-cabinet-trends-that-will-rule-2017/"
+layout: post
 ---
+
 Kitchen cabinets typically occupy the largest portion of your kitchen’s landscape and are usually the first thing to catch your guests’ eyes. Therefore, your new flooring or fancy appliances won’t mean much if your cabinets are scruffy and out of style.
 
 This is one of the main reasons homeowners choose to give their kitchen a new life with a brand new, trendy cabinetry setup. Other times homeowners find that their cabinets don’t provide enough space for all their needs.

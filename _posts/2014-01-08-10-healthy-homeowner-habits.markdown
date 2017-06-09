@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 10 Healthy Homeowner Habits
-date: '2014-01-08T08:00:30+00:00'
-permalink: /10-healthy-homeowner-habits/
+date: 2014-01-08 08:00:30 Z
+permalink: "/10-healthy-homeowner-habits/"
+layout: post
 ---
+
 Buying a home is one of the biggest commitments you will make in your life. Just like personal relationships, your home deserves an investment of time and work on your part to keep it in running order. But it always pays off. Keeping up with your home helps you avoid costly repairs down the road and creates meaning and satisfaction between you and your humble abode. Take a look at these 10 habits for healthy homeownership:
 
 <a href="http://www.murraylampert.com/wp-content/uploads/Copper-Gutter-System.gif"><img class="size-full wp-image-1885 alignleft" alt="Copper-Gutter-System" src="http://www.murraylampert.com/wp-content/uploads/Copper-Gutter-System.gif" width="390" height="293" /></a>1. <strong>Change filters.</strong> Whether it’s your air conditioner, furnace, or drinking water faucet, make sure you are changing all your filters according to recommendations. This will keep the dust, germs, and other micro-offenders in your home to a minimum and will also improve energy efficiency.

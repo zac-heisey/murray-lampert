@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Ideas for Filling Out Empty Rooms in Your Expanded Home
-date: '2013-04-02T16:31:30+00:00'
-permalink: /ideas-for-filling-out-empty-rooms-in-your-expanded-home/
+date: 2013-04-02 16:31:30 Z
+permalink: "/ideas-for-filling-out-empty-rooms-in-your-expanded-home/"
+layout: post
 ---
+
 Room and <a href="/san-diego-second-story-addition/">second story additions</a> are becoming more and more popular these days due to growing families and the popularity of home-based businesses. Of course, all that extra room can be a bit overwhelming. What was once nonexistent is now an empty room for you to fill! Here are some ideas for filling all that extra space in your <a href="/san-diego-room-additions/">expanded home</a>. <img class="alignright" src="/images/gallery/ra/webb2.jpg" alt="" width="351" height="248" />
 <ul>
 	<li><strong>A Spare Closet</strong>: Now that you have the room, there’s no need to cramp your bedroom closet with your clothes. That doesn’t mean throwing your shirts, jackets, pants, and dresses into a room willy-nilly. Buy and install shelving/hanging units for clothing organization. Sort your clothes so that you can easily switch out your closet based on the season. Make that room into the walk-in closet you’ve always dreamed of.</li>

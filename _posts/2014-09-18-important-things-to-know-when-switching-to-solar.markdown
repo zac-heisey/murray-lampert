@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Important Things to Know When Switching to Solar
-date: '2014-09-18T08:58:11+00:00'
-permalink: /important-things-to-know-when-switching-to-solar/
+date: 2014-09-18 08:58:11 Z
+permalink: "/important-things-to-know-when-switching-to-solar/"
+layout: post
 ---
+
 <a href="http://www.murraylampert.com/wp-content/uploads/2014-09-11_0814.png"><img class="wp-image-2345 alignright" alt="2014-09-11_0814" src="http://www.murraylampert.com/wp-content/uploads/2014-09-11_0814.png" width="378" height="284" /></a>After a year of freedom from the rising costs imposed by our local power company and generating over 20,000 kilowatt hours of my own clean energy, there is no question I made the right decision using <a href="http://www.murraylampert.com/san-diego-green-home-construction/">green building construction.</a>  I am able to have a healthier living while saving energy and with the financing options, government incentives, and tax benefits, there is no better time to <a title="Solar Solutions " href="https://milhollandelectric.com/solar_power/solar_energy_solutions/#.VBdVu_ldVEI">take control of your energy costs with solar.</a>
 
 In San Diego, there is no shortage of firms to choose from for solar.  Many of these companies are purely marketing and sales organizations or unqualified opportunistic contractors who are trying to ride the solar wave, so don’t be afraid to ask questions to find out what you are dealing with.

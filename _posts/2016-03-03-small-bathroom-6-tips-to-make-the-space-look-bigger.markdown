@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Small Bathroom? 6 Tips to Make the Space Look Bigger
-date: '2016-03-03T05:44:58+00:00'
-permalink: /small-bathroom-6-tips-to-make-the-space-look-bigger/
+date: 2016-03-03 05:44:58 Z
+permalink: "/small-bathroom-6-tips-to-make-the-space-look-bigger/"
+layout: post
 ---
+
 You see your bathroom as a sanctuary-a place you can retreat to after a long day at work. Or perhaps you
 and your children use the space as a room of adventure. Whatever the case, you expect your bathroom to be
 large enough to accommodate your needs.

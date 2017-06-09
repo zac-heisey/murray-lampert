@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Energy Efficient San Diego Remodeling
-date: '2010-10-24T09:37:11+00:00'
-permalink: /energy-efficient-san-diego-remodeling/
+date: 2010-10-24 09:37:11 Z
+permalink: "/energy-efficient-san-diego-remodeling/"
+layout: post
 ---
+
 <p style="text-align: center;"><a href="http://www.visionhomesinc.net/energystar.php"><img class="aligncenter size-full wp-image-587" title="ventil2" src="http://murraylampert.com/wp-content/uploads/2010/10/ventil2.jpg" alt="" width="580" height="441" /></a></p>
 <span style="font-size: 12.8601px;">As a quality contractor with over 27 years of home remodeling and construction experience, I believe in building better and tighter.  Not only to deliver more value and longer lasting homes, but also more comfortable and energy efficient San Diego Remodeling.</span>
 

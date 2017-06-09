@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Why Choose Design-Build For Your Home Project?
-date: '2015-01-13T12:04:38+00:00'
-permalink: /why-choose-design-build-for-your-home-project/
+date: 2015-01-13 12:04:38 Z
+permalink: "/why-choose-design-build-for-your-home-project/"
+layout: post
 ---
+
 If you’re not familiar with the term “design-build” and are in the market for a home renovation or <a href="http://www.murraylampert.com/remodel/" target="_blank">remodeling</a> project, it’s a term you will want to get to know. Keep reading to see what we mean!
 <h3>What is Design-Build?</h3>
 Design-build has become increasingly popular over the last fifteen years as an innovative method of project planning and delivery. Instead of working with multiple teams that may or may not directly interact, a design-build team works together under one cohesive contract that combines both the design of the project all the way through the building process and to completion. Instead of receiving multiple bids for the building process after the design phase, design-build eliminates the need for multiple contracts and separate contractors working to envision a singular project.

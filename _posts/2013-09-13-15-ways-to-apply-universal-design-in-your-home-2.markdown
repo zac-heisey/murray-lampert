@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 15 Ways to Apply Universal Design in Your Home
-date: '2013-09-13T09:00:21+00:00'
-permalink: /15-ways-to-apply-universal-design-in-your-home-2/
+date: 2013-09-13 09:00:21 Z
+permalink: "/15-ways-to-apply-universal-design-in-your-home-2/"
+layout: post
 ---
+
 Selywn Goldsmith, the author of <em>Designing for the Disabled</em> (1963), pioneered free access for disabled people and is credited with the creation of the dropped curb (now a standard). Many of his ideas were based upon the seven principles of universal design, an architectural movement coined by Robert L. Mace that emphasizes:
 <ul>
 	<li>Equitable use</li>
