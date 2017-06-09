@@ -1,0 +1,17 @@
+---
+layout: post
+title: 5 Reasons You Need a Room Addition
+date: '2013-09-04T09:00:16+00:00'
+permalink: /5-reasons-you-need-a-room-addition/
+---
+<a href="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-5_W.jpg"><img class="size-medium wp-image-1329 alignleft" title="Reasons for a Room Addition - Home Remodeling Advice" src="http://murraylampert.com/wp-content/uploads/2013/09/Barthel-5_W-300x206.jpg" alt="Reasons for a Room Addition - Home Remodeling Advice" width="400" height="275" /></a>Feel like you are running out of space in your home? The accumulation  of furniture and décor, new bundles of joy in the family, sharing space with  other family members, and the popularity of working from home are all common  reasons your home might feel cramped. Before you call a realtor, however,  consider adding more space to the house you already own with a <a href="/san-diego-room-additions/">room addition</a>.  You can save money and the headaches that come with moving by carefully reconsidering  what you can accomplish with your current property.
+
+Here are five good reasons for a room addition:
+<ol>
+	<li><strong>It’s less  expensive than moving.</strong> If you have decided to work from home or are  welcoming a new member to your family, don’t automatically pack your bags. The  cost of buying a bigger home is often higher than adding on to the one you  already have.</li>
+	<li><strong>Stability. </strong>Space is just part of the reason you decide on a particular home. The  community you choose is often just as important as the square footage. Particularly  if you have children at home, it is smarter to stay in one place if you can help it than to pack up your entire life and move to a  new neighborhood. A room addition makes staying put possible.</li>
+	<li><strong>Added  value to home.</strong> The National Association of Realtors reports that <a href="http://www.realtor.org/sites/default/files/reports/2003/value-housing-characteristics-2003-12-executive-summary.pdf">every  1,000 square feet added to your home adds around 3 percent to its value</a>. When  you choose to sell your home down the road, you will be able to ask for a  higher price. Deciding on an addition is a smart way to pay yourself back on  your investment and make your home more spacious while you live in it.</li>
+	<li><strong>Less wait  time.</strong> In general, a room addition takes less time than buying a new home  and moving. Design time to completion can take as little as six weeks—depending  on the scope of your addition. With a   room addition, you can expand to your new space within a few months and  have no moving hassle.</li>
+	<li><strong>Vision  fulfillment.</strong> When you decide on a room addition, you get to choose exactly  how to design it. You can pick the size, style, window placement, and all other  design/architecture elements to make it the exact room you envision. When you  move into a bigger home, those factors are already determined for you.  Designing your own space in the home you already love is a fun experience that  ensures you get exactly what you want.</li>
+</ol>
+A room addition is a smart way to make your home exactly the  way you want it while staying in one place. The increase in space will help in  practical ways and your home will also increase in value. Whether you’ll be  using it as an office, library, art studio, or bedroom, you’ll have a new  functional space that’s always there when you need it.
