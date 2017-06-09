@@ -10,7 +10,7 @@ section_id: blog
       {% for post in paginator.posts %}
         <div class='big mod modBlogPost no_bg'>
           <div class='images'>
-            {% if post.image %}
+            {% if post.image and post.image != "" %}
               <div class='image'><img alt="" src="{{site.url}}/{{post.image}}" /></div>
             {% endif %}
           </div>
