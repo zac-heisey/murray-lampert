@@ -8,7 +8,7 @@ section_id: blog
     <div class='large-9 columns'>
       <div class='mod modBlogPost big no_bg'>
         <div class='images'>
-          {% if page.image %}
+          {% if page.image and page.image != "" %}
             <div class='image'><img alt="" src="{{site.url}}/{{page.image}}" /></div>
           {% endif %}
         </div>
