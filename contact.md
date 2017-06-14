@@ -1,4 +1,5 @@
 ---
+title: Contact
 layout: default
 section_id: contact
 ---

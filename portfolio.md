@@ -1,4 +1,5 @@
 ---
+title: Portfolio
 layout: default
 section_id: portfolio
 works:

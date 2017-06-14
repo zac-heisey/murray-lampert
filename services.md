@@ -1,4 +1,5 @@
 ---
+title: Services
 layout: default
 section_id: services
 services_col_1:
