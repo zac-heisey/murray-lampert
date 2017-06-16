@@ -1,7 +1,7 @@
 ---
-title: Portfolio
-layout: default
-section_id: portfolio
+title: Projects
+layout: projects
+section_id: projects
 works:
 - image: images/@stock/msn-work-1.jpg
   class: graphic-design
@@ -92,53 +92,3 @@ works:
   title: A beautiful day
   desc: Design &amp; Development
 ---
-
-<div class='full' style='background: #333'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h2 style='color: #fff;'>Our works</h2>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-</div>
-<div class='two spacing'></div>
-<div class='spacing'></div>
-<div class='mod modMasonryGallery'>
-  <div class='gallery-nav'>
-    <ul>
-      <li class='current'>
-        <a data-cat='all' href='#'>All</a>
-      </li>
-      <li>
-        <a data-cat='graphic-design' href='#'>Graphic Design</a>
-      </li>
-      <li>
-        <a data-cat='web-design' href='#'>Web Design</a>
-      </li>
-      <li>
-        <a data-cat='brand' href='#'>Brand</a>
-      </li>
-      <li>
-        <a data-cat='development' href='#'>Development</a>
-      </li>
-      <li>
-        <a data-cat='print' href='#'>Print</a>
-      </li>
-    </ul>
-  </div>
-  <ul class='gallery'>
-    {% for work in page.works %}
-      <li class='{{work.class}}'>
-        <a href='portfolio-item.html'>
-          <img alt="" src="{{work.image}}" />
-          <div class='overlay'>
-            <div class='thumb-info'>
-              <h3>{{work.title}}</h3>
-              <p>{{work.desc}}</p>
-            </div>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>

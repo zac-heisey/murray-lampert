@@ -1,6 +1,6 @@
 ---
-layout: default
-section_id: portfolio
+layout: projects
+section_id: projects
 images:
 - images/@stock/big-msn-work-1.jpg
 - images/@stock/big-msn-work-2.jpg
