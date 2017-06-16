@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 section_id: home
 works:
 - image: images/@stock/msn-work-1.jpg
@@ -64,21 +64,3 @@ works:
   title: Flower Book
   desc: Design &amp; Development
 ---
-
-<div class='mod modMasonryGallery'>
-  <ul class='gallery'>
-    {% for work in page.works %}
-      <li class='{{work.class}}'>
-        <a href='portfolio-item.html'>
-          <img alt="" src="{{work.image}}" />
-          <div class='overlay'>
-            <div class='thumb-info'>
-              <h3>{{work.title}}</h3>
-              <p>{{work.desc}}</p>
-            </div>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
