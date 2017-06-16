@@ -2,6 +2,7 @@
 title: About
 layout: default
 section_id: about
+permalink: /about-murray-lampert-design-build-remodel
 skills:
 - title: Web Design
   percent: 84
