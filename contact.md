@@ -4,7 +4,7 @@ layout: default
 section_id: contact
 address1: 2878 Camino Del Rio South
 address2: Suite 160, San Diego CA, 92108
-phone: (619) 285-9222
+phone: "(619) 285-9222"
 ---
 
   <div class='medium-8 columns'>
