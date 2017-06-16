@@ -69,58 +69,45 @@ other_services:
     porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
 ---
 
-<div class='full' style='background: #333'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h2 style='color: #fff;'>Our main services</h2>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-</div>
-<div class='full'>
-  <div class='row'>
-    <div class='medium-6 columns'>
-      {% for service in page.services_col_1 %}
-        <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
-          <div class='icon-text-simple'>
-            <i class='{{service.icon_class}}'></i>
-            <h3>{{service.title}}</h3>
-            <p>{{service.desc}}</p>
-          </div>
-          <div class='two spacing'></div>
+  <div class='medium-6 columns'>
+    {% for service in page.services_col_1 %}
+      <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
+        <div class='icon-text-simple'>
+          <i class='{{service.icon_class}}'></i>
+          <h3>{{service.title}}</h3>
+          <p>{{service.desc}}</p>
         </div>
-      {% endfor %}
-    </div>
-    <div class='medium-6 columns'>
-      {% for service in page.services_col_2 %}
-        <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
-          <div class='icon-text-simple'>
-            <i class='{{service.icon_class}}'></i>
-            <h3>{{service.title}}</h3>
-            <p>{{service.desc}}</p>
-          </div>
-          <div class='two spacing'></div>
-        </div>
-      {% endfor %}
-    </div>
+        <div class='two spacing'></div>
+      </div>
+    {% endfor %}
   </div>
-  <div class='two spacing'></div>
-</div>
-<div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modBoxedTextSlider'>
-        <div class='boxes'>
-          {% for service in page.other_services %}
-            <div class='box' style='background: #f9f9f9;'>
-              <i class='{{service.icon_class}}'></i>
-              <h4>{{service.title}}</h4>
-              <p>{{service.desc}}</p>
-            </div>
-          {% endfor %}
+  <div class='medium-6 columns'>
+    {% for service in page.services_col_2 %}
+      <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
+        <div class='icon-text-simple'>
+          <i class='{{service.icon_class}}'></i>
+          <h3>{{service.title}}</h3>
+          <p>{{service.desc}}</p>
+        </div>
+        <div class='two spacing'></div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class='full'>
+    <div class='row'>
+      <div class='large-12 columns'>
+        <div class='mod modBoxedTextSlider'>
+          <div class='boxes'>
+            {% for service in page.other_services %}
+              <div class='box' style='background: #f9f9f9;'>
+                <i class='{{service.icon_class}}'></i>
+                <h4>{{service.title}}</h4>
+                <p>{{service.desc}}</p>
+              </div>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class='four spacing'></div>
-</div>

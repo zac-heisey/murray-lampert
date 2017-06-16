@@ -65,91 +65,77 @@ clients:
 - images/@stock/client-grey-6.png
 ---
 
-<div class='full' style='background: #333'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h2 style='color: #fff;'>About the team</h2>
+  <div class='medium-6 columns'>
+    <h3>Our history</h3>
+    <div class='spacing'></div>
+    <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
+  </div>
+  <div class='medium-6 columns'>
+    <h3>Our skills</h3>
+    <div class='spacing'></div>
+    <div class='mod modBarGraph'>
+      <ul class='bars'>
+        {% for skill in page.skills %}
+          <li>
+            <h4 style=''>
+              {{skill.title}}
+              <strong>{{skill.percent}}%</strong>
+            </h4>
+            <p class='highlighted' data-percent='{{skill.percent}}'></p>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
-  <div class='two spacing'></div>
-</div>
-<div class='full'>
-  <div class='row'>
-    <div class='medium-6 columns'>
-      <h3>Our history</h3>
-      <div class='spacing'></div>
-      <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-      <div class='two spacing'></div>
-    </div>
-    <div class='medium-6 columns'>
-      <h3>Our skills</h3>
-      <div class='spacing'></div>
-      <div class='mod modBarGraph'>
-        <ul class='bars'>
-          {% for skill in page.skills %}
-            <li>
-              <h4 style=''>
-                {{skill.title}}
-                <strong>{{skill.percent}}%</strong>
-              </h4>
-              <p class='highlighted' data-percent='{{skill.percent}}'></p>
-            </li>
-          {% endfor %}
-        </ul>
+  <div class='full'>
+    <div class='row'>
+      <div class='large-12 columns'>
+        <div class='four spacing'></div>
+        <h3>The team</h3>
+        <div class='spacing'></div>
       </div>
     </div>
-  </div>
-</div>
-<div class='two spacing'></div>
-<div class='full' style='background: #f5f5f5'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h3>The team</h3>
-      <div class='spacing'></div>
-    </div>
-  </div>
-  <div class='row'>
-    {% for member in page.members %}
-      <div class='small-6 medium-3 large-3 columns'>
-        <div class='mod modTeamMember style-2'>
-          <div class='member'>
-            <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-            <div class='overlay'>
-              <ul class='socials'>
-                {% for social in member.socials %}
-                  <li>
-                    <a href='{{social.url}}'>
-                      <i class='{{social.icon_class}}'></i>
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
+    <div class='row'>
+      {% for member in page.members %}
+        <div class='small-6 medium-3 large-3 columns'>
+          <div class='mod modTeamMember style-2'>
+            <div class='member'>
+              <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
+              <div class='overlay'>
+                <ul class='socials'>
+                  {% for social in member.socials %}
+                    <li>
+                      <a href='{{social.url}}'>
+                        <i class='{{social.icon_class}}'></i>
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
             </div>
+            <h3>{{member.name}}</h3>
+            <p class='position'>{{member.position}}</p>
+            <p>{{member.desc}}</p>
+            <div class='two spacing'></div>
           </div>
-          <h3>{{member.name}}</h3>
-          <p class='position'>{{member.position}}</p>
-          <p>{{member.desc}}</p>
-          <div class='two spacing'></div>
         </div>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
+    <div class='two spacing'></div>
   </div>
-  <div class='two spacing'></div>
-</div>
-<div class='full'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h3>Our clients</h3>
-      <div class='spacing'></div>
-      <div class='mod modClients' data-slides_to_show='5'>
-        <div class='clients'>
-          {% for client in page.clients %}
-            <div><img alt="" src="{{client}}" /></div>
-          {% endfor %}
+  <div class='full'>
+    <div class='row'>
+      <div class='large-12 columns'>
+        <h3>Our clients</h3>
+        <div class='spacing'></div>
+        <div class='mod modClients' data-slides_to_show='5'>
+          <div class='clients'>
+            {% for client in page.clients %}
+              <div><img alt="" src="{{client}}" /></div>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class='four spacing'></div>
-</div>
