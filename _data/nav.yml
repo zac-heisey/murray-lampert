@@ -1,26 +1,27 @@
-- name: Home
-  path: 
-  section_id: home
 - name: About
-  path: about
+  path: about-murray-lampert-design-build-remodel
   section_id: about
+- name: Design
+  path: design
+  section_id: design
+- name: Build
+  path: build
+  section_id: build
+- name: Remodel
+  path: remodel
+  section_id: remodel
 - name: Services
   path: services
   section_id: services
-- name: Portfolio
-  path: portfolio
-  section_id: portfolio
+- name: Projects
+  path: projects
+  section_id: projects
   children:
-    - name: Portfolio
-      path: portfolio
-    - name: Portfolio item
-      path: portfolio-item
+    - name: Featured Projects
+      path: project-item
 - name: Contact
   path: contact
   section_id: contact
 - name: Blog
-  path: blog/
+  path: blog
   section_id: blog
-  children:
-    - name: Blog Default
-      path: blog/
