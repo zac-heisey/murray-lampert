@@ -2,7 +2,7 @@
 layout: post
 title: Home Remodeling Services
 date: '2017-06-20T00:00:19+00:00'
-permalink: http://murraylampert.com/san-diego-home-remodeling-services/
+permalink: /san-diego-home-remodeling-services/
 ---
 <h2>Murray Lampert Design, Build, Remodel Home Remodeling Services in <a href="http://murraylampert.com">San Diego</a></h2>
 As home remodelers in San Diego, we strive to do our best for every project. Whether you need an expansion, such as a residential second story addition or a room addition, or your house needs a facelift by remodeling the dated kitchen, giving your bathroom some extra space, or even managing a complete home remodel, Murray Lampert can complete the job. You can count on us to bring the following home construction services to your project, regardless of size or budget.

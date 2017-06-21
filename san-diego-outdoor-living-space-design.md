@@ -2,7 +2,7 @@
 layout: post
 title: Outdoor Spaces
 date: '2017-06-20T00:00:08+00:00'
-permalink: http://murraylampert.com/san-diego-outdoor-living-space-design/
+permalink: /san-diego-outdoor-living-space-design/
 ---
 <h1 class="mainhead">San Diego Custom Outdoor Living Space Design</h1>
 <a href="http://murraylampert.com">San Diego</a> is known for having the best weather in the US! Dry winters and warm summer’s mean you can take advantage of <strong>San Diego outdoor living spaces</strong> with family and friends year round. Murray Lampert Design, Build, Remodel will help you <strong>design an outdoor living area</strong> to fit your needs. <strong>We specializes in outdoor living space design and building</strong>. From custom <a href="/san-diego-kitchen-remodeling-services/">outdoor kitchens</a> and outdoor fireplaces, to backyard patio designs, Murray Lampert has your <strong>San Diego outdoor living area</strong> needs covered.

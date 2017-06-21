@@ -2,7 +2,7 @@
 layout: post
 title: 3D Project Modeling
 date: '2017-06-20T00:00:10+00:00'
-permalink: http://murraylampert.com/3d-architectural-rendering-services/
+permalink: /3d-architectural-rendering-services/
 ---
 <h1 class="mainhead">Architectural Rendering and 3D Modeling of Your Home Improvement Project in San Diego</h1>
 <iframe src="//www.youtube.com/embed/Ka-aHMtx9Zw?wmode=transparent" width="100%" height="328" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

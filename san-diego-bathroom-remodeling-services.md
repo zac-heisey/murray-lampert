@@ -2,7 +2,7 @@
 layout: post
 title: Bathroom Remodels
 date: '2017-06-20T00:00:07+00:00'
-permalink: http://murraylampert.com/san-diego-bathroom-remodeling-services/
+permalink: /san-diego-bathroom-remodeling-services/
 ---
 <h1 class="mainhead">Bathroom Remodeling in San Diego</h1>
 Have you considered remodeling your bathroom? Maybe you would like to expand, replace existing fixtures, or make the space more functional by moving things around.  Whatever bathroom renovation ideas you have in mind, Murray Lampert can help with our <strong><a href="http://murraylampert.com">San Diego</a> custom bathroom remodeling service</strong>.

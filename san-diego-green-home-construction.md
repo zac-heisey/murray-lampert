@@ -2,7 +2,7 @@
 layout: post
 title: Green Building
 date: '2017-06-20T00:00:06+00:00'
-permalink: http://murraylampert.com/san-diego-green-home-construction/
+permalink: /san-diego-green-home-construction/
 ---
 <h1 class="mainhead">San Diego Construction Energy Conservation &amp; Green Building Construction</h1>
 With the demand for sustainable energy becoming the standard these days, Murray Lampert is proud to become eco friendly builders and offer our<strong><a href="http://murraylampert.com"> San Diego green home</a> construction service.</strong>  Not only is green home construction good for the planet and the environment, but eco friendly remodeling will cut down on your energy costs. Murray Lampert also offers green building for <a href="http://murraylampert.com/san-diego-room-additions/">room additions</a> see here.

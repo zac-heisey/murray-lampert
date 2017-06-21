@@ -2,7 +2,7 @@
 layout: post
 title: Room Additions
 date: '2017-06-20T00:00:12+00:00'
-permalink: http://murraylampert.com/san-diego-room-additions/
+permalink: /san-diego-room-additions/
 ---
 <h1 class="mainhead">San Diego Room Additions</h1>
 Whether you need a family room, great room, a new bedroom addition, a master suite, or a home office, Murray Lampert Design, Build, Remodel’s <strong>San Diego room addition services</strong> will design and build your room addition to meet your needs and budget.

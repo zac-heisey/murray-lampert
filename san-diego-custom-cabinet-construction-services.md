@@ -2,7 +2,7 @@
 layout: post
 title: Cabinets
 date: '2017-06-20T00:00:09+00:00'
-permalink: http://murraylampert.com/san-diego-custom-cabinet-construction-services/
+permalink: /san-diego-custom-cabinet-construction-services/
 ---
 <h1 class="mainhead">San Diego Custom Cabinets</h1>
 Are your old cabinets breaking down, deteriorating, or are they simply just out dated? At Murray Lampert Design, Build, Remodel, our <strong>San Diego custom cabinetry service</strong> can help you get high quality cabinetry at affordable prices.

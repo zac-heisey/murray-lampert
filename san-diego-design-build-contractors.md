@@ -2,7 +2,7 @@
 layout: post
 title: Design Build
 date: '2017-06-20T00:00:04+00:00'
-permalink: http://murraylampert.com/san-diego-design-build-contractors/
+permalink: /san-diego-design-build-contractors/
 ---
 <h1 class="mainhead">Design-Build Contractor Services in San Diego</h1>
 Murray Lampert has been building and<a title="About Murray Lampert" href="http://www.murraylampert.com/about/"> improving San Diego homes since 1975</a>.  We have relationships with craftsman, material suppliers and building officials for over 38 years.

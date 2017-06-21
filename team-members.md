@@ -2,7 +2,7 @@
 layout: post
 title: Team Members
 date: '2017-06-20T00:00:21+00:00'
-permalink: http://murraylampert.com/team-members/
+permalink: /team-members/
 ---
 <h2>Meet The Owners and Team</h2>
 

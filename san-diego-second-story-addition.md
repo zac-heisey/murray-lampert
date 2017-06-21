@@ -2,7 +2,7 @@
 layout: post
 title: Second Stories
 date: '2017-06-20T00:00:00+00:00'
-permalink: http://murraylampert.com/san-diego-second-story-addition/
+permalink: /san-diego-second-story-addition/
 ---
 <h1 class="mainhead">Second Story Additions San Diego</h1>
 With a second story, you can add space without losing valuable landscaping or yard space, and sometimes even capture a view.  At Murray Lampert, our goal as a <strong>second story contractor in San Diego</strong> is to deliver quality, value, and satisfaction.

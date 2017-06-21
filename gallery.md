@@ -2,7 +2,7 @@
 layout: post
 title: Galleries
 date: '2017-06-20T00:00:02+00:00'
-permalink: http://murraylampert.com/gallery/
+permalink: /gallery/
 ---
 [album id=1 template=compact]
 

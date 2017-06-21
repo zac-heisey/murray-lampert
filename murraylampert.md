@@ -2,7 +2,7 @@
 layout: post
 title: Home
 date: '2017-06-20T00:00:01+00:00'
-permalink: http://murraylampert.com/
+permalink: /
 ---
 <h1>San Diego Design, Build, Remodel Experts</h1>
 [caption id="attachment_1696" align="alignnone" width="150"]<a href="/san-diego-design-build-contractors/"><img class="Thumbs wp-image-1696 size-thumbnail" src="http://murraylampert.com/wp-content/uploads/Miller2-150x150.jpg" alt="Design, Build, Remodel" width="150" height="150" /></a> Design-build[/caption]

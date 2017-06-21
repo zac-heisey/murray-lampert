@@ -2,7 +2,7 @@
 layout: post
 title: Affiliation
 date: '2017-06-20T00:00:18+00:00'
-permalink: http://murraylampert.com/affiliation/
+permalink: /affiliation/
 ---
 <h2>Murray Lampert Design, Build, Remodel Better Business Bureau Affiliation</h2>
 <a href="http://murraylampert.com">San Diego BBB Torch Award 2010 "Finalist"</a>

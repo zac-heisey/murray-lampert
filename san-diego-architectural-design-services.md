@@ -2,7 +2,7 @@
 layout: post
 title: Architectural Design
 date: '2017-06-20T00:00:05+00:00'
-permalink: http://murraylampert.com/san-diego-architectural-design-services/
+permalink: /san-diego-architectural-design-services/
 ---
 <h1 class="mainhead">San Diego Architectural Design Services</h1>
 An important part of our service is <strong>architectural design</strong>. With a licensed architect on staff, we will create an excellent plan that will fit your lifestyle and budget. Our talented staff architect and designers specialize in residential home remodeling and construction. We can match existing construction and styling, or create a design that is completely unique. When you hire Murray Lampert Design, Build, Remodel, one of the oldest <strong>architectural design and home remodeling firms</strong> in San Diego, it’s easy and affordable.

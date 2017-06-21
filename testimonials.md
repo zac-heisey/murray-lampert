@@ -2,7 +2,7 @@
 layout: post
 title: Testimonials
 date: '2017-06-20T00:00:13+00:00'
-permalink: http://murraylampert.com/testimonials/
+permalink: /testimonials/
 ---
 <h1 class="mainhead">Murray Lampert Design, Build, Remodel Home Remodeling Customer Testimonials</h1>
 <h5>Second Story Bedroom Addition</h5>

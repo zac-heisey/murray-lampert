@@ -2,7 +2,7 @@
 layout: post
 title: Kitchen Remodels
 date: '2017-06-20T00:00:03+00:00'
-permalink: http://murraylampert.com/san-diego-kitchen-remodeling-services/
+permalink: /san-diego-kitchen-remodeling-services/
 ---
 <h1 class="mainhead">Kitchen Remodeling in San Diego</h1>
 Do you have an outdated kitchen, or does the existing layout not fit your lifestyle? With Murray Lampert Design, Build, Remodel, you can get a new look by replacing <a href="/san-diego-custom-cabinet-construction-services/">cabinets</a>, counters, appliances, fixtures and finishes with our <strong>San Diego custom kitchen remodel service</strong>.

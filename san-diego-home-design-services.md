@@ -2,7 +2,7 @@
 layout: post
 title: Home Design
 date: '2017-06-20T00:00:11+00:00'
-permalink: http://murraylampert.com/san-diego-home-design-services/
+permalink: /san-diego-home-design-services/
 ---
 <h1 class="mainhead">San Diego Custom Home Design Services</h1>
 An exciting and unique feature offered by Murray Lampert Design, Build, Remodel is our <strong><a href="http://murraylampert.com">San Diego</a> custom home design services</strong>. With our in house designers and architect, we create innovative and custom new home designs. What that means to you is that instead of hiring an independent architect at a much higher cost to draw up your plans, Murray Lampert Design, Build, Remodel will listen to your ideas and needs, then our in house architect will create a custom home design within budget.
