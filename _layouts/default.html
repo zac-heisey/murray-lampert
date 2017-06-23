@@ -18,9 +18,11 @@
       </div>
       <div class='full'>
         <div class='row'>
-
+          {% if page.featured-image and page.featured-image != "" %}
+            <img src="{{ site.url }}/{{ page.featured-image }}" alt="{{ page.title }} featured image" />
+            <div class='spacing'></div>
+          {% endif %}
           {{ content }}
-
         </div>
       </div>
       <div class='four spacing'></div>
