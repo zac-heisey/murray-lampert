@@ -4,6 +4,7 @@ layout: default
 section_id: design
 permalink: /san-diego-home-design-services
 featured-image: /uploads/2013/09/ML-interior_hero-home_design.jpg
+excerpt: San Diego home design services by Murray Lampert. Since 1975, Murray Lampert has been the choice for custom home design projects in San Diego County.
 ---
 
 An exciting and unique feature offered by Murray Lampert Design, Build, Remodel is our **<a href="http://murraylampert.com">San Diego</a> custom home design services**. With our in house designers and architect, we create innovative and custom new home designs. What that means to you is that instead of hiring an independent architect at a much higher cost to draw up your plans, Murray Lampert Design, Build, Remodel will listen to your ideas and needs, then our in house architect will create a custom home design within budget.
