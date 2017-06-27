@@ -1,17 +1,17 @@
 ---
-title: About
+title: About Murray Lampert
 layout: default
 section_id: about
 permalink: /about-murray-lampert-design-build-remodel
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning design build contractor with over 35 years experience in home remodeling.
 skills:
-- title: Web Design
+- title: Home Design, 3D Project Rendering, and Architectural Design
   percent: 84
-- title: Web Development
+- title: Home Building and Construction, Second Story and Room Additions, etc.
   percent: 95
-- title: Site Management
+- title: Home, Kitchen, and Bath Remodeling, Major Renovations, etc.
   percent: 70
-- title: Branding
+- title: Outdoor Spaces, Green Building, Custom Cabinetry, and More
   percent: 61
 members:
 - name: Mark Wayne
