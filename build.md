@@ -14,6 +14,7 @@ We employ the finest craftsmen who install the highest quality materials. Our bu
 ## Design-Build Contractor Services in San Diego
 
 With our experienced project managers, the Murray Lampert Design, Build, Remodel production department can handle any project from a simple bathroom to a complex second story addition or major home renovation.
+
 > "I contacted 4 [top design-build contractors in San Diego](/) to do our construction project. After the presentation of their plan, Murray Lampert stood out the best - especially the cost of the project. The quality of the work, fair cost, and early completion of the project lets us know we made the right decision with Murray Lampert. Their team communicated very well, and we were kept informed through every phase of the project. We were even given the opportunity to upgrade or change the materials used in our project! We've received a lot of compliments on the quality and workmanship of our project." - _STAN &amp; GEMMA - SPRING VALLEY_
 
 Your personal project manager will keep you informed from the initial pre-construction meeting to the final inspection.
