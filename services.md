@@ -2,6 +2,9 @@
 title: Services
 layout: default
 section_id: services
+permalink: /murray-lampert-services
+featured-image:
+excerpt: From kitchen and bath remodeling to whole house renovations in San Diego, Murray Lampert Design, Build, Remodel. Learn more about our services today!
 services_col_1:
 - icon_class: fa fa-trophy
   title: Web design
