@@ -3,15 +3,16 @@ title: About Murray Lampert
 layout: default
 section_id: about
 permalink: /about-murray-lampert-design-build-remodel
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning design build contractor with over 35 years experience in home remodeling.
 skills:
-- title: Home Design, 3D Project Rendering, and Architectural Design
+- title: Home & Architectural Design, 3D Project Rendering, etc.
   percent: 84
-- title: Home Building and Construction, Second Story and Room Additions, etc.
+- title: Home Building & Construction, Second Stories, Room Additions, etc.
   percent: 95
-- title: Home, Kitchen, and Bath Remodeling, Major Renovations, etc.
+- title: Home, Kitchen, & Bath Remodeling, Major Renovations, etc.
   percent: 70
-- title: Outdoor Spaces, Green Building, Custom Cabinetry, and More
+- title: Outdoor Spaces, Green Building, Custom Cabinetry, etc.
   percent: 61
 members:
 - name: Mark Wayne
@@ -71,7 +72,7 @@ clients:
     <h3>Murray Lampert Design, Build, Remodel Since 1975</h3>
     <div class='spacing'></div>
     <p>Founded by Murray Lampert in 1975, our company specializes in<a href="/san-diego-home-design-serivces/"> residential remodeling</a>, <a href="/remodel/">home renovation</a> and construction. For more than three generations, Murray Lampert Design, Build, Remodel has been building relationships with San Diego homeowners to become <a href="/testimonials/">one of San Diego County’s most trusted home remodelers</a>. Over these many years, we have transformed thousands of homes and earned our reputation for innovative design, quality craftsmanship, affordable prices and timely completion. It’s likely that someone in your neighborhood, even your own family, has enjoyed the personal touches that come with every Murray Lampert home remodel project.</p>
-    <p>As a full service contractor (CSLB license <a href="https://www2.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=458038">#458038</a>), Murray Lampert specializes in <a href="/san-diego-second-story-addition/">second stories</a>, <a href="/san-diego-second-story-addition/">single story expansions</a> &amp; <a title="Room Additions" href="/san-diego-room-additions/">room additions</a>, <a href="/san-diego-kitchen-remodeling-services/">kitchens</a>, <a href="/san-diego-bathroom-remodeling-services/">baths</a> and <a href="/remodel/">complete home renovation</a>. And, unlike many other contractors, we employ Project Mangers to supervise your project from beginning to completion. This is to ensure that your remodel job will be completed when promised, as promised, and within budget.</p>
+    <p>As a full service contractor (CSLB license <a href="https://www2.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=458038">#458038</a>), Murray Lampert specializes in <a href="/san-diego-home-design-services">design</a>, <a href="/san-diego-design-build-contractors">build</a> and <a href="/san-diego-home-remodel-services">remodel</a> projects throughout San Diego. We also offer a number of other <a href="/murray-lampert-services">home remodeling and renovation services</a> such as architectural & interior design, outdoor spaces, room additions, green building, and more. Unlike many other contractors, we employ experienced Project Mangers to supervise your project from beginning to completion. This helps ensure that your home project will be completed when promised, as promised, and within budget.</p>
     <p>During construction, keeping your inconvenience to a minimum is a priority and we’ll use our relationships with suppliers, trades people and inspectors to keep your project on time and on budget.</p>
     <p>At <a href="/">Murray Lampert Design, Build, Remodel</a>, we believe in educating our clients not only on the process of home remodeling, but also on how to make sure everything is included. Some homeowners are enticed by companies who substantially undercut other bidders, later to find out there are hidden costs, and items like cabinets, granite, finish work etc. are very low quality, opening up the door for major cost overruns. We will provide you a shopping list and line you up with our preferred vendors to save you money. Everything is spelled out in our scope of work, and we work with you to make sure to stay within budget.</p>
   </div>
