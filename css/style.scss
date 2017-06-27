@@ -3431,3 +3431,16 @@ body {
     display: none;
   }
 }
+
+/* Flexbox Section Styles */
+.flex-section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+    > ul.room-addition-city-list {
+      list-style: none;
+      margin-left: 0;
+    }
+
+}
