@@ -1,70 +1,67 @@
 ---
-title: Services
+title: Our Design, Build, & Remodel Services
 layout: default
 section_id: services
 permalink: /murray-lampert-services
 featured-image:
 excerpt: From kitchen and bath remodeling to whole house renovations in San Diego, Murray Lampert Design, Build, Remodel. Learn more about our services today!
 services_col_1:
-- icon_class: fa fa-trophy
-  title: Web design
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-cogs
-  title: Web development
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-pagelines
-  title: Branding
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-lock
+- url: /san-diego-room-additions
+  title: Room Additions
+  desc: Whether you need a new family room, bedroom, or a master suite, Murray Lampert’s San Diego room addition services can deliver what you need.
+- url: /san-diego-second-story-addition
+  title: Second Stories
+  desc: Add space without losing valuable landscaping or yard area with a second story addition. Our goal as a second story contractor in San Diego is to deliver quality, value, and satisfaction.
+- url: /san-diego-kitchen-remodeling-services
+  title: Kitchen Remodels
+  desc: Transform your outdated kitchen with Murray Lampert's custom kitchen remodeling service. Get a new look by replacing cabinets, counters, appliances, fixtures, finishes, and more.
+- url: fa fa-lock
   title: Security
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
     vitae id enim omnis perspiciatis. modi maxime eos.
 services_col_2:
-- icon_class: fa fa-comments-o
+- url: fa fa-comments-o
   title: Web design
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
     vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-flask
+- url: fa fa-flask
   title: Web development
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
     vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-key
+- url: fa fa-key
   title: Branding
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
     vitae id enim omnis perspiciatis. modi maxime eos.
-- icon_class: fa fa-flag-checkered
+- url: fa fa-flag-checkered
   title: Security
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
     vitae id enim omnis perspiciatis. modi maxime eos.
 other_services:
-- icon_class: fa fa-trophy
+- url: fa fa-trophy
   title: Design
   desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
     aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
     nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
     porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- icon_class: fa fa-compass
+- url: fa fa-compass
   title: Art Direction
   desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
     aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
     nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
     porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- icon_class: fa fa-star-half-empty
+- url: fa fa-star-half-empty
   title: Branding
   desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
     aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
     nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
     porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- icon_class: fa fa-image
+- url: fa fa-image
   title: Photography
   desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
     aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
     nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
     porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- icon_class: fa fa-dot-circle-o
+- url: fa fa-dot-circle-o
   title: Marketing
   desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
     aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
@@ -76,8 +73,7 @@ other_services:
     {% for service in page.services_col_1 %}
       <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
         <div class='icon-text-simple'>
-          <i class='{{service.icon_class}}'></i>
-          <h3>{{service.title}}</h3>
+          <h3><a href='{{site.url}}{{service.url}}'>{{service.title}}</a></h3>
           <p>{{service.desc}}</p>
         </div>
         <div class='two spacing'></div>
