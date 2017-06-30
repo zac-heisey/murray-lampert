@@ -24,7 +24,7 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
 ### Areas We Service
 
 <section class="flex-section">
-  <ul class="room-addition-city-list">
+  <ul class="city-list">
    	<li><a href="http://murraylampert.com/home-additions-carmel-mountain/">Carmel Mountain</a></li>
    	<li><a href="http://murraylampert.com/home-additions-encinitas">Encinitas</a></li>
    	<li><a href="http://murraylampert.com/room-additions-bonita">Bonita</a></li>
@@ -33,7 +33,7 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
    	<li><a href="http://murraylampert.com/room-additions-pacific-beach">Pacific Beach</a></li>
    	<li><a href="http://murraylampert.com/room-additions-rancho-bernardo">Rancho Bernardo</a></li>
   </ul>
-  <ul class="room-addition-city-list">
+  <ul class="city-list">
    	<li><a href="http://murraylampert.com/room-additions-carlsbad">Carlsbad</a></li>
    	<li><a href="http://murraylampert.com/room-additions-mission-hills">Mission Hills</a></li>
    	<li><a href="http://murraylampert.com/room-additions-mission-valley">Mission Valley</a></li>
@@ -42,7 +42,7 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
    	<li><a href="http://murraylampert.com/room-additions-la-jolla">La Jolla</a></li>
    	<li><a href="http://murraylampert.com/room-additions-del-mar">Del Mar</a></li>
   </ul>
-  <ul class="room-addition-city-list">
+  <ul class="city-list">
    	<li><a href="http://murraylampert.com/home-additions-mira-mesa">Mira Mesa</a></li>
    	<li><a href="http://murraylampert.com/room-additions-north-park">North Park</a></li>
    	<li><a href="http://murraylampert.com/room-additions-oceanside/">Oceanside</a></li>
@@ -51,7 +51,7 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
    	<li><a href="http://murraylampert.com/room-additions-solana-beach">Solana Beach</a></li>
    	<li><a href="http://murraylampert.com/room-additions-scripps-ranch">Scripps Ranch</a></li>
   </ul>
-  <ul class="room-addition-city-list">
+  <ul class="city-list">
    	<li><a href="http://murraylampert.com/room-additions-rancho-santa-fe ">Rancho Santa Fe</a></li>
    	<li><a href="http://murraylampert.com/home-additions-rancho-penasquitos">Rancho Peñasquitos</a></li>
    	<li><a href="http://murraylampert.com/room-additions-point-loma">Point Loma</a></li>
