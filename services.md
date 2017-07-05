@@ -15,10 +15,9 @@ services_col_1:
 - url: /san-diego-kitchen-remodeling-services
   title: Kitchen Remodels
   desc: Transform your outdated kitchen with Murray Lampert's custom kitchen remodeling service. Get a new look by replacing cabinets, counters, appliances, fixtures, finishes, and more.
-- url: fa fa-lock
-  title: Security
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
+- url: /san-diego-bathroom-remodeling-services
+  title: Bathroom Remodels
+  desc: Expand and revitalize your master or guest bathroom with our custom San Diego bathroom remodeling services.
 services_col_2:
 - url: fa fa-comments-o
   title: Web design
