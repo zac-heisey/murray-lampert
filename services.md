@@ -22,14 +22,12 @@ services_col_2:
 - url: /major-renovations
   title: Major Renovations
   desc: If your floor plan is outdated, doesn't fit your lifestyle, or provide enough space, a major home renovation may be a great solution.
-- url: fa fa-flask
-  title: Web development
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
-- url: fa fa-key
-  title: Branding
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
+- url: /3d-architectural-rendering-services
+  title: 3D Project Modeling
+  desc: Architectural rendering and 3D project modeling allows you to visualize your finished home remodel project before we start work.
+- url: /san-diego-architectural-design-services
+  title: Architectural Design
+  desc: With a licensed architect on staff, our team can create a highly detailed plan that will exceed your expectations.
 - url: fa fa-flag-checkered
   title: Security
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
@@ -82,8 +80,7 @@ other_services:
     {% for service in page.services_col_2 %}
       <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
         <div class='icon-text-simple'>
-          <i class='{{service.icon_class}}'></i>
-          <h3>{{service.title}}</h3>
+          <h3><a href='{{site.url}}{{service.url}}'>{{service.title}}</a></h3>
           <p>{{service.desc}}</p>
         </div>
         <div class='two spacing'></div>
