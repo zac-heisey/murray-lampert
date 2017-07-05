@@ -19,10 +19,9 @@ services_col_1:
   title: Bathroom Remodels
   desc: Expand and revitalize your master or guest bathroom with our custom San Diego bathroom remodeling services.
 services_col_2:
-- url: fa fa-comments-o
-  title: Web design
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
+- url: /major-renovations
+  title: Major Renovations
+  desc: If your floor plan is outdated, doesn't fit your lifestyle, or provide enough space, a major home renovation may be a great solution.
 - url: fa fa-flask
   title: Web development
   desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
