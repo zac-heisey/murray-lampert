@@ -18,6 +18,9 @@ services_col_1:
 - url: /san-diego-bathroom-remodeling-services
   title: Bathroom Remodels
   desc: Expand and revitalize your master or guest bathroom with our custom San Diego bathroom remodeling services.
+- url: /san-diego-green-home-construction
+  title: Green Home Construction
+  desc: Murray Lampert is proud be to a Green Certified company, and a leading eco-friendly home remodeling contractor in San Diego.
 services_col_2:
 - url: /major-renovations
   title: Major Renovations
