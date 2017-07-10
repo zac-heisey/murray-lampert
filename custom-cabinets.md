@@ -11,8 +11,7 @@ Are your old cabinets breaking down, deteriorating, or are they simply just out 
 
 As custom cabinet makers in San Diego, our goal is to design and build a project to meet your needs and budget. Starting with a free in-home consultation, we listen to your needs, enter into a design agreement, and create a space plan that fits your budget. We then assist with selecting cabinets, granite, stone, plumbing fixtures, appliances etc. Unlike most cabinet contractors, Murray Lampert is a [recognized home remodeling contractor](/affiliation) who is fully licensed to handle all aspects of your home remodeling project.
 
->"I loved how everything went as planned and I was well-informed, every step of the way. It was a plus to have my story and photos in the SD Union Tribune!!! Everyone was friendly, respectful and professional."
-- _JULIE &amp; RICHARD N. – RANCHO PENASQUITOS_
+>"I loved how everything went as planned and I was well-informed, every step of the way. It was a plus to have my story and photos in the SD Union Tribune!!! Everyone was friendly, respectful and professional." - _JULIE &amp; RICHARD N. – RANCHO PENASQUITOS_
 
 ## San Diego Custom Cabinets
 
