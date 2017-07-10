@@ -20,4 +20,4 @@ Our [Home Design/Build](/san-diego-design-build-contractors) system streamlines
 
 Each remodeling job we undertake is assigned a dedicated project manager to ensure high quality work is completed on time and within budget.
 
-So if you’re planning on <a href="/san-diego-kitchen-remodeling-services/">remodeling your kitchen</a>, contact Murray Lampert Design, Build, Remodel to see what we can do for you.
+If you’re planning a [kitchen remodel](/san-diego-kitchen-remodeling-services) and you're interested in custom cabinets to set your project apart, Murray Lampert Design, Build, Remodel would love to work with you!
