@@ -31,6 +31,9 @@ services_col_2:
 - url: /san-diego-outdoor-living-space-design
   title: Outdoor Living Spaces
   desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego weather. Outdoor fireplaces, kitchens, and more.
+- url: /san-diego-outdoor-living-space-design
+  title: Outdoor Kitchens
+  desc: Customize your outdoor space with a kitchen, covered patio, fireplace, or a fire pit. Perfect for those weekend cookouts and summer BBQs with friends and family.
 other_services:
 - url: fa fa-trophy
   title: Design
