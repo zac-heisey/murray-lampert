@@ -28,10 +28,9 @@ services_col_2:
 - url: /san-diego-architectural-design-services
   title: Architectural Design
   desc: With a licensed architect on staff, our team can create a highly detailed plan that will exceed your expectations.
-- url: fa fa-flag-checkered
-  title: Security
-  desc: Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia
-    vitae id enim omnis perspiciatis. modi maxime eos.
+- url: /san-diego-outdoor-living-space-design
+  title: Outdoor Living Spaces
+  desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego weather. Outdoor fireplaces, kitchens, and more.
 other_services:
 - url: fa fa-trophy
   title: Design
