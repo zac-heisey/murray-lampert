@@ -21,6 +21,9 @@ services_col_1:
 - url: /san-diego-green-home-construction
   title: Green Home Construction
   desc: Murray Lampert is proud be to a Green Certified company, and a leading eco-friendly home remodeling contractor in San Diego.
+- url: /san-diego-asid-professionals
+  title: Interior Design
+  desc: Our ASID-accredited interior designers will help turn your house into a home. See your vision come to life with Murray Lampert.
 services_col_2:
 - url: /major-renovations
   title: Major Renovations
