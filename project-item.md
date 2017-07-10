@@ -6,15 +6,6 @@ images:
 - images/@stock/big-msn-work-2.jpg
 ---
 
-<div class='full' style='background: #333'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <h2 style='color: #fff;'>Our works</h2>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-</div>
-<div class='two spacing'></div>
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
