@@ -1,5 +1,5 @@
 ---
-title: Home
+title: San Diego Design Build Remodel
 layout: home
 section_id: home
 works:
