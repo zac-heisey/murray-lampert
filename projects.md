@@ -4,91 +4,91 @@ layout: projects
 section_id: projects
 works:
 - image: images/@stock/msn-work-1.jpg
-  class: graphic-design
+  class: room-additions
   title: Beautiful Girl
   desc: Design &amp; Development
 - image: images/@stock/msn-work-2.jpg
-  class: web-design print
+  class: room-additions
   title: Look at me
   desc: Design &amp; Development
 - image: images/@stock/msn-work-3.jpg
-  class: brand wide
+  class: second-stories wide
   title: Am I cute
   desc: Design &amp; Development
 - image: images/@stock/msn-work-4.jpg
-  class: development
+  class: second-stories
   title: Umbrella
   desc: Design &amp; Development
 - image: images/@stock/msn-work-5.jpg
-  class: print brand
+  class: kitchen-remodels brand
   title: Canned Bros
   desc: Design &amp; Development
 - image: images/@stock/msn-work-8.jpg
-  class: web-design
+  class: kitchen-remodels
   title: Hale
   desc: Design &amp; Development
 - image: images/@stock/msn-work-6.jpg
-  class: web-design wide
+  class: bathroom-remodels wide
   title: A beautiful day
   desc: Design &amp; Development
 - image: images/@stock/msn-work-7.jpg
-  class: graphic-design
+  class: bathroom-remodels
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-9.jpg
-  class: web-design wide
-  title: web-design wide
+  class: major-renovations wide
+  title: Major Home Renovations
   desc: Design &amp; Development
 - image: images/@stock/msn-work-10.jpg
-  class: graphic-design
+  class: 3d-project-modeling
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-11.jpg
-  class: graphic-design
+  class: 3d-project-modeling
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-12.jpg
-  class: graphic-design
+  class: architectural-design
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-13.jpg
-  class: graphic-design
+  class: architectural-design
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-14.jpg
-  class: graphic-design
+  class: outdoor-spaces
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-15.jpg
-  class: graphic-design
+  class: outdoor-spaces
   title: Flower Book
   desc: Design &amp; Development
 - image: images/@stock/msn-work-1.jpg
-  class: development print
+  class: before-and-after
   title: Beautiful Girl
   desc: Design &amp; Development
 - image: images/@stock/msn-work-2.jpg
-  class: brand
+  class: before-and-after
   title: Look at me
   desc: Design &amp; Development
 - image: images/@stock/msn-work-3.jpg
-  class: web-design
+  class: miscellaneous
   title: Am I cute
   desc: Design &amp; Development
 - image: images/@stock/msn-work-4.jpg
-  class: print
+  class: miscellaneous
   title: Umbrella
   desc: Design &amp; Development
 - image: images/@stock/msn-work-5.jpg
-  class: graphic-design
+  class: rendering
   title: Canned Bros
   desc: Design &amp; Development
 - image: images/@stock/msn-work-6.jpg
-  class: development wide
+  class: rendering wide
   title: Hale
   desc: Design &amp; Development
 - image: images/@stock/msn-work-7.jpg
-  class: print
+  class: under-construction
   title: A beautiful day
   desc: Design &amp; Development
 ---
