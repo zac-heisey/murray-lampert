@@ -19,9 +19,7 @@ defaults:
 url:
 baseurl:
 email: info@murraylampert.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Murray Lampert specializes in design, build, and remodel services in San Diego. Proud to be San Diego's top design build remodel contractor since 1975.
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
