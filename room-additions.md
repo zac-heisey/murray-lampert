@@ -3,7 +3,7 @@ title: San Diego Room Additions
 layout: default
 section_id: room-additions
 permalink: /san-diego-room-additions
-featured-image: /uploads/room-additions-hero.jpg
+featured-image: uploads/room-additions-hero.jpg
 excerpt: Murray Lampert has been providing top-quality San Diego room additions for over 40 years. If you need a room addition in San Diego, give us a call today!
 ---
 

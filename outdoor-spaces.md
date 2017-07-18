@@ -3,7 +3,7 @@ title: San Diego Custom Outdoor Living Spaces
 layout: default
 section_id: outdoor-spaces
 permalink: /san-diego-outdoor-living-space-design
-featured-image: /uploads/2013/09/outdoor.jpg
+featured-image: uploads/2013/09/outdoor.jpg
 excerpt: San Diego outdoor living space design & construction. Custom outdoor kitchens, fireplaces, and more built by Murray Lampert Design, Build, Remodel.
 ---
 

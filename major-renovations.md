@@ -3,7 +3,7 @@ title: Major Renovations in San Diego
 layout: default
 section_id: major-renovations
 permalink: /major-renovations
-featured-image: /uploads/mhr.jpg
+featured-image: uploads/mhr.jpg
 excerpt: Murray Lampert major home renovations in San Diego. We can handle your whole home renovation project from start to finish. Visit us online to learn more.
 ---
 
