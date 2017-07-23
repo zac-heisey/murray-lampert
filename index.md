@@ -3,7 +3,7 @@ title: San Diego Design Build Remodel
 layout: home
 section_id: home
 works:
-- image: uploads/cin.jpg
+- image: uploads/gallery/room-additions/cin.jpg
   class: room-additions
   title: Great Room Addition
   desc: San Diego
