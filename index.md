@@ -7,14 +7,14 @@ works:
   class: room-additions
   title: Great Room Addition
   desc: San Diego
-- image: images/@stock/msn-work-2.jpg
-  class: room-additions
-  title: Look at me
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-3.jpg
-  class: second-stories wide
-  title: Am I cute
-  desc: Design &amp; Development
+- image: uploads/gallery/second-stories/rob2.jpg
+  class: second-stories major-renovations
+  title: Second Story & <br>Complete Remodel
+  desc: La Jolla
+- image: uploads/gallery/second-stories/Lovett-4-W.jpg
+  class: second-stories featured-project wide
+  title: Second Story & <br>Home Remodel
+  desc: Pacific Beach
 - image: images/@stock/msn-work-4.jpg
   class: second-stories
   title: Umbrella
@@ -23,10 +23,10 @@ works:
   class: kitchen-remodels brand
   title: Canned Bros
   desc: Design &amp; Development
-- image: images/@stock/msn-work-8.jpg
-  class: kitchen-remodels
-  title: Hale
-  desc: Design &amp; Development
+- image: uploads/gallery/room-additions/laco.jpg
+  class: room-additions
+  title: Living Room Addition
+  desc: La Jolla
 - image: images/@stock/msn-work-6.jpg
   class: bathroom-remodels wide
   title: A beautiful day
