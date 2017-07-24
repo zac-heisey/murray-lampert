@@ -2,7 +2,7 @@
 layout: projects
 section_id: projects
 images:
-- images/@stock/big-msn-work-1.jpg
+- uploads/gallery/second-stories/Lovett-4-W.jpg
 - images/@stock/big-msn-work-2.jpg
 ---
 
