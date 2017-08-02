@@ -169,11 +169,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       form,
       input { margin-bottom: 0; }
 
-      input { 
-        height: $topbar-input-height; 
-        padding-top: .35rem; 
-        padding-bottom: .35rem; 
-        font-size: $topbar-button-font-size; 
+      input {
+        height: $topbar-input-height;
+        padding-top: .35rem;
+        padding-bottom: .35rem;
+        font-size: $topbar-button-font-size;
       }
 
       .button, button {
@@ -193,8 +193,16 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
       // Title Area
       .title-area {
+        display: flex;
         position: relative;
         margin: 0;
+
+        @media screen and (max-width: 1315px) {
+          li.name {
+            display: none;
+          }
+        }
+
       }
 
       .name {
