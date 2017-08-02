@@ -20,6 +20,7 @@ url: https://murray-lampert.netlify.com # change before moving site to Netlify s
 baseurl:
 email: info@murraylampert.com
 description: Murray Lampert specializes in design, build, and remodel services in San Diego. Proud to be San Diego's top design build remodel contractor since 1975.
+logo: uploads/assets/images/logo.jpg
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
