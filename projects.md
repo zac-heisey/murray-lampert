@@ -12,7 +12,7 @@ works:
   title: Second Story & <br>Complete Remodel
   desc: La Jolla
 - image: uploads/gallery/second-stories/Lovett-4-W.jpg
-  class: second-stories major-renovations featured-project wide
+  class: second-stories major-renovations featured-projects wide
   title: Second Story & <br>Home Remodel
   desc: Featured Project | Pacific Beach
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
@@ -28,7 +28,7 @@ works:
   title: Living Room Addition
   desc: La Jolla
 - image: uploads/gallery/major-renovations/major_renovations_03.jpg
-  class: major-renovations second-stories featured-project wide
+  class: major-renovations second-stories featured-projects wide
   title: Whole House Remodel & <br>Second Story Addition
   desc: Featured Project | Del Cerro
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
@@ -40,7 +40,7 @@ works:
   title: Bathroom Remodel
   desc: Del Cerro
 - image: uploads/murraylampert-slide1-a-1.jpg
-  class: major-renovations before-and-after featured-project wide
+  class: major-renovations before-and-after featured-projects wide
   title: Historical Renovation
   desc: Featured Project | San Diego  
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
