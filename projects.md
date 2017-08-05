@@ -3,58 +3,58 @@ title: Projects
 layout: projects
 section_id: projects
 works:
-- image: images/@stock/msn-work-1.jpg
+- image: uploads/gallery/room-additions/cin.jpg
   class: room-additions
-  title: Beautiful Girl
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-2.jpg
-  class: room-additions
-  title: Look at me
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-3.jpg
-  class: second-stories wide
-  title: Am I cute
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-4.jpg
-  class: second-stories
-  title: Umbrella
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-5.jpg
-  class: kitchen-remodels brand
-  title: Canned Bros
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-8.jpg
+  title: Great Room Addition
+  desc: San Diego
+- image: uploads/gallery/second-stories/rob2.jpg
+  class: second-stories major-renovations
+  title: Second Story & <br>Complete Remodel
+  desc: La Jolla
+- image: uploads/gallery/second-stories/Lovett-4-W.jpg
+  class: second-stories major-renovations featured-project wide
+  title: Second Story & <br>Home Remodel
+  desc: Featured Project | Pacific Beach
+- image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
-  title: Hale
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-6.jpg
-  class: bathroom-remodels wide
-  title: A beautiful day
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-7.jpg
+  title: Dang Tran Kitchen
+  desc: San Diego
+- image: uploads/gallery/baths/iaco.jpg
   class: bathroom-remodels
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-9.jpg
-  class: major-renovations wide
-  title: Major Home Renovations
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-10.jpg
-  class: 3d-project-modeling
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-11.jpg
-  class: 3d-project-modeling
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-12.jpg
-  class: architectural-design
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-13.jpg
-  class: architectural-design
-  title: Flower Book
-  desc: Design &amp; Development
+  title: Bathroom Remodel
+  desc: La Jolla
+- image: uploads/gallery/room-additions/laco.jpg
+  class: room-additions
+  title: Living Room Addition
+  desc: La Jolla
+- image: uploads/gallery/major-renovations/major_renovations_03.jpg
+  class: major-renovations second-stories featured-project wide
+  title: Whole House Remodel & <br>Second Story Addition
+  desc: Featured Project | Del Cerro
+- image: uploads/gallery/kitchens/lapierre2(corrected).jpg
+  class: kitchen-remodels
+  title: Custom Glazed Kitchen
+  desc: La Jolla
+- image: uploads/gallery/baths/cotemasterbath3_m.jpg
+  class: bathroom-remodels
+  title: Bathroom Remodel
+  desc: Del Cerro
+- image: uploads/murraylampert-slide1-a-1.jpg
+  class: major-renovations before-and-after featured-project wide
+  title: Historical Renovation
+  desc: Featured Project | San Diego  
+- image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
+  class: outdoor-spaces
+  title: Outdoor Family Room
+  desc: Poway
+- image: uploads/gallery/second-stories/leonida.jpg
+  class: major-renovations second-stories
+  title: Major Renovation & <br>Second Story Addition
+  desc: La Jolla
+- image: uploads/gallery/major-renovations/Dang-Tran-Living-Room.jpg
+  class: major-renovations
+  title: Dang Tran Living Room
+  desc: San Diego
 - image: images/@stock/msn-work-14.jpg
   class: outdoor-spaces
   title: Flower Book
@@ -72,7 +72,7 @@ works:
   title: Look at me
   desc: Design &amp; Development
 - image: images/@stock/msn-work-3.jpg
-  class: miscellaneous
+  class: miscellaneous wide
   title: Am I cute
   desc: Design &amp; Development
 - image: images/@stock/msn-work-4.jpg
@@ -90,5 +90,13 @@ works:
 - image: images/@stock/msn-work-7.jpg
   class: under-construction
   title: A beautiful day
+  desc: Design &amp; Development
+- image: images/@stock/msn-work-6.jpg
+  class: rendering wide
+  title: Hale 2
+  desc: Design &amp; Development
+- image: images/@stock/msn-work-7.jpg
+  class: under-construction
+  title: Another beautiful day
   desc: Design &amp; Development
 ---
