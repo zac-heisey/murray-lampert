@@ -1,20 +1,20 @@
 ---
-title: Our Design, Build, & Remodel Services
+title: Our Design-Build Services in San Diego
 layout: default
 section_id: services
-permalink: /murray-lampert-services
+permalink: /design-build-services-san-diego
 featured-image:
-excerpt: From kitchen and bath remodeling to whole house renovations in San Diego, Murray Lampert Design, Build, Remodel. Learn more about our services today!
+excerpt: From kitchen and bath remodeling to whole house renovations in San Diego, Murray Lampert provides the best in Design-Build services. Visit to learn more.
 services_col_1:
 - url: /san-diego-room-additions
   title: Room Additions
-  desc: Whether you need a new family room, bedroom, or a master suite, Murray Lampert’s San Diego room addition services can deliver what you need.
+  desc: Whether you need a new family room, bedroom, or a master suite, our San Diego room addition services can deliver what you need.
 - url: /san-diego-second-story-addition
   title: Second Stories
-  desc: Add space without losing valuable landscaping or yard area with a second story addition. Our goal as a second story contractor in San Diego is to deliver quality, value, and satisfaction.
+  desc: Add space without losing valuable landscaping or yard area with a second story addition from Murray Lampert.
 - url: /san-diego-kitchen-remodeling-services
   title: Kitchen Remodels
-  desc: Transform your outdated kitchen with Murray Lampert's custom kitchen remodeling service. Get a new look by replacing cabinets, counters, appliances, fixtures, finishes, and more.
+  desc: Transform your outdated kitchen with our custom kitchen remodeling service. Modernize your cabinets, counters, appliances, and more.
 - url: /san-diego-bathroom-remodeling-services
   title: Bathroom Remodels
   desc: Expand and revitalize your master or guest bathroom with our custom San Diego bathroom remodeling services.
@@ -39,41 +39,10 @@ services_col_2:
   desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego weather. Outdoor fireplaces, kitchens, and more.
 - url: /san-diego-outdoor-living-space-design
   title: Outdoor Kitchens
-  desc: Customize your outdoor space with a kitchen, covered patio, fireplace, or a fire pit. Perfect for those weekend cookouts and summer BBQs with friends and family.
+  desc: Customize your outdoor space with a kitchen, covered patio, or fireplace. Perfect for those weekend cookouts with friends and family.
 - url: /san-diego-custom-cabinet-construction-services
   title: Custom Cabinets
   desc: Add flair and personality to your kitchen, bathroom, or home remodeling project with custom cabinets.  
-other_services:
-- url: fa fa-trophy
-  title: Design
-  desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
-    aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
-    nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
-    porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- url: fa fa-compass
-  title: Art Direction
-  desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
-    aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
-    nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
-    porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- url: fa fa-star-half-empty
-  title: Branding
-  desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
-    aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
-    nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
-    porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- url: fa fa-image
-  title: Photography
-  desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
-    aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
-    nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
-    porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
-- url: fa fa-dot-circle-o
-  title: Marketing
-  desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque
-    aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit
-    nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut
-    porro perferendis ex nihilillum ad adipisci saepe dolores cumque fugit nihil minus.
 ---
 
   <div class='medium-6 columns'>
@@ -99,20 +68,44 @@ other_services:
     {% endfor %}
   </div>
 
-  <div class='full'>
-    <div class='row'>
-      <div class='large-12 columns'>
-        <div class='mod modBoxedTextSlider'>
-          <div class='boxes'>
-            {% for service in page.other_services %}
-              <div class='box' style='background: #f9f9f9;'>
-                <i class='{{service.icon_class}}'></i>
-                <h4>{{service.title}}</h4>
-                <p>{{service.desc}}</p>
-              </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+## Murray Lampert San Diego Design, Build, and Remodel Services
+
+Murray Lampert has been at the forefront of innovation in the home remodeling industry since the company’s foundation in 1975. As one of San Diego's best-rated design-build firms, we take pride in being able to guarantee the best in terms of quality, functionality, appeal and return on investment. As a 4-time winner of the BBB Torch Award for Marketplace Ethics, we stand as a beacon of <a href="http://murraylampert.com/another-better-business-bureau-torch-award/">business integrity</a> in the <a href="http://murraylampert.com/">San Diego</a> community.
+
+Our <a href="http://murraylampert.com/why-choose-design-build-for-your-home-project/">design-build</a> approach enables us to ensure transparency and faster delivery time for services, eliminate under-budgeting risks and guarantee fair cost estimation, all the while remaining in full control of all phases of the project, from design and specifications to project management and construction.
+
+By perfecting an innovative method of project planning and delivery such as design-build, we have been able to provide uncompromising quality for all services, ranging from kitchen and bathroom remodels, room additions and interior design to custom cabinet construction and green building.
+<h3>Single Point of Contact for the Customer</h3>
+In the traditional, architect-driven approach, customers invariably have to deal with multiple contractors, depending on the type and scope of the project. Moreover, employing several contractors entails having several contracts, which is both time-consuming and costly.
+
+By contrast, design-build involves a dedicated project manager who is in charge of coordinating all aspects of the project and communicating with the customer.
+
+Experienced project managers at Murray Lampert will take care of your remodel from start to finish. You will receive regular progress updates and timely answers to all your questions regarding any aspect of the project, <a href="http://murraylampert.com/major-renovations/">from design to construction</a>.
+<h3>Controlled Cost-Estimation, No Under-Budgeting</h3>
+At Murray Lampert, we begin the projects with a detailed budget plan. By having a single contract covering all the design-build services, we can present our customers with a comprehensive and fully transparent cost estimation up front.
+
+We boast <a href="http://murraylampert.com/team-members/">an award-winning San Diego design-build team</a>, so you can be sure we will account for all project expenses and troubleshoot any issues quickly and efficiently.
+
+Rest assured there will be no hidden costs, as we will provide you with a detailed payment plan including all the individual services before any work begins on your home.
+
+We also provide a <a href="http://murraylampert.com/3d-architectural-rendering-services/">3D project modeling</a> service, so we can explicitly show our customers which services will be necessary to achieve the end-result.
+<h3>Timely Completion of Each Project Phase</h3>
+One of the biggest advantages of design-build is time-efficiency. There is no delayed time lag since different stages of a single project can be executed simultaneously while being carefully coordinated and monitored. Homeowners are delighted to realize the <a href="http://murraylampert.com/san-diego-home-design-serivces/">design time is shortened</a>, after which there is no need to hire a different contractor to carry out the rest of the project.
+
+Our seasoned designers value your time as much as they value your needs and ideas. Since we determine a timeframe at the beginning of each project, our designers try to shorten the time necessary for the project to reach the permit stage.
+<h3>Accountability and Consistency throughout the Project</h3>
+As a leading design-build contractor in San Diego, Murray Lampert remains fully accountable for the whole of your home renovation project. All members of our team are accountable to each other, and in turn – to you.
+
+We are especially proud of the close professional relationships our staff maintains. Their work is complementary as they strive to achieve each other’s visions. Designers make sure their renditions are achievable by the builders, while builders follow the designer’s vision closely so as to ensure it is accurately achieved.
+
+With a well-organized and coherent team of professionals at Murray Lampert, you can be sure there is no conflict of interest – there is no finger pointing or miscommunication, as our team shares the same professional goals and values.
+<h3>Personalized Design-Build Services in San Diego</h3>
+As a San Diego design-build contractor with a stellar reputation throughout Southern California and beyond, we take great pride in our unwavering commitment to customer satisfaction. Given the unprecedented increase in unique customer demands, our dedication to personalized customer service becomes more important than ever.
+
+We are especially proud to have been honored by GuildQuality for our superior delivery of customer care, thus being recognized as <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">a North American leader in customer service</a>.
+
+The design-build approach has enabled us to design and build <em>custom homes</em> throughout San Diego. We specialize in <a href="http://murraylampert.com/san-diego-custom-cabinet-construction-services/">custom kitchen cabinet construction</a> that enables our customers to showcase their personal style and preferences.
+
+Additionally, given the increased concern for the environment, Murray Lampert has adopted and developed <a href="http://murraylampert.com/san-diego-green-home-construction/">green home construction</a> practices that gave our customers healthy and sustainable homes.
+<h3>The Murray Lampert Design-Build Difference</h3>
+Murray Lampert has over 40 years of experience as one of the best design-build contractors in San Diego. We owe our success to the dedication of our team, unyielding strive for excellence and the trust of our customers. Let us show you the Murray Lampert difference we can bring to your home.
