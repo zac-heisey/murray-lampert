@@ -549,7 +549,10 @@ form input.error, form textarea.error {
 
 /*Footer */
 #footer {
-  background: #222;
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem 0;
+  background: #3d3d3d;
   color: #999;
 }
 #footer h1 {
