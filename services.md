@@ -60,7 +60,7 @@ services_col_2:
     {% for service in page.services_col_2 %}
       <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
         <div class='icon-text-simple'>
-          ### <a href='{{site.url}}{{service.url}}'>{{service.title}}</a>
+          <h3><a href='{{site.url}}{{service.url}}'>{{service.title}}</a></h3>
           <p>{{service.desc}}</p>
         </div>
         <div class='two spacing'></div>
