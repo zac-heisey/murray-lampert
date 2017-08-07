@@ -364,7 +364,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           @if ($topbar-link-bg-hover) {
             background: $topbar-link-bg-hover;
           }
-          color: $topbar-link-color-hover;
+          color: $primary-color;
         }
 
         // Apply the active link color when it has that class
@@ -517,7 +517,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               @if ($topbar-link-bg-hover) {
                 background: $topbar-link-bg-hover;
               }
-              color: $topbar-link-color-hover;
+              color: $primary-color;
             }
           }
           &:not(.has-form) {
@@ -537,11 +537,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             a:not(.button) {
               padding: 0 $topbar-link-padding;
               line-height: $topbar-height;
-              color: $topbar-link-color-active;
+              color: $primary-color;
               background: $topbar-link-bg-active;
               &:hover {
                 background: $topbar-link-bg-active-hover;
-                color: $topbar-link-color-active-hover;
+                color: $primary-color;
               }
             }
           }
@@ -607,12 +607,12 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
             &:not(.has-form):not(.active) {
               & > a:not(.button) {
-                color: $topbar-dropdown-link-color;
+                color: $primary-color;
                 background: $topbar-dropdown-link-bg;
               }
 
               &:hover > a:not(.button) {
-                color: $topbar-dropdown-link-color-hover;
+                color: $primary-color;
                 background-color: $topbar-link-bg-color-hover;
                 @if ($topbar-dropdown-link-bg-hover) {
                   background: $topbar-dropdown-link-bg-hover;
