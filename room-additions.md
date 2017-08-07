@@ -25,38 +25,38 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
 
 <section class="flex-section">
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/home-additions-carmel-mountain/">Carmel Mountain</a></li>
-   	<li><a href="http://murraylampert.com/home-additions-encinitas">Encinitas</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-bonita">Bonita</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-cardiff">Cardiff</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-santee">Santee</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-pacific-beach">Pacific Beach</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-rancho-bernardo">Rancho Bernardo</a></li>
+   	<li><a href="/home-additions-carmel-mountain/">Carmel Mountain</a></li>
+   	<li><a href="/home-additions-encinitas">Encinitas</a></li>
+   	<li><a href="/room-additions-bonita">Bonita</a></li>
+   	<li><a href="/room-additions-cardiff">Cardiff</a></li>
+   	<li><a href="/room-additions-santee">Santee</a></li>
+   	<li><a href="/room-additions-pacific-beach">Pacific Beach</a></li>
+   	<li><a href="/room-additions-rancho-bernardo">Rancho Bernardo</a></li>
   </ul>
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/room-additions-carlsbad">Carlsbad</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-mission-hills">Mission Hills</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-mission-valley">Mission Valley</a></li>
-   	<li><a href="http://murraylampert.com/home-additions-hillcrest">Hillcrest</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-coronado">Coronado</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-la-jolla">La Jolla</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-del-mar">Del Mar</a></li>
+   	<li><a href="/room-additions-carlsbad">Carlsbad</a></li>
+   	<li><a href="/room-additions-mission-hills">Mission Hills</a></li>
+   	<li><a href="/room-additions-mission-valley">Mission Valley</a></li>
+   	<li><a href="/home-additions-hillcrest">Hillcrest</a></li>
+   	<li><a href="/room-additions-coronado">Coronado</a></li>
+   	<li><a href="/room-additions-la-jolla">La Jolla</a></li>
+   	<li><a href="/room-additions-del-mar">Del Mar</a></li>
   </ul>
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/home-additions-mira-mesa">Mira Mesa</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-north-park">North Park</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-oceanside/">Oceanside</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-ramona">Ramona</a></li>
-   	<li><a href="http://murraylampert.com/home-additions-san-marcos">San Marcos</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-solana-beach">Solana Beach</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-scripps-ranch">Scripps Ranch</a></li>
+   	<li><a href="/home-additions-mira-mesa">Mira Mesa</a></li>
+   	<li><a href="/room-additions-north-park">North Park</a></li>
+   	<li><a href="/room-additions-oceanside/">Oceanside</a></li>
+   	<li><a href="/room-additions-ramona">Ramona</a></li>
+   	<li><a href="/home-additions-san-marcos">San Marcos</a></li>
+   	<li><a href="/room-additions-solana-beach">Solana Beach</a></li>
+   	<li><a href="/room-additions-scripps-ranch">Scripps Ranch</a></li>
   </ul>
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/room-additions-rancho-santa-fe ">Rancho Santa Fe</a></li>
-   	<li><a href="http://murraylampert.com/home-additions-rancho-penasquitos">Rancho Peñasquitos</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-point-loma">Point Loma</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-carmel-valley">Carmel Valley</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-escondido">Escondido</a></li>
-   	<li><a href="http://murraylampert.com/room-additions-poway">Poway</a></li>
+   	<li><a href="/room-additions-rancho-santa-fe ">Rancho Santa Fe</a></li>
+   	<li><a href="/home-additions-rancho-penasquitos">Rancho Peñasquitos</a></li>
+   	<li><a href="/room-additions-point-loma">Point Loma</a></li>
+   	<li><a href="/room-additions-carmel-valley">Carmel Valley</a></li>
+   	<li><a href="/room-additions-escondido">Escondido</a></li>
+   	<li><a href="/room-additions-poway">Poway</a></li>
   </ul>
 </section>
