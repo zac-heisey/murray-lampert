@@ -7,9 +7,10 @@ section_id: blog
   <div class='large-9 columns'>
     {% for post in paginator.posts %}
       <div class='big mod modBlogPost no_bg'>
+        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
         <div class='images'>
           {% if post.image and post.image != "" %}
-            <div class='image'><img alt="" src="{{site.url}}/{{post.image}}" /></div>
+            <div class='image'><img title="{{ post.title }}" alt="Murray Lampert {{ post.title }}" src="{{site.url}}/{{post.image}}" /></div>
           {% endif %}
         </div>
         <div class='content'>
@@ -31,7 +32,6 @@ section_id: blog
               {% endfor %}
             </span>
           </p>
-          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
           <p>{{post.excerpt}}</p>
           <div class='spacing'></div>
           <a class="button small" href="{{post.url}}">Read more</a>

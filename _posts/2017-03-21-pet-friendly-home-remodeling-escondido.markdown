@@ -3,6 +3,14 @@ title: Best Pet-Friendly Home Remodeling Features
 date: 2017-03-21 03:55:35 Z
 permalink: "/pet-friendly-home-remodeling-escondido/"
 layout: post
+image: /uploads/Open-Space-Kitchen-Home-Remodeling-Escondido-1024x731.jpg
+excerpt: We've got some pet-friendly home remodeling features to incorporate into your next remodel project that are sure to make your furry friends thankful.
+author: Gregg Cantor
+categories:
+- Home Remodeling
+tags:
+- home remodeling
+- pet-friendly
 ---
 
 Adopting a pet can turn your world completely upside down. As pet parents are well aware of, pets are not unlike children. They can change your life for the better, but they also have their needs. And if you are thinking about home remodeling in Escondido, you should make sure you respect those needs and plan the project the same as you would if you were remodeling to cater to a child’s needs.
@@ -19,7 +27,6 @@ Electric cords all over your home also spell hazard. Dogs, cats and smaller anim
 
 If you want to keep your pets away from a room, the kitchen, for example, you could also consider adding gated entries. These can be matched with your cabinetry for a seamless look. Plus, they are just as effective in keeping children out of dangerous areas as well.
 
-<img class="aligncenter size-large wp-image-3228" src="http://murraylampert.com/wp-content/uploads/Open-Space-Kitchen-Home-Remodeling-Escondido-1024x731.jpg" alt="Open-Space Kitchen - Home Remodeling Escondido" width="940" height="671" />
 <h2>Flooring</h2>
 If you want your pet-friendly remodeling project to be as thorough as possible, plan it from the floor up. Some flooring options are significantly better than others if you are a pet parent. Whether the floor is stain and scratch resistant or not can make all the difference. Therefore materials like soft wood are not an option. However, linoleum, tiles, and hardwood are great ones. Hardwood might be slightly more expensive, but its durability and easy maintenance will benefit pet parents more than any other material.
 
