@@ -1,0 +1,48 @@
+---
+layout: default
+section_id: projects
+---
+
+<div class='mod modBoxedSlider'>
+  <div class='slides'>
+    {% for image in page.featured-images %}
+      <div class='slide'>
+        <img alt="" src="{{image}}" />
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<div class='spacing'></div>
+<div class='row'>
+  <div class='large-8 columns'>
+    <h3>{{ page.title }}</h3>
+    <p>
+      {{ content }}
+    </p>
+    <div class='spacing'></div>
+  </div>
+  <div class='large-4 columns'>
+    <ul class='info'>
+      <li>
+        <strong>Client:</strong>
+        Lovett
+      </li>
+      <li>
+        <strong>Location:</strong>
+        Pacific Beach
+      </li>
+      <li>
+        <strong>Date:</strong>
+        June 2013
+      </li>
+      <div class='spacing'></div>
+      <li>
+        <a class='button small' href='/featured-projects'>Other Featured Projects</a>
+      </li>
+      <li>
+        <a class='button small' href='/projects'>View Project Gallery</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class='four spacing'></div>
