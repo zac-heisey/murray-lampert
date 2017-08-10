@@ -37,9 +37,9 @@ services_col_2:
 - url: /san-diego-outdoor-living-space-design
   title: Outdoor Living Spaces
   desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego weather. Outdoor fireplaces, kitchens, and more.
-- url: /san-diego-outdoor-living-space-design
-  title: Outdoor Kitchens
-  desc: Customize your outdoor space with a kitchen, covered patio, or fireplace. Perfect for those weekend cookouts with friends and family.
+- url: /san-diego-in-law-suites
+  title: In-Law Suites
+  desc: In-law suites and granny flats are popular ways for San Diegans to add value and square footage to their home.
 - url: /san-diego-custom-cabinet-construction-services
   title: Custom Cabinets
   desc: Add flair and personality to your kitchen, bathroom, or home remodeling project with custom cabinets.  
