@@ -13,7 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
-    image: ''
+    featured-image: ''
     excerpt: ''
     author: ''
 url: https://murray-lampert.netlify.com # change before moving site to Netlify servers

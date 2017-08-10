@@ -3,13 +3,13 @@ title: Best Pet-Friendly Home Remodeling Features
 date: 2017-03-21 03:55:35 Z
 permalink: "/pet-friendly-home-remodeling-escondido/"
 layout: post
-image: /uploads/Open-Space-Kitchen-Home-Remodeling-Escondido-1024x731.jpg
+featured-image: /uploads/Open-Space-Kitchen-Home-Remodeling-Escondido-1024x731.jpg
 excerpt: We've got some pet-friendly home remodeling features to incorporate into your next remodel project that are sure to make your furry friends thankful.
 author: Gregg Cantor
 categories:
 - Home Remodeling
 tags:
-- home remodeling
+- home remodel
 - pet-friendly
 ---
 

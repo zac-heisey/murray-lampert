@@ -11,7 +11,7 @@ images:
     <div class='large-12 columns'>
       <div class='mod modBoxedSlider'>
         <div class='slides'>
-          {% for image in page.images %}
+          {% for image in page.featured-images %}
             <div class='slide'>
               <img alt="" src="{{image}}" />
             </div>
