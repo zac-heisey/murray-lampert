@@ -35,7 +35,7 @@ works:
   class: kitchen-remodels
   title: Custom Glazed Kitchen
   desc: La Jolla
-- image: uploads/gallery/baths/cotemasterbath3_m.jpg
+- image: uploads/gallery/baths/cote-master-bath.jpg
   class: bathroom-remodels
   title: Bathroom Remodel
   desc: Del Cerro
