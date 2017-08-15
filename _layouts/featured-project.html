@@ -7,7 +7,7 @@ section_id: projects
   <div class='slides'>
     {% for image in page.featured-images %}
       <div class='slide'>
-        <img alt="" src="{{image}}" />
+        <img title ="{{ page.title }}" alt="{{ page.title }} featured images" src="{{image}}" />
       </div>
     {% endfor %}
   </div>
