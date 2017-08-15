@@ -7,8 +7,6 @@ featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Santee, San Diego. Take your Santee home addition to the next level with us.
 ---
 
-## Room Additions Santee
-
 In 2013, Santee had a population of 56,105 and a median household income of $69,169. It is bisected by the San Diego River which is a linear greenbelt of many acres of the natural riparian habitat, trails, and many parks. Santee is one of the fastest growing suburban communities with regard to housing and corporate business. The city has seen the establishment of three lightened softball fields, two lightened arena soccer fields, and four batting cages.
 
 Santee is a community that embraces growth. As a result, there has been a significant increase in home addition projects in Santee. [Adding a second story](/san-diego-second-story-addition) or an extra room is no small task, and the contractor you choose will have a huge influence on your overall experience and project outcome. [Murray Lampert Design, Build, Remodel](/) has specialized in Santee home additions [since 1975](/about-murray-lampert-design-build-remodel).
