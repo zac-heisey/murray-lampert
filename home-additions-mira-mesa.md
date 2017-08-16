@@ -11,7 +11,7 @@ Mira Mesa is a scenic community that boasts impressive canyon systems, hillsides
 
 Since the general tendency is to provide high-quality housing for all economic levels, there is a variety of home renovation options. When it comes to enhancing the space and the overall functionality of a Mira Mesa home, a growing number of homeowners are considering having home or room additions.
 
-## Home Additions in Mira Mesa
+## Mira Mesa Home Additions by Murray Lampert
 
 The first step towards carrying out a successful home additions project in Mira Mesa is locating <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">a company known for its reliability and quality service</a>. You will easily decide on the best company after you take time and assess different companies before you decide on one. Some of the factors you need to take into consideration include the cost of the services. The right company should offer you the home addition services at fair rates. The materials used should add value to your home. Murray Lampert has been at the forefront of <a href="http://murraylampert.com/about-murray-lampert-design-build-remodel/">providing top-quality home addition services for over 40 years</a>. Our satisfied clients testify to the fairness of our prices, our reliability and the quality of our services.
 <h3>We will create extra room for your family members</h3>
