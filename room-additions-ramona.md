@@ -12,7 +12,7 @@ Among the top places that you can live in California is Ramona. It is one of the
 ## Ramon Home Additions by Murray Lampert
 
 <h3>Working With a Licensed Professional</h3>
-All our experts are licensed, meaning that we are adequately covered with liability and property damage insurance. In addition, our professionals undergo continuous training and education every year. This continuous training equips them with the right skills to enable them to handle all the emerging issues as well as the <a href="http://murraylampert.com/san-diego-home-design-serivces/">varying customer needs</a>.
+All our experts are licensed, meaning that we are adequately covered with liability and property damage insurance. In addition, our professionals undergo continuous training and education every year. This continuous training equips them with the right skills to enable them to handle all the emerging issues as well as the <a href="http://murraylampert.com/san-diego-home-design-services/">varying customer needs</a>.
 <h3>Custom room additions by a remodeling expert</h3>
 Since Murray Lampert has been in this industry for over four decades, we have learned how to listen and understand what you have in mind before we give you our professional suggestions. Our staff will make sure that your task is executed appropriately and that you get the kind of room you want.
 
