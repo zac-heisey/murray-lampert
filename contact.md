@@ -19,8 +19,16 @@ phone: "(619) 285-9222"
           <div class='medium-12 columns'>
             <input class='required' name='name' placeholder='NAME' type='text'>
             <input class='required email' name='email' placeholder='EMAIL' type='text'>
-            <input class='required' name='subject' placeholder='SUBJECT' type='text'>
-            <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
+            <select class='required' name='select' placeholder='AREA OF INTEREST'>
+              <option value="area-of-interest">AREA OF INTEREST</option>
+              <option value="total-renovation">Total Renovation</option>
+              <option value="room-addition">Room Addition</option>
+              <option value="second-store">Second Story</option>
+              <option value="kitchen">Kitchen</option>
+              <option value="bathroom">Bathroom</option>
+              <option value="other">Other</option>
+            </select>
+            <textarea class='required' name='message' placeholder='HOW CAN WE HELP?'></textarea>
             <input class='button white' type='submit'>
           </div>
         </form>
