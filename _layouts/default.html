@@ -25,7 +25,9 @@
           {{ content }}
         </div>
       </div>
-      {% include quick-contact.html %}
+      {% if page.title != 'Contact Murray Lampert' and page.title != 'Blog' %}
+        {% include quick-contact.html %}
+      {% endif %}
       <div class='four spacing'></div>
     </div>
 

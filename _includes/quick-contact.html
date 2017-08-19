@@ -1,31 +1,39 @@
-<form id='contact_form' method='POST'>
-  <div class='form'>
-    <div class='row'>
-        <div class='large-4 columns'>
-          <input class='required' name='first-name' placeholder='FIRST NAME' type='text'>
+<div class='full'>
+  <div class='row'>
+    <div id="quick-contact" class='medium-8 columns'>
+      <h2>Contact Murray Lampert</h2>
+      <h3>Get More Info About {{ page.title }}</h3>
+      <div class='form'>
+        <div class='row'>
+          <form id='contact_form' method='POST'>
+            <div class='medium-12 columns'>
+              <input class='required' name='name' placeholder='NAME' type='text'>
+              <input class='required email' name='email' placeholder='EMAIL' type='text'>
+              <select class='required' name='select' placeholder='AREA OF INTEREST'>
+                <option value="area-of-interest">AREA OF INTEREST</option>
+                <option value="total-renovation">Total Renovation</option>
+                <option value="room-addition">Room Addition</option>
+                <option value="second-store">Second Story</option>
+                <option value="kitchen">Kitchen</option>
+                <option value="bathroom">Bathroom</option>
+                <option value="other">Other</option>
+              </select>
+              <textarea class='required' name='message' placeholder='HOW CAN WE HELP?'></textarea>
+              <input class='button default' type='submit' value="GET IN TOUCH">
+            </div>
+          </form>
         </div>
-        <div class='large-4 columns'>
-          <input class='required' name='last-name' placeholder='LAST NAME' type='text'>
-        </div>
-        <div class='large-4 columns'>
-          <input class='required email' name='email' placeholder='EMAIL' type='text'>
-        </div>
-    </div>
-    <div class='row'>
-      <div class='large-9 columns'>
-        <label>Area of Interest</label>
-        <select class='required' name='select' placeholder='AREA OF INTEREST'>
-          <option value="total-renovation">Total Renovation</option>
-          <option value="room-addition">Room Addition</option>
-          <option value="second-store">Second Story</option>
-          <option value="kitchen">Kitchen</option>
-          <option value="bathroom">Bathroom</option>
-          <option value="other">Other</option>
-        </select>
       </div>
-      <div class='large-3 columns'>
-        <input class='button white' type='submit'>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-4 columns'>
+      <div class='contact-details'>
+        <h3>Ready for Your Free In-Home Consultation?</h3>
+        <h4>Click the Button Below to Get Started:</h4>
+        <div class='two spacing'></div>
+        <button class="button default" href="#">LET'S DO THIS!</button>
       </div>
     </div>
+    <div class='four spacing'></div>
   </div>
-</form>
+</div>
