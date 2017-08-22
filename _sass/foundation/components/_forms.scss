@@ -575,3 +575,8 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
     label.error { @include form-label-error-color; }
   }
 }
+
+/* Quick Contact form syles */
+#quick-contact {
+  background-color: #B5C6D6;
+}
