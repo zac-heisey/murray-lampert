@@ -31,36 +31,36 @@ We have established pricing with our trades so there is no bidding or risk to yo
 
 <section class="flex-section">
   <ul class="city-list">
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-bonita">Bonita</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-carlsbad">Carlsbad</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-carmel-mountain">Carmel Mountain</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-carmel-valley">Carmel Valley</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-coronado">Coronado</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodel-clairemont-mesa">Clairemont Mesa</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-del-mar">Del Mar</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-encinitas">Encinitas</a></li>
-  	<li><a href="http://murraylampert.com/kitchen-remodeling-escondido">Escondido</a></li>
+  	<li><a href="/kitchen-remodeling-bonita">Bonita</a></li>
+  	<li><a href="/kitchen-remodeling-carlsbad">Carlsbad</a></li>
+  	<li><a href="/kitchen-remodeling-carmel-mountain">Carmel Mountain</a></li>
+  	<li><a href="/kitchen-remodeling-carmel-valley">Carmel Valley</a></li>
+  	<li><a href="/kitchen-remodeling-coronado">Coronado</a></li>
+  	<li><a href="/kitchen-remodel-clairemont-mesa">Clairemont Mesa</a></li>
+  	<li><a href="/kitchen-remodeling-del-mar">Del Mar</a></li>
+  	<li><a href="/kitchen-remodeling-encinitas">Encinitas</a></li>
+  	<li><a href="/kitchen-remodeling-escondido">Escondido</a></li>
   </ul>
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-hillcrest">Hillcrest</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-la-jolla">La Jolla</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-mira-mesa">Mira Mesa</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-mission-valley">Mission Valley</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-north-park">North Park</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-ocean-beach">Ocean Beach</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-oceanside">Oceanside</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-pacific-beach">Pacific Beach</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-point-loma">Point Loma</a></li>
+   	<li><a href="/kitchen-remodeling-hillcrest">Hillcrest</a></li>
+   	<li><a href="/kitchen-remodeling-la-jolla">La Jolla</a></li>
+   	<li><a href="/kitchen-remodeling-mira-mesa">Mira Mesa</a></li>
+   	<li><a href="/kitchen-remodeling-mission-valley">Mission Valley</a></li>
+   	<li><a href="/kitchen-remodeling-north-park">North Park</a></li>
+   	<li><a href="/kitchen-remodeling-ocean-beach">Ocean Beach</a></li>
+   	<li><a href="/kitchen-remodeling-oceanside">Oceanside</a></li>
+   	<li><a href="/kitchen-remodeling-pacific-beach">Pacific Beach</a></li>
+   	<li><a href="/kitchen-remodeling-point-loma">Point Loma</a></li>
   </ul>
   <ul class="city-list">
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-poway">Poway</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-ramona">Ramona</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodel-rancho-bernardo">Rancho Bernardo</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-rancho-penasquitos">Rancho Penasquitos</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-rancho-santa-fe">Rancho Santa Fe</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodel-san-marcos">San Marcos</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-santee">Santee</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-scripps-ranch">Scripps Ranch</a></li>
-   	<li><a href="http://murraylampert.com/kitchen-remodeling-solana-beach">Solana Beach</a></li>
+   	<li><a href="/kitchen-remodeling-poway">Poway</a></li>
+   	<li><a href="/kitchen-remodeling-ramona">Ramona</a></li>
+   	<li><a href="/kitchen-remodel-rancho-bernardo">Rancho Bernardo</a></li>
+   	<li><a href="/kitchen-remodeling-rancho-penasquitos">Rancho Penasquitos</a></li>
+   	<li><a href="/kitchen-remodeling-rancho-santa-fe">Rancho Santa Fe</a></li>
+   	<li><a href="/kitchen-remodel-san-marcos">San Marcos</a></li>
+   	<li><a href="/kitchen-remodeling-santee">Santee</a></li>
+   	<li><a href="/kitchen-remodeling-scripps-ranch">Scripps Ranch</a></li>
+   	<li><a href="/kitchen-remodeling-solana-beach">Solana Beach</a></li>
   </ul>
 </section>
