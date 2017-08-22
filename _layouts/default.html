@@ -19,7 +19,7 @@
       <div class='full'>
         <div class='row'>
           {% if page.featured-image and page.featured-image != "" %}
-            <img src="{{ site.url }}/{{ page.featured-image }}" title="{{ page.title }} | Murray Lampert" alt="{{ page.title }} featured image" />
+            <img id="featured-image" src="{{ site.url }}/{{ page.featured-image }}" title="{{ page.title }} | Murray Lampert" alt="{{ page.title }} featured image" />
             <div class='spacing'></div>
           {% endif %}
           {{ content }}

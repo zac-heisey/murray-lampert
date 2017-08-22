@@ -465,6 +465,12 @@ $cursor-text-value: text !default;
     img {
       display: inline-block;
       vertical-align: middle;
+
+      // Center featured images on pages and blog posts
+      &#featured-image {
+        display: block;
+        margin: 0 auto;
+      }
     }
 
     //
