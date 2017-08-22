@@ -15,7 +15,9 @@ Murray Lampert Design, Build, Remodel is not just your everyday [design build co
 
 ## San Diego Architectural Rendering and 3D Modeling
 
-<iframe src="https://www.youtube.com/embed/Ka-aHMtx9Zw?wmode=transparent" width="100%" height="328" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="flex-video">
+  <iframe src="https://www.youtube.com/embed/Ka-aHMtx9Zw?wmode=transparent" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 <div class='two spacing'></div>
 At Murray Lampert, you get architectural plans, structural engineering, energy efficient designs, permit processing, high quality construction, and advanced **architectural modeling and rendering** capabilities all under one roof. [Contact us](/contact) today to learn more.

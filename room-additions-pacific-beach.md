@@ -15,8 +15,8 @@ Young people and families alike enjoy living in Pacific Beach. There is often th
 
 At [Murray Lampert Design, Build, Remodel](/), we provide superior room addition services in Pacific Beach. If you're to transform your Pacific Beach home into a luxurious living space with plenty of room, we'd love to work with you. Since 1975, we've worked to establish lasting relationships with our trade partners, suppliers, and inspectors in San Diego, enabling us to deliver a unparalleled service to our clients.
 
-<div class='flex-video'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/RGn8ISNG-AY" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/RGn8ISNG-AY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Our airtight reputation has been built for over 40 years on outstanding customer service, innovative design, superior workmanship and reliability. We won the BBB Torch Award for Marketplace Ethics four times, which also testifies to <a href="http://murraylampert.com/another-better-business-bureau-torch-award/">our commitment to the community</a>
