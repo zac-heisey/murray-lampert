@@ -33,7 +33,7 @@ We have established pricing with our trades so there is no bidding or risk to yo
   <ul class="city-list">
   	<li><a href="/kitchen-remodeling-bonita">Bonita</a></li>
   	<li><a href="/kitchen-remodeling-carlsbad">Carlsbad</a></li>
-  	<li><a href="/kitchen-remodeling-carmel-mountain">Carmel Mountain</a></li>
+  	<li><a href="/kitchen-remodel-carmel-mountain">Carmel Mountain</a></li>
   	<li><a href="/kitchen-remodeling-carmel-valley">Carmel Valley</a></li>
   	<li><a href="/kitchen-remodeling-coronado">Coronado</a></li>
   	<li><a href="/kitchen-remodel-clairemont-mesa">Clairemont Mesa</a></li>
