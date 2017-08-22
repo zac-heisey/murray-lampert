@@ -3447,3 +3447,10 @@ body {
     }
 
 }
+
+/* Main Content Row styles */
+@media only screen and (max-width: 80rem) {
+  #main-content-row.row {
+    max-width: 90%;
+  }
+}
