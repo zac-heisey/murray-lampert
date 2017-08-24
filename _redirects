@@ -13,4 +13,5 @@
 ## Other gallery pages (/room-additions-gallery/, etc.)
 
 # Image Redirects
+## /wp-content/uploads/*  /uploads/:splat
 ## TBD
