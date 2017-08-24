@@ -21,7 +21,7 @@ Residents of this vibrant community have turned from traditional homes to more m
 
 ### Excellent kitchen remodel service in Hillcrest
 
-When it comes to home improvements, kitchen remodeling is an inevitable practice. Remodeling your kitchen is beneficial whether for meeting the ever-growing family needs, staging a house for sale in the real estate market, or just enhancing the overall appeal of your home. It is true that home-buyers have advanced in their demands and are slowly turning away from old-fashioned homes. <strong>Murray Lampert Design, Build, Remodel </strong>specializes in <a href="http://murraylampert.com/san-diego-home-design-serivces/">kitchen remodeling and other residential home renovations</a>. We deliver exceptional service with <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">the Murray Lampert difference</a>.
+When it comes to home improvements, kitchen remodeling is an inevitable practice. Remodeling your kitchen is beneficial whether for meeting the ever-growing family needs, staging a house for sale in the real estate market, or just enhancing the overall appeal of your home. It is true that home-buyers have advanced in their demands and are slowly turning away from old-fashioned homes. <strong>Murray Lampert Design, Build, Remodel </strong>specializes in <a href="http://murraylampert.com/san-diego-home-design-services/">kitchen remodeling and other residential home renovations</a>. We deliver exceptional service with <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">the Murray Lampert difference</a>.
 
 ### Our kitchen remodeling in Hillcrest is cost-effective
 

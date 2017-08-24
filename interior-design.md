@@ -18,6 +18,6 @@ There are a handful of reasons our clients enjoy working with us:
 - **Material and product selection:** We stay in the know about new materials and products to assist you in making the best choices for your needs.
 - **Attention to detail, organization, and communication:** We value attention to detail, consistent organization, and excellent communication to ensure materials are ordered and delivered on time and your project runs smoothly.
 - **Collaboration and installation:** Close collaboration with our architect and project manager ensures fixtures and finishes are installed according to the manufacturer’s specifications.
-- **The finished design:** By incorporating your personal style with our knowledge of [home design](/san-diego-home-design-serivces), together we create beautiful, functional living spaces that exceed expectations.
+- **The finished design:** By incorporating your personal style with our knowledge of [home design](/san-diego-home-design-services), together we create beautiful, functional living spaces that exceed expectations.
 
 Ready to talk about your vision for a perfectly designed space? Give us a call at **(619) 285-9222** or [contact us online](/contact) today.

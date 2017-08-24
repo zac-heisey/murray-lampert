@@ -11,7 +11,7 @@ Scripps Ranch is a bedroom community, home to working families and young profess
 
 ## Scripps Ranch Room & Home Additions
 
-Our Scripps Ranch room additions service gives you the possibility of <a href="http://murraylampert.com/san-diego-home-design-serivces/">designing your new room</a> to fit your style and preferences. Our team will personalize your new space with the help of your input. Our staff architect will work closely with you to determine the purpose of your new space. The purpose will tell you a lot about what the place should look like and what features will have to be incorporated.
+Our Scripps Ranch room additions service gives you the possibility of <a href="http://murraylampert.com/san-diego-home-design-services/">designing your new room</a> to fit your style and preferences. Our team will personalize your new space with the help of your input. Our staff architect will work closely with you to determine the purpose of your new space. The purpose will tell you a lot about what the place should look like and what features will have to be incorporated.
 <h3>Enviable expertise and premier project management</h3>
 At Murray Lampert, we take great pride in <a href="http://murraylampert.com/about-murray-lampert-design-build-remodel/">our A list of professionals</a>. Testimonies of their unparalleled skill can be seen all over Scripps Ranch and throughout San Diego. In order to keep abreast of the innovations and trends in the industry, our staff goes through continuous training.
 

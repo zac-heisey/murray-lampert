@@ -13,7 +13,7 @@ The residents of this area are always outgrowing their living spaces, and hence 
 
 ## Custom Point Loma Home Additions
 
-We are home renovation professionals who can give you an assessment of your house so that we develop a solid plan of action together. You might have an idea of the <a href="http://murraylampert.com/san-diego-home-design-serivces/">features or styles you want for your new room</a> but we have an extra set of eyes that are highly trained to notice areas for improvement. Once you communicate your desires to us, we give you a comprehensive design that best suits your needs and wishes.
+We are home renovation professionals who can give you an assessment of your house so that we develop a solid plan of action together. You might have an idea of the <a href="http://murraylampert.com/san-diego-home-design-services/">features or styles you want for your new room</a> but we have an extra set of eyes that are highly trained to notice areas for improvement. Once you communicate your desires to us, we give you a comprehensive design that best suits your needs and wishes.
 <h3>Qualified and reliable</h3>
 In most cases, the role of a designer is to interpret your needs and come up with a professional plan for your room addition project. At Murray Lampert, we have thoroughly trained experts who are capable of providing you with a broad range of other resources all in a bid to ensure that your project goes off without a hitch. And in case you need any form of verification, we are always ready to present you with our staff’s credentials and certifications.
 <h3>Innovative remodeling technology</h3>

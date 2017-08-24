@@ -21,7 +21,7 @@ The kitchens we build or remodel are meant to stand the test of time. In additio
 
 ### Enjoy our custom kitchen designs
 
-We have great designs for kitchen remodeling in Ramona. Our designers will approach you with a number of different designs for you to choose from. Alternatively, we will listen to your ideas on what you want your kitchen to look like and <a href="http://murraylampert.com/san-diego-home-design-serivces/">adjust the designs</a> to suit your style and preferences.
+We have great designs for kitchen remodeling in Ramona. Our designers will approach you with a number of different designs for you to choose from. Alternatively, we will listen to your ideas on what you want your kitchen to look like and <a href="http://murraylampert.com/san-diego-home-design-services/">adjust the designs</a> to suit your style and preferences.
 
 ### 3D architectural modeling for your kitchen remodel
 

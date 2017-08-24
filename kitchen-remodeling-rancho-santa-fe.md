@@ -15,7 +15,7 @@ Rancho Santa Fe is a suburb in San Diego County but is officially referred to as
 
 ### Tailored kitchen remodeling services
 
-Residents of Rancho Santa Fe in need of home makeover services such as a kitchen remodeling enjoy our fully personalized services. Our firm is the leading remodeling firm in San Diego. At <strong>Murray Lampert Design, Build and Remodel</strong>, we <a href="http://murraylampert.com/san-diego-home-design-serivces/">tailor our services</a> to suit our clients' needs. After we consult with a client, we come up with a custom design that suits their kitchen and is to their liking.
+Residents of Rancho Santa Fe in need of home makeover services such as a kitchen remodeling enjoy our fully personalized services. Our firm is the leading remodeling firm in San Diego. At <strong>Murray Lampert Design, Build and Remodel</strong>, we <a href="http://murraylampert.com/san-diego-home-design-services/">tailor our services</a> to suit our clients' needs. After we consult with a client, we come up with a custom design that suits their kitchen and is to their liking.
 
 ### Use of modern remodeling technology
 

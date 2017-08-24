@@ -45,7 +45,7 @@ Private schools in the area include Sacred Heart Parish School and Christ Church
 
 <strong>Architecture</strong>, <strong>Design, and Style</strong>
 
-<strong><img class="alignright" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/ss/SecondStoryLaMesa.jpg" alt="" width="327" height="218" /></strong><a href="http://www.murraylampert.com/san-diego-home-design-serivces/">Home design</a> in Coronado embodies a unique style that reflects the town’s proximity to the sea. Homes features classic California Spanish design while incorporating aspects of the beachside cottage. The Hotel Del Coronado is a beautiful example of the wooden Victorian beach resort, a remnant of an American architectural genre that still stands out today.
+<strong><img class="alignright" style="margin: 5px;" src="http://www.murraylampert.com/images/gallery/ss/SecondStoryLaMesa.jpg" alt="" width="327" height="218" /></strong><a href="http://www.murraylampert.com/san-diego-home-design-services/">Home design</a> in Coronado embodies a unique style that reflects the town’s proximity to the sea. Homes features classic California Spanish design while incorporating aspects of the beachside cottage. The Hotel Del Coronado is a beautiful example of the wooden Victorian beach resort, a remnant of an American architectural genre that still stands out today.
 
 There are many old homes in downtown Coronado, so remodeling is very popular and property values have held up well making home improvement a great investment.
 

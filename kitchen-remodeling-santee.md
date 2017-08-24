@@ -31,4 +31,4 @@ As a leading kitchen remodeling firm, we will not just design brand new kitchens
 
 As a company, we have won a number of accolades, including the Guildmaster Award and the BBB Torch Award. These were given to us in recognition of the great work we have done and continue to do. All our clients can benefit from our reliability and trustworthiness. We provide trusted <strong>kitchen remodeling Santee</strong> services that residents can count on.
 
-For more information on the range of our services, visit our [design](/san-diego-home-design-serivces), [build](/san-diego-design-build-contractors), or [remodeling](/san-diego-home-remodel-services) pages.
+For more information on the range of our services, visit our [design](/san-diego-home-design-services), [build](/san-diego-design-build-contractors), or [remodeling](/san-diego-home-remodel-services) pages.

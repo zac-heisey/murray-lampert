@@ -40,7 +40,7 @@ What value do you attach to your kitchen? A well-organized, spacious, and proper
 
 ### Our kitchen remodel in Carmel Mountain adds more space
 
-If you are to make your home feel more spacious, remodeling your kitchen may go a long way in achieving this. We have expert kitchen remodel professionals that would design for you creative ways of reducing your overall kitchen space to create more room for your living area without cluttering the kitchen. This also includes introducing more drawers and cabinets, <a href="http://murraylampert.com/san-diego-home-design-serivces/">custom made</a> to match your interior finishing.
+If you are to make your home feel more spacious, remodeling your kitchen may go a long way in achieving this. We have expert kitchen remodel professionals that would design for you creative ways of reducing your overall kitchen space to create more room for your living area without cluttering the kitchen. This also includes introducing more drawers and cabinets, <a href="http://murraylampert.com/san-diego-home-design-services/">custom made</a> to match your interior finishing.
 
 ### How do we go about it?
 

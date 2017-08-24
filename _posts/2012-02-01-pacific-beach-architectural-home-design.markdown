@@ -21,4 +21,4 @@ Tower 23 is another shining star of Pacific Beach Architecture. This hotel is a 
 
 Pacific Beach is also home to new styles of architecture. Many of the most recently built residences are multi-million dollar houses with spiral staircases, infinity pools, and theater rooms that show off the latest in ultramodern styles.
 
-From practical apartment complexes to luxurious hotels with tropical themes, Pacific Beach architecture and <a href="http://www.murraylampert.com/san-diego-home-design-serivces/">home design</a> provides an interesting reflection on the area’s history and growth.
+From practical apartment complexes to luxurious hotels with tropical themes, Pacific Beach architecture and <a href="http://www.murraylampert.com/san-diego-home-design-services/">home design</a> provides an interesting reflection on the area’s history and growth.

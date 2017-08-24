@@ -11,7 +11,7 @@ Solana Beach is one of the cities in San Diego County, California. This is a sma
 
 ## Custom Kitchen Remodeling in Solana Beach
 
-At Murray Lampert, we understand that each client has unique needs and preferences when it comes to remodeling the kitchen or other parts of the home. This is why we always involve our clients during <a href="http://murraylampert.com/san-diego-home-design-serivces/">the design process</a>. We love to get their input, ask for their thoughts and incorporate these into the final design of the kitchen. Customized services are the hallmark of a great company.
+At Murray Lampert, we understand that each client has unique needs and preferences when it comes to remodeling the kitchen or other parts of the home. This is why we always involve our clients during <a href="http://murraylampert.com/san-diego-home-design-services/">the design process</a>. We love to get their input, ask for their thoughts and incorporate these into the final design of the kitchen. Customized services are the hallmark of a great company.
 
 ### State-of-the-art architectural modeling
 

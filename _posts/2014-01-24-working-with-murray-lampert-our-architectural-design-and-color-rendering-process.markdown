@@ -14,7 +14,7 @@ At our firm, the process begins with a meeting between the client, our design sp
 
 <strong>Step 2: Develop preliminary design schemes.</strong>
 
-Our staff architect produces a few different <a href="http://www.murraylampert.com/san-diego-home-design-serivces/">design </a>schemes based on what we discover in the meeting with the client.
+Our staff architect produces a few different <a href="http://www.murraylampert.com/san-diego-home-design-services/">design </a>schemes based on what we discover in the meeting with the client.
 
 <strong>Step 3: Help the client visualize their soon-to-be new space.</strong>
 

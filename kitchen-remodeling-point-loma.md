@@ -17,7 +17,7 @@ For Point Loma residents, living in style is a part of their heritage, so remode
 
 ### You imagine it, and we design and build it for you
 
-Remodeling your home is a personal undertaking that is only worth your while if you get exactly what you signed up for. We have adept professionals who work well with clients' ideas, transforming dreams into lovely kitchens. Our <a href="http://murraylampert.com/san-diego-home-design-serivces/">customized services</a> give the client limitless possibilities that they will have fun exploring. Your input and ideas are invaluable to the outcome since we develop your ideas into trendy, functional and personalized kitchen designs.
+Remodeling your home is a personal undertaking that is only worth your while if you get exactly what you signed up for. We have adept professionals who work well with clients' ideas, transforming dreams into lovely kitchens. Our <a href="http://murraylampert.com/san-diego-home-design-services/">customized services</a> give the client limitless possibilities that they will have fun exploring. Your input and ideas are invaluable to the outcome since we develop your ideas into trendy, functional and personalized kitchen designs.
 
 ### Visualize your new kitchen in 3D
 

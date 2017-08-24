@@ -47,7 +47,7 @@ If the main reason you want a room addition functioning as your home office is t
 
 However, a great number of freelance professionals are actually <strong>stay-at-home parents</strong> who oftentimes have to check on their children even when working. If this is the case with you, you might want to consider adding a new room nearer the kitchen (to check on the food that’s cooking) or close to the main entrance (to check on who’s coming) or at least somewhere overlooking your backyard (to check on the kids).
 <h2>Question #8: How much money can I afford to spend?</h2>
-Finally, this question may be the most important one. Why? You may be aware that simply constructing a new room often isn’t enough – you might need to consider its <a href="http://murraylampert.com/san-diego-home-design-serivces/">interior design</a>, which may mean hiring another contractor and incurring additional costs. The safest bet would be to hire a design-build contractor, so you could have all services comprised under one comprehensive quote, not to mention cut down on the amount of time needed for the project.
+Finally, this question may be the most important one. Why? You may be aware that simply constructing a new room often isn’t enough – you might need to consider its <a href="http://murraylampert.com/san-diego-home-design-services/">interior design</a>, which may mean hiring another contractor and incurring additional costs. The safest bet would be to hire a design-build contractor, so you could have all services comprised under one comprehensive quote, not to mention cut down on the amount of time needed for the project.
 
 When doing your own calculation, consider the following:
 <ul>

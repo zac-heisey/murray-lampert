@@ -15,7 +15,7 @@ Carmel Mountain residents mostly go for detached houses, and the tendency to enh
 
 ## Aren't Home Additions Expensive?
 
-We get a lot of questions from locals in Carmel Mountain about the cost of adding a new room or other addition to their home. A lot of shady companies offer low-quality services for a small budget, convincing some homeowners that high-quality home additions in Carmel Mountain are unaffordable. Murray Lampert Design, Build, Remodel is proud to offer [custom home design](/san-diego-home-design-serivces), [home build](/san-diego-design-build-contractors), and [remodel services](/san-diego-home-remodel-services/) in Carmel Mountain at a reasonable price. We do so without cutting corners, using cheap materials, or skimping on service. How is that, you might ask?
+We get a lot of questions from locals in Carmel Mountain about the cost of adding a new room or other addition to their home. A lot of shady companies offer low-quality services for a small budget, convincing some homeowners that high-quality home additions in Carmel Mountain are unaffordable. Murray Lampert Design, Build, Remodel is proud to offer [custom home design](/san-diego-home-design-services), [home build](/san-diego-design-build-contractors), and [remodel services](/san-diego-home-remodel-services/) in Carmel Mountain at a reasonable price. We do so without cutting corners, using cheap materials, or skimping on service. How is that, you might ask?
 
 ## Murray Lampert: The leader in Carmel Mountain Home Additions
 

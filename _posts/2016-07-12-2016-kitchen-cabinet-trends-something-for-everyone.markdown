@@ -28,7 +28,7 @@ Make the best of the cutting –edge technology that is bound to make your every
 <h3>Eco-Friendly Solutions</h3>
 Choose cabinets certified by <a href="https://ic.fsc.org/en">Forest Stewardship Council</a>, especially those without harmful VOCs. You should look for cabinets with formaldehyde-free straw board. They not only provide clean storage for your dishes and glassware, but come in a variety of different designs.
 <h2>Custom Cabinets for an Outstanding Kitchen Remodel San Diego Service</h2>
-If you are looking for ways to give your kitchen a personal touch, the best option is to go with custom kitchen cabinets. They attract by far the most attention and you can really make a difference if you consult creative designers at Murray Lampert – we can <a href="http://murraylampert.com/san-diego-home-design-serivces/">design, build and install</a> the cabinets that will complement the style of your kitchen. Let us show you how you can achieve so much with so little.
+If you are looking for ways to give your kitchen a personal touch, the best option is to go with custom kitchen cabinets. They attract by far the most attention and you can really make a difference if you consult creative designers at Murray Lampert – we can <a href="http://murraylampert.com/san-diego-home-design-services/">design, build and install</a> the cabinets that will complement the style of your kitchen. Let us show you how you can achieve so much with so little.
 
 &nbsp;
 
