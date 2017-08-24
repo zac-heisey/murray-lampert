@@ -15,50 +15,42 @@ skills:
 - title: Outdoor Spaces, Green Building, Custom Cabinetry, etc.
   percent: 61
 members:
-- name: Mark Wayne
-  position: founder
-  desc: consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-    dolore magna aliquam erat volutpat consectetuer sit.
-  avatar: images/@stock/member-1.jpg
+- name: Gregg Cantor
+  position: President/CEO
+  desc: Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing job site clean up. After spending a year as a carpenter’s helper in 1978, Gregg concentrated on his education majoring in business.
+  avatar: uploads/gregg-1.jpg
   socials:
-  - icon_class: fa fa-twitter
-    url: http://twitter.com
-  - icon_class: fa fa-facebook
-    url: http://facebook.com
-- name: Kate Holms
-  position: Creative Director
-  desc: consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-    dolore magna aliquam erat volutpat consectetuer sit.
-  avatar: images/@stock/member-2.jpg
+  - icon_class: fa fa-plus
+    url: /team-member/gregg-cantor
+  - icon_class: fa fa-envelope
+    url: mailto:gcantor@murraylampert.com  
+- name: Lisa Cantor
+  position: CFO
+  desc: Gregg met Lisa in November of 1988 and they were married in April 1990. In 1994 Lisa started helping out in the office answering phones and within a couple of years she eventually took over the bookkeeping and finances.
+  avatar: uploads/lisa1000.jpg
   socials:
-  - icon_class: fa fa-twitter
-    url: http://twitter.com
-  - icon_class: fa fa-facebook
-    url: http://facebook.com
-  - icon_class: fa fa-dribbble
-    url: http://dribbble.com
-- name: Tom Hason
-  position: Designer
-  desc: consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-    dolore magna aliquam erat volutpat consectetuer sit.
-  avatar: images/@stock/member-3.jpg
+  - icon_class: fa fa-plus
+    url: /team-member/lisa-cantor
+  - icon_class: fa fa-envelope
+    url: mailto:lcantor@murraylampert.com  
+- name: Rachel Cantor
+  position: Director of Designer
+  desc: Rachel Cantor is the director of the of the Murray Lampert design department and the fourth generation in our family business. Rachel graduated from Miami University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
+  avatar: uploads/rachel-1000.jpg
   socials:
-  - icon_class: fa fa-twitter
-    url: http://twitter.com
-  - icon_class: fa fa-facebook
-    url: http://facebook.com
-  - icon_class: fa fa-tumblr
-    url: http://tumblr.com
-- name: Lily Whrem
-  position: Developer
-  desc: consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-    dolore magna aliquam erat volutpat consectetuer sit.
-  avatar: images/@stock/member-4.jpg
+  - icon_class: fa fa-plus
+    url: /team-member/rachel-cantor
+  - icon_class: fa fa-envelope
+    url: mailto:rachel@murraylampert.com
+- name: Hope Wortham
+  position: Lead Interior Designer ASID
+  desc: Hope Wortham has had the benefit of being around the design process her entire life. Growing up, she was constantly exposed to residential design through her father's Landscape Architecture firm.
+  avatar: uploads/hope-wortham.jpg
   socials:
-  - icon_class: fa fa-twitter
-    url: http://twitter.com
-  - icon_class: fa fa-facebook
-    url: http://facebook.com
+  - icon_class: fa fa-plus
+    url: /team-member/hope-wortham
+  - icon_class: fa fa-envelope
+    url: mailto:hopecamilledesigns@gmail.com  
 clients:
 - images/@stock/client-grey-1.png
 - images/@stock/client-grey-2.png
@@ -98,9 +90,10 @@ clients:
   </div>
   <div class='full'>
     <div class='row'>
-      <div class='large-12 columns'>
+    <!-- Start of Team Members Section -->
+      <div class='large-12 columns' id='team-members'>
         <div class='four spacing'></div>
-        <h3>The team</h3>
+        <h3>The Murray Lampert Team</h3>
         <div class='spacing'></div>
       </div>
     </div>
@@ -124,7 +117,7 @@ clients:
             </div>
             <h3>{{member.name}}</h3>
             <p class='position'>{{member.position}}</p>
-            <p>{{member.desc}}</p>
+            <p>{{member.desc | truncate: 150}}</p>
             <div class='two spacing'></div>
           </div>
         </div>
