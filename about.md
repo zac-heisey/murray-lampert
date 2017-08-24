@@ -161,6 +161,7 @@ clients:
     </div>
     <div class='two spacing'></div>
   </div>
+  <!-- Start of Our Clients Section
   <div class='full'>
     <div class='row'>
       <div class='large-12 columns'>
@@ -175,4 +176,4 @@ clients:
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
