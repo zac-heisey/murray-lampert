@@ -4,7 +4,7 @@ layout: default
 section_id: testimonials
 permalink: /testimonials
 featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Poway, San Diego. Take your Poway home addition to the next level with us.
+excerpt: Customer testimonials for Murray Lampert's work on second stories, custom kitchens & bath remodels, room additions, and complete home remodeling projects.
 ---
 
 ## Below are a Few of Our Home Remodeling Customer Testimonials
