@@ -161,19 +161,4 @@ clients:
     </div>
     <div class='two spacing'></div>
   </div>
-  <!-- Start of Our Clients Section
-  <div class='full'>
-    <div class='row'>
-      <div class='large-12 columns'>
-        <h3>Our clients</h3>
-        <div class='spacing'></div>
-        <div class='mod modClients' data-slides_to_show='5'>
-          <div class='clients'>
-            {% for client in page.clients %}
-              <div><img alt="" src="{{client}}" /></div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
+  <!-- Start of Our Clients Section (see master branch version for code block) -->
