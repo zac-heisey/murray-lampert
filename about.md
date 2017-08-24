@@ -50,7 +50,43 @@ members:
   - icon_class: fa fa-plus
     url: /team-member/hope-wortham
   - icon_class: fa fa-envelope
-    url: mailto:hopecamilledesigns@gmail.com  
+    url: mailto:hopecamilledesigns@gmail.com
+- name: Michael Massa
+  position: Vice President of Sales
+  desc: Michael learned at an early age how to design and build from his father. His father was built and upholstered furniture and worked alongside him during his teenage years.
+  avatar: uploads/michael-massa.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: /team-member/michael-massa
+  - icon_class: fa fa-envelope
+    url: mailto:michael@murraylampert.com    
+- name: Patti Atwell
+  position: Director of Production
+  desc: Patti Atwell is our senior project manager on the Murray Lampert production team. Patti comes to Murray Lampert with an expertise in client services and project management, as well as various aspects of design build specializing in kitchen, bath and whole home remodeling.
+  avatar: uploads/patti-1.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: /team-member/patti-atwell
+  - icon_class: fa fa-envelope
+    url: mailto:patti@murraylampert.com
+- name: D'Ann Good
+  position: Office Manager | Client Care
+  desc: D’Ann joined Murray Lampert Design, Build, Remodel in December 2009 working in Customer Service and Community Relations. She has worked in various fields supporting both client and employee development for the past 10 years.
+  avatar: uploads/dann-1.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: /team-member/dann-good
+  - icon_class: fa fa-envelope
+    url: mailto:dgood@murraylampert.com    
+- name: Cheri Clark
+  position: Customer Care Specialist
+  desc: Cheri joined Murray Lampert Design Build Remodel in 2015. She works part time in our front office. She retired from her Real Estate career in 2013 so she could travel with her husband.
+  avatar: uploads/cheri-1.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: /team-member/cheri-clark
+  - icon_class: fa fa-envelope
+    url: mailto:cheri@murraylampert.com
 clients:
 - images/@stock/client-grey-1.png
 - images/@stock/client-grey-2.png
