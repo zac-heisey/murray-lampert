@@ -579,4 +579,10 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 /* Quick Contact form syles */
 #quick-contact {
   background-color: #B5C6D6;
+
+  select {
+    margin: 0 0 1.875rem 0;
+    height: 3em;
+  }
+
 }
