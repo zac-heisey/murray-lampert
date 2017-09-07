@@ -550,10 +550,20 @@ form input.error, form textarea.error {
 /*Footer */
 #footer {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   padding: 3rem 0;
   background: #3d3d3d;
   color: #999;
+
+  @media only screen and (max-width: 450px) {
+    padding: 3rem 1rem;
+
+    ul.socials {
+      margin-top: 2rem;
+    }
+  }
+
 }
 #footer h1 {
   margin-bottom: 25px;
@@ -610,7 +620,7 @@ form input.error, form textarea.error {
   font-size: 1.28571rem;
 }
 #footer.fullwidth ul.socials {
-  text-align: right;
+  text-align: center;
   padding-right: 20px;
 }
 #footer.fullwidth ul.socials li {
