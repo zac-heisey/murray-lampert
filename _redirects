@@ -2,15 +2,15 @@
 ## TBD > See other netlify sites for examples
 
 # Page Redirects
-## /team-members  /about-murray-lampert-design-build-remodel#team-members 301
+/team-members  /about-murray-lampert-design-build-remodel#team-members 301
 ## TBD
 
 # Gallery Page Redirects
-## /gallery  /projects  301
+/gallery  /projects  301
 ## Other gallery pages (/room-additions-gallery/, etc.)
 
 # Image Redirects
-## /wp-content/uploads/*  /uploads/:splat
+/wp-content/uploads/*  /uploads/:splat
 ## TBD
 
 ############################################################
