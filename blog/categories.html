@@ -1,0 +1,16 @@
+---
+title: Murray Lampert Blog Categories
+layout: default
+section_id: blog
+---
+
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+  {% assign sorted_posts = category[1] | reversed %}
+  <h2 id="{{category[0] | slugify }}">{{category[0] | capitalize}}</H2>
+  <ul>
+  {% for post in sorted_posts %}
+  	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}

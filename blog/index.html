@@ -25,7 +25,7 @@ section_id: blog
             <span>
               In
               {% for cat in post.categories %}
-                <a href="#">{{cat}}</a>
+                <a href="categories/#{{cat | slugify}}">{{cat}}</a>
                 {% unless forloop.last %}
                     ,
                 {% endunless %}
