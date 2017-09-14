@@ -2,7 +2,9 @@
 title: Sample Featured Project
 layout: featured-project
 section_id: projects
-permalink: /featured-project
+client: Lovett
+location: Pacific Beach
+project-date: June 2013
 featured-images:
 - uploads/gallery/second-stories/Lovett-4-W.jpg
 - uploads/gallery/second-stories/Lovett-4-W.jpg

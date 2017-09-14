@@ -7,7 +7,7 @@ section_id: projects
   <div class='slides'>
     {% for image in page.featured-images %}
       <div class='slide'>
-        <img title ="{{ page.title }}" alt="{{ page.title }} featured images" src="{{image}}" />
+        <img title ="{{ page.title }}" alt="{{ page.title }} featured images" src="/{{image}}" />
       </div>
     {% endfor %}
   </div>
@@ -25,15 +25,15 @@ section_id: projects
     <ul class='info'>
       <li>
         <strong>Client:</strong>
-        Lovett
+        {{ page.client }}
       </li>
       <li>
         <strong>Location:</strong>
-        Pacific Beach
+        {{ page.location }}
       </li>
       <li>
         <strong>Date:</strong>
-        June 2013
+        {{ page.project-date }}
       </li>
       <div class='spacing'></div>
       <li>

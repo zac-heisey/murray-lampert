@@ -11,6 +11,9 @@ collections:
   team-member:
     title: team-member
     output: true
+  featured-projects:
+    title: Featured Projects
+    output: true
 defaults:
 - scope:
     path: ''
@@ -19,6 +22,16 @@ defaults:
     featured-image: ''
     excerpt: ''
     author: ''
+- scope:
+    path: ''
+    type: featured-projects
+  values:
+    layout: featured-project
+    client: ''
+    location: ''
+    project-date: ''
+    featured-images: ''
+    excerpt: ''
 url: https://murray-lampert.netlify.com # change before moving site to Netlify servers
 baseurl:
 email: info@murraylampert.com
