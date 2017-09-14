@@ -1,5 +1,5 @@
 ---
-title: Sample Featured Project
+title: Lovett Featured Project
 layout: featured-project
 section_id: projects
 client: Lovett
