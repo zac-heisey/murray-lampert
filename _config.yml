@@ -30,6 +30,7 @@ defaults:
     client: ''
     location: ''
     project-date: ''
+    featured-video: ''
     featured-images: ''
     excerpt: ''
 url: https://murray-lampert.netlify.com # change before moving site to Netlify servers
