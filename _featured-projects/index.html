@@ -3,3 +3,8 @@ title: Murray Lampert Featured Projects
 layout: default
 section_id: projects
 ---
+
+<!-- Temporary way to list out featured projects > Update before launch -->
+{% for project in site.featured-projects %}
+  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+{% endfor %}
