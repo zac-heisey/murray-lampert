@@ -5,7 +5,7 @@ section_id: projects
 client: Lovett
 location: Pacific Beach
 project-date: June 2013
-featured-video: 
+featured-video: 1wO1CGaOPZM
 featured-images:
 - uploads/gallery/second-stories/Lovett-4-W.jpg
 - uploads/anderson-front-exterior.jpg
