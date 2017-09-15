@@ -4,6 +4,11 @@ section_id: projects
 ---
 
 <div class='row'>
+  <!-- Featured Project Video -->
+  {% if page.featured-video and page.featured-video != "" %}
+    {% include youtube-embed.html id=page.featured-video %}
+  {% endif %}  
+  <!-- Featured Project Description -->
   <div class='large-8 columns'>
     <h3>{{ page.title }}</h3>
     <p>
@@ -36,6 +41,7 @@ section_id: projects
   </div>
 </div>
 <div class='spacing'></div>
+<!-- Featured Project Images -->
 <div class='mod modBoxedSlider'>
   <div class='slides'>
     {% for image in page.featured-images %}
