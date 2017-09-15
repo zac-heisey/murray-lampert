@@ -16,9 +16,6 @@
 - name: Projects
   path: projects
   section_id: projects
-  children:
-    - name: Featured Projects
-      path: featured-project
 - name: Contact
   path: contact
   section_id: contact
