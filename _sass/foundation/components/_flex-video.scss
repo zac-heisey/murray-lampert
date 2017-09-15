@@ -32,6 +32,10 @@ $flex-video-widescreen-padding-bottom: 56.34% !default;
   &.widescreen { padding-bottom: $flex-video-widescreen-padding-bottom; }
   &.vimeo { padding-top: 0; }
 
+  @media #{$medium-up} {
+    margin-bottom: -7rem; // elimates excess padding below video on larger screens
+  }
+
   iframe,
   object,
   embed,
@@ -39,8 +43,8 @@ $flex-video-widescreen-padding-bottom: 56.34% !default;
     position: absolute;
     top: 0;
     #{$default-float}: 0;
-    width: 80%;
-    height: 80%;
+    width: 100%; // initially 80%
+    height: 81%; // initiall 80%
   }
 }
 
