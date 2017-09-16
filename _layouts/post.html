@@ -12,13 +12,13 @@ section_id: blog
           /
           <span>
             by
-            <a href="#">{{page.author}}</a>
+            <a href="/team-member/{{page.author | slugify}}">{{page.author}}</a>
           </span>
           /
           <span>
             In
             {% for cat in page.categories %}
-              <a href="#">{{cat}}</a>
+              <a href="/blog/categories/#{{cat | slugify}}">{{cat}}</a>
               {% unless forloop.last %}
                   ,
               {% endunless %}
