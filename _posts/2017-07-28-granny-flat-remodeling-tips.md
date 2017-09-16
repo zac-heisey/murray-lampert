@@ -1,7 +1,7 @@
 ---
 title: Top Tips for a Granny Flat Remodel in San Diego
 date: 2017-07-28 00:00:00 Z
-permalink: "/fullprocessdesignbuildremodel/"
+permalink: "/granny-flat-remodeling-tips/"
 layout: post
 featured-image: /uploads/granny-flat-in-law-suite-san-diego.jpg
 excerpt: Granny flats and in-law suites are becoming all the rage in San Diego. We share our top tips for your granny flat remodel in San Diego.
