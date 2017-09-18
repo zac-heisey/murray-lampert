@@ -1,10 +1,11 @@
 ---
 title: Kitchen Remodeling Poway
+permalink: "/kitchen-remodeling-poway"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-poway
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Poway, San Diego. Take your Poway kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Poway, San Diego. Take your Poway kitchen remodel to the next level with us.
 ---
 
 Poway is a city in San Diego whose rural roots made it also known as ‘’The City in the Country’’. It has a population of around 47,000 residents. It boasts beautiful green spaces such as the Old Poway Park, Blue Sky Ecological Reserve and Poway Community Park. Its residents enjoy outdoor recreational activities enabled by the pristine green environment. Being a well-off community, Poway is a place where many home renovation projects take place. Its residents enjoy the services of one of the leading San Diego home remodeling full service companies with over 40 years of experience – <strong>Murray Lampert Design, Build, Remodel</strong>.

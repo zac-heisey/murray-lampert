@@ -2,14 +2,14 @@
 title: What to Know About Remodeling Bids
 date: 2017-09-08 00:00:00 Z
 permalink: "/the-lowest-bid-always-looks-good-but/"
-layout: post
-featured-image: /uploads/fischer-final-updated.jpg
-excerpt: We know we're not the priced the lowest in town, and there is reason for that. Don't trust the lowest home remodeling bids for your home renovation project.
-author: Gregg Cantor
 categories:
 - Design-Build
 - Home Remodeling
-tags:
+layout: post
+featured-image: "/uploads/fischer-final-updated.jpg"
+excerpt: We know we're not the priced the lowest in town, and there is reason for
+  that. Don't trust the lowest home remodeling bids for your home renovation project.
+author: Gregg Cantor
 ---
 
 ## The Lowest Bid Always Looks Good, But Here's What You Should Know

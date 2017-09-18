@@ -1,10 +1,11 @@
 ---
 title: Bathroom Remodeling in San Diego
+permalink: "/san-diego-bathroom-remodeling-services"
 layout: default
 section_id: bathroom-remodel
-permalink: /san-diego-bathroom-remodeling-services
 featured-image: uploads/2013/09/ML-interior_hero-bathroom_remodeling.jpg
-excerpt: San Diego bathroom remodeling services at Murray Lampert Design, Build, Remodel. Start your custom bathroom remodel in San Diego with Murray Lampert today.
+excerpt: San Diego bathroom remodeling services at Murray Lampert Design, Build, Remodel.
+  Start your custom bathroom remodel in San Diego with Murray Lampert today.
 ---
 
 Have you considered remodeling your bathroom? Maybe you would like to expand, replace existing fixtures, or make the space more functional by moving things around. Whatever bathroom renovation ideas you have in mind, Murray Lampert can help with our San Diego custom bathroom remodeling service.

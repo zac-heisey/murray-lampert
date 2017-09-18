@@ -1,10 +1,11 @@
 ---
 title: Home Additions Mira Mesa
+permalink: "/home-additions-mira-mesa"
 layout: default
 section_id: room-additions
-permalink: /home-additions-mira-mesa
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with home additions in Mira Mesa, San Diego. Take your Mira Mesa home addition to the next level.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with home additions in Mira
+  Mesa, San Diego. Take your Mira Mesa home addition to the next level.
 ---
 
 Mira Mesa is a scenic community that boasts impressive canyon systems, hillsides and mesas. Both authorities and residents are protective of Mira Mesa’s natural features, which has had a great influence on the construction and home renovation industry.

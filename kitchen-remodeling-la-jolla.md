@@ -1,10 +1,11 @@
 ---
 title: Kitchen Remodeling La Jolla
+permalink: "/kitchen-remodeling-la-jolla"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-la-jolla
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in La Jolla, San Diego. Take your La Jolla kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  La Jolla, San Diego. Take your La Jolla kitchen remodel to the next level with us.
 ---
 
 La Jolla is a hospitable community surrounded by ocean bluffs and beaches on three sides. It is a blend of the traditional and the modern so it really offers lots of possibilities for entertainment, recreation and cultural activities. Fantastic sites such as the historic La Jolla Playhouse and the imposing Museum of Contemporary Art San Diego only testify to La Jolla’s popularity with the tourists.

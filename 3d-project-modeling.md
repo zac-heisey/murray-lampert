@@ -1,10 +1,11 @@
 ---
 title: 3D Project Modeling and Architectural Rendering
+permalink: "/3d-architectural-rendering-services"
 layout: default
 section_id: 3d-project-modeling
-permalink: /3d-architectural-rendering-services
 featured-image: uploads/2013/09/ML-interior_hero-3D_project_modeling.jpg
-excerpt: San Diego Architectural rendering and 3D project modeling. See your finished home remodeling project before you start! Visit Murray Lampert for more info.
+excerpt: San Diego Architectural rendering and 3D project modeling. See your finished
+  home remodeling project before you start! Visit Murray Lampert for more info.
 ---
 
 Utilizing our state of the art computerized design system, Murray Lampert Design, Build, Remodel is now offering as part of our design agreement, 3D walk-throughs of your home remodeling project. With our fully detailed 3D color renderings, you can see what your remodel will look like up front, so there are no surprises.

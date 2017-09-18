@@ -1,10 +1,11 @@
 ---
 title: Room Additions Mission Hills
+permalink: "/room-additions-mission-hills"
 layout: default
 section_id: room-additions
-permalink: /room-additions-mission-hills
 featured-image: uploads/king-grigsby-rear-exterior.jpg
-excerpt: Murray Lampert has over 40 years of experience with room additions in Mission Hills, San Diego. Take your Mission Hills home addition to the next level with us.
+excerpt: Murray Lampert has over 40 years of experience with room additions in Mission
+  Hills, San Diego. Take your Mission Hills home addition to the next level with us.
 ---
 
 Mission Hills is primarily a residential neighborhood in San Diego, bustling with boutique shops and charming restaurants. It boasts stunning views of Old Town, Downtown San Diego and San Diego Bay. Two picturesque historic districts are located in Mission Hills: Fort Stockton Line Historic District and Mission Hills Historic District. With its two parks offering various recreational activities, Mission Hills is a beautiful place for families.

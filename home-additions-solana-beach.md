@@ -1,10 +1,11 @@
 ---
 title: Room Additions Solana Beach
+permalink: "/room-additions-solana-beach"
 layout: default
 section_id: room-additions
-permalink: /room-additions-solana-beach
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Solana Beach, San Diego. Take your Solana Beach home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Solana
+  Beach, San Diego. Take your Solana Beach home addition to the next level with us.
 ---
 
 Solana is a cozy beach town that boasts a vast coastline of about 1.7 miles for surfing and swimming. Culture Brewery is one of the famous spots in this city. The locals love watching the sunsets at the Fletcher Cove, an award-winning park. This town is also a great destination for those who enjoy golfing, hiking, as well as shopping. Life is good in Solana Beach, so it comes as no surprise that Solana Beach residents are willing to invest in their property. When it comes to making the most of your existing house, adding more space is one of the best options. The additional space can serve a variety of purposes; even add to your home’s overall appeal. That is why you need to rely on an experienced provider of room additions Solana Beach services – <strong>Murray Lampert</strong> is definitely the way to go.

@@ -1,10 +1,12 @@
 ---
 title: Kitchen Remodeling Mira Mesa
+permalink: "/kitchen-remodeling-mira-mesa"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-mira-mesa
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Mira Mesa, San Diego. Take your Mira Mesa kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Mira Mesa, San Diego. Take your Mira Mesa kitchen remodel to the next level with
+  us.
 ---
 
 Mira Mesa is one of San Diego’s liveliest communities, with a host of local festivals and events, such as the Mira Mesa Street Fair, the Family Fun Day following the 4<sup>th</sup> of July, Halloween celebration at the Mira Mesa Gil Johnson Recreation Center, and ‘’Mira Mesa Bike Night’’, a large gathering that takes place every Thursday night.

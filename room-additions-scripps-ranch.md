@@ -1,10 +1,11 @@
 ---
 title: Room Additions Scripps Ranch
+permalink: "/room-additions-scripps-ranch"
 layout: default
 section_id: room-additions
-permalink: /room-additions-scripps-ranch
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Scripps Ranch, San Diego. Take your Scripps Ranch home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Scripps
+  Ranch, San Diego. Take your Scripps Ranch home addition to the next level with us.
 ---
 
 Scripps Ranch is a bedroom community, home to working families and young professional who commute to other parts of San Diego for work. It is tranquil, residential area, with a small number of shops and restaurants. It is best known for its mature eucalyptus trees, which add to the overall charm. This community has around 30,000 residents and it provides the much needed shelter from the stressful working life. There are many young families, all of which face the lack of <a href="http://murraylampert.com/san-diego-room-additions/">housing space</a> at one point or another. Either the space is not big enough to accommodate all family members, or it is simply too small to store all valuables. The lack of space is not uncommon, which is why many homeowners consider having room additions in their Scripps Ranch <a href="http://murraylampert.com/">home remodeling</a>.

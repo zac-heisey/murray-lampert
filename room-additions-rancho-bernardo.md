@@ -1,10 +1,12 @@
 ---
 title: Room Additions Rancho Bernardo
+permalink: "/room-additions-rancho-bernardo"
 layout: default
 section_id: room-additions
-permalink: /room-additions-rancho-bernardo
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho Bernardo, San Diego. Take your Rancho Bernardo home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
+  Bernardo, San Diego. Take your Rancho Bernardo home addition to the next level with
+  us.
 ---
 
 Rancho Bernardo is a perfect spot for all history lovers - it boasts the Rancho Bernardo Historical Museum, a picturesque venue that also comprises the Bernardo Winery, the first winery in Southern California. Wine lovers can enjoy tasting traditional California wines, as well as listening to live music. Numerous shops add to the overall charm of the place. What Rancho Bernardo is maybe best known for are its red tile-roofed stucco houses. The cozy landscape invites many visitors to settle in Rancho Bernardo, and also encourages residents to make the best of their living in the area. [Home remodeling](/san-diego-home-remodel-services) projects are common and homeowners undertake various building and remodeling projects, of which room additions Rancho Bernardo projects are among the most popular.

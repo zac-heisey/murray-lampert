@@ -1,10 +1,11 @@
 ---
 title: Room Additions Santee
+permalink: "/room-additions-santee"
 layout: default
 section_id: room-additions
-permalink: /room-additions-santee
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Santee, San Diego. Take your Santee home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Santee,
+  San Diego. Take your Santee home addition to the next level with us.
 ---
 
 In 2013, Santee had a population of 56,105 and a median household income of $69,169. It is bisected by the San Diego River which is a linear greenbelt of many acres of the natural riparian habitat, trails, and many parks. Santee is one of the fastest growing suburban communities with regard to housing and corporate business. The city has seen the establishment of three lightened softball fields, two lightened arena soccer fields, and four batting cages.

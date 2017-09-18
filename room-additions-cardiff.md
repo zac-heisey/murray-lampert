@@ -1,10 +1,11 @@
 ---
 title: Room Additions Cardiff
+permalink: "/room-additions-cardiff"
 layout: default
 section_id: room-additions
-permalink: /room-additions-cardiff
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Cardiff, San Diego. Take your Cardiff home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Cardiff,
+  San Diego. Take your Cardiff home addition to the next level with us.
 ---
 
 Cardiff is a beach community that boasts some of the most amazing sunsets in California. For residents and visitors alike, the most popular place to visit in Cardiff is Cardiff Reef, or simply ‘The Reef’, a sensational surf spot. The smooth wave shape of both [Cardiff Reef](http://www.surfline.com/surf-report/cardiff-reef-south-southern-california_139590/) and nearby Pipes is great both for beginner and professional surfers.

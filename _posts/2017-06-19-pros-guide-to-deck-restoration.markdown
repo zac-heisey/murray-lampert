@@ -2,13 +2,13 @@
 title: The Pro's Guide to Deck Restoration
 date: 2017-06-19 00:00:00 Z
 permalink: "/the-pros-guide-to-deck-restoration/"
-layout: post
-featured-image: /uploads/Jim-Grant-deck-restoration-process.jpg
-excerpt: Does your San Diego home have a deck? Keep your deck happy and health this summer with Murray Lampert's Professional Guide to Deck Restoration.
-author: Gregg Cantor
 categories:
 - Outdoor Spaces
-tags:
+layout: post
+featured-image: "/uploads/Jim-Grant-deck-restoration-process.jpg"
+excerpt: Does your San Diego home have a deck? Keep your deck happy and health this
+  summer with Murray Lampert's Professional Guide to Deck Restoration.
+author: Gregg Cantor
 ---
 
 A deck is a great asset to your San Diego home and lifestyle. There’s nothing quite like enjoying an afternoon outdoors in the sunshine and fresh air, but still right within reach of your home. A deck is the perfect backdrop for an [outdoor living space](/san-diego-outdoor-living-space-design) outfitted with your favorite outdoor furniture and colorful container garden, but if the bones of your deck could use some love before you get that far, keep reading.

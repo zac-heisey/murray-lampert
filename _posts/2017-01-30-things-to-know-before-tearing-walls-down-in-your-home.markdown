@@ -2,15 +2,16 @@
 title: Things to Know before Tearing Walls Down in Your Home
 date: 2017-01-30 05:27:37 Z
 permalink: "/things-to-know-before-tearing-walls-down-in-your-home/"
-layout: post
-featured-image: /uploads/tear-down-walls.jpg
-excerpt: Tearing down a wall in your home is no small task. It requires planning and expertise. Here are some things to know before tearing down a wall in your home.
-author: Gregg Cantor
 categories:
 - Major Renovation
 tags:
 - major renovation
 - construction
+layout: post
+featured-image: "/uploads/tear-down-walls.jpg"
+excerpt: Tearing down a wall in your home is no small task. It requires planning and
+  expertise. Here are some things to know before tearing down a wall in your home.
+author: Gregg Cantor
 ---
 
 Many homeowners have at one point or another considered tearing down a wall to extend a narrow room, connect two rooms or simply adapt the floor to their needs. Tearing down a wall opens up a lot of design options.

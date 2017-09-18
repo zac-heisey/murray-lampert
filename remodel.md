@@ -1,10 +1,11 @@
 ---
 title: San Diego Home Remodeling Services
+permalink: "/san-diego-home-remodel-services"
 layout: default
 section_id: remodel
-permalink: /san-diego-home-remodel-services
 featured-image: uploads/hero_remodel.jpg
-excerpt: Since 1975, Murray Lampert has been San Diego's top home remodeling contractor. We specialize in whole house remodel projects throughout San Diego County.
+excerpt: Since 1975, Murray Lampert has been San Diego's top home remodeling contractor.
+  We specialize in whole house remodel projects throughout San Diego County.
 ---
 
 Murray Lampert Design, Build, Remodel is a [top-rated home remodeling contractor in San Diego](/reviews). Among our services, we specialize in design-build packages, residential second story additions, single story expansions, room additions, kitchen & bath remodels, and whole house renovations.

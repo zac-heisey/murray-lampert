@@ -1,7 +1,8 @@
 ---
 title: Patti Atwell
 layout: default
-excerpt: Patti Atwell is the Director of Production at Murray Lampert Design, Build, Remodel in San Diego. Visit to learn more about Patti and the Murray Lampert team.
+excerpt: Patti Atwell is the Director of Production at Murray Lampert Design, Build,
+  Remodel in San Diego. Visit to learn more about Patti and the Murray Lampert team.
 ---
 
 Patti Atwell is our senior project manager on the Murray Lampert production team. Patti comes to [Murray Lampert](/) with an expertise in client services and project management, as well as various aspects of design build specializing in kitchen, bath and [whole home remodeling](/san-diego-home-remodel-services).

@@ -1,10 +1,11 @@
 ---
 title: Room Additions Ramona
+permalink: "/room-additions-ramona"
 layout: default
 section_id: room-additions
-permalink: /room-additions-ramona
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Ramona, San Diego. Take your Ramona home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Ramona,
+  San Diego. Take your Ramona home addition to the next level with us.
 ---
 
 Among the top places that you can live in California is Ramona. It is one of the census-designated areas in San Diego County that had a population of 20,292 in 2010. The climate in Ramona is hard to beat as it enables you to enjoy life with its many outdoor amenities all year round. As residents of a growing city, most people find the need for the room additions Ramona service. <strong>Murray Lampert Design, Build, Remodel</strong> is a home renovation company trusted by homeowners throughout San Diego. We understand all the concerns that you deal with whenever you consider adding rooms onto your home. Whether it’s a master suite, a new bedroom for your children, a family room or even a home office, we deliver whatever you ask.

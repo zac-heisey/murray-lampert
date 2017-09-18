@@ -1,10 +1,11 @@
 ---
 title: Room Additions North Park
+permalink: "/room-additions-north-park"
 layout: default
 section_id: room-additions
-permalink: /room-additions-north-park
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in North Park, San Diego. Take your North Park home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in North
+  Park, San Diego. Take your North Park home addition to the next level with us.
 ---
 
 North Park is an affluent San Diego neighborhood that stands out with its unique suburban development. Beautiful Craftsman bungalows and cottages give this community a touch of tradition and style, which residents tend to preserve.

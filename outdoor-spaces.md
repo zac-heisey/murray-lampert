@@ -1,10 +1,11 @@
 ---
 title: San Diego Custom Outdoor Living Spaces
+permalink: "/san-diego-outdoor-living-space-design"
 layout: default
 section_id: outdoor-spaces
-permalink: /san-diego-outdoor-living-space-design
 featured-image: uploads/2013/09/outdoor.jpg
-excerpt: San Diego outdoor living space design & construction. Custom outdoor kitchens, fireplaces, and more built by Murray Lampert Design, Build, Remodel.
+excerpt: San Diego outdoor living space design & construction. Custom outdoor kitchens,
+  fireplaces, and more built by Murray Lampert Design, Build, Remodel.
 ---
 
 San Diego is known for having some of the best weather in the country. Dry winters and warm summers mean you can take advantage of **San Diego outdoor living spaces** with family and friends year round. Murray Lampert Design, Build, Remodel will help you design an outdoor living area to fit your needs. We specializes in outdoor living space design and building**. From [custom outdoor kitchens](/san-diego-outdoor-kitchen-remodeling) and outdoor fireplaces, to backyard patio designs, Murray Lampert has your **San Diego outdoor living area** needs covered.

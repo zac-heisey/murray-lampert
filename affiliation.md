@@ -1,10 +1,11 @@
 ---
 title: Industry Affiliations
+permalink: "/affiliation"
 layout: default
 section_id: industry-affiliations
-permalink: /affiliation
 featured-image: uploads/slide-bbb-new.jpg
-excerpt: Murray Lampert Design, Build, Remodel in San Diego is a 4-time (Better Business Bureau) award winner. Proudly serving San Diego since 1975.
+excerpt: Murray Lampert Design, Build, Remodel in San Diego is a 4-time (Better Business
+  Bureau) award winner. Proudly serving San Diego since 1975.
 ---
 
 ## Murray Lampert Design, Build, Remodel Better Business Bureau Affiliation

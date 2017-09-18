@@ -2,6 +2,9 @@
 title: Murray Lampert
 timezone: UTC
 collections:
+  featured-projects:
+    title: Featured Projects
+    output: true
   posts:
     title: Posts
     output: true
@@ -10,9 +13,6 @@ collections:
     output: true
   team-member:
     title: team-member
-    output: true
-  featured-projects:
-    title: Featured Projects
     output: true
 defaults:
 - scope:
@@ -33,11 +33,12 @@ defaults:
     featured-video: ''
     featured-images: ''
     excerpt: ''
-url: https://murray-lampert.netlify.com # change before moving site to Netlify servers
-baseurl:
+url: https://murray-lampert.netlify.com
+baseurl: 
 email: info@murraylampert.com
-description: Murray Lampert design, build, and home remodel services in San Diego. Proud to be San Diego's top home design build remodel contractor since 1975.
-logo: /uploads/assets/images/logo.jpg
+description: Murray Lampert design, build, and home remodel services in San Diego.
+  Proud to be San Diego's top home design build remodel contractor since 1975.
+logo: "/uploads/assets/images/logo.jpg"
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown

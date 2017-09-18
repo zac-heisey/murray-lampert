@@ -1,10 +1,12 @@
 ---
 title: Room Additions Carmel Valley
+permalink: "/room-additions-carmel-valley"
 layout: default
 section_id: room-additions
-permalink: /room-additions-carmel-valley
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Carmel Valley, San Diego. Take your Carmel Valley home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Carmel
+  Valley, San Diego. Take your Carmel Valley home addition to the next level with
+  us.
 ---
 
 Carmel Valley is one of the perfect getaways in California. It has an old town by the sea, a pastoral village in the rolling hills, several world-class resorts, three championship golf courses, and quaint country inns. It is also one of the finest wine growing regions around California. This area has matured into a place where people can live comfortably, and many families are being attracted by the large houses as well as the various award-winning schools.

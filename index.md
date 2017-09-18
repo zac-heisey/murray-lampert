@@ -42,7 +42,7 @@ works:
 - image: uploads/murraylampert-slide1-a-1.jpg
   class: major-renovations before-and-after featured-project wide
   title: Historical Renovation
-  desc: Featured Project | San Diego  
+  desc: Featured Project | San Diego
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
@@ -56,3 +56,4 @@ works:
   title: Dang Tran Living Room
   desc: San Diego
 ---
+

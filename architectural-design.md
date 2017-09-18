@@ -1,10 +1,11 @@
 ---
 title: San Diego Architectural Design Services
+permalink: "/san-diego-architectural-design-services"
 layout: default
 section_id: architectural-design
-permalink: /san-diego-architectural-design-services
 featured-image: uploads/2013/09/ML-interior_hero-architectural_design.jpg
-excerpt: Murray Lampert San Diego architectural design services. Over 35 years of experience working with expert architects for your home design needs.
+excerpt: Murray Lampert San Diego architectural design services. Over 35 years of
+  experience working with expert architects for your home design needs.
 ---
 
 An important part of our end-to-end design build service is **architectural design**. With a licensed architect on staff, we will create an excellent plan that will fit your lifestyle and budget. Our talented staff architect and designers specialize in residential home remodeling and construction. We can match existing construction and styling, or create a design that is completely unique.

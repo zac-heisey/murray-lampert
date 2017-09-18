@@ -2,15 +2,16 @@
 title: The Pros and Cons of an In-Law Suite
 date: 2017-08-18 00:00:00 Z
 permalink: "/the-pros-and-cons-of-an-in-law-suite/"
-layout: post
-featured-image: /uploads/stock-kitchen.jpg
-excerpt: We share the pros and cons of having an in-law suite in San Diego. Click to learn more and find out if an in-law suite is right for you.
-author: Gregg Cantor
 categories:
 - In-law Suites
 tags:
 - granny flats
 - in-law suites
+layout: post
+featured-image: "/uploads/stock-kitchen.jpg"
+excerpt: We share the pros and cons of having an in-law suite in San Diego. Click
+  to learn more and find out if an in-law suite is right for you.
+author: Gregg Cantor
 ---
 
 With the cost of housing increasing yearly, San Diego residents have sought out in-law suite additions to increase the overall living space of their property. In-law suites or granny flats are an external addition to the original property to provide space for renters or family members.

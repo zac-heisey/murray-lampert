@@ -1,10 +1,11 @@
 ---
 title: Home Additions Hillcrest
+permalink: "/home-additions-hillcrest"
 layout: default
 section_id: room-additions
-permalink: /home-additions-hillcrest
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Hillcrest, San Diego. Take your Hillcest home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Hillcrest,
+  San Diego. Take your Hillcest home addition to the next level with us.
 ---
 
 Hillcrest is a San Diego community well-known for its modern tendencies, tolerance and diversity. Blending the tradition with modernity, this community is a vibrant and lively place to live. It boasts the charming Heritage Market, which maybe best reflects the relaxed ways of Hillcrest.

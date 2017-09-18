@@ -1,10 +1,11 @@
 ---
 title: Kitchen Remodeling Carlsbad
+permalink: "/kitchen-remodeling-carlsbad"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-carlsbad
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Carlsbad, San Diego. Take your Carlsbad kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Carlsbad, San Diego. Take your Carlsbad kitchen remodel to the next level with us.
 ---
 
 Carlsbad is a truly vibrant San Diego community with some of the most gorgeous beaches accessible all year round owing to the mild weather. Carlsbad offers 7 miles of non-stop beach fun and is ideal for a family holiday.

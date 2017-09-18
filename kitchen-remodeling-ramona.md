@@ -1,10 +1,11 @@
 ---
 title: Kitchen Remodeling Ramona
+permalink: "/kitchen-remodeling-ramona"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-ramona
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Ramona, San Diego. Take your Ramona kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Ramona, San Diego. Take your Ramona kitchen remodel to the next level with us.
 ---
 
 Ramona is an unincorporated town close to San Diego City near the Pacific Ocean. Its residents love the city’s close proximity to the sea and especially enjoy taking leisurely walks by the sea. Some of the leading activities here are kayaking, surfing, snorkeling and other water sports. In addition, there are many tourists visiting the city for the better part of the year. However, the town’s location next to the ocean can pose some challenges for the city dwellers. This is especially true when natural forces and elements cause the erosion of walls and internal structures. Luckily, Ramona’s favorable year-round climate enables many home renovation projects.

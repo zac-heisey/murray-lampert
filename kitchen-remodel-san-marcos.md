@@ -1,10 +1,12 @@
 ---
 title: Kitchen Remodel San Marcos
+permalink: "/kitchen-remodel-san-marcos"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodel-san-marcos
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in San Marcos, San Diego. Take your San Marcos kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  San Marcos, San Diego. Take your San Marcos kitchen remodel to the next level with
+  us.
 ---
 
 As one of San Diego communities that fully enjoy the moderating influence of the Pacific, San Marcos is a warm and welcoming place to live. It boasts a variety of outdoor recreational activities for both locals and tourists. For an unforgettable skydive experience, there is Skydive San Marcos. Hot air balloon or helicopter rides are also there for an amazing bird’s-eye view of the sights. Spring Lake also offers an opportunity for exploring the underwater world with mesmerizing glass bottom kayak tours.

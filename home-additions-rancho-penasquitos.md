@@ -1,10 +1,12 @@
 ---
 title: Home Additions Rancho Penasquitos
+permalink: "/home-additions-rancho-penasquitos"
 layout: default
 section_id: room-additions
-permalink: /home-additions-rancho-penasquitos
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho Penasquitos, San Diego. Take your Rancho Penasquitos home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
+  Penasquitos, San Diego. Take your Rancho Penasquitos home addition to the next level
+  with us.
 ---
 
 The thing that makes Rancho Peñasquitos such a magical neighborhood is how the community sticks together. Every first weekend of May, the community organizes the Fun Run, Street Fair and the Parade. Everyone comes together to celebrate life in such a thriving, friendly community. At times like these you have to wonder about what happens when your family starts growing and your old home becomes too narrow. Building or buying a new home can be expensive and a new lot can be hard to find. In the end, you might even consider moving out of the neighborhood you love so much. But what if there was a way to keep all your treasured memories and your old family home, but also improve it to accommodate your growing needs. <strong>Murray Lampert Design Build and Remodel</strong> is happy to offer you our help as the premier <a href="http://murraylampert.com/san-diego-home-design-services/">home improvement</a> company in <a href="http://murraylampert.com">San Diego</a> and the leader in home additions in Rancho Penasquitos. All you need to do is <a href="http://murraylampert.com/contact/">contact us</a>!

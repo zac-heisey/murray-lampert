@@ -1,10 +1,12 @@
 ---
 title: Room Additions Mission Valley
+permalink: "/room-additions-mission-valley"
 layout: default
 section_id: room-additions
-permalink: /room-additions-mission-valley
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Mission Valley, San Diego. Take your Mission Valley home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Mission
+  Valley, San Diego. Take your Mission Valley home addition to the next level with
+  us.
 ---
 
 Mission Valley is a great neighborhood! Whether you are up for some shopping, entertainment or just a quick stroll around the Presidio and the Historic Park – Mission Valley is a great place to live in and for the young ones to grow up. People from all around admire our great shopping malls: Fashion Valley, Hazard Center and Westfield Mission Valley. We love our Chargers and our Aztecs, and we love our life here!

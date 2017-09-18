@@ -2,15 +2,16 @@
 title: The Top Five Kitchen Cabinet Trends That Will Rule 2017
 date: 2017-02-09 06:35:19 Z
 permalink: "/the-top-five-kitchen-cabinet-trends-that-will-rule-2017/"
-layout: post
-featured-image: /uploads/Glass-Cabinets-Kitchen-Cabinet-Trends.jpg
-excerpt: Looking to remodel your kitchen? Here are our top five kitchen cabinet trends of 2017. Make sure to incorporate these into your kitchen remodeling project!
-author: Gregg Cantor
 categories:
 - Kitchen Remodeling
 tags:
 - kitchen remodel
 - cabinets
+layout: post
+featured-image: "/uploads/Glass-Cabinets-Kitchen-Cabinet-Trends.jpg"
+excerpt: Looking to remodel your kitchen? Here are our top five kitchen cabinet trends
+  of 2017. Make sure to incorporate these into your kitchen remodeling project!
+author: Gregg Cantor
 ---
 
 Kitchen cabinets typically occupy the largest portion of your kitchen’s landscape and are usually the first thing to catch your guests’ eyes. Therefore, your new flooring or fancy appliances won’t mean much if your cabinets are scruffy and out of style.

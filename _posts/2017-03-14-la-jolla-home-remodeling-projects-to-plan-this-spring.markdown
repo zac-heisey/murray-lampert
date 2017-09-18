@@ -2,10 +2,6 @@
 title: La Jolla Home Remodeling Projects to Plan this Spring
 date: 2017-03-14 09:03:34 Z
 permalink: "/la-jolla-home-remodeling-projects-to-plan-this-spring/"
-layout: post
-featured-image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
-excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents that require thorough planning. Let's get started!
-author: Gregg Cantor
 categories:
 - Home Remodeling
 tags:
@@ -13,6 +9,11 @@ tags:
 - kitchen remodel
 - major renovation
 - la jolla
+layout: post
+featured-image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
+excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents
+  that require thorough planning. Let's get started!
+author: Gregg Cantor
 ---
 
 With warmer months ahead, you definitely don’t want to wait for the full heat blast to schedule a [major home remodel](/major-renovations). La Jolla homeowners, just like homeowners anywhere in San Diego, should start planning any major home improvement project now if they want everything to be done before the summer heat.

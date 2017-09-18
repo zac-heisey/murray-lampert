@@ -1,10 +1,11 @@
 ---
 title: Murray Lampert Reviews
+permalink: "/reviews"
 layout: default
 section_id: reviews
-permalink: /reviews
-featured-image:
-excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out our online customer reviews from Google, Yelp, Houzz, and GuildQuality.
+featured-image: 
+excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out our
+  online customer reviews from Google, Yelp, Houzz, and GuildQuality.
 ---
 
 ## Check out what our customers are saying around the web

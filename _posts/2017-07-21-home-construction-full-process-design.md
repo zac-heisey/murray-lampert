@@ -2,13 +2,13 @@
 title: Home Construction vs. Full-Process Design
 date: 2017-07-21 00:00:00 Z
 permalink: "/fullprocessdesignbuildremodel/"
-layout: post
-featured-image: /uploads/blue-kitchen.jpg
-excerpt: When making renovations to your San Diego home, it's important to understand the difference between DIY and hiring a full process home design company.
-author: Gregg Cantor
 categories:
 - Home Remodeling
-tags:
+layout: post
+featured-image: "/uploads/blue-kitchen.jpg"
+excerpt: When making renovations to your San Diego home, it's important to understand
+  the difference between DIY and hiring a full process home design company.
+author: Gregg Cantor
 ---
 
 Hey San Diego homeowners!

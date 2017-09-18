@@ -1,10 +1,11 @@
 ---
 title: Room Additions Coronado
+permalink: "/room-additions-coronado"
 layout: default
 section_id: room-additions
-permalink: /room-additions-coronado
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Coronado, San Diego. Take your Coronado home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Coronado,
+  San Diego. Take your Coronado home addition to the next level with us.
 ---
 
 Coronado is a beautiful city located in San Diego, California. San Diego-Coronado Bridge, Hotel Del Coronado and the San Diego Bay are some of the most recognizable features of this area. It has almost everything for everyone including shopping, water activities, and beaches. It has got two local theaters, several galleries, and museums which help preserve its culture. The people of Coronado are growth enthusiasts. And whenever they want to add an extra room into their homes for their children, home office, extended family or any other purpose, they rely on the best company around. <strong>Murray Lampert Design, Build, Remodel</strong> has been providing prime room additions Coronado service for over four decades.

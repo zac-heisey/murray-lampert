@@ -1,10 +1,11 @@
 ---
 title: Room Additions Carlsbad
+permalink: "/room-additions-carlsbad"
 layout: default
 section_id: room-additions
-permalink: /room-additions-carlsbad
 featured-image: uploads/anderson-front-exterior.jpg
-excerpt: Murray Lampert has over 40 years of experience with room additions in Carlsbad, San Diego. Take your Carlsbad home addition to the next level with us.
+excerpt: Murray Lampert has over 40 years of experience with room additions in Carlsbad,
+  San Diego. Take your Carlsbad home addition to the next level with us.
 ---
 
 Carlsbad boasts 7 miles of gorgeous beach and it is surely among the most attractive San Diego communities. It is ideal for living and coming on holiday, especially due to the diversity of entertainment and recreational opportunities. Among the most popular is Carlsbad Village Art Walk, welcoming music and theater lovers to a memorable event. Sport lovers simply enjoy the Carlsbad Grand Prix, an exciting cycling experience which spectators can enjoy for free. For those who are keen on local produce and street entertainment, Carlsbad offers the [State Street Farmer's Market](http://www.carlsbad-village.com/do/state-street-farmers-market).

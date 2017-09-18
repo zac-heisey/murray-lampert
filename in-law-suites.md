@@ -1,10 +1,11 @@
 ---
 title: San Diego In-Law Suites
+permalink: "/san-diego-in-law-suites"
 layout: default
 section_id: in-law-suites
-permalink: /san-diego-in-law-suites
 featured-image: uploads/granny-flat-in-law-suite-san-diego.jpg
-excerpt: San Diego in-law suites are a great way for homeowners to earn additional income, offset their mortgage, and keep family close. Learn more at Murray Lampert
+excerpt: San Diego in-law suites are a great way for homeowners to earn additional
+  income, offset their mortgage, and keep family close. Learn more at Murray Lampert
 ---
 
 In-law suites - which are also commonly referred to as "granny flats," "granny suites," "accessory apartments," and "accessory dwelling units" - are experiencing a boost in popularity among San Diego home owners. Part of this is due to [recent legislative changes](http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB1069) that have made it easier (and cheaper) for homeowners to build in-law suites on their property. Additional pushes for more liberal granny flat ordinances in San Diego have opened up new possibilities for homeowners to pursue the construction of in-law suites in San Diego.

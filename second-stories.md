@@ -1,10 +1,11 @@
 ---
 title: San Diego Second Story Additions
+permalink: "/san-diego-second-story-addition"
 layout: default
 section_id: second-stories
 featured-image: uploads/2013/09/ML-interior_hero-second_stories.jpg
-permalink: /san-diego-second-story-addition
-excerpt: Add new space and life to your San Diego home with a second story addition. Murray Lampert brings 35+ years of experience to every second story project.
+excerpt: Add new space and life to your San Diego home with a second story addition.
+  Murray Lampert brings 35+ years of experience to every second story project.
 ---
 
 With a second story, you can add space without losing valuable landscaping or yard space, and sometimes even capture a view. At Murray Lampert, our goal as a **second story contractor in San Diego** is to deliver quality, value, and satisfaction.

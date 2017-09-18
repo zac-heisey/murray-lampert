@@ -1,10 +1,11 @@
 ---
 title: Room Additions Escondido
+permalink: "/room-additions-escondido"
 layout: default
 section_id: room-additions
-permalink: /room-additions-escondido
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Escondido, San Diego. Take your Escondido home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Escondido,
+  San Diego. Take your Escondido home addition to the next level with us.
 ---
 
 A city with a typical Mediterranean climate, Escondido is blessed with mild weather year round. The climate is also perfect for widespread cultivation of oranges and avocados. Since it is one of the oldest communities in San Diego County, Escondido is a charming blend of the old and the new. With a large number of parks and green spaces, this area is perfect for outdoor recreational activities and relaxation.

@@ -2,14 +2,15 @@
 title: Steam Showers - Treat Yourself to a Home Spa in 2017
 date: 2017-01-18 02:37:28 Z
 permalink: "/steam-showers-treat-yourself-to-a-home-spa-in-2017/"
-layout: post
-featured-image: uploads/gallery/baths/cote-master-bath.jpg
-excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents that require thorough planning. Let's get started!
-author: Gregg Cantor
 categories:
 - Bathroom Remodeling
 tags:
 - bathroom remodel
+layout: post
+featured-image: uploads/gallery/baths/cote-master-bath.jpg
+excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents
+  that require thorough planning. Let's get started!
+author: Gregg Cantor
 ---
 
 Holiday preparations tend to leave many homeowners exhausted and glad the season is finally over. Many choose to visit expensive spas or go away during the weekend to relax and enjoy. But what if you could bring the spa experience to your home?

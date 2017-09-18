@@ -2,15 +2,16 @@
 title: 3 Things to Know Before Building a Granny Flat in San Diego
 date: 2017-08-11 00:00:00 Z
 permalink: "/3-things-to-know-about-granny-flat/"
-layout: post
-featured-image: /uploads/granny-flat-in-law-suite-san-diego.jpg
-excerpt: Murray Lampert specializes in San Diego granny flats. Click to read more about the top things you need to know before you start building your granny flat.
-author: Gregg Cantor
 categories:
 - In-law Suites
 tags:
 - granny flats
 - in-law suites
+layout: post
+featured-image: "/uploads/granny-flat-in-law-suite-san-diego.jpg"
+excerpt: Murray Lampert specializes in San Diego granny flats. Click to read more
+  about the top things you need to know before you start building your granny flat.
+author: Gregg Cantor
 ---
 
 Granny flats have recently become more popular in the San Diego area as city codes have allowed for easier building and people realize the benefits it can bring to have an additional living space available in their homes. Granny flats are versatile and can be converted into whatever you need. Generally speaking, they include an additional bedroom and bathroom that adds to the overall value of your home. Depending on what you chose your granny flat to be, the value of your home can increase up to 60%.

@@ -1,10 +1,11 @@
 ---
 title: Major Renovations in San Diego
+permalink: "/major-renovations"
 layout: default
 section_id: major-renovations
-permalink: /major-renovations
 featured-image: uploads/mhr.jpg
-excerpt: Murray Lampert major home renovations in San Diego. We can handle your whole home renovation project from start to finish. Visit us online to learn more.
+excerpt: Murray Lampert major home renovations in San Diego. We can handle your whole
+  home renovation project from start to finish. Visit us online to learn more.
 ---
 
 If your home is outdated, your floor plan doesn't fit your lifestyle, or you need more space, a major home renovation may be a great solution. Murray Lampert Design, Build, Remodel’s is the premier home renovation contractor in San Diego. We'll design and build your renovation project to fit your lifestyle needs, as well as your budget.

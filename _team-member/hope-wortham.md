@@ -1,7 +1,8 @@
 ---
 title: Hope Wortham
 layout: default
-excerpt: Hope Wortham is the Lead Interior Designer at Murray Lampert Design, Build, Remodel in San Diego. Visit to learn more about Hope and the Murray Lampert team.
+excerpt: Hope Wortham is the Lead Interior Designer at Murray Lampert Design, Build,
+  Remodel in San Diego. Visit to learn more about Hope and the Murray Lampert team.
 ---
 
 Hope Wortham has had the benefit of being around the design process her entire life. Growing up, she was constantly exposed to residential design through her father's Landscape Architecture firm. These experiences taught her the value of putting the client's vision first; she believes your space should reflect your unique vision and personality, as well as function optimally for how would like to use it.

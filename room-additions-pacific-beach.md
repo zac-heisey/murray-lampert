@@ -1,10 +1,11 @@
 ---
 title: Room Additions Pacific Beach
+permalink: "/room-additions-pacific-beach"
 layout: default
 section_id: room-additions
-permalink: /room-additions-pacific-beach
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Pacific Beach, San Diego. Take your Pacific Beach home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Pacific
+  Beach, San Diego. Take your Pacific Beach home addition to the next level with us.
 ---
 
 Pacific Beach is known all around San Diego for the exciting lifestyle it offers. A whole host of cafes and dance clubs guarantee an unforgettable California experience. It is extremely popular with tourists and is definitely a fun place to live.

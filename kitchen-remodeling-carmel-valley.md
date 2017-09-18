@@ -1,10 +1,12 @@
 ---
 title: Kitchen Remodeling Carmel Valley
+permalink: "/kitchen-remodeling-carmel-valley"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-carmel-valley
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Carmel Valley, San Diego. Take your Carmel Valley kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Carmel Valley, San Diego. Take your Carmel Valley kitchen remodel to the next level
+  with us.
 ---
 
 Being a suburban planned community, Carmel Valley is a real-estate haven. Bustling with shops and restaurants, commercial offices and residential areas planned specifically for this modern San Diego community, Carmel Valley is a peaceful and welcoming place.

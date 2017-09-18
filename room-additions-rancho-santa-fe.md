@@ -1,10 +1,12 @@
 ---
 title: Room Additions Rancho Santa Fe
+permalink: "/room-additions-rancho-santa-fe"
 layout: default
 section_id: room-additions
-permalink: /room-additions-rancho-santa-fe
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho Santa Fe, San Diego. Take your Rancho Santa Fe home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
+  Santa Fe, San Diego. Take your Rancho Santa Fe home addition to the next level with
+  us.
 ---
 
 Being one of the highest income communities in the US, Rancho Santa Fe is a great residential community for young families. Even though it has a warm-summer Mediterranean climate, Rancho Santa Fe is one of the few places in suburban San Diego to have snowfall. This is ideal for families who enjoy warm climate but don’t want to part with the sensation of a white Christmas.

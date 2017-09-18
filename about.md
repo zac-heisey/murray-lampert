@@ -1,10 +1,11 @@
 ---
 title: About Murray Lampert
+permalink: "/about-murray-lampert-design-build-remodel"
 layout: default
 section_id: about
-permalink: /about-murray-lampert-design-build-remodel
-featured-image:
-excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning design build contractor with over 40 years experience in home remodeling.
+featured-image: 
+excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
+  design build contractor with over 40 years experience in home remodeling.
 skills:
 - title: Home & Architectural Design, 3D Project Rendering, etc.
   percent: 84
@@ -17,74 +18,91 @@ skills:
 members:
 - name: Gregg Cantor
   position: President/CEO
-  desc: Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing job site clean up. After spending a year as a carpenter’s helper in 1978, Gregg concentrated on his education majoring in business.
+  desc: Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing
+    job site clean up. After spending a year as a carpenter’s helper in 1978, Gregg
+    concentrated on his education majoring in business.
   avatar: uploads/gregg-1.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/gregg-cantor
+    url: "/team-member/gregg-cantor"
   - icon_class: fa fa-envelope
-    url: mailto:gcantor@murraylampert.com  
+    url: mailto:gcantor@murraylampert.com
 - name: Lisa Cantor
   position: CFO
-  desc: Gregg met Lisa in November of 1988 and they were married in April 1990. In 1994 Lisa started helping out in the office answering phones and within a couple of years she eventually took over the bookkeeping and finances.
+  desc: Gregg met Lisa in November of 1988 and they were married in April 1990. In
+    1994 Lisa started helping out in the office answering phones and within a couple
+    of years she eventually took over the bookkeeping and finances.
   avatar: uploads/lisa1000.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/lisa-cantor
+    url: "/team-member/lisa-cantor"
   - icon_class: fa fa-envelope
-    url: mailto:lcantor@murraylampert.com  
+    url: mailto:lcantor@murraylampert.com
 - name: Rachel Cantor
   position: Director of Designer
-  desc: Rachel Cantor is the director of the of the Murray Lampert design department and the fourth generation in our family business. Rachel graduated from Miami University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
+  desc: Rachel Cantor is the director of the of the Murray Lampert design department
+    and the fourth generation in our family business. Rachel graduated from Miami
+    University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
   avatar: uploads/rachel-1000.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/rachel-cantor
+    url: "/team-member/rachel-cantor"
   - icon_class: fa fa-envelope
     url: mailto:rachel@murraylampert.com
 - name: Hope Wortham
   position: Lead Interior Designer ASID
-  desc: Hope Wortham has had the benefit of being around the design process her entire life. Growing up, she was constantly exposed to residential design through her father's Landscape Architecture firm.
+  desc: Hope Wortham has had the benefit of being around the design process her entire
+    life. Growing up, she was constantly exposed to residential design through her
+    father's Landscape Architecture firm.
   avatar: uploads/hope-wortham.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/hope-wortham
+    url: "/team-member/hope-wortham"
   - icon_class: fa fa-envelope
     url: mailto:hopecamilledesigns@gmail.com
 - name: Michael Massa
   position: Vice President of Sales
-  desc: Michael learned at an early age how to design and build from his father. His father was built and upholstered furniture and worked alongside him during his teenage years.
+  desc: Michael learned at an early age how to design and build from his father. His
+    father was built and upholstered furniture and worked alongside him during his
+    teenage years.
   avatar: uploads/michael-massa.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/michael-massa
+    url: "/team-member/michael-massa"
   - icon_class: fa fa-envelope
-    url: mailto:michael@murraylampert.com    
+    url: mailto:michael@murraylampert.com
 - name: Patti Atwell
   position: Director of Production
-  desc: Patti Atwell is our senior project manager on the Murray Lampert production team. Patti comes to Murray Lampert with an expertise in client services and project management, as well as various aspects of design build specializing in kitchen, bath and whole home remodeling.
+  desc: Patti Atwell is our senior project manager on the Murray Lampert production
+    team. Patti comes to Murray Lampert with an expertise in client services and project
+    management, as well as various aspects of design build specializing in kitchen,
+    bath and whole home remodeling.
   avatar: uploads/patti-1.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/patti-atwell
+    url: "/team-member/patti-atwell"
   - icon_class: fa fa-envelope
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
   position: Office Manager | Client Care
-  desc: D’Ann joined Murray Lampert Design, Build, Remodel in December 2009 working in Customer Service and Community Relations. She has worked in various fields supporting both client and employee development for the past 10 years.
+  desc: D’Ann joined Murray Lampert Design, Build, Remodel in December 2009 working
+    in Customer Service and Community Relations. She has worked in various fields
+    supporting both client and employee development for the past 10 years.
   avatar: uploads/dann-1.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/dann-good
+    url: "/team-member/dann-good"
   - icon_class: fa fa-envelope
-    url: mailto:dgood@murraylampert.com    
+    url: mailto:dgood@murraylampert.com
 - name: Cheri Clark
   position: Customer Care Specialist
-  desc: Cheri joined Murray Lampert Design Build Remodel in 2015. She works part time in our front office. She retired from her Real Estate career in 2013 so she could travel with her husband.
+  desc: Cheri joined Murray Lampert Design Build Remodel in 2015. She works part time
+    in our front office. She retired from her Real Estate career in 2013 so she could
+    travel with her husband.
   avatar: uploads/cheri-1.jpg
   socials:
   - icon_class: fa fa-plus
-    url: /team-member/cheri-clark
+    url: "/team-member/cheri-clark"
   - icon_class: fa fa-envelope
     url: mailto:cheri@murraylampert.com
 clients:

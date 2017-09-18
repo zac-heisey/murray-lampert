@@ -1,10 +1,11 @@
 ---
 title: Home Additions San Marcos
+permalink: "/home-additions-san-marcos"
 layout: default
 section_id: room-additions
-permalink: /home-additions-san-marcos
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in San Marcos, San Diego. Take your San Marcos home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in San
+  Marcos, San Diego. Take your San Marcos home addition to the next level with us.
 ---
 
 What is the first thing that comes to your mind when you think of San Marcos? Is it the amazing restaurants praised for their hospitality and variety? The lush parks full of picnic-goers, families and biking enthusiasts? Is it the beautiful northern San Diego County panorama you can only see from the Double Peak Park or the image of the San Bernardino Mountains towering over the Great Los Angeles Area almost like a mirage? Is it the city’s rich history, dating back to the late 18<sup>th</sup> century when the Spanish named the area in honor of St. Mark’s Day, the day that this stunning valley was first discovered?

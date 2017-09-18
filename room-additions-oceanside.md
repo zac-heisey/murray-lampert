@@ -1,10 +1,11 @@
 ---
 title: Room Additions Oceanside
+permalink: "/room-additions-oceanside"
 layout: default
 section_id: room-additions
-permalink: /room-additions-oceanside
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Oceanside, San Diego. Take your Oceanside home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Oceanside,
+  San Diego. Take your Oceanside home addition to the next level with us.
 ---
 
 Oceanside, CA is incredibly popular among tourists. And rightfully so. It is located halfway between Los Angeles and San Diego. It has an abundance of beautiful beaches and nearby amusement parks, most famous being Sea World, Disneyland and Legoland. If you are a history enthusiast, Oceanside has a lot of diverse museums to visit, like the Oceanside Museum of Art. Even people living in Oceanside are still amazed by all it has to offer. The locals enjoy various sports activities like jogging, biking or skating, and Oceanside has all the right conditions to provide.

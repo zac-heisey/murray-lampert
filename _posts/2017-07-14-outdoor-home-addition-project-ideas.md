@@ -2,14 +2,14 @@
 title: Outdoor Home Addition Project Ideas
 date: 2017-07-14 00:00:00 Z
 permalink: "/outdoorhomeadditions/"
-layout: post
-featured-image: /uploads/miller-back-after.jpg
-excerpt: Planning is everything when it comes outdoor home additions. Here are four outdoor home addition project ideas to liven up your outdoor space in San Diego.
-author: Gregg Cantor
 categories:
 - Outdoor Spaces
 - Home Additions
-tags:
+layout: post
+featured-image: "/uploads/miller-back-after.jpg"
+excerpt: Planning is everything when it comes outdoor home additions. Here are four
+  outdoor home addition project ideas to liven up your outdoor space in San Diego.
+author: Gregg Cantor
 ---
 
 A new trend in home renovation is creating outdoor rooms to expand your square footage and living space. This includes creating an outdoor retreat that consists of seating, outdoor cooking, patios, and decks. Now that it is officially summertime, everyone is enjoying the wonderful San Diego sunshine in their backyards and entertaining with friends and family! During these times, people tend to realize their backyards are missing essential functions and design elements that would improve their outdoor entertaining and leisure time. We can help fix that! We have basic outdoor home addition ideas to turn your backyard into the outdoor living space you have dreamed of!

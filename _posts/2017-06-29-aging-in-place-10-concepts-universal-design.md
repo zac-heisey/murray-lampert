@@ -2,16 +2,17 @@
 title: Aging in Place - 10 Concepts of Universal Design
 date: 2017-06-29 00:00:00 Z
 permalink: "/aging-in-place-10-concepts-of-universal-design/"
-layout: post
-featured-image: /uploads/gallery/baths/stanfel-master-bath-after.jpg
-excerpt: Murray Lampert helps San Diego homeowners create safer and more accessible homes. Aging in place is possible with these 10 concepts of Universal Design.
-author: Gregg Cantor
 categories:
 - Universal Design
 tags:
 - aging in place
 - granny flats
 - in-law suites
+layout: post
+featured-image: "/uploads/gallery/baths/stanfel-master-bath-after.jpg"
+excerpt: Murray Lampert helps San Diego homeowners create safer and more accessible
+  homes. Aging in place is possible with these 10 concepts of Universal Design.
+author: Gregg Cantor
 ---
 
 For many, buying a home is a lifelong commitment. It takes decades to pay off a mortgage and begin enjoying a home without the hefty monthly payment attached. And as people age, they often outgrow their homes in terms of safety and quality of life, decreasing the value of this major investment. But it doesn’t have to be this way.

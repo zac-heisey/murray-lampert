@@ -1,10 +1,11 @@
 ---
 title: Custom Cabinets in San Diego
+permalink: "/san-diego-custom-cabinet-construction-services"
 layout: default
 section_id: custom-cabinets
-permalink: /san-diego-custom-cabinet-construction-services
 featured-image: uploads/cabine.jpg
-excerpt: Enhance your kitchen, bath, or home remodeling project with custom cabinets from Murray Lampert Design, Build, Remodel. Visit our online gallery today.
+excerpt: Enhance your kitchen, bath, or home remodeling project with custom cabinets
+  from Murray Lampert Design, Build, Remodel. Visit our online gallery today.
 ---
 
 Are your old cabinets breaking down, deteriorating, or are they simply just out dated? At Murray Lampert Design, Build, Remodel, our **San Diego custom cabinetry service** can help you get high quality cabinetry at affordable prices.

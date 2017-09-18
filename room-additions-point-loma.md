@@ -1,10 +1,11 @@
 ---
 title: Room Additions Point Loma
+permalink: "/room-additions-point-loma"
 layout: default
 section_id: room-additions
-permalink: /room-additions-point-loma
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Point Loma, San Diego. Take your Point Loma home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Point
+  Loma, San Diego. Take your Point Loma home addition to the next level with us.
 ---
 
 Point Loma is one of the pre-eminent places in San Diego where you can explore tide pools in the rocky reefs that are full of marine life. It is a beautiful seaside community and is paradise to both fishermen and explorers. Point Loma is also home to the third most visited national monument in the US known as the Cabrillo. In 2013, this community had a total population of 20,087 and 8,147 houses and condos.

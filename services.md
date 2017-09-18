@@ -1,48 +1,61 @@
 ---
 title: Our Design-Build Services in San Diego
+permalink: "/design-build-services-san-diego"
 layout: default
 section_id: services
-permalink: /design-build-services-san-diego
-featured-image:
-excerpt: From kitchen and bath remodeling to whole house renovations in San Diego, Murray Lampert provides the best in Design-Build services. Visit to learn more.
+featured-image: 
+excerpt: From kitchen and bath remodeling to whole house renovations in San Diego,
+  Murray Lampert provides the best in Design-Build services. Visit to learn more.
 services_col_1:
-- url: /san-diego-room-additions
+- url: "/san-diego-room-additions"
   title: Room Additions
-  desc: Whether you need a new family room, bedroom, or a master suite, our San Diego room addition services can deliver what you need.
-- url: /san-diego-second-story-addition
+  desc: Whether you need a new family room, bedroom, or a master suite, our San Diego
+    room addition services can deliver what you need.
+- url: "/san-diego-second-story-addition"
   title: Second Stories
-  desc: Add space without losing valuable landscaping or yard area with a second story addition from Murray Lampert.
-- url: /san-diego-kitchen-remodeling-services
+  desc: Add space without losing valuable landscaping or yard area with a second story
+    addition from Murray Lampert.
+- url: "/san-diego-kitchen-remodeling-services"
   title: Kitchen Remodels
-  desc: Transform your outdated kitchen with our custom kitchen remodeling service. Modernize your cabinets, counters, appliances, and more.
-- url: /san-diego-bathroom-remodeling-services
+  desc: Transform your outdated kitchen with our custom kitchen remodeling service.
+    Modernize your cabinets, counters, appliances, and more.
+- url: "/san-diego-bathroom-remodeling-services"
   title: Bathroom Remodels
-  desc: Expand and revitalize your master or guest bathroom with our custom San Diego bathroom remodeling services.
-- url: /san-diego-green-home-construction
+  desc: Expand and revitalize your master or guest bathroom with our custom San Diego
+    bathroom remodeling services.
+- url: "/san-diego-green-home-construction"
   title: Green Home Construction
-  desc: Murray Lampert is proud be to a Green Certified company, and a leading eco-friendly home remodeling contractor in San Diego.
-- url: /san-diego-asid-professionals
+  desc: Murray Lampert is proud be to a Green Certified company, and a leading eco-friendly
+    home remodeling contractor in San Diego.
+- url: "/san-diego-asid-professionals"
   title: Interior Design
-  desc: Our ASID-accredited interior designers will help turn your house into a home. See your vision come to life with Murray Lampert.
+  desc: Our ASID-accredited interior designers will help turn your house into a home.
+    See your vision come to life with Murray Lampert.
 services_col_2:
-- url: /major-renovations
+- url: "/major-renovations"
   title: Major Renovations
-  desc: If your floor plan is outdated, doesn't fit your lifestyle, or provide enough space, a major home renovation may be a great solution.
-- url: /3d-architectural-rendering-services
+  desc: If your floor plan is outdated, doesn't fit your lifestyle, or provide enough
+    space, a major home renovation may be a great solution.
+- url: "/3d-architectural-rendering-services"
   title: 3D Project Modeling
-  desc: Architectural rendering and 3D project modeling allows you to visualize your finished home remodel project before we start work.
-- url: /san-diego-architectural-design-services
+  desc: Architectural rendering and 3D project modeling allows you to visualize your
+    finished home remodel project before we start work.
+- url: "/san-diego-architectural-design-services"
   title: Architectural Design
-  desc: With a licensed architect on staff, our team can create a highly detailed plan that will exceed your expectations.
-- url: /san-diego-outdoor-living-space-design
+  desc: With a licensed architect on staff, our team can create a highly detailed
+    plan that will exceed your expectations.
+- url: "/san-diego-outdoor-living-space-design"
   title: Outdoor Living Spaces
-  desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego weather. Outdoor fireplaces, kitchens, and more.
-- url: /san-diego-in-law-suites
+  desc: Custom-built outdoor living spaces allow you to enjoy the beautiful San Diego
+    weather. Outdoor fireplaces, kitchens, and more.
+- url: "/san-diego-in-law-suites"
   title: In-Law Suites
-  desc: In-law suites and granny flats are popular ways for San Diegans to add value and square footage to their home.
-- url: /san-diego-custom-cabinet-construction-services
+  desc: In-law suites and granny flats are popular ways for San Diegans to add value
+    and square footage to their home.
+- url: "/san-diego-custom-cabinet-construction-services"
   title: Custom Cabinets
-  desc: Add flair and personality to your kitchen, bathroom, or home remodeling project with custom cabinets.  
+  desc: Add flair and personality to your kitchen, bathroom, or home remodeling project
+    with custom cabinets.
 ---
 
   <div class='medium-6 columns'>

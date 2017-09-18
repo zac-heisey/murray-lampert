@@ -1,10 +1,11 @@
 ---
 title: San Diego Green Home Construction
+permalink: "/san-diego-green-home-construction"
 layout: default
 section_id: green-building
-permalink: /san-diego-green-home-construction
 featured-image: uploads/gree-home.jpg
-excerpt: Murray Lampert green home remodeling & construction. A Green Certified home building contractor. Learn more about our environmentally friendly practices.
+excerpt: Murray Lampert green home remodeling & construction. A Green Certified home
+  building contractor. Learn more about our environmentally friendly practices.
 ---
 
 With the demand for sustainable energy becoming the standard these days, Murray Lampert is proud to be a leading eco-friendly home remodeling contractor in San Diego. Not only is green home construction good for our planet and our local San Diego community, but eco-friendly remodeling also helps to cut down on your energy costs. Done right, green home construction is a win-win all around!

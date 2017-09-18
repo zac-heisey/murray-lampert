@@ -1,10 +1,11 @@
 ---
 title: Kitchen Remodeling Santee
+permalink: "/kitchen-remodeling-santee"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-santee
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Santee, San Diego. Take your Rancho Santee remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Santee, San Diego. Take your Rancho Santee remodel to the next level with us.
 ---
 
 The city of Santee is a suburb in the larger San Diego County of California. This suburb has a population of 53,000 inhabitants and is only a few miles from the Pacific Ocean. The San Diego River cuts right through the middle of Santee. Residents love outdoor activities such as rock climbing, mountain biking, picnicking and bird watching. Santee is a lovely place to live and raise a family.

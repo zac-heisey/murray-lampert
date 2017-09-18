@@ -1,10 +1,11 @@
 ---
 title: Room Additions Bonita
+permalink: "/room-additions-bonita"
 layout: default
 section_id: room-additions
-permalink: /room-additions-bonita
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with room additions in Bonita, San Diego. Take your Bonita home addition to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with room additions in Bonita,
+  San Diego. Take your Bonita home addition to the next level with us.
 ---
 
 Bonita is a community in San Diego community offering mild weather year-round, even during the hot California summers. Its name means "beautiful," and it really describes this serene area. With its many parks and a variety of wildlife, it is a charming place to live.

@@ -1,10 +1,11 @@
 ---
 title: San Diego Room Additions
+permalink: "/san-diego-room-additions"
 layout: default
 section_id: room-additions
-permalink: /san-diego-room-additions
 featured-image: uploads/room-additions-hero.jpg
-excerpt: Murray Lampert has been providing top-quality San Diego room additions for over 40 years. If you need a room addition in San Diego, give us a call today!
+excerpt: Murray Lampert has been providing top-quality San Diego room additions for
+  over 40 years. If you need a room addition in San Diego, give us a call today!
 ---
 
 Whether you need a family room, great room, a new bedroom addition, a master suite, or a home office, Murray Lampert Design, Build, Remodel’s San Diego room addition services will design and build your room addition to meet your needs and budget.

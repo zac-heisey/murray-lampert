@@ -1,10 +1,12 @@
 ---
 title: Kitchen Remodeling Hillcrest
+permalink: "/kitchen-remodeling-hillcrest"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-hillcrest
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Hillcrest, San Diego. Take your Hillcrest kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Hillcrest, San Diego. Take your Hillcrest kitchen remodel to the next level with
+  us.
 ---
 
 As an affluent San Diego community, Hillcrest is known for its diversity and tolerance. It boasts many locally-owned businesses, and with its trendy cafes, restaurants and bars, it really is a lively place to live.

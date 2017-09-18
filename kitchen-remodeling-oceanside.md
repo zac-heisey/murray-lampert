@@ -1,10 +1,12 @@
 ---
 title: Kitchen Remodeling Oceanside
+permalink: "/kitchen-remodeling-oceanside"
 layout: default
 section_id: kitchen-remodels
-permalink: /kitchen-remodeling-oceanside
-featured-image:
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in Oceanside, San Diego. Take your Oceanside kitchen remodel to the next level with us.
+featured-image: 
+excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
+  Oceanside, San Diego. Take your Oceanside kitchen remodel to the next level with
+  us.
 ---
 
 Oceanside is currently the third largest city in San Diego, California. A coastal town known for its natural beauty and warm sandy beaches, it is the home of California’s famous attractions like Disneyland, SeaWorld, San Diego Zoo and LEGOLAND. Since World War II, the northern area has housed the U.S Marine Corps base because of its great strategic importance. The town is mostly warm throughout the year and this makes it a favorable destination for many visitors. The environment is ideal for hosting retreats and festive events of all kinds. It has gained popularity over time as a vacation home town and this has seen a rapid growth of vacation estate property in the area.
