@@ -5,6 +5,6 @@ permalink: "/hardwood-flooring-2015-infographic/"
 layout: post
 ---
 
-Here is a great infographic on the different types and styles of wood flooring.  For more information, <a title="Wood Floors Infographic" href="http://www.macwoods.com">visit Macwoods</a>
+Here is a great infographic on the different types and styles of wood flooring.  For more information, [visit Macwoods](http://www.macwoods.com).
 
-[caption id="attachment_2772" align="aligncenter" width="925"]<a href="http://murraylampert.com/wp-content/uploads/Hardwood_Survey_-_Final.jpg" target="_blank"><img class="wp-image-2772" src="http://murraylampert.com/wp-content/uploads/Hardwood_Survey_-_Final.jpg" alt="wood, floor, laminate, engineered" width="925" height="7424" /></a> Infographic on wood flooring[/caption]
+[![Wood Flooring Infographic](/uploads/Hardwood_Survey_-_Final.jpg "{{ page.title }}")](/uploads/Hardwood_Survey_-_Final.jpg)

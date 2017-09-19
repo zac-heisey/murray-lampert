@@ -1,5 +1,5 @@
 ---
-title: INFOGRAPHIC - Murray Lampert Earns Two Customer Satisfaction Awards
+title: Murray Lampert Earns Two Customer Satisfaction Awards
 date: 2015-03-03 10:00:35 Z
 permalink: "/murray-lampert-earns-two-customer-satisfaction-awards/"
 layout: post
@@ -15,13 +15,13 @@ That’s why the popular home improvement site and mobile application Houzz reco
 </ul>
 We are honored to be recognized with these awards, but they are simply a bonus to the daily rewards we receive from happy clients all across the San Diego area. It is our customers who make our work so meaningful.
 
-<strong>We Work With Authentic Business Ethics</strong>
+#### We Work With Authentic Business Ethics
 
-For almost 40 years, Murray Lampert Design, Build, and Remodel has helped San Diego homeowners bring their dreams to reality. Whether a<a title="Kitchen Remodels" href="http://murraylampert.com/san-diego-kitchen-remodeling-services/"> custom kitchen</a>, second story addition, or a complete <a title="Home Remodeling Services" href="http://murraylampert.com/remodel/">home remodel</a>, the professionals at Murray Lampert take pride in seeing projects through to completion and making it a smooth process for homeowners.
+For almost 40 years, Murray Lampert Design, Build, and Remodel has helped San Diego homeowners bring their dreams to reality. Whether a<a title="Kitchen Remodels" href="http://murraylampert.com/san-diego-kitchen-remodeling-services/"> custom kitchen</a>, second story addition, or a complete <a title="Home Remodeling Services" href="http://murraylampert.com/san-diego-home-remodel-services/">home remodel</a>, the professionals at Murray Lampert take pride in seeing projects through to completion and making it a smooth process for homeowners.
 
 Let’s face it: this industry isn’t known for customer satisfaction, and homeowners feel a lot of stress when it comes time to start a home improvement project because they’ve heard so many horror stories about unreliable contractors, missed deadlines, projects going way over budget, and so on. We’ve made it our mission to change this reputation and promote ethics in this industry. That’s what makes us stand out.
 
-<strong>What Does the Future Hold for Murray Lampert?</strong>
+#### What Does the Future Hold for Murray Lampert?
 
 As always, Murray Lampert looks to lead the industry with innovation that impacts the residents of the San Diego community. Here are some notable things we’ve been working on:
 <ul>

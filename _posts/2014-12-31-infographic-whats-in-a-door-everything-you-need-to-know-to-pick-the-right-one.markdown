@@ -8,25 +8,19 @@ layout: post
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.
 
-&nbsp;
+![Choosing a Door Infographic](/uploads/1411_infographic-murray-lampert-types-of-doors.jpg "{{ page.title }}")
 
-<a href="http://murraylampert.com/wp-content/uploads/1411_infographic-murray-lampert-types-of-doors.jpg" target="_blank"><img class="aligncenter wp-image-2727" src="http://murraylampert.com/wp-content/uploads/1411_infographic-murray-lampert-types-of-doors.jpg" alt="What’s In a Door? Everything You Need to Know to Pick the Right One" width="925" height="4133" /></a>
+### Share This Door Infographic On Your Site
 
-&nbsp;
+<textarea><p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://murraylampert.com/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/"><img src="http://murraylampert.com/uploads/1411_infographic-murray-lampert-types-of-doors.jpg" alt=What’s In a Door? Everything You Need to Know to Pick the Right One" width="802" height="4909" border="0" /></a></p></textarea>
 
-&nbsp;
-<h3>Share This Infographic On Your Site</h3>
-<textarea style="width: 800px; height: 130px;">&lt;p&gt;&lt;a href=’ http://murraylampert.com/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/’&gt;&lt;img src= ‘http://murraylampert.com/wp-content/uploads/1411_infographic-murray-lampert-types-of-doors.jpg’  alt=What’s In a Door? Everything You Need to Know to Pick the Right One  width=''  border='0' /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;p&gt;Provided by: &lt;a href='www.MurrayLampert.com'&gt;MurrayLampert.com&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;p&gt;</textarea>
-
-<strong>What’s In a Door? Everything You Need to Know to Pick the Right One</strong>
+#### What’s In a Door? Everything You Need to Know to Pick the Right One
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.
 
 ---
 
-<strong>Popular Types of Doors </strong>
+<strong>Popular Types of Doors</strong>
 <ul>
 	<li>Panel doors: The most common type of door seen in homes today, often designed with a classic pattern of square panels.</li>
 	<li>Sliding: Door slides along a track, saving space. Made of wood, glass, or lined with mirrors.</li>
