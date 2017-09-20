@@ -1,0 +1,13 @@
+---
+title: Service Locations
+layout: default
+section_id: service-locations
+---
+
+<!-- Temporary way to list out service locations > Update before launch -->
+{% for location in site.service-location %}
+  {% if location.path contains ".md" %}
+  <h2><a href="{{ location.url }}">{{ location.title }}</a></h2>
+  {% endif %}
+{% endfor %}
+<div class='four spacing'></div>
