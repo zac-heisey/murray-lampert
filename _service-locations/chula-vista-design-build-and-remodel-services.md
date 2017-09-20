@@ -3,7 +3,8 @@ title: Chula Vista Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: 
-excerpt: Murray Lampert home remodeling in Chula Vista. We have over 40 years experience providing design, build, and remodel services in Chula Vista.
+excerpt: Murray Lampert home remodeling in Chula Vista. We have over 40 years experience
+  providing design, build, and remodel services in Chula Vista.
 ---
 
 Murray Lampert has been proudly providing the Chula Vista area with professional home remodeling, design, and construction services for over 40 years. If you interested in <a href="http://murraylampert.com/san-diego-home-remodel-services/">doing a home remodel</a>, we are sure to offer all the services you need.

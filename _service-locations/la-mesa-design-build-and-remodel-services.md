@@ -3,8 +3,8 @@ title: La Mesa Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: uploads/2013/09/ML-interior_hero-second_stories.jpg
-excerpt: La Mesa remodeling by Murray Lampert. Providing superior design, build,
-  and remodel services in La Mesa for over 40 years. Visit us today!
+excerpt: La Mesa remodeling by Murray Lampert. Providing superior design, build, and
+  remodel services in La Mesa for over 40 years. Visit us today!
 ---
 
 [Murray Lampert](/about-murray-lampert-design-build-remodel) has provided the residents of La Mesa with home remodeling, [major renovations](/major-renovations), and architectural design services since 1975. Read on to learn more about the services we offer and how they can contribute to your home renovation.

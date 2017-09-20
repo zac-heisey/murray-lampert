@@ -3,8 +3,8 @@ title: Poway Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: uploads/webb-pool.jpg
-excerpt: Poway remodeling by Murray Lampert. Providing superior design, build,
-  and remodel services in Poway for over 40 years. Visit us today!
+excerpt: Poway remodeling by Murray Lampert. Providing superior design, build, and
+  remodel services in Poway for over 40 years. Visit us today!
 ---
 
 [Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) has had the privilege of providing [architectural design](), home remodeling and construction in the Poway area since 1975.

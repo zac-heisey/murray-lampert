@@ -2,8 +2,9 @@
 title: La Jolla Vista Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image:
-excerpt: Murray Lampert home remodeling in La Jolla. We have over 40 years experience providing design, build, and remodel services in La Jolla.
+featured-image: 
+excerpt: Murray Lampert home remodeling in La Jolla. We have over 40 years experience
+  providing design, build, and remodel services in La Jolla.
 ---
 
 Murray Lampert has provided the residents of La Jolla with home remodeling and [professional design-build services](/san-diego-home-design-services) since 1975. Whatever your home remodeling and renovation needs, [Murray Lampert Design, Build, Remodel](/) is up to the challenge.

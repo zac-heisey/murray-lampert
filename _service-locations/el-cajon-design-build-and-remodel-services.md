@@ -2,7 +2,7 @@
 title: El Cajon Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image:
+featured-image: 
 excerpt: El Cajon home remodeling by Murray Lampert. Providing superior design, build,
   and remodel services in El Cajon for over 40 years. Visit us today!
 ---
