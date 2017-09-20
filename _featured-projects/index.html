@@ -6,5 +6,9 @@ section_id: projects
 
 <!-- Temporary way to list out featured projects > Update before launch -->
 {% for project in site.featured-projects %}
+  {% if project.path contains ".md" %}
   <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+  <h4>Location: {{ project.location }} | Date: {{ project.project-date }}</h4>
+  {% endif %}
 {% endfor %}
+<div class='four spacing'></div>
