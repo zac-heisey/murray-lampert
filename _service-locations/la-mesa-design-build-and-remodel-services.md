@@ -20,7 +20,7 @@ We have built relationships with inspectors, trade partners, distributors, and o
 Whether you’re looking for La Mesa home remodeling services or you want to explore some new architectural design ideas for a future remodel, we've got you covered. Our list of remodeling services includes:
 
 - **Kitchen remodels** - Our [kitchen remodeling experts](/san-diego-kitchen-remodeling-services) in La Mesa can help you create an inviting, functional space for cooking meals and entertaining guests.
-- **Cabinets** - We will help you maximize your storage space with [custom built cabines](/san-diego-custom-cabinet-construction-services). Whatever your style, wood type, color or finish, we can design and build high quality custom crafted cabinetry.
+- **Cabinets** - We will help you maximize your storage space with [custom built cabinets](/san-diego-custom-cabinet-construction-services). Whatever your style, wood type, color or finish, we can design and build high quality custom crafted cabinetry.
 - **Green building** - Murray Lampert is committed to green, [eco-friendly building practices](/san-diego-green-home-construction) that will save you money and keep the planet healthy.
 - **Architectural design** - Collaborate with our staff architect to create a custom [architectural design](/san-diego-architectural-design-services/) that fits your budget and your project requirements.
 - **Room additions** - Through our [room addition service](/san-diego-room-additions) in La Mesa, we can help add space to your home to accommodate your growing family.
