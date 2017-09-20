@@ -3,7 +3,7 @@ title: Murray Lampert Reviews
 permalink: "/reviews"
 layout: default
 section_id: reviews
-featured-image: 
+featured-image:
 excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out our
   online customer reviews from Google, Yelp, Houzz, and GuildQuality.
 ---
@@ -29,7 +29,7 @@ excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out ou
 <span class="yelp-review" data-review-id="h-NgzXwHPkoeBjgFD5LLgw" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=x5wu1VqqoDCEmY0UiJoGlw" rel="nofollow noopener">Ellen R.</a>'s <a href="https://www.yelp.com/biz/murray-lampert-design-build-remodel-san-diego?hrid=h-NgzXwHPkoeBjgFD5LLgw" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/oeIsDIcIiqbk94lIFs7SUA" rel="nofollow noopener">Murray Lampert Design Build Remodel</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>
 
 ### [GuildQuality](#)
-TBD
+**COMING SOON**
 
-###[Houzz](#)
-TBD
+### [Houzz](#)
+**COMING SOON**
