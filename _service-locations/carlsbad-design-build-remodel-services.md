@@ -3,7 +3,8 @@ title: Carlsbad Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: uploads/carlsbad-service-locations.jpg
-excerpt: Carlsbad home remodeling by Murray Lampert. Providing superior design, build, and remodel services in Carlsbad for over 40 years. Visit us today!
+excerpt: Carlsbad home remodeling by Murray Lampert. Providing superior design, build,
+  and remodel services in Carlsbad for over 40 years. Visit us today!
 ---
 
 [Murray Lampert Design, Build, Remodel](/) has provided the homeowners of Carlsbad with professional construction, architectural design, and home remodeling services since 1975.
