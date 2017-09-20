@@ -14,8 +14,6 @@ For over four generations, Murray Lampert has served La Jolla with unmatched ser
 
 We have built relationships with inspectors, trade partners, distributors, and other business experts to deliver a superior product and customer satisfaction. Our commitment to service, craftsmanship, and innovation sets us above our competition.
 
-We hold an [A+ rating with the Better Business Bureau](https://www.bbb.org/sdoc/business-reviews/construction-and-remodeling-services/murray-lampert-design-build-remodel-in-san-diego-ca-100554/#bbbonlineclick), and we are four-time winners of the BBB Torch Award for marketplace ethics. We also received the Best of Houzz award for customer satisfaction in 2014, and we continue to receive 5-star ratings in our reviews and testimonials.
-
 ### Our Home Remodeling Services in La Jolla
 
 Whether you’re looking for La Jolla home remodeling services or you want to explore some new architectural design ideas for a future remodel, Murray Lampert has you covered. Our services include:
