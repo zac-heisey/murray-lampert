@@ -1,11 +1,13 @@
 ---
-title: Service Locations
+title: Our Service Locations
 layout: default
 section_id: service-locations
+featured-image: uploads/sd-service-locations-featured.jpg
+excerpt: Murray Lampert specializes in home design, build, and remodel projects in multiple cities & neighborhoods throughout San Diego County. See where we work.
 ---
 
 <!-- Temporary way to list out service locations > Update before launch -->
-{% for location in site.service-location %}
+{% for location in site.service-locations %}
   {% if location.path contains ".md" %}
   <h2><a href="{{ location.url }}">{{ location.title }}</a></h2>
   {% endif %}
