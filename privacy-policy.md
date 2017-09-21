@@ -3,8 +3,9 @@ title: Privacy Policy
 permalink: "/privacy-policy/"
 layout: default
 section_id: privacy-policy
-featured-image:
-excerpt: Murray Lampert takes our website visitor's and client's privacy very seriously. Please review our privacy policy and let us know if you have any questions.
+featured-image: 
+excerpt: Murray Lampert takes our website visitor's and client's privacy very seriously.
+  Please review our privacy policy and let us know if you have any questions.
 ---
 
 For purposes of this Privacy Policy, the terms “we,” “us,” “our” and “Murray Lampert DBR” refer to [Murray Lampert Design, Build, Remodel](/). “you” and “your” refers to you, as a user of the Murray Lampert Design, Build, Remodel website. The Privacy Policy below governs any information you provide on this site.
