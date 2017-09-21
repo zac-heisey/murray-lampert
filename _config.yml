@@ -16,6 +16,7 @@ collections:
   team-member:
     title: Team Members
     output: true
+    permalink: "/:collection/:path/"
   uploads:
     title: Uploads
     output: true

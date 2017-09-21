@@ -1,5 +1,6 @@
 ---
 title: Contact Murray Lampert
+permalink: "/contact/"
 layout: default
 section_id: contact
 address1: 2878 Camino Del Rio South
