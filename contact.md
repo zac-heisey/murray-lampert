@@ -11,26 +11,54 @@ phone: "(619) 285-9222"
   <div class='medium-8 columns'>
     <div class='form'>
       <div class='row'>
-        <form id='contact_form' method='POST'>
-          <div class='large-12 columns'>
-            <p id='thanks' style='display: none;'>
-              Thanks for contacting us, we'll be in touch soon!
-            </p>
-          </div>
+        <!-- Removed id='contact_form' and method='POST' from original <form> -->
+        <form name='Website Lead: Contact Form' netlify-honeypot='bot-field' action='/thank-you/' netlify>
           <div class='medium-12 columns'>
-            <input class='required' name='name' placeholder='NAME' type='text'>
-            <input class='required email' name='email' placeholder='EMAIL' type='text'>
-            <select class='required' name='select' placeholder='AREA OF INTEREST'>
-              <option value="area-of-interest">AREA OF INTEREST</option>
-              <option value="total-renovation">Total Renovation</option>
-              <option value="room-addition">Room Addition</option>
-              <option value="second-store">Second Story</option>
-              <option value="kitchen">Kitchen</option>
-              <option value="bathroom">Bathroom</option>
-              <option value="other">Other</option>
+            <!-- Netlify honeypot field -->
+            <p class='hidden'><label>Don’t fill this out: <input name="bot-field"></label></p>
+            <!-- Standard form fields -->
+            <input name='name' placeholder='NAME' type='text' required>
+            <input name='email' placeholder='EMAIL' type='email' required>
+            <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
+              <option value="" disabled selected>AREA OF INTEREST</option>
+              <option value="Total Renovation">Total Renovation</option>
+              <option value="Room Addition">Room Addition</option>
+              <option value="Second Story">Second Story</option>
+              <option value="Kitchen Remodel">Kitchen Remodel</option>
+              <option value="Bathroom Remodel">Bathroom Remodel</option>
+              <option value="Other">Other</option>
             </select>
-            <textarea class='required' name='message' placeholder='HOW CAN WE HELP?'></textarea>
-            <input class='button white' type='submit'>
+            <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
+              <option value="" disabled selected>EXPECTED TIME FRAME</option>
+              <option value="ASAP">ASAP</option>
+              <option value="3 months">3 Months</option>
+              <option value="6 months">6 Months</option>
+              <option value="1 year">1 Year</option>
+              <option value="More than a year">More than a year</option>
+            </select>
+            <select name='project-budget' placeholder='WHAT IS YOUR BUDGET?' required>
+              <option value="" disabled selected>WHAT IS YOUR BUDGET?</option>
+              <option value="$30k - $50k">$30,000 - $50,000</option>
+              <option value="$50k - $100k">$50,000 - $100,000</option>
+              <option value="$100 - $200k">$100,000 - $200,000</option>
+              <option value="$200k - $300k">$200,000 - $300,000</option>
+              <option value="$300k - $500k">$300,000 - $500,000</option>
+              <option value="$500k+">$500,000+</option>
+            </select>
+            <select name='referral-source' placeholder='HOW DID YOU FIND US?'>
+              <option value="" disabled selected>HOW DID YOU FIND US?</option>
+              <option value="Online Search">Online Search (Google, Bing, Yahoo, etc.)</option>
+              <option value="Online Referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
+              <option value="Social Media">Social Media (Facebook, Instagram, Pinterest, etc.)</option>
+              <option value="Personal Referral">Personal Referral</option>
+              <option value="Radio">Radio</option>
+              <option value="Television">Television</option>
+              <option value="Job Site Sign">Job Site Sign</option>
+              <option value="Print Ad">Print Advertisement</option>
+              <option value="Other">Other</option>
+            </select>
+            <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
+            <input class='button default' type='submit' value="GET IN TOUCH">
           </div>
         </form>
       </div>
