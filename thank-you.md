@@ -3,7 +3,7 @@ title: Thank You
 permalink: "/thank-you/"
 layout: default
 section_id: thank-you
-featured-image:
+featured-image: 
 excerpt: Customer testimonials for Murray Lampert's work on second stories, custom
   kitchens & bath remodels, room additions, and complete home remodeling projects.
 ---
