@@ -1,13 +1,13 @@
 <div class='full' id="quick-contact">
   <div class='row'>
-    <form id='contact_form' method='POST'>
+    <form action='thank-you' name='quick-contact-form' method='POST' netlify>
       <div class='medium-8 columns'>
         <h2>Contact Murray Lampert</h2>
         <h3>Get More Info About Home Design, Build, Remodel in San Diego</h3>
-          <input class='required' name='name' placeholder='NAME' type='text'>
-          <input class='required email' name="email" placeholder='EMAIL' type='email'>
-          <select class='required' name='area-of-interest' placeholder='AREA OF INTEREST'>
-            <option value="area-of-interest">AREA OF INTEREST</option>
+          <input name='name' placeholder='NAME' type='text' required>
+          <input name="email" placeholder='EMAIL' type='email' required>
+          <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
+            <option value="" disabled selected>AREA OF INTEREST</option>
             <option value="total-renovation">Total Renovation</option>
             <option value="room-addition">Room Addition</option>
             <option value="second-store">Second Story</option>
@@ -15,22 +15,22 @@
             <option value="bathroom">Bathroom</option>
             <option value="other">Other</option>
           </select>
-          <textarea class='required' name='message' placeholder='HOW CAN WE HELP?'></textarea>
+          <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
         <div class='two spacing'></div>
       </div>
       <div class='medium-4 columns'>
         <h2>Project Details</h2>
         <h3>For Your In-Home Consultation</h3>
-        <select class='required' name='expected-time-frame' placeholder='EXPECTED TIME FRAME'>
-          <option value="expected-time-frame">EXPECTED TIME FRAME</option>
+        <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
+          <option value="" disabled selected>EXPECTED TIME FRAME</option>
           <option value="asap">ASAP</option>
-          <option value="3-months">3 Months/option>
+          <option value="3-months">3 Months</option>
           <option value="6-months">6 Months</option>
           <option value="1-year">1 Year</option>
           <option value="more-than-a-year">More than a year</option>
         </select>
-        <select class='required' name='project-budget' placeholder='WHAT IS YOUR BUDGET?'>
-          <option value="what-is-your-budget">WHAT IS YOUR BUDGET?</option>
+        <select name='project-budget' placeholder='WHAT IS YOUR BUDGET?' required>
+          <option value="" disabled selected>WHAT IS YOUR BUDGET?</option>
           <option value="30-50">$30,000 - $50,000</option>
           <option value="50-100">$50,000 - $100,000</option>
           <option value="100-200">$100,000 - $200,000</option>
@@ -39,7 +39,7 @@
           <option value="500+">$500,000+</option>
         </select>
         <select name='referral-source' placeholder='HOW DID YOU FIND US?'>
-          <option value="how-did-you-find-us">HOW DID YOU FIND US?</option>
+          <option value="" disabled selected>HOW DID YOU FIND US?</option>
           <option value="online-search">Online Search (Google, Bing, Yahoo, etc.)</option>
           <option value="online-referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
           <option value="online-referral">Social Media (Facebook, Instagram, Pinterest, etc.)</option>
@@ -51,7 +51,6 @@
           <option value="other">Other</option>
         </select>
         <input class='button default' type='submit' value="GET IN TOUCH">
-        <input type='hidden' name='_next' value='#'>
       </div>
     </form>
     <div class='four spacing'></div>
