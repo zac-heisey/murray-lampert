@@ -596,3 +596,8 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   font-size: 14px;
   padding: 0;
 }
+
+/* Misc. Form Styles */
+p.hidden {
+  display: none;
+} // Netlify honeypot field

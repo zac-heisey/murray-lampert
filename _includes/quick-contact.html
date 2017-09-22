@@ -1,20 +1,23 @@
 <div class='full' id="quick-contact">
   <div class='row'>
-    <!-- removed id='contact_form' from original <form> -->
-    <form action='/thank-you/' name='Quick Contact Form' method='POST' netlify>
+    <!-- Removed id='contact_form' and method='POST' from original <form> -->
+    <form name='Website Lead: Contact Form' netlify-honeypot='bot-field' action='/thank-you/' netlify>
       <div class='medium-8 columns'>
         <h2>Contact Murray Lampert</h2>
         <h3>Get More Info About Home Design, Build, Remodel in San Diego</h3>
+          <!-- Netlify honeypot field -->
+          <p class='hidden'><label>Don’t fill this out: <input name="bot-field"></label></p>
+          <!-- Standard form fields -->
           <input name='name' placeholder='NAME' type='text' required>
           <input name="email" placeholder='EMAIL' type='email' required>
           <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
             <option value="" disabled selected>AREA OF INTEREST</option>
-            <option value="total-renovation">Total Renovation</option>
-            <option value="room-addition">Room Addition</option>
-            <option value="second-store">Second Story</option>
-            <option value="kitchen">Kitchen</option>
-            <option value="bathroom">Bathroom</option>
-            <option value="other">Other</option>
+            <option value="Total Renovation">Total Renovation</option>
+            <option value="Room Addition">Room Addition</option>
+            <option value="Second Story">Second Story</option>
+            <option value="Kitchen Remodel">Kitchen Remodel</option>
+            <option value="Bathroom Remodel">Bathroom Remodel</option>
+            <option value="Other">Other</option>
           </select>
           <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
         <div class='two spacing'></div>
@@ -24,32 +27,32 @@
         <h3>For Your In-Home Consultation</h3>
         <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
           <option value="" disabled selected>EXPECTED TIME FRAME</option>
-          <option value="asap">ASAP</option>
-          <option value="3-months">3 Months</option>
-          <option value="6-months">6 Months</option>
-          <option value="1-year">1 Year</option>
-          <option value="more-than-a-year">More than a year</option>
+          <option value="ASAP">ASAP</option>
+          <option value="3 months">3 Months</option>
+          <option value="6 months">6 Months</option>
+          <option value="1 year">1 Year</option>
+          <option value="More than a year">More than a year</option>
         </select>
         <select name='project-budget' placeholder='WHAT IS YOUR BUDGET?' required>
           <option value="" disabled selected>WHAT IS YOUR BUDGET?</option>
-          <option value="30-50">$30,000 - $50,000</option>
-          <option value="50-100">$50,000 - $100,000</option>
-          <option value="100-200">$100,000 - $200,000</option>
-          <option value="200-300">$200,000 - $300,000</option>
-          <option value="300-500">$300,000 - $500,000</option>
-          <option value="500+">$500,000+</option>
+          <option value="$30k - $50k">$30,000 - $50,000</option>
+          <option value="$50k - $100k">$50,000 - $100,000</option>
+          <option value="$100 - $200k">$100,000 - $200,000</option>
+          <option value="$200k - $300k">$200,000 - $300,000</option>
+          <option value="$300k - $500k">$300,000 - $500,000</option>
+          <option value="$500k+">$500,000+</option>
         </select>
         <select name='referral-source' placeholder='HOW DID YOU FIND US?'>
           <option value="" disabled selected>HOW DID YOU FIND US?</option>
-          <option value="online-search">Online Search (Google, Bing, Yahoo, etc.)</option>
-          <option value="online-referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
-          <option value="online-referral">Social Media (Facebook, Instagram, Pinterest, etc.)</option>
-          <option value="personal-referral">Personal Referral</option>
-          <option value="radio">Radio</option>
-          <option value="television">Television</option>
-          <option value="job-site-sign">Job Site Sign</option>
-          <option value="print-ad">Print Advertisement</option>
-          <option value="other">Other</option>
+          <option value="Online Search">Online Search (Google, Bing, Yahoo, etc.)</option>
+          <option value="Online Referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
+          <option value="Social Media">Social Media (Facebook, Instagram, Pinterest, etc.)</option>
+          <option value="Personal Referral">Personal Referral</option>
+          <option value="Radio">Radio</option>
+          <option value="Television">Television</option>
+          <option value="Job Site Sign">Job Site Sign</option>
+          <option value="Print Ad">Print Advertisement</option>
+          <option value="Other">Other</option>
         </select>
         <input class='button default' type='submit' value="GET IN TOUCH">
       </div>
