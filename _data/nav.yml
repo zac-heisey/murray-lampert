@@ -1,3 +1,6 @@
+- name: Free Consultation
+  path: contact
+  section_id: contact
 - name: About
   path: about-murray-lampert-design-build-remodel
   section_id: about
@@ -16,9 +19,6 @@
 - name: Projects
   path: projects
   section_id: projects
-- name: Contact
-  path: contact
-  section_id: contact
 - name: Blog
   path: blog
   section_id: blog
