@@ -15,6 +15,7 @@ works:
   class: second-stories major-renovations featured-projects wide
   title: Second Story & <br>Home Remodel
   desc: Featured Project | Pacific Beach
+  url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
   title: Dang Tran Kitchen
@@ -31,6 +32,7 @@ works:
   class: major-renovations second-stories featured-projects wide
   title: Whole House Remodel & <br>Second Story Addition
   desc: Featured Project | Del Cerro
+  url: featured-projects
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
   class: kitchen-remodels
   title: Custom Glazed Kitchen
@@ -43,6 +45,7 @@ works:
   class: major-renovations before-and-after featured-projects wide
   title: Historical Renovation
   desc: Featured Project | San Diego
+  url: featured-projects
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
@@ -100,4 +103,3 @@ works:
   title: Another beautiful day
   desc: Design &amp; Development
 ---
-

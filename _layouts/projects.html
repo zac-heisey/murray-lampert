@@ -68,7 +68,8 @@
         <ul class='gallery'>
           {% for work in page.works %}
             <li class='{{work.class}}'>
-              <a href='portfolio-item.html'>
+              {% if work.url %} <!-- If image in gallery is Featured Project, go to project URL -->
+              <a href='{{ work.url }}'>
                 <img title="{{ work.title }} | Murray Lampert" alt="{{ work.title }} gallery image" src="{{work.image}}" />
                 <div class='overlay'>
                   <div class='thumb-info'>
@@ -77,6 +78,17 @@
                   </div>
                 </div>
               </a>
+              {% else %} <!-- Else keep users on Gallery page -->
+              <a href='/projects'>
+                <img title="{{ work.title }} | Murray Lampert" alt="{{ work.title }} gallery image" src="{{work.image}}" />
+                <div class='overlay'>
+                  <div class='thumb-info'>
+                    <h3>{{work.title}}</h3>
+                    <p>{{work.desc}}</p>
+                  </div>
+                </div>
+              </a>
+              {% endif %}
             </li>
           {% endfor %}
         </ul>
