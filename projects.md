@@ -3,6 +3,7 @@ title: San Diego Remodel Project Gallery
 permalink: "/san-diego-remodel-project-gallery"
 layout: projects
 section_id: projects
+excerpt: Murray Lampert Design, Build, Remodel photo galleries of kitchen and bath remodels, room additions, second stories, and other San Diego home remodel projects.
 works:
 - image: uploads/gallery/room-additions/cin.jpg
   class: room-additions
@@ -104,4 +105,3 @@ works:
   title: Another beautiful day
   desc: Design &amp; Development
 ---
-
