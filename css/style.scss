@@ -378,9 +378,15 @@ ul.shortcode-list i {
   font-weight: bold;
 }
 
-// Custom background for Free Consultation header nav item
+// Custom styles for Free Consultation header nav item
 .contain-to-grid.alt .top-bar-section ul li:first-child a {
   background-color: #B5C6D6;
+
+  &:hover {
+    background-color: #2082AF;
+    color: #fff;
+  }
+
 }
 
 .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
