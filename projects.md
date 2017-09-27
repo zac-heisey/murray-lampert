@@ -1,5 +1,6 @@
 ---
-title: Projects
+title: San Diego Remodel Project Gallery
+permalink: "/san-diego-remodel-project-gallery"
 layout: projects
 section_id: projects
 works:
@@ -103,4 +104,3 @@ works:
   title: Another beautiful day
   desc: Design &amp; Development
 ---
-

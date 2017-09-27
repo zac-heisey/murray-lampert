@@ -6,8 +6,20 @@
 ## TBD
 
 # Gallery Page Redirects
-/gallery  /projects  301
-## Other gallery pages (/room-additions-gallery/, etc.)
+/gallery  /san-diego-remodel-project-gallery  301
+/3d-modeling-gallery  /san-diego-remodel-project-gallery  301
+/architectural-design-gallery  /san-diego-remodel-project-gallery  301
+/bathroom-remodel-gallery  /san-diego-remodel-project-gallery  301
+/before-after-gallery  /san-diego-remodel-project-gallery  301
+/kitchen-remodel-gallery  /san-diego-remodel-project-gallery  301
+/major-renovations-gallery  /san-diego-remodel-project-gallery  301
+/miscellaneous-remodel-project-gallery  /san-diego-remodel-project-gallery  301
+/outdoor-spaces-gallery  /san-diego-remodel-project-gallery  301
+/rendering-gallery  /san-diego-remodel-project-gallery  301
+/room-additions-gallery  /san-diego-remodel-project-gallery  301
+/second-stories-gallery  /san-diego-remodel-project-gallery  301
+/under-contruction-gallery  /san-diego-remodel-project-gallery  301
+
 
 # Image Redirects
 /wp-content/uploads/*  /uploads/:splat

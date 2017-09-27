@@ -3,7 +3,7 @@ title: Home Additions Encinitas
 permalink: "/home-additions-encinitas"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with home additions in Encinitas,
   San Diego. Take your Encinitas home addition to the next level with us.
 ---
@@ -32,4 +32,4 @@ The number, as well as the type of people needed to carry out your Encinitas hom
 
 ## Design, Build, and Remodel with Confidence
 
-[Murray Lampert](/about-murray-lampert-design-build-remodel) has been helping residents in Encinitas and throughout San Diego County realize their home remodeling dreams since 1975. If you're ready to get started with your free in-home consultation, we'd love to [hear from you](/contact). You can also check out some of our [previous home addition projects](/projects), or take a look at what some of our [previous clients](/testimonials) have to say about the work that we do.
+[Murray Lampert](/about-murray-lampert-design-build-remodel) has been helping residents in Encinitas and throughout San Diego County realize their home remodeling dreams since 1975. If you're ready to get started with your free in-home consultation, we'd love to [hear from you](/contact). You can also check out some of our [previous home addition projects](/san-diego-remodel-project-gallery), or take a look at what some of our [previous clients](/testimonials) have to say about the work that we do.

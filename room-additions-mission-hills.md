@@ -26,7 +26,7 @@ Not all additions will add luxury to your home, so you should discuss your ideas
 
 ## Add luxury to you home with our room additions in Mission Hill
 
-A luxurious home will be comfortable for you and your family members. You will easily transform your Mission Hill home into a luxury mansion after you decide to invite our professionals to carry out the renovation services. Our seasoned experts will introduce [home addition ideas](/projects) that will make your home more luxurious, spacious, and unique. Instead of buying a new home, opt instead for an addition and have the best of both worlds.
+A luxurious home will be comfortable for you and your family members. You will easily transform your Mission Hill home into a luxury mansion after you decide to invite our professionals to carry out the renovation services. Our seasoned experts will introduce [home addition ideas](/san-diego-remodel-project-gallery) that will make your home more luxurious, spacious, and unique. Instead of buying a new home, opt instead for an addition and have the best of both worlds.
 
 ## Create More Space for Anything and Everything
 
