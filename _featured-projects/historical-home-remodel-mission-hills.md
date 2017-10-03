@@ -11,6 +11,7 @@ featured-images:
 - uploads/berry-historical-kitchen-cabinets.jpg
 - uploads/berry-historical-living-room-window.jpg
 - uploads/berry-historical-living-room.jpg
+- uploads/berry-historical-bathroom-3.jpg
 - uploads/berry-historical-bathroom-2.jpg
 excerpt: This is a sample featured project. More to come!
 ---
