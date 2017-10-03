@@ -7,8 +7,11 @@ location: Mission Hills
 project-date: June 2017
 featured-video: 1wO1CGaOPZM
 featured-images:
-- uploads/gallery/second-stories/Lovett-4-W.jpg
-- uploads/anderson-front-exterior.jpg
+- uploads/berry-historical-kitchen-sink.jpg
+- uploads/berry-historical-kitchen-cabinets.jpg
+- uploads/berry-historical-living-room-window.jpg
+- uploads/berry-historical-living-room.jpg
+- uploads/berry-historical-bathroom-2.jpg
 excerpt: This is a sample featured project. More to come!
 ---
 
