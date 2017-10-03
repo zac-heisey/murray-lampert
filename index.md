@@ -11,11 +11,11 @@ works:
   class: second-stories major-renovations
   title: Second Story & <br>Complete Remodel
   desc: La Jolla
-- image: uploads/berry-historical-bathroom-3.jpg
+- image: uploads/cava-621-i-ave-KD-13.jpg
   class: bathroom-remodels major-renovations featured-projects wide
-  title: Whole Home Historical Remodel
-  desc: Featured Project | Mission Hills
-  url: featured-projects/historical-home-remodel-mission-hills/
+  title: Whole Home Remodel in Coronado
+  desc: Featured Project | Coronado
+  url: featured-projects/621-i-ave-coronado/
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
   title: Dang Tran Kitchen
@@ -28,11 +28,11 @@ works:
   class: room-additions
   title: Living Room Addition
   desc: La Jolla
-- image: uploads/gallery/major-renovations/major_renovations_03.jpg
-  class: major-renovations second-stories featured-projects wide
-  title: Whole House Remodel & <br>Second Story Addition
-  desc: Featured Project | Del Cerro
-  url: featured-projects
+- image: uploads/berry-historical-bathroom-3.jpg
+  class: bathroom-remodels major-renovations featured-projects wide
+  title: Whole Home Historical Remodel
+  desc: Featured Project | Mission Hills
+  url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
   class: kitchen-remodels
   title: Custom Glazed Kitchen
