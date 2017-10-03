@@ -14,10 +14,10 @@ works:
   class: second-stories major-renovations
   title: Second Story & <br>Complete Remodel
   desc: La Jolla
-- image: uploads/gallery/second-stories/Lovett-4-W.jpg
-  class: second-stories major-renovations featured-projects wide
-  title: Second Story & <br>Home Remodel
-  desc: Featured Project | Pacific Beach
+- image: uploads/berry-historical-bathroom-3.jpg
+  class: bathroom-remodels major-renovations featured-projects wide
+  title: Whole Home Historical Remodel
+  desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
@@ -106,4 +106,3 @@ works:
   title: Another beautiful day
   desc: Design &amp; Development
 ---
-
