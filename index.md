@@ -3,14 +3,15 @@ title: San Diego Design Build Remodel
 layout: home
 section_id: home
 works:
-- image: uploads/gallery/room-additions/cin.jpg
-  class: room-additions
-  title: Great Room Addition
-  desc: San Diego
 - image: uploads/gallery/second-stories/rob2.jpg
   class: second-stories major-renovations
   title: Second Story & <br>Complete Remodel
   desc: La Jolla
+- image: uploads/cava-621-i-ave-KD-33.jpg
+  class: kitchen-remodels major-renovations
+  title: Your Dream Kitchen Awaits
+  desc: We Specialize in Custom Kitchen Remodels
+  url: san-diego-kitchen-remodeling-services
 - image: uploads/cava-621-i-ave-KD-13.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Whole Home Remodel in Coronado
@@ -20,42 +21,40 @@ works:
   class: kitchen-remodels
   title: Dang Tran Kitchen
   desc: San Diego
-- image: uploads/gallery/baths/iaco.jpg
-  class: bathroom-remodels
-  title: Bathroom Remodel
-  desc: La Jolla
-- image: uploads/gallery/room-additions/laco.jpg
+- image: uploads/drone-ib-framing.jpg
+  class: under-construction
+  title: Planning to Home Construction
+  desc: End-to-End Design-Build Services
+  url: san-diego-design-build-contractors
+- image: uploads/under-roof.jpg
+  class: miscellaneous
+  title: Impeccable Craftsmanship
+  desc: Inside & Out
+- image: uploads/miller-back-after.jpg
+  class: outdoor-spaces wide
+  title: Custom Outdoor Living Spaces
+  desc: Enjoy San Diego's Beautiful Weather
+  url: san-diego-outdoor-living-space-design
+- image: uploads/Hood-Ghosn-cropped-2.jpg
+  class: miscellaneous
+  title: Attention to Detail
+  desc: In Everything We Do
+- image: uploads/cava-621-i-ave-KD-30.jpg
   class: room-additions
-  title: Living Room Addition
-  desc: La Jolla
-- image: uploads/berry-historical-bathroom-3.jpg
-  class: bathroom-remodels major-renovations featured-projects wide
-  title: Whole Home Historical Remodel
+  title: The Perfect Room Addition
+  desc: Built for Style & Comfort
+  url: san-diego-room-additions
+- image: uploads/Metcalf2_W.jpg
+  class: major-renovations wide
+  title: Cabinets, Fixtures, & More
+  desc: We Handle Every Aspect of Your Project
+- image: uploads/berry-historical-kitchen-sink.jpg
+  class: major-renovations featured-projects
+  title: Misson Hills Historical <br>Home Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
-- image: uploads/gallery/kitchens/lapierre2(corrected).jpg
-  class: kitchen-remodels
-  title: Custom Glazed Kitchen
-  desc: La Jolla
-- image: uploads/gallery/baths/cote-master-bath.jpg
-  class: bathroom-remodels
-  title: Bathroom Remodel
-  desc: Del Cerro
-- image: uploads/murraylampert-slide1-a-1.jpg
-  class: major-renovations before-and-after featured-projects wide
-  title: Historical Renovation
-  desc: Featured Project | San Diego
-  url: featured-projects
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
   desc: Poway
-- image: uploads/gallery/second-stories/leonida.jpg
-  class: major-renovations second-stories
-  title: Major Renovation & <br>Second Story Addition
-  desc: La Jolla
-- image: uploads/gallery/major-renovations/Dang-Tran-Living-Room.jpg
-  class: major-renovations
-  title: Dang Tran Living Room
-  desc: San Diego
 ---
