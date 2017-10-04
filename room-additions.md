@@ -61,3 +61,5 @@ If you're considering a room or home addition in San Diego, [contact Murray Lam
    	<li><a href="/room-additions-poway">Poway</a></li>
   </ul>
 </section>
+
+### [>> Recent Home & Room Addition Blog Posts](/blog/categories/#home-additions)

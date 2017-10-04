@@ -3,7 +3,7 @@ title: Kitchen Remodeling in San Diego
 permalink: "/san-diego-kitchen-remodeling-services"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: San Diego custom kitchen remodel services by Murray Lampert. Providing kitchen
   remodeling in San Diego since 1975. View our kitchen remodel projects today.
 ---
@@ -65,3 +65,5 @@ We have established pricing with our trades so there is no bidding or risk to yo
    	<li><a href="/kitchen-remodeling-solana-beach">Solana Beach</a></li>
   </ul>
 </section>
+
+### [>> Recent Kitchen Remodeling Blog Posts](/blog/categories/#kitchen-remodeling)

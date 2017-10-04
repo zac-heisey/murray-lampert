@@ -21,3 +21,5 @@ With our experienced project managers, the Murray Lampert Design, Build, Remodel
 Your personal project manager will keep you informed from the initial pre-construction meeting to the final inspection.
 
 Since we use only the highest quality materials installed by expert craftsmen our warranty is the best in the business.
+
+### [>> Recent Design-Build Blog Posts](/blog/categories/#design-build)

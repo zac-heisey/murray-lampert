@@ -16,8 +16,10 @@ Starting with a no obligation in-home consultation, our experienced [home design
 
 With our **custom bathroom remodel** service, you will know exactly how much your bathroom remodeling project will cost up front. In order to help you stay on budget, we will guide you in selecting the right materials to for your new bathroom counters, tiles, and more.
 
-## San Diego Bathoom Remodels
+## San Diego Bathroom Remodels
 
 The Murray Lampert [Design/Build package](/san-diego-design-build-contractors) for bathroom remodels includes design, space planning, permit fees, and project supervision. All of this is completed by expert craftspeople using only the best materials, and it’s all backed by our exclusive 5-year written warranty.
 
 So if you’re looking to remodel or expand your bathroom, come see what Murray Lampert can do for you. [Get in touch](/contact) with us today!
+
+### [>> Recent Bathroom Remodeling Blog Posts](/blog/categories/#bathroom-remodeling)

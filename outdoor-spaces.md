@@ -15,3 +15,5 @@ San Diego is known for having some of the best weather in the country. Dry winte
 ## San Diego Custom Outdoor Living Space Design
 
 The Murray Lampert design build team, along with their expert craftsmen, will work with you to build a beautiful outdoor space to meet your budget and lifestyle. If you're [remodeling your home](/san-diego-home-remodel-services), why not incorporate an outdoor space where you can enjoy family and entertain friends. If you're ready for a free in-home consultation, don't hesitate to [contact us](/contact) today.
+
+### [>> Recent Outdoor Living Spaces Blog Posts](/blog/categories/#outdoor-spaces)

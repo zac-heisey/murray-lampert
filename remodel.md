@@ -19,3 +19,5 @@ As a general contractor in San Diego with 35 years of home remodeling and home i
 As a winner of the [Better Business Bureau's Torch Award for Marketplace Ethics](/about-murray-lampert-design-build-remodel/), we strive to provide each and every client with the best service possible. In doing so, we've become one of the most trusted home remodel contractors in San Diego. Our established relationships with local suppliers, subcontractors, and inspectors helps to keep your project on schedule and on budget, as well as deliver 100% satisfaction with you home remodeling project.
 
 Have a look at our [other services](/services), as well as our [past projects](/gallery), to see what [Murray Lampert Design, Build, Remodel](/) can deliver for your home remodeling or home construction project.
+
+### [>> Recent Home Remodeling Blog Posts](/blog/categories/#home-remodeling)

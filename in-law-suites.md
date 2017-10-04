@@ -43,3 +43,5 @@ For aging in place purposes, it’s important to think about health and safety f
 - Elevators
 
 We understand there is a lot to consider when it comes to designing and building an an-law suite. [Murray Lampert Design, Build, Remodel](/) has the experience to guide you through the process and would love to answer your questions. Please [contact us](/contact) for a complimentary in-law suite consultation.
+
+### [>> Recent In-law Suite Blog Posts](/blog/categories/#in-law-suites)
