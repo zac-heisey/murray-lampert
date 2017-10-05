@@ -3,7 +3,6 @@
 
 # Page Redirects
 /team-members  /about-murray-lampert-design-build-remodel#team-members 301
-## TBD
 
 # Gallery Page Redirects
 /gallery  /san-diego-remodel-project-gallery  301
@@ -23,7 +22,7 @@
 
 # Image Redirects
 /wp-content/uploads/*  /uploads/:splat
-## TBD
+/wp-content/gallery/*  /uploads/gallery/:splat
 
 ############################################################
 
