@@ -12,7 +12,7 @@ works:
   desc: San Diego
 - image: uploads/gallery/second-stories/rob2.jpg
   class: second-stories major-renovations
-  title: Second Story & <br>Complete Remodel
+  title: Second Story & <br>Full Remodel
   desc: La Jolla
 - image: uploads/berry-historical-bathroom-3.jpg
   class: bathroom-remodels major-renovations featured-projects wide
@@ -32,10 +32,9 @@ works:
   title: Living Room Addition
   desc: La Jolla
 - image: uploads/gallery/major-renovations/major_renovations_03.jpg
-  class: major-renovations second-stories featured-projects wide
+  class: major-renovations second-stories wide
   title: Whole House Remodel & <br>Second Story Addition
-  desc: Featured Project | Del Cerro
-  url: featured-projects
+  desc: Del Cerro
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
   class: kitchen-remodels
   title: Custom Glazed Kitchen
@@ -44,11 +43,10 @@ works:
   class: bathroom-remodels
   title: Bathroom Remodel
   desc: Del Cerro
-- image: uploads/murraylampert-slide1-a-1.jpg
-  class: major-renovations before-and-after featured-projects wide
-  title: Historical Renovation
-  desc: Featured Project | San Diego
-  url: featured-projects
+- image: uploads/gallery/3d-modeling/3d1.jpg
+  class: 3d-project-modeling wide
+  title: 3D Project Modeling
+  desc:
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
@@ -61,49 +59,52 @@ works:
   class: major-renovations
   title: Dang Tran Living Room
   desc: San Diego
-- image: images/@stock/msn-work-14.jpg
-  class: outdoor-spaces
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-15.jpg
-  class: outdoor-spaces
-  title: Flower Book
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-1.jpg
-  class: before-and-after
-  title: Beautiful Girl
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-2.jpg
-  class: before-and-after
-  title: Look at me
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-3.jpg
-  class: miscellaneous wide
-  title: Am I cute
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-4.jpg
-  class: miscellaneous
-  title: Umbrella
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-5.jpg
-  class: rendering
-  title: Canned Bros
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-6.jpg
-  class: rendering wide
-  title: Hale
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-7.jpg
-  class: under-construction
-  title: A beautiful day
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-6.jpg
-  class: rendering wide
-  title: Hale 2
-  desc: Design &amp; Development
-- image: images/@stock/msn-work-7.jpg
-  class: under-construction
-  title: Another beautiful day
-  desc: Design &amp; Development
+- image: uploads/gallery/baths/barthel-2_w.jpg
+  class: bathroom-remodels
+  title: Custom Bath Remodel
+  desc:
+- image: uploads/cava-621-i-ave-KD-19.jpg
+  class: major-renovations featured-projects
+  title: Complete Living Area Makeover
+  desc: Featured Project | Coronado
+  url: featured-projects/621-i-ave-coronado/
+- image: uploads/gallery/kitchens/Metcalf1_W.jpg
+  class: kitchen-remodels
+  title: Kitchen Remodel Project
+  desc:
+- image: uploads/gallery/room-additions/white12.jpg
+  class: room-additions
+  title: Basement Living Room Addition
+  desc:
+- image: uploads/cava-621-i-ave-KD-39.jpg
+  class: major-renovations second-stories featured-projects wide
+  title: 621 I Ave. Major Renovation
+  desc: Featured Project | Coronado
+  url: featured-projects/621-i-ave-coronado/
+- image: uploads/gallery/architectural-design/architectural-design1.png
+  class: architectural-design
+  title: Architectural Design
+  desc: Home Remodel Blueprints
+- image: uploads/berry-historical-kitchen-sink.jpg
+  class: kitchen-remodels featured-projects
+  title: Farmhouse Sink with Custom Fixtures
+  desc: Featured Project | Mission Hills
+  url: featured-projects/historical-home-remodel-mission-hills/
+- image: uploads/cava-621-i-ave-KD-34-wide.jpg
+  class: kitchen-remodels wide
+  title: Cabinets, Countertops, and Appliances
+  desc: Complete Kitchen Upgrade
+- image: uploads/cava-621-i-ave-KD-25.jpg
+  class: kitchen-remodels
+  title: Custom Kitchen Remodel
+  desc: Featured Project | Coronado
+  url: featured-projects/621-i-ave-coronado/
+- image: uploads/webb-pool-wide.jpg
+  class: outdoor-spaces wide
+  title: Outdoor Living Space
+  desc: Custom Landscape Design
+- image: uploads/gallery/second-stories/Lovett-4-W.jpg
+  class: major-renovations second-stories
+  title: Second Story & <br>Whole Home Remodel
+  desc:
 ---
-
