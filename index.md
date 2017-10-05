@@ -6,7 +6,7 @@ works:
 - image: uploads/stock-blueprint.jpg
   class: miscellaneous architectural-design
   title: Architectural Design & Planning
-  desc:
+  desc: 
   url: san-diego-architectural-design-services
 - image: uploads/cava-621-i-ave-KD-33.jpg
   class: kitchen-remodels major-renovations
@@ -60,3 +60,4 @@ works:
   desc: Murray Lampert is Green Certified
   url: san-diego-green-home-construction
 ---
+
