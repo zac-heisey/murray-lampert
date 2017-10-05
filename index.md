@@ -3,10 +3,11 @@ title: San Diego Design Build Remodel
 layout: home
 section_id: home
 works:
-- image: uploads/gallery/second-stories/rob2.jpg
-  class: second-stories major-renovations
-  title: Second Story & <br>Complete Remodel
-  desc: La Jolla
+- image: uploads/stock-blueprint.jpg
+  class: miscellaneous architectural-design
+  title: Architectural Design & Planning
+  desc:
+  url: san-diego-architectural-design-services
 - image: uploads/cava-621-i-ave-KD-33.jpg
   class: kitchen-remodels major-renovations
   title: Your Dream Kitchen Awaits
@@ -53,9 +54,9 @@ works:
   title: Misson Hills Historical <br>Home Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
-- image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
-  class: outdoor-spaces
-  title: Outdoor Family Room
-  desc: Poway
+- image: uploads/stock-sledge-hammer.jpg
+  class: miscellaneous under-construction
+  title: Eco-Friendly Home Construction
+  desc: Murray Lampert is Green Certified
+  url: san-diego-green-home-construction
 ---
-
