@@ -13,7 +13,7 @@ works:
   title: Your Dream Kitchen Awaits
   desc: We Specialize in Custom Kitchen Remodels
   url: san-diego-kitchen-remodeling-services
-- image: uploads/cava-621-i-ave-KD-13.jpg
+- image: uploads/cava-621-i-ave-KD-5.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Whole Home Remodel in Coronado
   desc: Featured Project | Coronado
