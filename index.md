@@ -1,6 +1,5 @@
 ---
 title: San Diego Design Build Remodel
-layout: home
 section_id: home
 works:
 - image: uploads/stock-blueprint.jpg
@@ -51,7 +50,7 @@ works:
   desc: We Handle Every Aspect of Your Project
 - image: uploads/berry-historical-kitchen-sink.jpg
   class: major-renovations featured-projects
-  title: Misson Hills Historical <br>Home Remodel
+  title: Mission Hills Historical <br>Home Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/stock-sledge-hammer.jpg
@@ -59,5 +58,6 @@ works:
   title: Eco-Friendly Home Construction
   desc: Murray Lampert is Green Certified
   url: san-diego-green-home-construction
+layout: home
 ---
 
