@@ -1,7 +1,6 @@
 ---
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
-layout: default
 section_id: about
 featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
@@ -39,7 +38,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:lcantor@murraylampert.com
 - name: Rachel Cantor
-  position: Director of Designer
+  position: Director of Design
   desc: Rachel Cantor is the director of the of the Murray Lampert design department
     and the fourth generation in our family business. Rachel graduated from Miami
     University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
@@ -112,6 +111,7 @@ clients:
 - images/@stock/client-grey-4.png
 - images/@stock/client-grey-5.png
 - images/@stock/client-grey-6.png
+layout: default
 ---
 
   <div class='medium-6 columns'>
