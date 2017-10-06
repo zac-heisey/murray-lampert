@@ -1,8 +1,12 @@
 # Netlify Dev Domain Redirects
 ## TBD > See other netlify sites for examples
 
+
 # Page Redirects
 /team-members  /about-murray-lampert-design-build-remodel#team-members 301
+/thank-you-2/  /thank-you/ 301
+/thank-you-3/  /thank-you/ 301
+
 
 # Gallery Page Redirects
 /gallery  /san-diego-remodel-project-gallery  301
@@ -23,6 +27,7 @@
 # Image Redirects
 /wp-content/uploads/*  /uploads/:splat
 /wp-content/gallery/*  /uploads/gallery/:splat
+
 
 ############################################################
 
