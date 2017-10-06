@@ -46,7 +46,7 @@ works:
 - image: uploads/gallery/3d-modeling/3d1.jpg
   class: 3d-project-modeling wide
   title: 3D Project Modeling
-  desc: 
+  desc:
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
@@ -62,7 +62,7 @@ works:
 - image: uploads/gallery/baths/barthel-2_w.jpg
   class: bathroom-remodels
   title: Custom Bath Remodel
-  desc: 
+  desc:
 - image: uploads/cava-621-i-ave-KD-19.jpg
   class: major-renovations featured-projects
   title: Complete Living Area Makeover
@@ -71,11 +71,11 @@ works:
 - image: uploads/gallery/kitchens/Metcalf1_W.jpg
   class: kitchen-remodels
   title: Kitchen Remodel Project
-  desc: 
+  desc:
 - image: uploads/gallery/room-additions/white12.jpg
   class: room-additions
   title: Basement Living Room Addition
-  desc: 
+  desc:
 - image: uploads/cava-621-i-ave-KD-39.jpg
   class: major-renovations second-stories featured-projects wide
   title: 621 I Ave. Major Renovation
@@ -106,6 +106,5 @@ works:
 - image: uploads/gallery/second-stories/Lovett-4-W.jpg
   class: major-renovations second-stories
   title: Second Story & <br>Whole Home Remodel
-  desc: 
+  desc:
 ---
-
