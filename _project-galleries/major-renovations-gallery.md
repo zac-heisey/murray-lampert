@@ -9,7 +9,8 @@ gallery-images:
 - uploads/cava-621-i-ave-KD-34.jpg
 - uploads/Hood-Ghosn.png
 - uploads/tufaro-kitchen-remodel-after.jpg
-excerpt: Murray Lampert has been handling major home renovation projects in San Diego since 1975. Check out our major renovations gallery for ideas and inspiration.
+excerpt: Murray Lampert has been handling major home renovation projects in San Diego
+  since 1975. Check out our major renovations gallery for ideas and inspiration.
 ---
 
 Murray Lampert is the go-to contractor for [major home renovations in San Diego](/major-renovations). Since 1975, we've provided our clients with home renovation services, planning, design, development, interior design, and project management are all under one roof. [Get in touch](/#quick-contact) to see what we can do for your major home renovation project.
