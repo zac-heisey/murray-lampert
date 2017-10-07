@@ -1,0 +1,36 @@
+---
+layout: default
+section_id: projects
+---
+
+<div class='row'>
+  <!-- Gallery Images -->
+  <div class='mod modBoxedSlider'>
+    <div class='slides'>
+      {% for image in page.gallery-images %}
+        <div class='slide'>
+          <img title ="{{ page.title }}" alt="{{ page.title }} gallery images" src="/{{image}}" />
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class='spacing'></div>
+  <!-- Gallery Description -->
+  <div class='large-8 columns'>
+    <h3>{{ page.title }} Gallery</h3>
+    <p>
+      {{ content }}
+    </p>
+  </div>
+  <div class='large-4 columns'>
+    <ul class='info'>
+      <li>
+        <a class='button small' href='/san-diego-remodel-project-gallery'>More Project Galleries</a>
+      </li>
+      <li>
+        <a class='button small' href='/featured-projects'>View Featured Projects</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class='four spacing'></div>
