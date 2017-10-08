@@ -29,7 +29,7 @@ With the demand for sustainable energy becoming the standard these days, Murray 
 - High Efficiency Plumbing and HVAC
 - Whole House Air Circulation Systems
 - Wool Insulation or Recycled Cotton
-- Duct Mastic Instead of Duct Tape
+- [Duct Mastic Instead of Duct Tape](/battle-of-the-tape-duct-mastic-vs-foil-tape)
 - On Demand Hot Water Systems
 - Photovoltaic Solar Systems
 - Passive Solar Systems
