@@ -7,7 +7,8 @@ categories:
 - Home DIY Tips
 layout: post
 featured-image: "/uploads/duct-mastic-seal.jpg"
-excerpt: Ducts can be sealed with either foil tape or duct mastic, and every contractor has their own preference. We break down benefits of using duct mastic vs. foil tape.
+excerpt: Ducts can be sealed with either foil tape or duct mastic, and every contractor
+  has their own preference. We break down benefits of using duct mastic vs. foil tape.
 author: Gregg Cantor
 ---
 
