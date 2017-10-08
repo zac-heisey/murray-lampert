@@ -2,10 +2,10 @@
 title: 621 I Ave. in Coronado
 layout: featured-project
 section_id: projects
-client: George and Patricia Carver
+client: George and Patricia Cava
 location: Coronado
 project-date: September 2017
-featured-video: 1wO1CGaOPZM
+featured-video: 63pVN58cKzE
 featured-images:
 - uploads/cava-621-i-ave-KD-1.jpg
 - uploads/cava-621-i-ave-KD-2.jpg
