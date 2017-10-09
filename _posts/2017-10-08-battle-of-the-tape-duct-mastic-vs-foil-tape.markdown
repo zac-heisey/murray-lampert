@@ -18,7 +18,7 @@ Ducts within your home can spring leaks for a wide variety of reasons, and at an
 
 Luckily, the ducts that run through your home can be sealed with either **foil tape** or **duct mastic**, and every DIY master or contractor has their own preference for what they use when working on residential ducts. Both of these options have their benefits and drawbacks, and just like any project, a professional assessment can go a long way toward ensuring the work is done right and will last well into the future. Here are a few pros and cons of both approaches.
 
-<img src="/uploads/airseal_221.jpg" style="float:left;height:200px;margin-right:1rem;" title="Airseal 22 Duct Mastic" alt="image of duct mastic">
+<img src="/uploads/airseal_221.jpg" style="float:left;height:250px;margin-right:1rem;" title="Airseal 22 Duct Mastic" alt="image of duct mastic">
 
 ### Duct Mastic
 
@@ -28,7 +28,7 @@ Unlike with using tape, you do not necessarily have to make sure the area is cle
 
 <div class="two spacing"></div>
 
-<img src="/uploads/aluminum-foil-tape.jpg" style="float:left;height:200px;margin-right:1rem;" title="Foil Tape" alt="image of foil tape">
+<img src="/uploads/aluminum-foil-tape.jpg" style="float:left;height:250px;margin-right:1rem;" title="Foil Tape" alt="image of foil tape">
 
 ### Foil & Metal Tapes
 
