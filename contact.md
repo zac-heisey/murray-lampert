@@ -73,7 +73,7 @@ phone: "(619) 285-9222"
       <h4>Address:</h4>
       <p>{{ page.address1 }}<br>{{ page.address2 }}</p>
       <h4>Phone:</h4>
-      <p>{{ page.phone }}</p>
+      <p><a href="tel:+6192859222">{{ page.phone }}</a></p>
       <h4>Map:</h4>
       <div id='google-map'>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d53676.110066872054!2d-117.13469700000002!3d32.772185!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x409268b5dbfcff56!2sMurray+Lampert+Design%2C+Build%2C+Remodel!5e0!3m2!1sen!2sus!4v1497635068979" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
