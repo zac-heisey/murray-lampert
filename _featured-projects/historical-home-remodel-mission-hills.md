@@ -2,7 +2,7 @@
 title: Historical Home Remodel in Mission Hills
 layout: featured-project
 section_id: projects
-client: John and Jane Doe
+client: Berry Family
 location: Mission Hills
 project-date: June 2017
 featured-video: 1wO1CGaOPZM
@@ -13,7 +13,33 @@ featured-images:
 - uploads/berry-historical-living-room.jpg
 - uploads/berry-historical-bathroom-3.jpg
 - uploads/berry-historical-bathroom-2.jpg
-excerpt: This is a sample featured project. More to come!
+excerpt: Historical home remodel in Mission Hills, CA by Murray Lampert. View more videos and image galleries of our featured home remodeling projects in San Diego.
 ---
 
-Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia. iure tenetur ut dolor et sit maxime culpa Illo minima ipsam nihil quibusdam at omnis magni quae id at magnam quia minus tempore. sit labore consequatur nihil cum minus occaecati. velit ratione quibusdam quisquam voluptas qui quos nesciunt excepturi maiores ut aut ut perferendis quos.
+Architectural design, structural engineering, historical review, permit processing and construction for a whole home remodel and additions to a 1909 craftsman style home. The project included new wood doors and windows, replacing all the horizontal redwood siding, new roof and completely gutting the interior and a remodeling the whole home.
+
+**Features:**
+
+- Sierra Pacific Craftsman style doors and windows.
+
+- 50 year architectural shingle roofing.
+
+- Copper rain gutters and downspouts.
+
+- New kitchen with wood cabinets (distress finish), granite counters, full height tile & stone back-splash, commercial grade appliances and farm style sink.
+
+- Formal dining room with the original wood floors restored, bay window extension for custom china cabinet and restoration of the original moldings.
+
+- Family room with custom entertainment cabinetry, wood floors and French doors leading to the outdoor living space.
+
+- There was a non-permitted room addition and deck that was brought up to code which included framing a new roof to identically mirror the dining room. The now legal space is a sitting/reading room.
+
+- The original stair case was preserved and refinished. New skirt boards were installed, post/caps repaired and railings were matched.
+
+- In the living room, the existing masonry fireplace was reface and the wood floor was replaced along with crown moldings, casings and base.
+
+- Downstairs, 2 bathrooms were remodeled with custom cabinets, counters, plumbing, casework and floors.
+
+- Upstairs, the master bedroom and bathroom suite was remodeled including a new shower with ceiling mounted rain head, soaking tub with a bay view, (2) fully organized fine cabinet closets, custom built wood double vanity with stone top and wood barn door. Also, the girl’s bedroom was extended and includes a window seat. The bathroom was fully remodeled with a new tub/shower, vanity, top, lavatory, accessories, custom glass and mirror and new flooring.
+
+- Finally, the detached laundry, exercise and meditation room was remodeled including fixtures, doors, windows, fine carpentry, flooring and painting.

@@ -46,7 +46,21 @@ featured-images:
 - uploads/cava-621-i-ave-KD-37.jpg
 - uploads/cava-621-i-ave-KD-38.jpg
 - uploads/cava-621-i-ave-KD-39.jpg
-excerpt: This is a sample featured project. More to come!
+excerpt: Whole home renovation in Coronado, CA by Murray Lampert. Visit online to view videos and image galleries of our featured home remodeling projects in San Diego.
 ---
 
-Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia. iure tenetur ut dolor et sit maxime culpa Illo minima ipsam nihil quibusdam at omnis magni quae id at magnam quia minus tempore. sit labore consequatur nihil cum minus occaecati. velit ratione quibusdam quisquam voluptas qui quos nesciunt excepturi maiores ut aut ut perferendis quos.
+Architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction for a whole home remodel. The project included gutting the interior and a remodeling most of the home.
+
+**Features:**
+
+- New kitchen with custom white cabinets, quartz counters, full height subway tile back-splash, new stainless steel appliances and sink.
+
+- The stair treads and handrail caps were replaced with stained wood to match the flooring. New white painted stair risers, turned railing spindles and posts were installed.
+
+- In the family room, the existing fireplace was refaced with red brick and custom designed white entertainment center cabinetry was installed.
+
+- Bathrooms were remodeled including white custom cabinets, quartz counters, plumbing fixtures and white subway tile with recessed niches and a shower seat.
+
+- LED recessed light fixtures, wall sconces, pendent lights and other decorative fixtures were installed.
+
+- The owner is a retired Navy captain and his father was a brick mason, so some of the featured colors were navy blue for the siding and a brick red front door.
