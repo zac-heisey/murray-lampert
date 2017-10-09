@@ -2,18 +2,18 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
 - title: Home & Architectural Design, 3D Project Rendering, etc.
-  percent: 84
-- title: Home Building & Construction, Second Stories, Room Additions, etc.
-  percent: 95
+  percent: 99
+- title: Green Home Construction, Second Stories, Room Additions, etc.
+  percent: 99
 - title: Home, Kitchen, & Bath Remodeling, Major Renovations, etc.
-  percent: 70
-- title: Outdoor Spaces, Green Building, Custom Cabinetry, etc.
-  percent: 61
+  percent: 99
+- title: Outdoor Living Spaces, Custom Cabinetry, etc.
+  percent: 99
 members:
 - name: Gregg Cantor
   position: President/CEO
@@ -83,8 +83,8 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
-  position: Office Manager | Client Care
-  desc: D’Ann joined Murray Lampert Design, Build, Remodel in December 2009 working
+  position: Office Mgr. | Client Care
+  desc: D’Ann joined Murray Lampert Design, Build, Remodel in 2009 working
     in Customer Service and Community Relations. She has worked in various fields
     supporting both client and employee development for the past 10 years.
   avatar: uploads/dann-1.jpg
@@ -104,13 +104,24 @@ members:
     url: "/team-member/cheri-clark"
   - icon_class: fa fa-envelope
     url: mailto:cheri@murraylampert.com
-clients:
-- images/@stock/client-grey-1.png
-- images/@stock/client-grey-2.png
-- images/@stock/client-grey-3.png
-- images/@stock/client-grey-4.png
-- images/@stock/client-grey-5.png
-- images/@stock/client-grey-6.png
+- name: Bob Norstrand
+  position: Assistant Project Manager
+  desc: Bob grew up in Los Angeles and graduated from Humboldt State with a BS degree in Business Administration. While in college, Bob worked part time where his love for building grew. After gaining many years of experience in all the major trades on residential construction and remodeling projects, Bob became a licensed general contractor.
+  avatar: uploads/team-member-placeholder.png
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/bob-norstrand"
+  - icon_class: fa fa-envelope
+    url: mailto:info@murraylampert.com
+- name: Cameron Poeschel
+  position: Project Manager
+  desc: Cameron is the son of a general contractor and grew up around construction. Not only does Cameron know his way around a job site, he is a great team player on the field with his experience as a college quarterback.
+  avatar: uploads/team-member-placeholder.png
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/cameron-poeschel"
+  - icon_class: fa fa-envelope
+    url: mailto:info@murraylampert.com  
 layout: default
 ---
 
@@ -171,7 +182,7 @@ layout: default
             </div>
             <h3>{{member.name}}</h3>
             <p class='position'>{{member.position}}</p>
-            <p>{{member.desc | truncate: 150}}</p>
+            <p>{{member.desc | truncate: 140}}</p>
             <div class='two spacing'></div>
           </div>
         </div>
@@ -179,4 +190,4 @@ layout: default
     </div>
     <div class='two spacing'></div>
   </div>
-  <!-- Start of Our Clients Section (see master branch version for code block) -->
+  <!-- Start of Our Clients Section - REMOVED (see master branch version for code block - line 141) -->
