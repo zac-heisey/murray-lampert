@@ -3502,3 +3502,8 @@ body {
   }
 
 }
+
+/* Overwrite Netlify CDN issue with float rule - original rule commented out in components/_grid.scss (line 250) */
+[class*="column"] + [class*="column"]:last-child {
+  float: left;
+}
