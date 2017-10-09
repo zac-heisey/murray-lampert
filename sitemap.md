@@ -3,14 +3,14 @@ title: Sitemap
 permalink: "/sitemap/"
 layout: default
 section_id: sitemap
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel in San Diego sitemap.
 ---
 
 ### Pages
 
 {% for page in site.pages %}
-  {% if page.title and page.title != "San Diego Home Remodeling Blog" %}
+  {% if page.title and page.title != "San Diego Home Remodeling Blog" and page.title != "Thank You" %}
   - [{{ page.title }}]({{ page.url }})
   {% endif %}
 {% endfor %}
@@ -20,6 +20,14 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego sitemap.
 ### Featured Projects
 
 {% for project in site.featured-projects %}
+- [{{ project.title }}]({{ project.url }})
+{% endfor %}
+
+---
+
+### Project Galleries
+
+{% for project in site.project-galleries %}
 - [{{ project.title }}]({{ project.url }})
 {% endfor %}
 
