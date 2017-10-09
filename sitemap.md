@@ -3,7 +3,7 @@ title: Sitemap
 permalink: "/sitemap/"
 layout: default
 section_id: sitemap
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel in San Diego sitemap.
 ---
 

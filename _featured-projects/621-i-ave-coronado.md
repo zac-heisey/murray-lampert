@@ -46,7 +46,9 @@ featured-images:
 - uploads/cava-621-i-ave-KD-37.jpg
 - uploads/cava-621-i-ave-KD-38.jpg
 - uploads/cava-621-i-ave-KD-39.jpg
-excerpt: Whole home renovation in Coronado, CA by Murray Lampert. Visit online to view videos and image galleries of our featured home remodeling projects in San Diego.
+excerpt: Whole home renovation in Coronado, CA by Murray Lampert. Visit online to
+  view videos and image galleries of our featured home remodeling projects in San
+  Diego.
 ---
 
 Architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction for a whole home remodel. The project included gutting the interior and a remodeling most of the home.

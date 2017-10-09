@@ -13,7 +13,8 @@ featured-images:
 - uploads/berry-historical-living-room.jpg
 - uploads/berry-historical-bathroom-3.jpg
 - uploads/berry-historical-bathroom-2.jpg
-excerpt: Historical home remodel in Mission Hills, CA by Murray Lampert. View more videos and image galleries of our featured home remodeling projects in San Diego.
+excerpt: Historical home remodel in Mission Hills, CA by Murray Lampert. View more
+  videos and image galleries of our featured home remodeling projects in San Diego.
 ---
 
 Architectural design, structural engineering, historical review, permit processing and construction for a whole home remodel and additions to a 1909 craftsman style home. The project included new wood doors and windows, replacing all the horizontal redwood siding, new roof and completely gutting the interior and a remodeling the whole home.

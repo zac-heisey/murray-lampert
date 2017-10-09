@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -84,9 +84,9 @@ members:
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
   position: Office Mgr. | Client Care
-  desc: D’Ann joined Murray Lampert Design, Build, Remodel in 2009 working
-    in Customer Service and Community Relations. She has worked in various fields
-    supporting both client and employee development for the past 10 years.
+  desc: D’Ann joined Murray Lampert Design, Build, Remodel in 2009 working in Customer
+    Service and Community Relations. She has worked in various fields supporting both
+    client and employee development for the past 10 years.
   avatar: uploads/dann-1.jpg
   socials:
   - icon_class: fa fa-plus
@@ -106,7 +106,11 @@ members:
     url: mailto:cheri@murraylampert.com
 - name: Bob Norstrand
   position: Assistant Project Manager
-  desc: Bob grew up in Los Angeles and graduated from Humboldt State with a BS degree in Business Administration. While in college, Bob worked part time where his love for building grew. After gaining many years of experience in all the major trades on residential construction and remodeling projects, Bob became a licensed general contractor.
+  desc: Bob grew up in Los Angeles and graduated from Humboldt State with a BS degree
+    in Business Administration. While in college, Bob worked part time where his love
+    for building grew. After gaining many years of experience in all the major trades
+    on residential construction and remodeling projects, Bob became a licensed general
+    contractor.
   avatar: uploads/team-member-placeholder.png
   socials:
   - icon_class: fa fa-plus
@@ -115,13 +119,15 @@ members:
     url: mailto:info@murraylampert.com
 - name: Cameron Poeschel
   position: Project Manager
-  desc: Cameron is the son of a general contractor and grew up around construction. Not only does Cameron know his way around a job site, he is a great team player on the field with his experience as a college quarterback.
+  desc: Cameron is the son of a general contractor and grew up around construction.
+    Not only does Cameron know his way around a job site, he is a great team player
+    on the field with his experience as a college quarterback.
   avatar: uploads/team-member-placeholder.png
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
   - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com  
+    url: mailto:info@murraylampert.com
 layout: default
 ---
 
