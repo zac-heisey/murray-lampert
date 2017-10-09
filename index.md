@@ -1,18 +1,19 @@
 ---
 title: San Diego Design Build Remodel
+layout: home
 section_id: home
 works:
-- image: uploads/stock-blueprint.jpg
-  class: miscellaneous architectural-design
-  title: Architectural Design & Planning
-  desc: 
-  url: san-diego-architectural-design-services
-- image: uploads/cava-621-i-ave-KD-33.jpg
-  class: kitchen-remodels major-renovations
+- image: uploads/Miller5_W.jpg
+  class: bathroom-remodels
+  title: Beautiful Custom Bathrooms
+  desc: From Shower Installs to Tiling & More
+  url: san-diego-bathroom-remodeling-services
+- image: uploads/RanchoSantaFe-kitchen.jpg
+  class: kitchen-remodels
   title: Your Dream Kitchen Awaits
   desc: We Specialize in Custom Kitchen Remodels
   url: san-diego-kitchen-remodeling-services
-- image: uploads/cava-621-i-ave-KD-5.jpg
+- image: uploads/cava-621-i-ave-KD-36.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Whole Home Remodel in Coronado
   desc: Featured Project | Coronado
@@ -26,20 +27,22 @@ works:
   title: Planning to Home Construction
   desc: End-to-End Design-Build Services
   url: san-diego-design-build-contractors
-- image: uploads/under-roof.jpg
-  class: miscellaneous
-  title: Impeccable Craftsmanship
-  desc: Inside & Out
 - image: uploads/miller-back-after.jpg
   class: outdoor-spaces wide
   title: Custom Outdoor Living Spaces
   desc: Enjoy San Diego's Beautiful Weather
   url: san-diego-outdoor-living-space-design
-- image: uploads/Hood-Ghosn-cropped-2.jpg
+- image: uploads/under-roof.jpg
   class: miscellaneous
-  title: Attention to Detail
-  desc: In Everything We Do
-- image: uploads/cava-621-i-ave-KD-30.jpg
+  title: Impeccable Craftsmanship
+  desc: Inside & Out
+  url: about-murray-lampert-design-build-remodel
+- image: uploads/DelCerroWholeHomeRender.jpg
+  class: 3d-project-modeling
+  title: 3D Project Modeling
+  desc: Preview Your Finished Project<br> Before Getting Started
+  url: 3d-architectural-rendering-services
+- image: uploads/SolanaBeachWholeHome.jpg
   class: room-additions
   title: The Perfect Room Addition
   desc: Built for Style & Comfort
@@ -48,16 +51,34 @@ works:
   class: major-renovations wide
   title: Cabinets, Fixtures, & More
   desc: We Handle Every Aspect of Your Project
-- image: uploads/berry-historical-kitchen-sink.jpg
+- image: uploads/berry-historical-kitchen-sink-2.jpg
   class: major-renovations featured-projects
   title: Mission Hills Historical <br>Home Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
-- image: uploads/stock-sledge-hammer.jpg
-  class: miscellaneous under-construction
-  title: Eco-Friendly Home Construction
-  desc: Murray Lampert is Green Certified
-  url: san-diego-green-home-construction
-layout: home
+- image: uploads/MissionHillsOutdoor.jpg
+  class: outdoor-spaces
+  title: Patios, Decks, and <br>Landscaping
+  desc:
+  url: san-diego-outdoor-living-space-design
+- image: uploads/DelMarBeachHouse.jpg
+  class: wide
+  title: Turn Your House into a Home
+  desc: With Our ASID-accredited Interior Designers
+  url: san-diego-asid-professionals
+- image: uploads/MLDBR-conference-room.jpg
+  class: miscellaneous
+  title: Serving San Diego Since 1975
+  desc: Combining Technology & Experience
+  url: about-murray-lampert-design-build-remodel
+- image: uploads/LaJollaWholeHome.jpg
+  class: room-additions
+  title:
+  desc:
+  url: san-diego-room-additions
+- image: uploads/MissionHillsCraftsman.jpg
+  class: bathroom-remodels
+  title:
+  desc:
+  url: san-diego-bathroom-remodeling-services
 ---
-
