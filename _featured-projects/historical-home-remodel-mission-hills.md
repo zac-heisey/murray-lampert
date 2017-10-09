@@ -2,7 +2,7 @@
 title: Historical Home Remodel in Mission Hills
 layout: featured-project
 section_id: projects
-client: Berry Family
+client: Karen B.
 location: Mission Hills
 project-date: June 2017
 featured-video: 1wO1CGaOPZM
