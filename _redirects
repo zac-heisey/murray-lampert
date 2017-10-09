@@ -1,5 +1,6 @@
 # Netlify Dev Domain Redirects
-## TBD > See other netlify sites for examples
+https://murray-lampert.netlify.com/*   https://murraylampert.com/:splat    301!
+http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 
 # Page Redirects
