@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -48,17 +48,6 @@ members:
     url: "/team-member/rachel-cantor"
   - icon_class: fa fa-envelope
     url: mailto:rachel@murraylampert.com
-- name: Hope Wortham
-  position: Lead Interior Designer ASID
-  desc: Hope Wortham has had the benefit of being around the design process her entire
-    life. Growing up, she was constantly exposed to residential design through her
-    father's Landscape Architecture firm.
-  avatar: uploads/hope-wortham.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/hope-wortham"
-  - icon_class: fa fa-envelope
-    url: mailto:hopecamilledesigns@gmail.com
 - name: Michael Massa
   position: Vice President of Sales
   desc: Michael learned at an early age how to design and build from his father. His
