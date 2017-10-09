@@ -20,7 +20,7 @@ works:
   class: bathroom-remodels major-renovations featured-projects wide
   title: Whole Home Historical Remodel
   desc: Featured Project | Mission Hills
-  url: featured-projects/historical-home-remodel-mission-hills/
+  url: featured-projects/historical-home-remodel-mission-hills/  
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
   title: Dang Tran Kitchen
@@ -30,17 +30,17 @@ works:
   class: bathroom-remodels
   title: Bathroom Remodel
   desc: See More Bathroom Remodel Projects
-  url: bathroom-remodel-gallery
+  url: bathroom-remodel-gallery  
+- image: uploads/gallery/major-renovations/major_renovations_03.jpg
+  class: major-renovations second-stories wide
+  title: Whole House Remodel & <br>Second Story Addition
+  desc: See More Major Renovation Projects
+  url: major-renovations-gallery  
 - image: uploads/gallery/room-additions/laco.jpg
   class: room-additions
   title: Living Room Addition
   desc: See More Room Addition Projects
   url: room-additions-gallery
-- image: uploads/gallery/major-renovations/major_renovations_03.jpg
-  class: major-renovations second-stories wide
-  title: Whole House Remodel & <br>Second Story Addition
-  desc: See More Major Renovation Projects
-  url: major-renovations-gallery
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
   class: kitchen-remodels
   title: Custom Glazed Kitchen
@@ -51,16 +51,16 @@ works:
   title: Bathroom Remodel
   desc: See More Bathroom Remodel Projects
   url: bathroom-remodel-gallery
-- image: uploads/gallery/3d-modeling/3d1.jpg
-  class: 3d-project-modeling wide
-  title: 3D Project Modeling
-  desc: See More 3D Modeling Projects
-  url: 3d-modeling-gallery
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
   class: outdoor-spaces
   title: Outdoor Family Room
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
+- image: uploads/gallery/3d-modeling/3d1.jpg
+  class: 3d-project-modeling wide
+  title: 3D Project Modeling
+  desc: See More 3D Modeling Projects
+  url: 3d-modeling-gallery  
 - image: uploads/gallery/second-stories/leonida.jpg
   class: major-renovations second-stories
   title: Major Renovation & <br>Second Story Addition
@@ -116,15 +116,14 @@ works:
   title: Custom Kitchen Remodel
   desc: Featured Project | Coronado
   url: featured-projects/621-i-ave-coronado/
-- image: uploads/webb-pool-wide.jpg
-  class: outdoor-spaces wide
-  title: Outdoor Living Space
-  desc: See More Outdoor Spaces Projects
-  url: outdoor-spaces-gallery
 - image: uploads/gallery/second-stories/Lovett-4-W.jpg
   class: major-renovations second-stories
   title: Second Story & <br>Whole Home Remodel
   desc: See More Second Story Projects
   url: second-stories-gallery
+- image: uploads/webb-pool-wide.jpg
+  class: outdoor-spaces wide
+  title: Outdoor Living Space
+  desc: See More Outdoor Spaces Projects
+  url: outdoor-spaces-gallery  
 ---
-
