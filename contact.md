@@ -62,6 +62,7 @@ phone: "(619) 285-9222"
             </select>
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
             <!-- Google reCAPTCHA -->
+            <span class="msg-error issue"></span>
             <div class="g-recaptcha" data-sitekey="6LcV1zMUAAAAABNOPFBW9xoMtg7ysbzrtcoNmmCj"></div>
             <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn">
           </div>

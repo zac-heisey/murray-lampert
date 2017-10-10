@@ -3511,3 +3511,13 @@ body {
 [class*="column"] + [class*="column"]:last-child {
   float: left;
 }
+
+/* Google reCAPTCHA Error */
+.msg-error {
+  color: #ff0000;
+}
+.g-recaptcha.issue {
+  border: solid 2px #ff0000;
+  padding: .2em;
+  width: 19em;
+}
