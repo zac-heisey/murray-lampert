@@ -12,7 +12,7 @@ phone: "(619) 285-9222"
     <div class='form'>
       <div class='row'>
         <!-- Removed id='contact_form' and method='POST' from original <form> -->
-        <form name='Website Lead: Contact Form' netlify-honeypot='bot-field' action='/thank-you/' netlify>
+        <form name='Website Lead: Contact Form' netlify-honeypot='surname' action='/thank-you/' netlify>
           <div class='medium-12 columns'>
             <!-- Netlify honeypot field -->
             <p class='hidden'><label>Don’t fill this out: <input name="bot-field"></label></p>
@@ -60,6 +60,8 @@ phone: "(619) 285-9222"
               <option value="Other">Other</option>
             </select>
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
+            <!-- Google reCAPTCHA -->
+            <div class="g-recaptcha" data-sitekey="6LcV1zMUAAAAABNOPFBW9xoMtg7ysbzrtcoNmmCj"></div>
             <input class='button default' type='submit' value="GET IN TOUCH">
           </div>
         </form>

@@ -1,7 +1,7 @@
 <div class='full' id="quick-contact">
   <div class='row'>
     <!-- Removed id='contact_form' and method='POST' from original <form> -->
-    <form name='Website Lead: Contact Form' netlify-honeypot='bot-field' action='/thank-you/' netlify>
+    <form name='Website Lead: Contact Form' netlify-honeypot='surname' action='/thank-you/' netlify>
       <div class='medium-8 columns'>
         <h2>Contact Murray Lampert</h2>
         <h3>Get More Info About Home Design, Build, Remodel in San Diego</h3>
@@ -64,3 +64,18 @@
     <div class='four spacing'></div>
   </div>
 </div>
+<script>
+(function() {
+
+  var form = document.getElementsByName('Website Lead: Contact Form');
+  var elements = form.elements;
+  var zipcode = Number(elements.zipcode.value);
+
+  if (zipcode > 90000 && zipcode < 93000) {
+    console.log('Zip is Legit');
+  } else {
+    console.log('Zip is Bogus');
+  }
+
+}());
+</script>
