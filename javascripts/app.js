@@ -800,5 +800,3 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
-
-
