@@ -20,7 +20,8 @@ phone: "(619) 285-9222"
             <input name='name' placeholder='NAME' type='text' required>
             <input name='email' placeholder='EMAIL' type='email' required>
             <input name='phone' placeholder='PHONE' type='tel' required>
-            <input name='zipcode' placeholder='CURRENT ZIP CODE' type='text' required>
+            <input name='address' placeholder='YOUR ADDRESS' type='text' required>
+            <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' required>
             <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
               <option value="" disabled selected>AREA OF INTEREST</option>
               <option value="Total Renovation">Total Renovation</option>
@@ -62,7 +63,7 @@ phone: "(619) 285-9222"
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
             <!-- Google reCAPTCHA -->
             <div class="g-recaptcha" data-sitekey="6LcV1zMUAAAAABNOPFBW9xoMtg7ysbzrtcoNmmCj"></div>
-            <input class='button default' type='submit' value="GET IN TOUCH">
+            <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn">
           </div>
         </form>
       </div>
