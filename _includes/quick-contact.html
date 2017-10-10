@@ -64,18 +64,3 @@
     <div class='four spacing'></div>
   </div>
 </div>
-<script>
-(function() {
-
-  var form = document.getElementsByName('Website Lead: Contact Form');
-  var elements = form.elements;
-  var zipcode = Number(elements.zipcode.value);
-
-  if (zipcode > 90000 && zipcode < 93000) {
-    console.log('Zip is Legit');
-  } else {
-    console.log('Zip is Bogus');
-  }
-
-}());
-</script>
