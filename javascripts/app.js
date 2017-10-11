@@ -800,3 +800,17 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
+
+// Contact Form Validation
+function validateForm() {
+
+  var userZip = document.forms['Website Lead: Contact Form']['zipcode'].value;
+  userZip = Number(userZip);
+
+  if (isNaN(userZip)) {
+    alert("That zip code is invalid. Please try again.");
+  } else if (userZip < 91000 || userZip > 93000) {
+    alert("Sorry, that zip code is outside of our standard service area. Give us a call and we will accomodate your project however we can! 619-285-9222");
+  }
+
+}
