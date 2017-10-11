@@ -4,9 +4,10 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 
 # Page Redirects
-/team-members  /about-murray-lampert-design-build-remodel#team-members 301
-/thank-you-2/  /thank-you/ 301
-/thank-you-3/  /thank-you/ 301
+/team-members  /about-murray-lampert-design-build-remodel#team-members  301
+/thank-you-2/  /thank-you/  301
+/thank-you-3/  /thank-you/  301
+/murray-lampert-services  /design-build-services-san-diego  301
 
 
 # Gallery Page Redirects
