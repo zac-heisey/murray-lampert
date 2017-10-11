@@ -3,7 +3,7 @@ title: Home Remodeling FAQs
 permalink: "/faqs"
 layout: default
 section_id: faqs
-featured-image:
+featured-image: 
 excerpt: Murray Lampert answers to commonly asked questions about home improvement,
   kitchen remodeling, interior design, and more. Learn with us today!
 ---
