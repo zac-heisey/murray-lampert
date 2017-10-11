@@ -3,7 +3,7 @@ title: Home Remodeling FAQs
 permalink: "/faqs"
 layout: default
 section_id: faqs
-featured-image: 
+featured-image:
 excerpt: Murray Lampert answers to commonly asked questions about home improvement,
   kitchen remodeling, interior design, and more. Learn with us today!
 ---
@@ -14,7 +14,7 @@ excerpt: Murray Lampert answers to commonly asked questions about home improveme
 We specialize in residential remodeling and construction. The type of projects we handle are:
 - [Second Story Additions](/san-diego-second-story-addition)
 - [Room Additions](/san-diego-room-additions)
-- [Home Remodels](/san-diego-remodel-services)
+- [Home Remodels](/san-diego-home-remodel-services)
 - [Kitchen Remodels](/san-diego-kitchen-remodeling)
 - [Total Home Renovations](/major-renovations)
 
