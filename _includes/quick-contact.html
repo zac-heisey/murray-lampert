@@ -12,7 +12,7 @@
           <input name='email' placeholder='EMAIL' type='email' required>
           <input name='phone' placeholder='PHONE' type='tel' required>
           <input name='address' placeholder='YOUR ADDRESS' type='text' required>
-          <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' required>
+          <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' onfocusout="validateZip()" required>
           <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
         <div class='two spacing'></div>
       </div>
@@ -57,7 +57,7 @@
           <option value="Print Ad">Print Advertisement</option>
           <option value="Other">Other</option>
         </select>
-        <input class='button default' type='submit' value="GET IN TOUCH" onclick="validateForm()">
+        <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn">
       </div>
     </form>
     <div class='four spacing'></div>

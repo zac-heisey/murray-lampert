@@ -21,7 +21,7 @@ phone: "(619) 285-9222"
             <input name='email' placeholder='EMAIL' type='email' required>
             <input name='phone' placeholder='PHONE' type='tel' required>
             <input name='address' placeholder='YOUR ADDRESS' type='text' required>
-            <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' required>
+            <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' onfocusout="validateZip()" required>
             <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
               <option value="" disabled selected>AREA OF INTEREST</option>
               <option value="Total Renovation">Total Renovation</option>
@@ -61,7 +61,7 @@ phone: "(619) 285-9222"
               <option value="Other">Other</option>
             </select>
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
-            <input class='button default' type='submit' value="GET IN TOUCH" onclick="validateForm()">
+            <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn">
           </div>
         </form>
       </div>

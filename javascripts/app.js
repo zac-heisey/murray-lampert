@@ -802,15 +802,21 @@ jQuery(document).foundation();
 })(Tc.$);
 
 // Contact Form Validation
-function validateForm() {
+function validateZip() {
 
   var userZip = document.forms['Website Lead: Contact Form']['zipcode'].value;
-  userZip = Number(userZip);
+  //userZip = Number(userZip); // Converts userZip value to a number
 
-  if (isNaN(userZip)) {
-    alert("That zip code is invalid. Please try again.");
-  } else if (userZip < 91000 || userZip > 93000) {
-    alert("Sorry, that zip code is outside of our standard service area. Give us a call and we will accomodate your project however we can! 619-285-9222");
+  if (isNaN(userZip) || userZip.length <= 4 || userZip.length >= 6) {
+    document.getElementById('contact-btn').disabled = true;
+    document.forms['Website Lead: Contact Form']['zipcode'].style.color = 'red';
+    document.forms['Website Lead: Contact Form']['zipcode'].value = 'THAT ZIP CODE IS INVALID. PLEASE TRY AGAIN';
+  // } else if (userZip != '' && userZip < 91000 || userZip > 93000) {
+  //   document.getElementById('contact-btn').disabled = true;
+  //   document.forms['Website Lead: Contact Form']['zipcode'].style.color = '#2082AF';
+  //   document.forms['Website Lead: Contact Form']['zipcode'].value = 'Sorry, that zip code is outside of our standard service area. Give us a call and we will accomodate your project however we can! 619-285-9222';
+  } else {
+    document.forms['Website Lead: Contact Form']['zipcode'].style.color = '#2082AF';
+    document.getElementById('contact-btn').disabled = false;
   }
-
 }
