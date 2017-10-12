@@ -2,8 +2,8 @@
 title: Client Project Login
 permalink: "/murray-lampert-client-login"
 layout: default
-section_id:
-featured-image:
+section_id: 
+featured-image: 
 excerpt: Follow your home remodeling project every step of the way with Murray Lampert.
   Log in and track progress of your home remodel from any device.
 ---
