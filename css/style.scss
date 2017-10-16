@@ -218,10 +218,6 @@ ul.shortcode-list i {
 .top-bar {
   z-index: 100;
 }
-.top-bar .title-area .name h1 a {
-  font-size: 2.57143rem;
-  color: #3d3d3d;
-}
 
 .contain-to-grid {
   -moz-box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.1);
@@ -378,17 +374,6 @@ ul.shortcode-list i {
   font-weight: bold;
 }
 
-// Custom styles for Free Consultation header nav item
-.contain-to-grid.alt .top-bar-section ul li:first-child a {
-  background-color: #B5C6D6;
-
-  &:hover {
-    background-color: #2082AF;
-    color: #fff;
-  }
-
-}
-
 .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
   border-top-color: #3d3d3d;
 }
@@ -440,6 +425,73 @@ ul.shortcode-list i {
 }
 .f-topbar-fixed.shrink .contain-to-grid.transparent.white {
   background-color: rgba(0, 0, 0, 0.8);
+}
+
+// Custom styles for header logo
+.top-bar .title-area li#header-logo {
+
+  @media screen and (max-width: 420px) {
+    max-width: 25%;
+  }
+
+}
+
+// Custom styles for 'Murray Lampert' header h1
+.top-bar .title-area .name h1 a {
+  font-size: 2.57143rem;
+  color: #3d3d3d;
+  line-height: 90px;
+  margin-bottom: -5rem; // brings header phone number closer
+
+  @media screen and (max-width: 1385px) {
+    font-size: 1.5rem;
+  }
+
+  @media screen and (max-width: 1250px) {
+    display: none;
+  }
+
+}
+
+// Custom styles for phone number header item
+.top-bar .name h3 {
+  line-height: 0;
+  text-transform: capitalize;
+  padding: 0 1.4285714286rem;
+
+  @media screen and (max-width: 1250px) and (min-width: 60em) {
+    display: none;
+  }
+
+  @media screen and (max-width: 420px) {
+    padding: 0;
+  }
+
+  a {
+    display: inline;
+    padding: 0 .25rem;
+    font-weight: bold;
+    color: #2082AF;
+
+  }
+
+}
+
+// Custom styles for 'Free Consultation' header nav item
+.contain-to-grid.alt .top-bar-section ul li:first-child a {
+  background-color: #B5C6D6;
+
+  &:before {
+    content: "\f0a9";
+    font-family: FontAwesome;
+    margin-right: 5px;
+  }
+
+  &:hover {
+    background-color: #2082AF;
+    color: #fff;
+  }
+
 }
 
 /* portfolio item meta */
