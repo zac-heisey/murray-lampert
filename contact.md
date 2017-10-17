@@ -15,7 +15,7 @@ phone: "(619) 285-9222"
         <form name='Website Lead: Contact Form' netlify-honeypot='surname' action='/thank-you/' netlify>
           <div class='medium-12 columns'>
             <!-- Netlify honeypot field -->
-            <p class='hidden'><label>Don’t fill this out: <input name="bot-field"></label></p>
+            <p class='hidden'><label>Don’t fill this out: <input name='surname'></label></p>
             <!-- Standard form fields -->
             <input name='name' placeholder='NAME' type='text' required>
             <input name='email' placeholder='EMAIL' type='email' required>
