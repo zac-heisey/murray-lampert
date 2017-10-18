@@ -28,6 +28,7 @@ defaults:
     path: ''
     type: posts
   values:
+    permalink: "/:title/"
     featured-image: ''
     excerpt: ''
     author: ''
@@ -43,7 +44,7 @@ defaults:
     featured-images: ''
     excerpt: ''
 url: https://murraylampert.com
-baseurl: 
+baseurl:
 email: info@murraylampert.com
 description: Murray Lampert design, build, and home remodel services in San Diego.
   Proud to be San Diego's top home design build remodel contractor since 1975.
