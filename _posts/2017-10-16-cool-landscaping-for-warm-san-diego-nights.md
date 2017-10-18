@@ -1,6 +1,6 @@
 ---
 title: Cool Landscaping Trends for Warm San Diego Nights
-date: 2017-10-16 00:00:01 Z
+date: 2017-10-16 10:00:00 Z
 permalink: "/cool-landscaping-trends-for-warm-san-diego-nights/"
 categories:
 - Outdoor Spaces
