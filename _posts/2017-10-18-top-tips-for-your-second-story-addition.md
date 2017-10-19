@@ -15,7 +15,7 @@ layout: post
 
 Need more space for your family in San Diego without increasing your homes’ overall footprint? Consider adding either a partial or full second story! You aren’t just increasing living space; you are opening up renovation options and getting the home of your dreams.
 
-Whether your family is growing, or you just need the extra space, a second story addition is a great option without spreading your home out further onto your property. It adds value to the home overall, and can help you achieve those renovations that you always planned to do someday. It also gives you a chance to address issues with your roofing or attic. This list will make it easier, and give you some things to consider going forward.
+Whether your family is growing, or you just need the extra space, a [second story addition](/san-diego-second-story-addition) is a great option without spreading your home out further onto your property. It adds value to the home overall, and can help you achieve those renovations that you always planned to do someday. It also gives you a chance to address issues with your roofing or attic. This list will make it easier, and give you some things to consider going forward.
 
 ### Tip #1:
 
@@ -37,4 +37,4 @@ Whether your family is growing, or you just need the extra space, a second story
 
 **How are you going to get there?** The stairs are another thing that people tend to overlook when they decide to add a second story. Do you want an elegant wooden staircase with decorative handrails or something more basic that is efficient and sturdy? Also, where do you want the stairs to be on the main floor, and where should they lead to in the new addition? Your San Diego home improvement company can certainly help with ideas for this based on their experience and expertise.
 
-If you have questions about adding a second story addition to your home, [contact us](http://murraylampert.com/contact/). We'd love to set up a complimentary consultation to discuss what you're looking for!
+If you have questions about adding a second story addition to your home, [contact us](/contact). We'd love to set up a complimentary consultation to discuss what you're looking for!
