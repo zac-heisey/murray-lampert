@@ -19,7 +19,7 @@ Whether your family is growing, or you just need the extra space, a [second stor
 
 ### Tip #1:
 
-**Have your foundation checked to make sure it will support the weight of a second story and check all applicable building codes.** This is where the decision for a partial or full second story is important, because your foundation may only support a partial. Its better to make this decision before going any further, so that you can adapt your expectations around what your home can handle. You’ll also want to make sure that you can add a second story according to your local building codes, and that you have all the correct permits for such. Your home improvement company may handle this for you and it really isn’t as difficult or expensive as it sounds. Rather, consider it the first building block or foundation* literally*, to getting what you want.
+**Have your foundation checked to make sure it will support the weight of a second story and check all applicable building codes.** This is where the decision for a partial or full second story is important, because your foundation may only support a partial. Its better to make this decision before going any further, so that you can adapt your expectations around what your home can handle. You’ll also want to make sure that you can add a second story according to your local building codes, and that you have all the correct permits for such. Your home improvement company may handle this for you and it really isn’t as difficult or expensive as it sounds. Rather, consider it the first building block or foundation _literally_, to getting what you want.
 
 ### Tip #2:
 
