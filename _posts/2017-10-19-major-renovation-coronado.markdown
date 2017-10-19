@@ -3,7 +3,7 @@ title: 'Featured Project: Coronado Major Home Renovation'
 date: 2017-10-19 19:53:00 Z
 categories:
 - Major Renovation
-featured-image: "/uploads/cava-621-i-ave-KD-38.png"
+featured-image: "/uploads/cava-621-i-ave-KD-38.jpg"
 excerpt: San Diego Whole home renovation in Coronado for a retired Navy captain and
   his wife. Click to see details about this stunning major home renovation.
 author: Gregg Cantor
