@@ -6,7 +6,7 @@
 
 ### Blog Posts
 
-![Creating a blog post in Siteleaf](/Users/zheisey/Desktop/siteleaf-blog-post.png)
+![Creating a blog post in Siteleaf](https://screencast.com/t/N6RFoajXk)
 
 1) Be sure to set the *Layout* field to `post`. That will get your post looking how it should!
 
