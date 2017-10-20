@@ -3,7 +3,8 @@ title: Another Better Business Bureau Torch Award
 date: 2014-12-04 20:48:16 Z
 permalink: "/another-better-business-bureau-torch-award/"
 featured-image: "/uploads/slide-bbb-new.jpg"
-excerpt: Murray Lampert is proud to be a 4x winner of the BBB Torch Award For Marketplace Ethics in San Diego.
+excerpt: Murray Lampert is proud to be a 4x winner of the BBB Torch Award For Marketplace
+  Ethics in San Diego.
 author: Gregg Cantor
 layout: post
 ---
