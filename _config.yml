@@ -51,7 +51,6 @@ description: Murray Lampert design, build, and home remodel services in San Dieg
 logo: "/uploads/assets/images/logo.jpg"
 markdown: kramdown
 permalinks: pretty
-exclude: []
 include:
 - _redirects
 plugins:
