@@ -454,7 +454,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
 
     // Top Bar styles intended for screen sizes above the breakpoint.
-    @media #{$topbar-media-query} {
+    @media #{$screen} and (min-width:1065px) {
       .top-bar {
         background: $topbar-bg;
         @include clearfix;
