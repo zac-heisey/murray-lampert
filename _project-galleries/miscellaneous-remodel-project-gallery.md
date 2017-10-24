@@ -3,10 +3,10 @@ title: Miscellaneous Remodel Projects
 permalink: "/miscellaneous-remodel-project-gallery/"
 layout: project-galleries
 gallery-images:
-- uploads/gallery/miscellanous/barron3.jpg
-- uploads/gallery/miscellanous/cantor1.jpg
-- uploads/gallery/miscellanous/Metcalf3_W.jpg
-- uploads/gallery/miscellanous/weeks2.jpg
+- uploads/gallery/miscellaneous/barron3.jpg
+- uploads/gallery/miscellaneous/cantor1.jpg
+- uploads/gallery/miscellaneous/Metcalf3_W.jpg
+- uploads/gallery/miscellaneous/weeks2.jpg
 excerpt: Murray Lampert has specialized in San Diego home remodeling projects since
   1975. Check out our miscellaneous remodeling projects gallery for ideas and inspiration.
 ---
