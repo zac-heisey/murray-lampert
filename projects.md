@@ -125,7 +125,7 @@ works:
   class: outdoor-spaces wide
   title: Outdoor Living Space
   desc: See More Outdoor Spaces Projects
-  url: outdoor-spaces-gallery  
+  url: outdoor-spaces-gallery
 - image: uploads/drone-ib-framing.jpg
   class: under-construction wide
   title: House Framing in Imperial Beach
@@ -133,9 +133,9 @@ works:
   url: under-construction-gallery
 - image: uploads/gallery/outdoor-spaces/barthel-4_W.jpg
   class: outdoor-spaces
-  title:
+  title: 
   desc: See More Outdoor Spaces Projects
-  url: outdoor-spaces-gallery  
+  url: outdoor-spaces-gallery
 - image: uploads/gallery/before-after/Dang-Tran-Kitchen1.jpg
   class: before-and-after
   title: Dang Tran Kitchen - Before
@@ -148,9 +148,9 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/rendering/raytrace1.jpg
   class: rendering
-  title:
+  title: 
   desc: See More Rendering Projects
-  url: rendering-gallery  
+  url: rendering-gallery
 - image: uploads/gallery/architectural-design/design1_page_1.png
   class: architectural-design
   title: Work Directly With<br> Our Staff Architect
@@ -158,9 +158,9 @@ works:
   url: architectural-design-gallery
 - image: uploads/gallery/miscellaneous/Metcalf3_W.jpg
   class: miscellaneous
-  title:
+  title: 
   desc: See More Miscellaneous Remodeling Projects
-  url: miscellaneous-remodel-project-gallery  
+  url: miscellaneous-remodel-project-gallery
 - image: uploads/gallery/3d-modeling/3d3.jpg
   class: 3d-project-modeling
   title: Full-Color 3D Walkthroughs
@@ -178,7 +178,8 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/under-construction/fischer-IB-under-construction-foundation-1.jpg
   class: under-construction wide
-  title:
+  title: 
   desc: See More Projects Under Construction
   url: under-construction-gallery
 ---
+
