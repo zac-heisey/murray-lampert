@@ -41,11 +41,11 @@ works:
   title: Living Room Addition
   desc: See More Room Addition Projects
   url: room-additions-gallery
-- image: uploads/gallery/kitchens/lapierre2(corrected).jpg
-  class: kitchen-remodels
-  title: Custom Glazed Kitchen
-  desc: See More Kitchen Remodel Projects
-  url: kitchen-remodel-gallery
+- image: uploads/gallery/architectural-design/design8.png
+  class: architectural-design
+  title: Architectural Design
+  desc: See More Architectural Design Projects
+  url: architectural-design-gallery
 - image: uploads/gallery/baths/cote-master-bath.jpg
   class: bathroom-remodels
   title: Bathroom Remodel
@@ -76,11 +76,11 @@ works:
   title: Custom Bath Remodel
   desc: See More Bathroom Remodel Projects
   url: bathroom-remodel-gallery
-- image: uploads/cava-621-i-ave-KD-19.jpg
-  class: major-renovations featured-projects
-  title: Complete Living Area Makeover
-  desc: Featured Project | Coronado
-  url: featured-projects/621-i-ave-coronado/
+- image: uploads/gallery/outdoor-spaces/stone-outdoor-kitchen.jpg
+  class: outdoor-spaces
+  title: Build the Outdoor Space<br> Of Your Dreams
+  desc: See More Outdoor Spaces Projects
+  url: outdoor-spaces-gallery  
 - image: uploads/gallery/kitchens/Metcalf1_W.jpg
   class: kitchen-remodels
   title: Kitchen Remodel Project
@@ -98,7 +98,7 @@ works:
   url: featured-projects/621-i-ave-coronado/
 - image: uploads/gallery/architectural-design/design1_page_2.png
   class: architectural-design
-  title: Architectural Design
+  title:
   desc: See More Architectural Design Projects
   url: architectural-design-gallery
 - image: uploads/berry-historical-kitchen-sink.jpg
@@ -133,7 +133,7 @@ works:
   url: under-construction-gallery
 - image: uploads/gallery/outdoor-spaces/barthel-4_W.jpg
   class: outdoor-spaces
-  title: 
+  title:
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
 - image: uploads/gallery/before-after/Dang-Tran-Kitchen1.jpg
@@ -148,7 +148,7 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/rendering/raytrace1.jpg
   class: rendering
-  title: 
+  title:
   desc: See More Rendering Projects
   url: rendering-gallery
 - image: uploads/gallery/architectural-design/design1_page_1.png
@@ -156,9 +156,9 @@ works:
   title: Work Directly With<br> Our Staff Architect
   desc: See More Architectural Design Projects
   url: architectural-design-gallery
-- image: uploads/gallery/miscellaneous/Metcalf3_W.jpg
+- image: uploads/gallery/miscellaneous/Metcalf4_W.jpg
   class: miscellaneous
-  title: 
+  title:
   desc: See More Miscellaneous Remodeling Projects
   url: miscellaneous-remodel-project-gallery
 - image: uploads/gallery/3d-modeling/3d6.jpg
@@ -178,18 +178,42 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/under-construction/fischer-IB-under-construction-foundation-1.jpg
   class: under-construction wide
-  title: 
+  title:
   desc: See More Projects Under Construction
   url: under-construction-gallery
 - image: uploads/gallery/architectural-design/design5.png
   class: architectural-design
-  title: 
+  title:
   desc: See More Architectural Design Projects
   url: architectural-design-gallery
-- image: uploads/gallery/architectural-design/design8.png
-  class: architectural-design
-  title: 
-  desc: See More Architectural Design Projects
-  url: architectural-design-gallery
+- image: uploads/gallery/kitchens/lapierre2(corrected).jpg
+  class: kitchen-remodels
+  title: Custom Glazed Kitchen
+  desc: See More Kitchen Remodel Projects
+  url: kitchen-remodel-gallery
+- image: uploads/cava-621-i-ave-KD-19.jpg
+  class: major-renovations featured-projects
+  title: Complete Living Area Makeover
+  desc: Featured Project | Coronado
+  url: featured-projects/621-i-ave-coronado/
+- image: uploads/gallery/outdoor-spaces/outdoor-spaces-08.jpg
+  class: outdoor-spaces
+  title:
+  desc: See More Outdoor Spaces Projects
+  url: outdoor-spaces-gallery
+- image: uploads/gallery/under-construction/roughframe3-wide.jpg
+  class: under-construction wide
+  title:
+  desc: See More Projects Under Construction
+  url: under-construction-gallery  
+- image: uploads/gallery/outdoor-spaces/outdoor-spaces-10.jpg
+  class: outdoor-spaces
+  title:
+  desc: See More Outdoor Spaces Projects
+  url: outdoor-spaces-gallery
+- image: uploads/gallery/miscellaneous/weeks2.jpg
+  class: miscellaneous
+  title:
+  desc: See More Miscellaneous Remodeling Projects
+  url: miscellaneous-remodel-project-gallery
 ---
-

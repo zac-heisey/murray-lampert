@@ -6,6 +6,7 @@ gallery-images:
 - uploads/gallery/miscellaneous/barron3.jpg
 - uploads/gallery/miscellaneous/cantor1.jpg
 - uploads/gallery/miscellaneous/Metcalf3_W.jpg
+- uploads/gallery/miscellaneous/Metcalf4_W.jpg
 - uploads/gallery/miscellaneous/weeks2.jpg
 excerpt: Murray Lampert has specialized in San Diego home remodeling projects since
   1975. Check out our miscellaneous remodeling projects gallery for ideas and inspiration.
