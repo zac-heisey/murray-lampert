@@ -5,6 +5,15 @@ layout: project-galleries
 gallery-images:
 - uploads/gallery/3d-modeling/3d2.jpg
 - uploads/gallery/3d-modeling/3d3.jpg
+- uploads/gallery/3d-modeling/3d4.jpg
+- uploads/gallery/3d-modeling/3d5.jpg
+- uploads/gallery/3d-modeling/3d6.jpg
+- uploads/gallery/3d-modeling/3d7.jpg
+- uploads/gallery/3d-modeling/3d8.jpg
+- uploads/gallery/3d-modeling/3d9.jpg
+- uploads/gallery/3d-modeling/3d10.jpg
+- uploads/gallery/3d-modeling/3d11.jpg
+- uploads/gallery/3d-modeling/3d12.jpg
 excerpt: View our gallery of San Diego architectural design and 3D modeling projects.
   Murray Lampert provides a preview of your finished home remodeling project.
 ---

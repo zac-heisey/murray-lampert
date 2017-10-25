@@ -21,11 +21,11 @@ works:
   title: Whole Home Historical Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
-- image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
-  class: kitchen-remodels
-  title: Dang Tran Kitchen
-  desc: See More Kitchen Remodel Projects
-  url: kitchen-remodel-gallery
+- image: uploads/gallery/3d-modeling/3d12.jpg
+  class: 3d-project-modeling
+  title: 3D Project Modeling
+  desc: See More 3D Modeling Projects
+  url: 3d-modeling-gallery
 - image: uploads/gallery/baths/iaco.jpg
   class: bathroom-remodels
   title: Bathroom Remodel
@@ -58,7 +58,7 @@ works:
   url: outdoor-spaces-gallery
 - image: uploads/gallery/3d-modeling/3d1.jpg
   class: 3d-project-modeling wide
-  title: 3D Project Modeling
+  title: Preview Your Finished Project
   desc: See More 3D Modeling Projects
   url: 3d-modeling-gallery
 - image: uploads/gallery/second-stories/leonida.jpg
@@ -96,7 +96,7 @@ works:
   title: 621 I Ave. Major Renovation
   desc: Featured Project | Coronado
   url: featured-projects/621-i-ave-coronado/
-- image: uploads/gallery/architectural-design/architectural-design1.png
+- image: uploads/gallery/architectural-design/design1_page_2.png
   class: architectural-design
   title: Architectural Design
   desc: See More Architectural Design Projects
@@ -133,7 +133,7 @@ works:
   url: under-construction-gallery
 - image: uploads/gallery/outdoor-spaces/barthel-4_W.jpg
   class: outdoor-spaces
-  title: 
+  title:
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
 - image: uploads/gallery/before-after/Dang-Tran-Kitchen1.jpg
@@ -148,7 +148,7 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/rendering/raytrace1.jpg
   class: rendering
-  title: 
+  title:
   desc: See More Rendering Projects
   url: rendering-gallery
 - image: uploads/gallery/architectural-design/design1_page_1.png
@@ -158,10 +158,10 @@ works:
   url: architectural-design-gallery
 - image: uploads/gallery/miscellaneous/Metcalf3_W.jpg
   class: miscellaneous
-  title: 
+  title:
   desc: See More Miscellaneous Remodeling Projects
   url: miscellaneous-remodel-project-gallery
-- image: uploads/gallery/3d-modeling/3d3.jpg
+- image: uploads/gallery/3d-modeling/3d6.jpg
   class: 3d-project-modeling
   title: Full-Color 3D Walkthroughs
   desc: See More 3D Modeling Projects
@@ -178,8 +178,17 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/under-construction/fischer-IB-under-construction-foundation-1.jpg
   class: under-construction wide
-  title: 
+  title:
   desc: See More Projects Under Construction
   url: under-construction-gallery
+- image: uploads/gallery/architectural-design/design5.png
+  class: architectural-design
+  title:
+  desc: See More Architectural Design Projects
+  url: architectural-design-gallery
+- image: uploads/gallery/architectural-design/design8.png
+  class: architectural-design
+  title:
+  desc: See More Architectural Design Projects
+  url: architectural-design-gallery
 ---
-
