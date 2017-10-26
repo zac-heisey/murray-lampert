@@ -39,6 +39,9 @@ jQuery(document).foundation();
   "use strict";
   $(document).ready(function() {
 
+    $('#contact-btn').removeAttr('disabled'); // Enable contact form submit button when JS is enabled
+    $('#js-disabled-alert').remove(); // Remove JS disabled alert message
+
     $('video').each(function() {
       this.muted = true;
     });
@@ -69,23 +72,24 @@ jQuery(document).foundation();
 
     });
 
-    $('form#contact_form').validate({
-      messages: { },
-      submitHandler: function(form) {
-        $.ajax({
-          type: 'POST',
-          url: 'send.php',
-          data: $(form).serialize(),
-          success: function(data) {
-            if(data.match(/success/)) {
-              $(form).trigger('reset');
-              $('#thanks').show().fadeOut(5000);
-            }
-          }
-        });
-        return false;
-      }
-    });
+    // Disabled jQuery.validate from validation function (to re-enable, uncomment function and script in footer.html include)
+    // $('form#contact_form').validate({
+    //   messages: { },
+    //   submitHandler: function(form) {
+    //     $.ajax({
+    //       type: 'POST',
+    //       url: 'send.php',
+    //       data: $(form).serialize(),
+    //       success: function(data) {
+    //         if(data.match(/success/)) {
+    //           $(form).trigger('reset');
+    //           $('#thanks').show().fadeOut(5000);
+    //         }
+    //       }
+    //     });
+    //     return false;
+    //   }
+    // });
 
     if($('.masonry-container').length > 0) {
 
@@ -807,10 +811,10 @@ function validateZip() {
   var userZip = document.forms['Website Lead: Contact Form']['zipcode'].value;
   //userZip = Number(userZip); // Converts userZip value to a number
 
-  if (isNaN(userZip) || userZip.length <= 4 || userZip.length >= 6) {
+  if (isNaN(userZip) || userZip < 90000 || userZip > 93000) {
     document.getElementById('contact-btn').disabled = true;
     document.forms['Website Lead: Contact Form']['zipcode'].style.color = 'red';
-    document.forms['Website Lead: Contact Form']['zipcode'].value = 'THAT ZIP CODE IS INVALID. PLEASE TRY AGAIN';
+    document.forms['Website Lead: Contact Form']['zipcode'].value = 'INVALID ZIP CODE. PLEASE TRY AGAIN OR CALL US (619) 285-9222';
   // } else if (userZip != '' && userZip < 91000 || userZip > 93000) {
   //   document.getElementById('contact-btn').disabled = true;
   //   document.forms['Website Lead: Contact Form']['zipcode'].style.color = '#2082AF';

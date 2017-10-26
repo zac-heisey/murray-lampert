@@ -61,7 +61,8 @@ phone: "(619) 285-9222"
               <option value="Other">Other</option>
             </select>
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
-            <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn">
+            <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn" disabled>
+            <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch (619) 285-9222</p>
           </div>
         </form>
       </div>
