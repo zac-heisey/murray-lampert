@@ -5,7 +5,7 @@
   "@type": "BlogPosting",
   "name": "{{ page.title }}",
   "headline": "{{ page.title }}",
-  "url": "https://murraylampert.com{{ page.permalink }}",
+  "url": "https://murraylampert.com{{ page.url }}",
   "author": {
     "@type": "Person",
     "name": "{{ page.author }}"
@@ -32,7 +32,7 @@
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://murraylampert.com{{ page.permalink }}"
+    "@id": "https://murraylampert.com{{ page.url }}"
   },
   "articleBody": "{{ page.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}"
 }
