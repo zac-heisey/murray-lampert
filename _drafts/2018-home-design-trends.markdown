@@ -1,7 +1,6 @@
 ---
 title: 2018 Home Design Trends on the Horizon
 date: 2017-10-28 00:45:00 Z
-permalink: 2018-home-design-trends
 categories:
 - Universal Design
 - Home DIY Tips
