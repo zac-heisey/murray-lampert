@@ -4,6 +4,7 @@ date: 2017-10-28 00:45:00 Z
 permalink: 2018-home-design-trends
 categories:
 - Universal Design
+- Home DIY Tips
 featured-image: "/uploads/Untitled%20design%20(25).png"
 excerpt: 'San Diego homeowners rejoice! We''ve found our favorite 2018 home design
   trends on the horizon. '
