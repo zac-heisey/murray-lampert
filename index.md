@@ -51,7 +51,7 @@ works:
   class: major-renovations wide
   title: Cabinets, Fixtures, & More
   desc: We Handle Every Aspect of Your Project
-- image: uploads/berry-historical-kitchen-sink-2.jpg
+- image: uploads/berry-historical-kitchen-1.jpg
   class: major-renovations featured-projects
   title: Mission Hills Historical <br>Home Remodel
   desc: Featured Project | Mission Hills
@@ -59,7 +59,7 @@ works:
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and <br>Landscaping
-  desc: 
+  desc:
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -73,13 +73,12 @@ works:
   url: about-murray-lampert-design-build-remodel
 - image: uploads/LaJollaWholeHome.jpg
   class: room-additions
-  title: 
-  desc: 
+  title:
+  desc:
   url: san-diego-room-additions
 - image: uploads/MissionHillsCraftsman.jpg
   class: bathroom-remodels
-  title: 
-  desc: 
+  title:
+  desc:
   url: san-diego-bathroom-remodeling-services
 ---
-

@@ -7,12 +7,23 @@ location: Mission Hills
 project-date: June 2017
 featured-video: 1wO1CGaOPZM
 featured-images:
-- uploads/berry-historical-kitchen-sink.jpg
-- uploads/berry-historical-kitchen-cabinets.jpg
-- uploads/berry-historical-living-room-window.jpg
-- uploads/berry-historical-living-room.jpg
+- uploads/berry-historical-exterior-1.jpg
+- uploads/berry-historical-exterior-3.jpg
+- uploads/berry-historical-exterior-4.jpg
+- uploads/berry-historical-exterior-5.jpg
+- uploads/berry-historical-front-entry-1.jpg
+- uploads/berry-historical-living-room-1.jpg
+- uploads/berry-historical-dining-room-1.jpg
+- uploads/berry-historical-dining-room-2.jpg
+- uploads/berry-historical-kitchen-1.jpg
+- uploads/berry-historical-kitchen-2.jpg
+- uploads/berry-historical-kitchen-3.jpg
 - uploads/berry-historical-bathroom-3.jpg
 - uploads/berry-historical-bathroom-2.jpg
+- uploads/berry-historical-bedroom-1.jpg
+- uploads/berry-historical-bedroom-2.jpg
+- uploads/berry-historical-upstairs-2.jpg
+- uploads/berry-historical-upstairs-3.jpg
 excerpt: Historical home remodel in Mission Hills, CA by Murray Lampert. View more
   videos and image galleries of our featured home remodeling projects in San Diego.
 ---
