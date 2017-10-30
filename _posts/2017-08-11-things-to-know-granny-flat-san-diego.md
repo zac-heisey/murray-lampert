@@ -18,7 +18,7 @@ Granny flats have recently become more popular in the San Diego area as city cod
 
 Multigenerational housing is increasing yearly due to the growing costs of homes in the San Diego area. Professionals agree that the best way to start thinking of future parents, grandparents, or even returning college students is now. Whether you chose to rent the space out or have family members move in, the top priority is typically privacy. Building a granny flat allows the occupant and the original resident independence within the property, while still allowing the opportunity to feel like a unified household.
 
-There are several things to consider before [building a granny flat in San Diego](san-diego-in-law-suites). We've laid out the top 3 for those San Diego homeowners who might be considering a granny flat addition in the future.
+There are several things to consider before [building a granny flat in San Diego](/san-diego-in-law-suites). We've laid out the top 3 for those San Diego homeowners who might be considering a granny flat addition in the future.
 
 ## Check City and Building Codes for Granny Flats
 
