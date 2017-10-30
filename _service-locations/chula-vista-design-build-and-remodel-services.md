@@ -2,7 +2,7 @@
 title: Chula Vista Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: 
+featured-image:
 excerpt: Murray Lampert home remodeling in Chula Vista. We have over 40 years experience
   providing design, build, and remodel services in Chula Vista.
 ---
@@ -29,4 +29,4 @@ Murray Lampert offers top-notch design, build, and home remodeling in Chula Vist
 
 The first stage in all our Chula Vista home remodel projects is [design development](/san-diego-home-design-services). This is a collaborative process between the client and our staff architect. The clients first have a one-on-one meeting with the architect, who guides them through the design possibilities and tries to incorporate the client’s input. This stage is extremely important as it helps the team establish your needs, style, preferences and budget. In order to make sure everything goes according to plan, we keep in touch with you throughout the whole time via telephone, email or in-person consultations.
 
-If you have any questions about our Chula Vista home remodeling services, call us at **(619) 285-9222**. [Our team](/about#team-members) is here to answer all your questions and give you a home remodel you absolutely love!
+If you have any questions about our Chula Vista home remodeling services, call us at **(619) 285-9222**. [Our team](/about-murray-lampert-design-build-remodel#team-members) is here to answer all your questions and give you a home remodel you absolutely love!
