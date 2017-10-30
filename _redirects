@@ -1,18 +1,113 @@
-# Netlify Dev Domain Redirects
+### NETLIFY DEV DOMAIN REDIRECTS
 https://murray-lampert.netlify.com/*   https://murraylampert.com/:splat    301!
 http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 
-# Page Redirects
+### PAGE REDIRECTS
 /team-members  /about-murray-lampert-design-build-remodel#team-members  301
+/team-member/  /about-murray-lampert-design-build-remodel#team-members  301
+/team_member_position*  /about-murray-lampert-design-build-remodel#team-members  301
 /thank-you-2/  /thank-you/  301
 /thank-you-3/  /thank-you/  301
 /murray-lampert-services  /design-build-services-san-diego  301
 /san-diego-remodel-services  /san-diego-home-remodel-services  301
+‎/home%20additions/2017/10/18/second-story-addition.html‎  /top-tips-for-your-second-story-addition/  301
+/about  /about-murray-lampert-design-build-remodel  301
+/author/greggc*  /team-member/gregg-cantor/  301
+/author/mkeilty*  /about-murray-lampert-design-build-remodel#team-members  301
+/get-a-quote/  /contact/  301
+/client-login/  /murray-lampert-client-login  301
+/tools/formfriend.html  /  301
+/room-addition-escondido  /room-additions-escondido  301
+/locations.kml  /service-locations/  301
+/5-Quick-Tips-for-First-Time-HomeBuyers/  /5-quick-tips-for-first-time-home-buyers/  301
+/contractors  /san-diego-design-build-contractors  301
+/fall-home-checklist  /fall-home-maintenance-checklist/  301
+/the-lowest-bid-always-looks-good-bu/  /the-lowest-bid-always-looks-good-but/  301
+/uploads/perspectives.pdf  /  301
+/site.xml  /sitemap.xml  301
+/page.xml  /sitemap.xml  301
 
 
-# Gallery Page Redirects
-/gallery  /san-diego-remodel-project-gallery  301
+### BLOG REDIRECTS
+/news-and-tips/  /blog/  301
+/tag/*  /blog/categories  301
+/category/*  /blog/categories  301
+/blog//kcmZR/	/blog/	301
+/blog/page/4/	/blog/page4/	301
+/blog/page10/categories/	/blog/page10/	301
+/blog/page11/categories/	/blog/page11/	301
+/blog/page12/categories/	/blog/page12/	301
+/blog/page13/categories/	/blog/page13/	301
+/blog/page14/categories/	/blog/page14/	301
+/blog/page15/categories/	/blog/page15/	301
+/blog/page16/categories/	/blog/page16/	301
+/blog/page17/categories/	/blog/page17/	301
+/blog/page18/categories/	/blog/page18/	301
+/blog/page19/categories/	/blog/page19/	301
+/blog/page2/categories/	/blog/page2/	301
+/blog/page20/categories/	/blog/page20/	301
+/blog/page21/categories/	/blog/page21/	301
+/blog/page22/categories/	/blog/page22/	301
+/blog/page23/categories/	/blog/page23/	301
+/blog/page24/categories/	/blog/page24/	301
+/blog/page25/categories/	/blog/page25/	301
+/blog/page26/categories/	/blog/page26/	301
+/blog/page27/categories/	/blog/page27/	301
+/blog/page28/categories/	/blog/page28/	301
+/blog/page29/categories/	/blog/page29/	301
+/blog/page3/categories/	/blog/page3/	301
+/blog/page30/categories/	/blog/page30/	301
+/blog/page31/categories/	/blog/page31/	301
+/blog/page32/categories/	/blog/page32/	301
+/blog/page33/categories/	/blog/page33/	301
+/blog/page34/categories/	/blog/page34/	301
+/blog/page35/categories/	/blog/page35/	301
+/blog/page36/categories/	/blog/page36/	301
+/blog/page37/categories/	/blog/page37/	301
+/blog/page38/categories/	/blog/page38/	301
+/blog/page39/categories/	/blog/page39/	301
+/blog/page4/categories/	/blog/page4/	301
+/blog/page40/categories/	/blog/page40/	301
+/blog/page41/categories/	/blog/page41/	301
+/blog/page42/categories/	/blog/page42/	301
+/blog/page43/categories/	/blog/page43/	301
+/blog/page44/categories/	/blog/page44/	301
+/blog/page45/categories/	/blog/page45/	301
+/blog/page46/categories/	/blog/page46/	301
+/blog/page47/categories/	/blog/page47/	301
+/blog/page48/categories/	/blog/page48/	301
+/blog/page49/categories/	/blog/page49/	301
+/blog/page5/categories/	/blog/page5/	301
+/blog/page50/categories/	/blog/page50/	301
+/blog/page51/categories/	/blog/page51/	301
+/blog/page52/categories/	/blog/page52/	301
+/blog/page53/categories/	/blog/page53/	301
+/blog/page54/categories/	/blog/page54/	301
+/blog/page55/categories/	/blog/page55/	301
+/blog/page56/categories/	/blog/page56/	301
+/blog/page57/categories/	/blog/page57/	301
+/blog/page58/categories/	/blog/page58/	301
+/blog/page59/categories/	/blog/page59/	301
+/blog/page6/categories/	/blog/page6/	301
+/blog/page60/categories/	/blog/page60/	301
+/blog/page61/categories/	/blog/page61/	301
+/blog/page62/categories/	/blog/page62/	301
+/blog/page63/categories/	/blog/page63/	301
+/blog/page64/categories/	/blog/page64/	301
+/blog/page65/categories/	/blog/page65/	301
+/blog/page66/categories/	/blog/page66/	301
+/blog/page67/categories/	/blog/page67/	301
+/blog/page68/categories/	/blog/page68/	301
+/blog/page7/categories/	/blog/page7/	301
+/blog/page8/categories/	/blog/page8/	301
+/blog/page9/categories/	/blog/page9/	301
+
+
+### GALLERY PAGE REDIRECTS
+/gallery*  /san-diego-remodel-project-gallery  301
+/before-after-gallery/nggallery/  /before-after-gallery  301
+/before-after-gallery/nggallery/*  /before-after-gallery  301
 
 ## /3d-modeling-gallery  /san-diego-remodel-project-gallery  302
 ## /architectural-design-gallery  /san-diego-remodel-project-gallery  302
@@ -28,14 +123,14 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 ## /under-contruction-gallery  /san-diego-remodel-project-gallery  302
 
 
-# Image Redirects
+### IMAGE REDIRECTS
 /wp-content/uploads/*  /uploads/:splat
 /wp-content/gallery/*  /uploads/gallery/:splat
 
 
 ############################################################
 
-# WordPress 301 Redirects Plugin (migrated from old website)
+### WORDPRESS 301 REDIRECTS Plugin (migrated from old website)
 
 /services/san-diego-design-build-contractors.php	/san-diego-design-build-contractors/	301
 /services/san-diego-architectural-design-services.php	/san-diego-architectural-design-services/	301
@@ -62,6 +157,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /about/bbb.php	/about/	301
 /about/contact.php	/contact/	301
 /wordpress/	/blog/	301
+/wordpress/page*	/blog/	301
+/wordpress/tag*	/blog/categories	301
 /estimate/policies.php	/about/	301
 /gallery/home_remodel_gallery.php	/gallery/	301
 /services/san-diego-custom-home-builders.php	/san-diego-design-build-contractors/	301
@@ -153,21 +250,17 @@ http://www.murraylampert.com/*.php	/	301
 /wordpress/2010/11/8-home-renovation-scams-to-avoid/	/8-home-renovation-scams-to-avoid/	301
 /wordpress/2011/03/pacific-beach-san-diego/	/pacific-beach-san-diego/	301
 /wordpress/2010/10/understanding-energy-efficient-windows/	/understanding-energy-efficient-windows/	301
-/wordpress/tag/kitchens/	/tag/kitchens/	301
 /wordpress/2012/02/san-diego-remodeling-trends/	/san-diego-remodeling-trends/	301
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2012/02/pacific-beach-architectural-home-design/	/pacific-beach-architectural-home-design/	301
 /wordpress/2011/03/del-cerro-san-diego/	/del-cerro-san-diego/	301
 /wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	301
 /wordpress/2010/10/tips-on-saving-energy-during-the-winter-in-san-diego/	/tips-on-saving-energy-during-the-winter-in-san-diego/	301
-/wordpress/tag/green-building/	/tag/green-building/	301
 /wordpress/2011/06/la-jolla-home-renovations/	/la-jolla-home-renovations/	301
 /wordpress/2011/05/home-remodeling-in-mission-hills-san-diego/	/home-remodeling-in-mission-hills-san-diego/	301
 /wordpress/2011/02/what-to-look-for-in-a-san-diego-home-remodeling-company/	/what-to-look-for-in-a-san-diego-home-remodeling-company/	301
-/wordpress/tag/custom-cabinets/	/tag/custom-cabinets/	301
 /new-water-heater-regulations-infographic/hotwater.com/naeca	/new-water-heater-regulations-infographic/	301
 /wordpress/category/home-safety/	/category/home-safety/	301
-/wordpress/tag/major-home-remodeling/	/tag/major-home-remodeling/	301
 /wordpress/2011/09/bay-park-san-diego-home-design/	/bay-park-san-diego-home-design/	301
 /wordpress/2012/09/custom-home-improvement-features/	/custom-home-improvement-features/	301
 /service-locations/del-mar-home-design-build-and-remodel-services/Del%20Mar%20Home%20Design,%20Build,%20and%20Remodel%20Services	/service-locations/del-mar-design-build-and-remodel-services/	301
@@ -175,13 +268,10 @@ http://www.murraylampert.com/*.php	/	301
 /wordpress/2011/05/scripps-ranch-ca-home-renovations/	/scripps-ranch-ca-home-renovations/	301
 /wordpress/2012/06/choosing-a-company-renovation/	/choosing-a-company-renovation/	301
 /wordpress/?p=20	/blog/	301
-/wordpress/tag/what-to-do-with-the-extra-space-in-your-house/feed/	/tag/what-to-do-with-the-extra-space-in-your-house	301
 /author/zac-heisey/page/2/	/blog/	301
 /wordpress/2011/06/san-diego-design-build-home-remodeling/trackback/	/san-diego-design-build-home-remodeling/trackback/	301
 /wordpress/2011/03/san-diego-kitchen-bath-remodeling/trackback/	/san-diego-kitchen-bath-remodeling/trackback/	301
-/wordpress/tag/kitchen-remodeling/	/tag/kitchen-remodeling/	301
 /author/zac-heisey/page/7/	/blog/	301
-/wordpress/tag/new-construction-windows/feed/	/new-construction-windows/feed/	301
 /author/zac-heisey/page/5/	/blog/	301
 /wordpress/2010/08/home-remodeling-definitions-part-1/comment-page-1/	/home-remodeling-definitions-part-1/	301
 /blog//div	/blog/	301
@@ -191,8 +281,6 @@ http://www.murraylampert.com/*.php	/	301
 /author/zac-heisey/page/8/	/blog/	301
 /wordpress/2011/04/point-loma-california/comment-page-1/	/point-loma-california/comment-page-1/	301
 /wordpress/2011/07/san-diego-designbuild-remodeling/trackback/	/san-diego-designbuild-remodeling/trackback/	301
-/wordpress/tag/home-remodeling/page/6/	/tag/home-remodeling/	301
-/wordpress/tag/top-10-home-remodeler-red-flags/	/top-10-home-remodeler-red-flags/	301
 /wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/trackback/	/adding-value-to-san-diego-homes-with-home-remodeling/trackback/	301
 /wordpress/?p=33	/kitchen-countertops-concrete-part-10/	301
 /the-pros-guide-to-deck-restora	/the-pros-guide-to-deck-restoration/	301
@@ -211,40 +299,32 @@ http://www.murraylampert.com/*.php	/	301
 /wordpress/2011/10/choosing-a-home-remodeler/	/choosing-a-home-remodeler/	301
 /wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	301
 /wordpress/?p=35	/blog/	301
-/wordpress/tag/murray-lampert-construction/feed/	/tag/murray-lampert-construction/	301
 /services/san-diego-design/	/san-diego-design-build-contractors/	301
 /san-diego-design-remodeling-firms/	/san-diego-design-build-contractors/	301
 /wordpress/2012/03/better-business-bureau-san-diego/	/better-business-bureau-san-diego/	301
-/wordpress/tag/home-remodeling-advice/	/home-remodeling-advice/	301
 /news-and-tips/page/8/	/blog/	301
 /wordpress/category/remodeling-san-diego/feed/	/category/remodeling-san-diego/	301
 /wordpress/2010/09/home-remodeler-awards/trackback/	/home-remodeler-awards/trackback/	301
 /author/zac-heisey/page/3/	/blog/	301
 /wordpress/category/architectural-design/page/2/	/category/architectural-design/page/2/	301
-/wordpress/tag/pacific-coast-building-conference-product/feed/	/tag/pacific-coast-building-conference-product/	301
 /wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/feed/	/what-you-should-expect-in-a-home-remodeling-contractor-part-3/	301
 /wordpress/2012/04/san-diego-6-interview-on-4-11/	/san-diego-6-interview-on-4-11/	301
 /kitchen-remodels-2/	/san-diego-kitchen-remodeling-services/	301
-/wordpress/tag/home-improvement/page/4/	/tag/home-improvement/	301
 http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /about-2/	/about-murray-lampert-design-build-remodel/	301
 /downloads/projects/perspectives.pdf	http://murraylampert.com/wp-content/uploads/perspectives.pdf	301
 /home-remodeling-advice/	/home-remodeling-advice-and-contractors-review/	301
 /category/build-2/	/category/build/	301
-/wordpress/tag/milgard-windows/	/tag/milgard-windows/	301
 /wordpress/2012/07/home-office-modernization/	/home-office-modernization/	301
-/wordpress/tag/home-remodeling/	/tag/home-remodeling/	301
 /tips/	/blog/	301
 /wordpress/2013/08/5-reasons-you-need-an-architect-for-home-remodeling-projects/	/5-reasons-you-need-an-architect-for-home-remodeling-projects/	301
 /wordpress/2012/02/second-interview-with-san-diego-6/	/second-interview-with-san-diego-6/	301
 /wordpress/?p=261	/blog/	301
-/wordpress/tag/windows/	/tag/windows/	301
 /news-and-tips/page/9/	/news-and-tips/	301
 /wordpress/2011/02/san-diego-home-remodeler-screening-guide/trackback/	/san-diego-home-remodeler-screening-guide/	301
 /wordpress/2011/10/american-housing-guild-san-diego-martin-gleich/trackback/	/american-housing-guild-san-diego-martin-gleich/	301
 /wordpress/2011/09/carmel-valley-home-renovation-projects/	/carmel-valley-home-renovation-projects/	301
 /wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/trackback/	/what-you-should-expect-in-a-home-remodeling-contractor-part-3/	301
-/wordpress/tag/remodeling-contractors-2/	/tag/remodeling-contractors-2/	301
 /wordpress/2012/04/interview-on-san-diego-living/	/interview-on-san-diego-living/	301
 /wordpress/2012/02/poway-architecture/	/poway-architecture/	301
 /wordpress/2013/08/6-ways-to-keep-your-sanity-during-a-home-remodel/	/6-ways-to-keep-your-sanity-during-a-home-remodel/	301
@@ -260,22 +340,16 @@ http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /wordpress/2013/06/home-improvement-contract-requirements/	/home-improvement-contract-requirements/	301
 /category/design-2/	/category/design/	301
 /wordpress/2012/05/design-remodeling-big-50-winner/	/design-remodeling-big-50-winner/	301
-/wordpress/tag/poway/	/tag/poway/	301
 /wordpress/2012/04/fine-italian-crafted-granite-slab-kitchen-counters/	/fine-italian-crafted-granite-slab-kitchen-counters/	301
-/wordpress/tag/kitchen-remodeling/feed/	/tag/kitchen-remodeling/feed/	301
-/wordpress/tag/second-stories-2/feed/	/tag/second-stories-2/feed/	301
-/wordpress/tag/san-diego-room-additions/	/tag/san-diego-room-additions/	301
 /wordpress/2010/08/the-abcs-of-home-remodeling/	/the-abcs-of-home-remodeling/	301
 /wordpress/?p=434	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2011/11/del-mar-home-remodeling-and-renovation/	/del-mar-home-remodeling-and-renovation/	301
 /wordpress/?p=175	/blog/	301
-/wordpress/tag/lead-free/feed/	/tag/lead-free/feed/	301
 /wordpress/2012/09/earthquake-preparedness-at-home/	/earthquake-preparedness-at-home/	301
 /wordpress/2011/02/san-diego-home-remodeler-screening-guide/	/san-diego-home-remodeler-screening-guide/	301
 /wordpress/?p=12	/blog/	301
 /estimate/	/	301
-/category/design-2/page/2/	/category/design/page/2/	301
-/wordpress/tag/windows/feed/	/tag/windows/feed/	301
+/category/design-2/page/2/	/blog/categories#design-build  301
 /feed/hotwater.com/naeca	/new-water-heater-regulations-infographic/	301
 /wordpress/category/kitchen-remodeling/page/4/	/category/kitchen-remodeling/page/4/	301
 /wordpress/2011/02/good-news-for-the-home-remodeling-industry/feed/	/good-news-for-the-home-remodeling-industry/feed/	301
@@ -284,7 +358,6 @@ http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /wordpress/2012/02/architectural-home-design-in-del-cerro-ca/	/architectural-home-design-in-del-cerro-ca/	301
 /services/san-diego	/san-diego-home-design-serivces/	301
 /wordpress/category/kitchen-remodeling/page/5/	/category/kitchen-remodeling/page/5/	301
-/wordpress/tag/live-remodel/feed/	/tag/live-remodel/feed/	301
 /category/remodel-2/	/category/remodel/	301
 /Design,%20Build%20&%20Remodel%20with%20confidence	http://murraylampert.com/	301
 /wordpress/?p=468	/live-remodeling-by-murray-lampert-construction/	301
@@ -294,9 +367,7 @@ http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/feed/	/5-ways-to-get-your-home-ready-for-summer/feed/	301
 /wordpress/?p=8	/blog/	301
 /wordpress/2011/07/rancho-bernardo-home-remodeling/	/rancho-bernardo-home-remodeling/	301
-/wordpress/tag/energy-saving/	/tag/energy-saving/	301
 /wordpress/2010/06/for-kitchen-remodeling-hire-a-general-contractor/	/for-kitchen-remodeling-hire-a-general-contractor/	301
-/wordpress/tag/san-diego-home-remodeling-2/	/tag/san-diego-home-remodeling-2/	301
 /wordpress/2013/02/3-steps-to-bbq-season/	/3-steps-to-bbq-season/	301
 http://murraylampert.com/wordpress/?p=231	/blog/	301
 /wordpress/2013/06/the-economics-of-solar-energy/	/the-economics-of-solar-energy/	301
@@ -316,21 +387,17 @@ http://murraylampert.com/wordpress/?p=231	/blog/	301
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/comment-page-1/	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/comment-page-1/	301
 /wordpress/2011/07/coronado-home-renovations/	/coronado-home-renovations/	301
 http://murraylampert.com/services/san	/san-diego-room-additions/	301
-/wordpress/tag/home-remodeling-blog/	/home-remodeling-boot-camp/	301
 /wordpress/?p=16	/blog/	301
 /wordpress/?p=302	/green-windows-by-anderson/	301
 /wordpress/?p=7	/blog/	301
-/wordpress/tag/counter-tops/feed/	/counter-tops/feed/	301
 /wordpress/2010/05/epa-lead-free-certification/	/epa-lead-free-certification/	301
 /author/zac-heisey/page/4/	/blog/	301
 http://murraylampert.com/take-a-glance-through-2016-mos	/blog/	301
-/wordpress/tag/custom-home-remodeling-san-diego/page/6/	/san-diego-home-remodel-services/	301
 http://murraylampert.com/services/san-diego-outdoor-living	/san-diego-outdoor-living-space-design/	301
 http://murraylampert.com/services/san-diego-room	/san-diego-room-additions/	301
 /wordpress/2011/02/good-news-for-the-home-remodeling-industry	/good-news-for-the-home-remodeling-industry/	301
 http://murraylampert.com/6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for-your-next-kitchen-remodel/	301
 /wordpress/2011/05/energy-efficient-san-diego-homes/	/energy-efficient-san-diego-homes/	301
-/wordpress/tag/anderson-windows/	/tag/anderson-windows/	301
 /wordpress/2012/04/san-diego-6-interview-murray-lampert/	/san-diego-6-interview-murray-lampert/	301
 /author/keving/	/author/greggc/	301
 /author/zac-heisey/	/blog/	301
@@ -344,21 +411,16 @@ http://murraylampert.com/6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for
 /wordpress/2010/05/second-story-addition-and-deck/	/second-story-addition-and-deck/	301
 /downloads/projects/floorplans.pdf	http://murraylampert.com	301
 /wordpress/2011/09/home-remodeling-in-ocean-beach-san-diego/trackback/	/home-remodeling-in-ocean-beach-san-diego/trackback/	301
-/wordpress/tag/remodeling-checklist/feed/	/tag/remodeling-checklist/feed	301
 /downloads/projects/elevations.pdf	http://murraylampert.com	301
-wordpress/tag/milgard-windows/feed/	/tag/milgard-windows/feed/	301
 /wordpress/2011/01/overview-of-san-diego-building-permits/trackback/	/overview-of-san-diego-building-permits/trackback/	301
 /estimate/policies.html	/privacy-policy/	301
 /wordpress/2009/12/murray-lampert-constructions-staff-architect-frank-piermarini/	/murray-lampert-constructions-staff-architect-frank-piermarini/	301
 /wordpress/2010/04/windows-for-your-home-not-your-pc-aluminum-frame/	/windows-for-your-home-not-your-pc-aluminum-frame/	301
-/wordpress/tag/kitchens/feed/	/tag/kitchens/feed/	301
 /wordpress/2010/12/another-bbb-torch-award-for-murray-lampert-construction/trackback/	/another-bbb-torch-award-for-murray-lampert-construction/trackback/	301
 /dvteamtaxonomy/meet-the-owners/	/team-members/	301
 /wordpress/2010/11/designers-for-san-diego-home-remodeling-and-home-construction/trackback/	/designers-for-san-diego-home-remodeling-and-home-construction/trackback/	301
 /dvteam/gregg-cantor/	/team-member/gregg-cantor/	301
-/wordpress/tag/go-green/feed/	/tag/go-green/feed/	301
 /Contact+Murray+Lampert+Design+Build+Remodel	/contact/	301
-/wordpress/tag/sign-on-sd-best-of-san-diego/feed/	/tag/sign-on-sd-best-of-san-diego/feed/	301
 /wordpress/2011/05/poway..	/service-locations/poway-design-build-and-remodel-services/	301
 /wordpress/2010/06/home-remodeling-nightmares-are-avoidable/feed/	/home-remodeling-nightmares-are-avoidable/feed/	301
 /Bathroom	/san-diego-bathroom-remodeling-services/	301
@@ -375,7 +437,6 @@ wordpress/tag/milgard-windows/feed/	/tag/milgard-windows/feed/	301
 /take-a-glance-through-2016-mos	/take-a-glance-through-2016-most-popular-bathroom-remodeling-designs/	301
 /downloads/marketing/MLC_Flyer.pdf	http://murraylampert.com	301
 /wordpress/2011/11/encinitas-home-design-remodeling/	/encinitas-home-design-remodeling/	301
-/wordpress/page/4/	/blog/	301
 /Design-Build	http://murraylampert.com	301
 /renovations	/major-renovations/	301
 /kitchen-remodel	/san-diego-kitchen-remodeling-services/	301
@@ -437,4 +498,4 @@ wordpress/tag/milgard-windows/feed/	/tag/milgard-windows/feed/	301
 /san-diego-design-build-remodel/	/san-diego-design-build-contractors/	301
 /battle-of-the-tape/  /battle-of-the-tape-duct-mastic-vs-foil-tape/	301
 /blogs/  /blog/  301
-/san-diego-home-remodeling-blog/  /blog/  301
+/san-diego-home-remodeling-blog*  /blog/  301
