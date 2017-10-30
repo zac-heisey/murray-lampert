@@ -46,4 +46,4 @@ Often, people build an in-law suite for an aging family member or returning chil
 
 Whether the in-law suite is for family members or renters, you as the homeowner are responsible for all repairs, damages, etc. You essentially become a landlord for the space and it may become burdensome to manage the needs of the in-law suite.
 
-We hope this post helps break down the key pros and cons that you should [consider before building an in-law suite or granny flat](3-things-to-know-about-granny-flat) in your San Diego home. If you have additional questions regarding wether this is the right decision for you, we'd love to chat! Please don't hesitate to [contact us](/contact).
+We hope this post helps break down the key pros and cons that you should [consider before building an in-law suite or granny flat](/3-things-to-know-about-granny-flat) in your San Diego home. If you have additional questions regarding wether this is the right decision for you, we'd love to chat! Please don't hesitate to [contact us](/contact).
