@@ -3,8 +3,9 @@ title: Home Additions Mira Mesa
 permalink: "/home-additions-mira-mesa"
 layout: default
 section_id: room-additions
-featured-image:
-excerpt: Room additions in Mira Mesa, San Diego by Murray Lampert Design, Build, Remodel. Mira Mesa home addition experts since 1975. Visit us today!
+featured-image: 
+excerpt: Room additions in Mira Mesa, San Diego by Murray Lampert Design, Build, Remodel.
+  Mira Mesa home addition experts since 1975. Visit us today!
 ---
 
 Mira Mesa is a scenic community that boasts impressive canyon systems, hillsides and mesas. Both authorities and residents are protective of Mira Mesa’s natural features, which has had a great influence on the construction and home renovation industry.
