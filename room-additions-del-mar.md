@@ -8,7 +8,7 @@ excerpt: Room additions in Del Mar, San Diego by Murray Lampert Design, Build, R
   Del Mar home addition experts since 1975. Visit us today!
 ---
 
-Del Mar is a beach resort located in San Diego County. It is a popular holiday destination because of its beautiful sandy beaches, mild weather, and delicious cuisine. The climate is largely Mediterranean subtropical, which makes Del Mar a perfect resort city. Del Mar is also one of the very few places in America where the Torrey pine tree is found. Residents of Del Mar simply love living here and make every effort to make their life more enjoyable. Home renovation projects are common, with room additions being the most popular among growing families. This area enjoys the services of Murray Lampert, one of the leading [San Diego design-build contractors](/san-diego-design-build-contactors). We're proud to be the leading room additions contractor in Del Mar for over 40 years.
+Del Mar is a beach resort located in San Diego County. It is a popular holiday destination because of its beautiful sandy beaches, mild weather, and delicious cuisine. The climate is largely Mediterranean subtropical, which makes Del Mar a perfect resort city. Del Mar is also one of the very few places in America where the Torrey pine tree is found. Residents of Del Mar simply love living here and make every effort to make their life more enjoyable. Home renovation projects are common, with room additions being the most popular among growing families. This area enjoys the services of Murray Lampert, one of the leading [San Diego design-build contractors](/san-diego-design-build-contractors). We're proud to be the leading room additions contractor in Del Mar for over 40 years.
 
 ## Custom Del Mar Home Additions
 
