@@ -3,7 +3,7 @@ title: Kitchen Remodeling Point Loma
 permalink: "/kitchen-remodeling-point-loma"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Point Loma, San Diego. Take your Point Loma kitchen remodel to the next level with
   us.
@@ -15,7 +15,7 @@ For Point Loma residents, living in style is a part of their heritage, so remode
 
 ## Point Loma Kitchen Remodeling by Murray Lampert
 
-![Point Loma kitchen remodeling projects](/uploads/predergast-kitchen-remodel-after.jpg)
+![Point Loma kitchen remodeling projects](/uploads/prendergast-kitchen-remodel-after.jpg)
 
 ### You imagine it, and we design and build it for you
 
