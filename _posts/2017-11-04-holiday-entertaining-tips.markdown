@@ -1,10 +1,11 @@
 ---
 title: Stress Free Holiday Entertaining Tips
 date: 2017-11-04 00:12:00 Z
+categories:
+- Home DIY Tips
 featured-image: "/uploads/holidayentertaining.png"
-excerpt: Let's face it, the holidays can be hectic...especially if you're entertaining
-  family and friends. Spread holiday cheer instead of stress with these top entertaining
-  tips!
+excerpt: The holidays can be hectic, especially if you're playing host. Spread holiday
+  cheer instead of stress with these entertaining tips from Murray Lampert.
 author: 'Gregg Cantor '
 layout: post
 ---
@@ -19,13 +20,15 @@ Prioritize. What is it that you *absolutely* need to make your gathering go smoo
 
 Perhaps the most effective way to eliminate stress on the big day of entertaining is to do everything possible before the holiday get-together. Get the house clean & ready. Prep any décor and accommodations, such as seating, and prep all of the food as much as possible. Early preparation will allow you to have time to work with any unexpected events that may occur. The day of the party should be spent doing as little prep as possible so you can focus on what is truly important – celebrating the season with those you love!
 
+![image of people at Thanksgiving dinner](http://images.brandpointcontent.s3.amazonaws.com/30950236_wide.jpg "Stress-Free Holiday Entertaining Tips")
+
 **3. RECRUIT**
 
-Party planning does not have to be a one-man job. Delegate positions around your household. You shouldn’t feel like you must prepare completely on your own. Don’t feel guilty assigning roles to your kids or spouse. The extra hands may be needed in cleaning up the yard or even planning entertainment. It is also worth considering hiring a cleaner for before and after the event. It is also appropriate to request your guests to bring something to contribute, whether it be food, spirits, or games!
+Party planning does not have to be a one-man job. Delegate positions around your household. You shouldn’t feel like you must prepare completely on your own. Don’t feel guilty assigning roles to your kids or spouse. The extra hands may be needed in cleaning up the yard or even planning entertainment. It is also worth considering hiring a cleaner for before and after the event. It is also  appropriate to request your guests to bring something to contribute, whether it be food, spirits, or games!
 
 **4. REVAMP THE MENU**
 
-Rather than spending time on a full-course meal, consider buying cocktail foods or desserts. Food bars have become increasingly popular among party hosts. We love the idea of a hot cocoa bar, baked potato bar, or even a taco bar. The possibilities are endless!! Put the store-bought food on beautiful dinnerware to give the presentation a facelift. You can also adorn your store-bought food by decorating with nutmeg or sprigs of pine. We also love the idea of a homemade holiday cocktail – Eggnog and sangria are among the countless options. It may even be worthwhile to find a caterer if your budget is flexible and time is of essence.
+Rather than spending time on a full-course meal, consider buying cocktail foods or desserts. Food bars have become increasingly popular among party hosts. We love the idea of a hot cocoa bar, baked potato bar, or even a taco bar. The possibilities are endless!! Put the store-bought food on beautiful dinnerware to give the presentation a facelift. You can also adorn your store-bought food by decorating with nutmeg or sprigs of pine. We also love the idea of a homemade holiday cocktail – Eggnog and sangria are among the countless options. It may even be worthwhile to find a caterer if your budget is flexible and time is of the essence.
 
 **5. MAKE IT MEMORABLE**
 
