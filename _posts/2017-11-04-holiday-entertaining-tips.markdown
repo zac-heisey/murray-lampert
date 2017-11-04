@@ -1,7 +1,7 @@
 ---
 title: Stress Free Holiday Entertaining Tips
 date: 2017-11-04 00:12:00 Z
-featured-image: "/uploads/Untitled%20design%20(29).png"
+featured-image: "/uploads/holidayentertaining.png"
 excerpt: Let's face it, the holidays can be hectic...especially if you're entertaining
   family and friends. Spread holiday cheer instead of stress with these top entertaining
   tips!
