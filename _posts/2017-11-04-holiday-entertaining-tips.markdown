@@ -3,7 +3,7 @@ title: Stress Free Holiday Entertaining Tips
 date: 2017-11-04 00:12:00 Z
 categories:
 - Home DIY Tips
-featured-image: "/uploads/holidayentertaining.png"
+featured-image: "/uploads/stressfreeholidayentertaining.png"
 excerpt: The holidays can be hectic, especially if you're playing host. Spread holiday
   cheer instead of stress with these entertaining tips from Murray Lampert.
 author: 'Gregg Cantor '
