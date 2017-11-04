@@ -21,6 +21,7 @@ Prioritize. What is it that you *absolutely* need to make your gathering go smoo
 Perhaps the most effective way to eliminate stress on the big day of entertaining is to do everything possible before the holiday get-together. Get the house clean & ready. Prep any décor and accommodations, such as seating, and prep all of the food as much as possible. Early preparation will allow you to have time to work with any unexpected events that may occur. The day of the party should be spent doing as little prep as possible so you can focus on what is truly important – celebrating the season with those you love!
 
 ![image of people at Thanksgiving dinner](http://images.brandpointcontent.s3.amazonaws.com/30950236_wide.jpg "Stress-Free Holiday Entertaining Tips")
+_Image: brandpointcontent.com_
 
 **3. RECRUIT**
 
