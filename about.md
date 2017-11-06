@@ -111,7 +111,7 @@ members:
   desc: Cameron is the son of a general contractor and grew up around construction.
     Not only does Cameron know his way around a job site, he is a great team player
     on the field with his experience as a college quarterback.
-  avatar: uploads/team-member-placeholder.png
+  avatar: uploads/cameron.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
