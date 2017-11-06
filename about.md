@@ -100,7 +100,7 @@ members:
     for building grew. After gaining many years of experience in all the major trades
     on residential construction and remodeling projects, Bob became a licensed general
     contractor.
-  avatar: uploads/team-member-placeholder.png
+  avatar: uploads/bob.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/bob-norstrand"
