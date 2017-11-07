@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -117,6 +117,15 @@ members:
     url: "/team-member/cameron-poeschel"
   - icon_class: fa fa-envelope
     url: mailto:info@murraylampert.com
+- name: James Meyer
+  position: Assistant Project Manager
+  desc: James is a San Diego Native, grew up in El Cajon and graduated from UC Irvine with a BA in Business Economics.  While attend UC Irvine, James was a 4 year starter on the lacrosse team.
+  avatar: uploads/james.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/james-meyer"
+  - icon_class: fa fa-envelope
+    url: mailto:info@murraylampert.com    
 layout: default
 ---
 
