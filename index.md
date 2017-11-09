@@ -53,13 +53,13 @@ works:
   desc: We Handle Every Aspect of Your Project
 - image: uploads/berry-historical-kitchen-1.jpg
   class: major-renovations featured-projects
-  title: Mission Hills Historical <br>Home Remodel
+  title: Mission Hills Historical<br> Home Remodel
   desc: Featured Project | Mission Hills
   url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
-  title: Patios, Decks, and <br>Landscaping
-  desc: 
+  title: Patios, Decks, and<br> Landscaping
+  desc:
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -71,15 +71,14 @@ works:
   title: Serving San Diego Since 1975
   desc: Combining Technology & Experience
   url: about-murray-lampert-design-build-remodel
-- image: uploads/LaJollaWholeHome.jpg
-  class: room-additions
-  title: 
-  desc: 
-  url: san-diego-room-additions
+- image: uploads/mehdizadeh-rendering6.png
+  class: 3d-project-modeling
+  title: Rendering and Design Projects
+  desc: View Our Gallery of<br> Rendering & Design Projects
+  url: rendering-gallery
 - image: uploads/MissionHillsCraftsman.jpg
   class: bathroom-remodels
-  title: 
-  desc: 
+  title:
+  desc:
   url: san-diego-bathroom-remodeling-services
 ---
-

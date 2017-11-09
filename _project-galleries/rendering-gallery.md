@@ -10,6 +10,11 @@ gallery-images:
 - uploads/gallery/rendering/raytrace7.jpg
 - uploads/gallery/rendering/raytrace9.jpg
 - uploads/gallery/rendering/raytrace11.jpg
+- uploads/mehdizadeh-rendering1.png
+- uploads/mehdizadeh-rendering2.png
+- uploads/mehdizadeh-rendering3.png
+- uploads/mehdizadeh-rendering4.png
+- uploads/mehdizadeh-rendering5.png
 excerpt: San Diego architectural design and 3D project modeling image gallery. Get
   a preview of your home remodeling project with Murray Lampert Design, Build, Remodel.
 ---
