@@ -109,19 +109,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /gallery*  /san-diego-remodel-project-gallery  301
 /before-after-gallery/nggallery/  /before-after-gallery  301
 /before-after-gallery/nggallery/*  /before-after-gallery  301
-
-## /3d-modeling-gallery  /san-diego-remodel-project-gallery  302
-## /architectural-design-gallery  /san-diego-remodel-project-gallery  302
-## /bathroom-remodel-gallery  /san-diego-remodel-project-gallery  302
-## /before-after-gallery  /san-diego-remodel-project-gallery  302
-## /kitchen-remodel-gallery  /san-diego-remodel-project-gallery  302
-## /major-renovations-gallery  /san-diego-remodel-project-gallery  302
-## /miscellaneous-remodel-project-gallery  /san-diego-remodel-project-gallery  302
-## /outdoor-spaces-gallery  /san-diego-remodel-project-gallery  302
-## /rendering-gallery  /san-diego-remodel-project-gallery  302
-## /room-additions-gallery  /san-diego-remodel-project-gallery  302
-## /second-stories-gallery  /san-diego-remodel-project-gallery  302
-## /under-contruction-gallery  /san-diego-remodel-project-gallery  302
+/kitchen-remodel-gallery/nggallery/  /kitchen-remodel-gallery  301
+/kitchen-remodel-gallery/nggallery/*  /kitchen-remodel-gallery  301
 
 
 ### IMAGE REDIRECTS
@@ -246,13 +235,15 @@ http://www.murraylampert.com/*.php	/	301
 /wordpress/2010/12/timely-san-diego-home-remodeling/	/timely-san-diego-home-remodeling/	301
 /wordpress/2011/05/poway-california/	/poway-california/	301
 /wordpress/2013/09/15-ways-to-apply-universal-design-in-your-home/	/15-ways-to-apply-universal-design-in-your-home/	301
+/15-ways-to-apply-universal-design-in-your-home-2/  /15-ways-to-apply-universal-design-in-your-home/  301
 /wordpress/2012/09/kitchen-remodeling-dos-and-donts/	/kitchen-remodeling-dos-and-donts/	301
 /wordpress/2010/11/10-tips-for-buying-your-first-home/	/10-tips-for-buying-your-first-home/	301
 /wordpress/2010/11/8-home-renovation-scams-to-avoid/	/8-home-renovation-scams-to-avoid/	301
 /wordpress/2011/03/pacific-beach-san-diego/	/pacific-beach-san-diego/	301
 /wordpress/2010/10/understanding-energy-efficient-windows/	/understanding-energy-efficient-windows/	301
 /wordpress/2012/02/san-diego-remodeling-trends/	/san-diego-remodeling-trends/	301
-/wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
+/wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/*	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
+/european-vs-traditional-face-frame-cabinets-for-your-kitchen/* /european-vs-traditional-face-frame-cabinets-for-your-kitchen/  301
 /wordpress/2012/02/pacific-beach-architectural-home-design/	/pacific-beach-architectural-home-design/	301
 /wordpress/2011/03/del-cerro-san-diego/	/del-cerro-san-diego/	301
 /wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	301
@@ -385,7 +376,6 @@ http://murraylampert.com/wordpress/?p=231	/blog/	301
 /wordpress/2011/10/american-housing-guild-san-diego-martin-gleich/	/american-housing-guild-san-diego-martin-gleich/	301
 /wordpress/category/san-diego-home-remodeling/feed/	/category/san-diego-home-remodeling/feed/	301
 /wordpress/2013/02/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	301
-/wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/comment-page-1/	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/comment-page-1/	301
 /wordpress/2011/07/coronado-home-renovations/	/coronado-home-renovations/	301
 http://murraylampert.com/services/san	/san-diego-room-additions/	301
 /wordpress/?p=16	/blog/	301
@@ -499,4 +489,5 @@ http://murraylampert.com/6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for
 /san-diego-design-build-remodel/	/san-diego-design-build-contractors/	301
 /battle-of-the-tape/  /battle-of-the-tape-duct-mastic-vs-foil-tape/	301
 /blogs/  /blog/  301
+/home-remodeling-blog/  /blog/  301
 /san-diego-home-remodeling-blog*  /blog/  301

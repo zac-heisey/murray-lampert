@@ -17,7 +17,7 @@ author: Gregg Cantor
 
 For many, buying a home is a lifelong commitment. It takes decades to pay off a mortgage and begin enjoying a home without the hefty monthly payment attached. And as people age, they often outgrow their homes in terms of safety and quality of life, decreasing the value of this major investment. But it doesn’t have to be this way.
 
-A survey by the American Association of Retired People found that [90 percent of seniors would stay in their homes](http://assets.aarp.org/rgcenter/ppi/liv-com/ib190.pdf) and age in place if they could. With this in mind, many contractors are adapting to embrace a concept called [Universal Design](/15-ways-to-apply-universal-design-in-your-home-2/) that enables the elderly, people with disabilities, and people without disabilities to easily access and use buildings.
+A survey by the American Association of Retired People found that [90 percent of seniors would stay in their homes](http://assets.aarp.org/rgcenter/ppi/liv-com/ib190.pdf) and age in place if they could. With this in mind, many contractors are adapting to embrace a concept called [Universal Design](/15-ways-to-apply-universal-design-in-your-home/) that enables the elderly, people with disabilities, and people without disabilities to easily access and use buildings.
 
 Take a look at these 10 elements of universal design that can enable San Diego homeowners to comfortably age in place:
 

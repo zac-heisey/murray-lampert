@@ -1,7 +1,7 @@
 ---
 title: 15 Ways to Apply Universal Design in Your Home
 date: 2013-09-13 09:00:21 Z
-permalink: "/15-ways-to-apply-universal-design-in-your-home-2/"
+permalink: "/15-ways-to-apply-universal-design-in-your-home/"
 layout: post
 ---
 
