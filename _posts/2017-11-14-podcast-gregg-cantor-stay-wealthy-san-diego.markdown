@@ -4,7 +4,8 @@ date: 2017-11-14 00:01:00 Z
 categories:
 - Community
 featured-image: "/uploads/stay-wealthy-sd-podcast.png"
-excerpt: Gregg Cantor talks honesty in the home remodeling industry, the importance of innovation, and how to find a good contractor on Stay Wealthy San Diego.
+excerpt: Gregg Cantor talks honesty in the home remodeling industry, the importance
+  of innovation, and how to find a good contractor on Stay Wealthy San Diego.
 author: Gregg Cantor
 layout: post
 ---
