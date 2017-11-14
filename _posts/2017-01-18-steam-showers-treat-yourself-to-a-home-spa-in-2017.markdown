@@ -7,7 +7,7 @@ categories:
 tags:
 - bathroom remodel
 layout: post
-featured-image: uploads/gallery/baths/cote-master-bath.jpg
+featured-image: /uploads/gallery/baths/cote-master-bath.jpg
 excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents
   that require thorough planning. Let's get started!
 author: Gregg Cantor

@@ -3,7 +3,7 @@ title: San Diego Design Build Contractors
 permalink: "/san-diego-design-build-contractors"
 layout: default
 section_id: build
-featured-image: uploads/2013/09/ML-interior_hero-design_build.jpg
+featured-image: /uploads/2013/09/ML-interior_hero-design_build.jpg
 excerpt: Murray Lampert design-build contractor services in San Diego. Providing San
   Diego with design-build services since 1975. Visit Murray Lampert today!
 ---

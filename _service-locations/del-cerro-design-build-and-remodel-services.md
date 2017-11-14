@@ -2,7 +2,7 @@
 title: Del Cerro Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: uploads/2013/09/ML-interior_hero-design_build.jpg
+featured-image: /uploads/2013/09/ML-interior_hero-design_build.jpg
 excerpt: Del Cerro home remodeling by Murray Lampert. Providing superior design, build,
   and remodel services in Del Cerro for over 40 years. Visit us today!
 ---

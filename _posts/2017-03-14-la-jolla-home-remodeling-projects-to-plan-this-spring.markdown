@@ -10,7 +10,7 @@ tags:
 - major renovation
 - la jolla
 layout: post
-featured-image: uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
+featured-image: /uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
 excerpt: Here are a couple of Spring home remodeling projects for La Jolla residents
   that require thorough planning. Let's get started!
 author: Gregg Cantor
