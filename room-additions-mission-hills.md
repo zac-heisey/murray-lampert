@@ -3,7 +3,7 @@ title: Room Additions Mission Hills
 permalink: "/room-additions-mission-hills"
 layout: default
 section_id: room-additions
-featured-image: /uploads/king-grigsby-rear-exterior.jpg
+featured-image: "/uploads/king-grigsby-rear-exterior.jpg"
 excerpt: Murray Lampert has over 40 years of experience with room additions in Mission
   Hills, San Diego. Take your Mission Hills home addition to the next level with us.
 ---

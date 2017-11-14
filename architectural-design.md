@@ -3,7 +3,7 @@ title: San Diego Architectural Design Services
 permalink: "/san-diego-architectural-design-services"
 layout: default
 section_id: architectural-design
-featured-image: /uploads/2013/09/ML-interior_hero-architectural_design.jpg
+featured-image: "/uploads/2013/09/ML-interior_hero-architectural_design.jpg"
 excerpt: Murray Lampert San Diego architectural design services. Over 35 years of
   experience working with expert architects for your home design needs.
 ---

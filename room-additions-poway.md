@@ -3,7 +3,7 @@ title: Room Additions Poway
 permalink: "/room-additions-poway"
 layout: default
 section_id: room-additions
-featured-image: /uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg
+featured-image: "/uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg"
 excerpt: Murray Lampert has over 40 years of experience with room additions in Poway,
   San Diego. Take your Poway home addition to the next level with us.
 ---

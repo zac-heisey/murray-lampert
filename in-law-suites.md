@@ -3,7 +3,7 @@ title: San Diego In-Law Suites
 permalink: "/san-diego-in-law-suites"
 layout: default
 section_id: in-law-suites
-featured-image: /uploads/granny-flat-in-law-suite-san-diego.jpg
+featured-image: "/uploads/granny-flat-in-law-suite-san-diego.jpg"
 excerpt: San Diego in-law suites are a great way for homeowners to earn additional
   income, offset their mortgage, and keep family close. Learn more at Murray Lampert
 ---

@@ -3,7 +3,7 @@ title: Room Additions Carlsbad
 permalink: "/room-additions-carlsbad"
 layout: default
 section_id: room-additions
-featured-image: /uploads/anderson-front-exterior.jpg
+featured-image: "/uploads/anderson-front-exterior.jpg"
 excerpt: Murray Lampert has over 40 years of experience with room additions in Carlsbad,
   San Diego. Take your Carlsbad home addition to the next level with us.
 ---

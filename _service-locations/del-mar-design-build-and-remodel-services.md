@@ -2,7 +2,7 @@
 title: Del Mar Vista Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: /uploads/Del-Mar.jpg
+featured-image: "/uploads/Del-Mar.jpg"
 excerpt: Murray Lampert home remodeling in Del Mar. We have over 40 years experience
   providing design, build, and remodel services in Del Mar.
 ---

@@ -3,7 +3,7 @@ title: 3D Project Modeling and Architectural Rendering
 permalink: "/3d-architectural-rendering-services"
 layout: default
 section_id: 3d-project-modeling
-featured-image: /uploads/2013/09/ML-interior_hero-3D_project_modeling.jpg
+featured-image: "/uploads/2013/09/ML-interior_hero-3D_project_modeling.jpg"
 excerpt: San Diego Architectural rendering and 3D project modeling. See your finished
   home remodeling project before you start! Visit Murray Lampert for more info.
 ---

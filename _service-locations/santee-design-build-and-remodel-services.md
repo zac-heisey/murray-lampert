@@ -2,7 +2,7 @@
 title: Santee Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: /uploads/santee-service-locations.jpg
+featured-image: "/uploads/santee-service-locations.jpg"
 excerpt: Murray Lampert home remodeling in Santee. We have over 40 years experience
   providing design, build, and remodel services in Santee.
 ---
