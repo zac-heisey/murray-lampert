@@ -1,5 +1,5 @@
 ---
-title: PODCAST - Carrying on a Legacy and a Building Reputation at Murray Lampert
+title: PODCAST - Carrying on a Legacy and Building Reputation at Murray Lampert
 date: 2017-11-14 00:01:00 Z
 categories:
 - Community
