@@ -5,7 +5,7 @@ section_id: projects
 client: Mehdizadeh
 location: La Jolla
 project-date: In Progress
-featured-video:
+featured-video: 
 featured-images:
 - uploads/mehdizadeh-rendering1.png
 - uploads/mehdizadeh-rendering2.png
