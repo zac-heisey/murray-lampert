@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -126,6 +126,24 @@ members:
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/james-meyer"
+  - icon_class: fa fa-envelope
+    url: mailto:info@murraylampert.com
+- name: Amy Mirtle
+  position: Project & Interior Designer
+  desc: Amy Mirtle grew up in Orange County and moved to San Diego to pursue design. Amy began with Murray Lampert Design Build Remodel as an intern while attending the Design Institute of San Diego and then joined our team.
+  avatar: uploads/amy.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/amy-mirtle"
+  - icon_class: fa fa-envelope
+    url: mailto:info@murraylampert.com
+- name: Rachel Bancroft
+  position: Project & Interior Designer
+  desc: Rachel Bancroft is our lead Project & Interior Designer on the Murray Lampert Design Team. Rachel graduated from San Diego State University with a Bachelor’s of Arts degree in Interior Design.
+  avatar: uploads/rachel_b.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/rachel-bancroft"
   - icon_class: fa fa-envelope
     url: mailto:info@murraylampert.com
 layout: default
