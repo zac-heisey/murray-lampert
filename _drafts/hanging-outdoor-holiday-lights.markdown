@@ -4,21 +4,22 @@ date: 2017-11-20 08:20:00 Z
 categories:
 - Home DIY Tips
 - Outdoor Spaces
+- Community
 featured-image: "/uploads/holiday-lights.png"
-excerpt: Being festive has never been easier. Here are our 8 essential tips for hanging
-  holiday lights outside your San Diego home!
+excerpt: Being festive has never been easier with these 8 essential tips for hanging
+  holiday lights outside your San Diego home from Murray Lampert Design, Build, Remodel.
 author: 'Gregg Cantor '
 Field name: 
 layout: post
 ---
 
-It’s the most wonderful time of the year—family is traveling, the baking has begun, and the decorating is a must! Although your house may be merry and bright on the inside, don’t forget about the outside. To make the process a breeze, here are our 8 essential tips for hanging holiday lights outside your home!
+It’s the most wonderful time of the year — family is traveling, the baking has begun, and the decorating is a must! Although your house may be merry and bright on the inside, don’t forget about the outside. To make the process a breeze, here are our 8 essential tips for hanging holiday lights outside your home!
 
 **1. PLAN YOUR DESIGN**
 
-The holidays tend to sneak up on us all. One day you might wake up to see that your neighbors have transformed their houses into winter wonderland, making you feel like a grinch who has yet to decorate. Start your planning now! Consider the structure of your home, including its shapes and surfaces. Once you have a good idea of what areas might be best for lights, find a focal point. 
+The holidays tend to sneak up on us all. One day you might wake up to see that your neighbors have transformed their houses into winter wonderland, making you feel like a grinch who has yet to decorate. Start your planning now! Consider the [structure of your home](/san-diego-architectural-design-services), including its shapes and surfaces. Once you have a good idea of what areas might be best for lights, find a focal point. 
 
-For example, if you have a main entryway with columns or a large bay window at the front of your house, start there. Without a focal point for your design, it tends to look like an explosion of lights—but not in a good way.
+For example, if you have a main entryway with columns or a large bay window at the front of your house, start there. Without a focal point for your design, it tends to look like an explosion of lights, but not in a good way.
 
 For a traditional look, keep lights white and arranged only on gutters, windows, and a few trees or bushes in your front yard. The goal is to keep all lights symmetrical for a pleasing aesthetic. To bring in color, consider large red bows, red persimmons, or select colored lights such as red, green, or blue for the windows.
 
@@ -26,13 +27,13 @@ If you prefer a more festive look, mix up your lights with hanging icicles, colo
 
 **2. PICK YOUR LIGHTS**
 
-Now that you’ve created a design, it is time to chose your lights. Before we get into the nitty gritty variety of lighting, make sure you always buy waterproof or water-resistant lights with a tag marked underwriters lab (UL) and ensure they are rated for outdoor use.
+Now that you’ve created a design, it is time to chose your lights. Before we get into the nitty gritty variety of lighting, make sure you always buy waterproof or water-resistant lights with a tag marked [underwriters lab (UL)](https://industries.ul.com/tag/holiday-lights) and ensure they are rated for outdoor use.
 
-Choose your light type—LED or incandescent. Not all white lights are made the same, LED’s typically have a brighter, blue-ish tint while incandescents can give off a yellow and orange tint. Ensure to buy the same type of lights throughout your entire house or they will not match.
+Choose your light type — LED or incandescent. Not all white lights are made the same, LED’s typically have a brighter, blueish tint while incandescents can give off a yellow and orange tint. Ensure to buy the same type of lights throughout your entire house or they will not match.
 
 Once you have chosen your light type, now it’s time for the fun part! Depending on the type of design you have planned (traditional or more festive), purchase single bulb, icicle, or miniature strands. Don’t be afraid to use your landscape for net lighting. Net lighting is a mesh of interconnected lights that drape over your trees or bushes like a blanket. An easy and fun way to bring more light!
 
-![holiday-lights-lawn.png](/uploads/holiday-lights-lawn.png)
+![net lighting on lawn](/uploads/holiday-lights-lawn.png "Light Up Your Lawn this Holiday Season)
 
 **3. TEST THEM**
 
@@ -46,7 +47,7 @@ The safest power source for your holiday lights is a ground fault circuit outlet
 
 Choosing the correct outlet can help prevent any safety issues in your holiday decorating. In addition, a stable and secure ladder is needed for installation. Secure your ladder with insulated holders and pay attention to stay away from any overhead power lines in your neighborhood.
 
-![holiday-lights-3.png](/uploads/holiday-lights-3.png)
+![white snowflake Christmas lights on house](/uploads/holiday-lights-3.png "Customize Your Holiday Lighting with Shapes, Colors, and More")
 
 **6. ATTACH CORRECTLY**
 
@@ -58,8 +59,4 @@ Life happens—you get home from work late, you fall asleep too early, or you si
 
 **8. LIGHT ‘EM UP!**
 
-Now that you have put such great effort in your holiday lights—it is time to light them up! Soak up the beauty and admire your hard work!
-
---
-
-Do you have any useful tips or tricks for hanging holiday lights? We'd love to hear them! Leave us a comment! 
+Now that you have put such great effort in your holiday lights — it is time to light them up! Soak up the beauty and admire your hard work!
