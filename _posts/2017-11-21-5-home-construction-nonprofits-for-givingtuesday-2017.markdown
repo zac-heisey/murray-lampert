@@ -25,6 +25,8 @@ As their tagline states, Rebuilding Together San Diego (RTSD) believes that "eve
 
 <a href="http://www.rebuildingtogethersd.org/donate.html" class="button default" style="margin-top:1rem;">Donate to Rebuilding Together San Diego</a>
 
+---
+
 ## [San Diego Habitat for Humanity](https://www.sandiegohabitat.org/)
 
 Most people are familiar with Habitat for Humanity, an international NGO that has helped build safe, decent, and affordable shelter for families in need since 1976. The San Diego arm of the organization works to carry forward the parent organization's mission of bringing people together to build homes, communities, and hope throughout San Diego County.
@@ -34,13 +36,13 @@ Most people are familiar with Habitat for Humanity, an international NGO that ha
 
 For [Giving Tuesday 2017](https://www.sandiegohabitat.org/Support-Us/Make-a-Donation/Giving-Tuesday-2017), San Diego Habitat for Humanity is promoting #2x4Tuesday and #BuildUpBallantyne raise the the equivalent of the cost of all the lumber and nails for two entire homes on Ballantyne Street, their newest construction site in El Cajon.
 
-![#BuildUpBallantyne image from Twitter](https://pbs.twimg.com/media/DPLphbeVoAAz_gB.png "#BuildUpBallantyne #2x4Tuesday")
-
 <div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/y5DKldQvlvc?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <a href="https://www.sandiegohabitat.org/Support-Us/Make-a-Donation" class="button default" style="margin-top:1rem;">Donate to San Diego Habitat for Humanity</a>
+
+---
 
 ## [HomeAid San Diego](http://www.homeaidsd.org/)
 
@@ -52,6 +54,8 @@ With [projects](http://www.homeaidsd.org/our-work/projects/) that include Matern
 
 <a href="http://www.homeaidsd.org/donate/" class="button default" style="margin-top:1rem;">Donate to HomeAid San Diego</a>
 
+---
+
 ## [Build A Miracle](http://buildamiracle.net/)
 
 Building A Miracle is a San Diego-based organization dedicated to building homes, improving neighborhoods, and educating & training communities in Tijuana, Mexico. Starting by Chris and Julianne North in 2001, Build A Miracle has constructed over 260 homes, tutored more than 250 people weekly, and started trade schools focusing on sewing, construction, baking, and beauty school.
@@ -59,6 +63,8 @@ Building A Miracle is a San Diego-based organization dedicated to building homes
 ![image of finished home in Tijuana](http://buildamiracle.net/wp-content/uploads/2014/01/finishedhome.jpg "Build A Miracle San Diego")
 
 <a href="http://buildamiracle.net/donate/" class="button default" style="margin-top:1rem;">Donate to Build A Miracle</a>
+
+---
 
 ## [Community HousingWorks](http://chworks.org/)
 
