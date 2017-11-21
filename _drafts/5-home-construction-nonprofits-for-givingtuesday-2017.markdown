@@ -1,9 +1,10 @@
 ---
-title: 'Consider Donating to These Home Construction & Renovation Nonprofits On #GivingTuesday
+title: '5 Home Construction & Renovation Nonprofits to Consider On #GivingTuesday
   2017'
 date: 2017-11-21 21:58:00 Z
 categories:
 - Community
+author: Gregg Cantor
 layout: post
 ---
 
