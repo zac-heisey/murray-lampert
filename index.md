@@ -54,12 +54,12 @@ works:
 - image: uploads/berry-historical-kitchen-1.jpg
   class: major-renovations featured-projects
   title: Mission Hills Historical
-  desc:
+  desc: 
   url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc:
+  desc: 
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -79,6 +79,7 @@ works:
 - image: uploads/MissionHillsCraftsman.jpg
   class: bathroom-remodels
   title: Bankers Hills Custom Bathroom
-  desc:
+  desc: 
   url: san-diego-bathroom-remodeling-services
 ---
+
