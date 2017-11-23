@@ -1,7 +1,6 @@
 ---
 title: Our Design-Build Services in San Diego
 permalink: "/design-build-services-san-diego"
-layout: default
 section_id: services
 featured-image: 
 excerpt: From kitchen and bath remodeling to whole house renovations in San Diego,
@@ -29,8 +28,8 @@ services_col_1:
     home remodeling contractor in San Diego.
 - url: "/san-diego-asid-professionals"
   title: Interior Design
-  desc: Our ASID-accredited interior designers will help turn your house into a home.
-    See your vision come to life with Murray Lampert.
+  desc: Our expert interior designers will help turn your house into a home. See your
+    vision come to life with Murray Lampert.
 services_col_2:
 - url: "/major-renovations"
   title: Major Renovations
@@ -56,6 +55,7 @@ services_col_2:
   title: Custom Cabinets
   desc: Add flair and personality to your kitchen, bathroom, or home remodeling project
     with custom cabinets.
+layout: default
 ---
 
   <div class='medium-6 columns'>
