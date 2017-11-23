@@ -1,18 +1,18 @@
 ---
 title: San Diego Interior Design Services
 permalink: "/san-diego-asid-professionals"
-layout: default
 section_id: interior-design
 featured-image: 
 excerpt: San Diego interior design experts. Murray Lampert offers industry-leading
-  interior design services by ASID-accredited professionals. Visit to learn more.
+  interior design services throughout San Diego. Visit to learn more.
+layout: default
 ---
 
-A well-designed space can be a life-changing experience. That’s why at Murray Lampert, we not only provide innovative [architectural design](/san-diego-architectural-design-services), but also industry-leading interior design by [ASID](http://www.asid.org/content/about-asid) professionals.
+A well-designed space can be a life-changing experience. That’s why at Murray Lampert, we not only provide innovative [architectural design](/san-diego-architectural-design-services), but also industry-leading interior design professionals.
 
-## Interior Design by ASID-Accredited Professionals
+## San Diego Interior Design Experts
 
-Why Work With Murray Lampert? Our design professionals, staff architect, and ASID-accredited interior designers collaborate with you to ensure that your home remodeling project meets your needs and budgetary goals.
+Why Work With Murray Lampert? Our interior design professionals and staff architect collaborate with you to ensure that your home remodeling project meets your needs and budgetary goals.
 
 There are a handful of reasons our clients enjoy working with us:
 - **Listening:** One of the most rewarding parts of our job is practicing good listening and getting to know you so we can successfully bring your vision to life.
