@@ -3,7 +3,7 @@ title: Room Additions Ramona
 permalink: "/room-additions-ramona"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Room additions in Ramona, San Diego by Murray Lampert Design, Build, Remodel.
   Ramona home addition experts since 1975. Visit us today!
 ---
