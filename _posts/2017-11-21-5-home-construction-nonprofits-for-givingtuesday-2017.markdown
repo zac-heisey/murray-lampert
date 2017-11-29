@@ -40,7 +40,7 @@ For [Giving Tuesday 2017](https://www.sandiegohabitat.org/Support-Us/Make-a-Dona
   <iframe width="560" height="315" src="https://www.youtube.com/embed/y5DKldQvlvc?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<a href="https://www.sandiegohabitat.org/Support-Us/Make-a-Donation" class="button default" style="margin-top:1rem;">Donate to San Diego Habitat for Humanity</a>
+<a href="https://www.sandiegohabitat.org/Support-Us/Make-a-Donation/Giving-Tuesday-2017" class="button default" style="margin-top:1rem;">Donate to San Diego Habitat for Humanity</a>
 
 ---
 
