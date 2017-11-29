@@ -3,7 +3,7 @@ title: Room Additions Oceanside
 permalink: "/room-additions-oceanside"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Oceanside,
   San Diego. Take your Oceanside home addition to the next level with us.
 ---
