@@ -3,23 +3,29 @@ title: Room Additions Scripps Ranch
 permalink: "/room-additions-scripps-ranch"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Scripps
   Ranch, San Diego. Take your Scripps Ranch home addition to the next level with us.
 ---
 
-Scripps Ranch is a bedroom community, home to working families and young professional who commute to other parts of San Diego for work. It is tranquil, residential area, with a small number of shops and restaurants. It is best known for its mature eucalyptus trees, which add to the overall charm. This community has around 30,000 residents and it provides the much needed shelter from the stressful working life. There are many young families, all of which face the lack of <a href="http://murraylampert.com/san-diego-room-additions/">housing space</a> at one point or another. Either the space is not big enough to accommodate all family members, or it is simply too small to store all valuables. The lack of space is not uncommon, which is why many homeowners consider having room additions in their Scripps Ranch <a href="http://murraylampert.com/">home remodeling</a>.
+Scripps Ranch is a bedroom community, home to working families and young professional who commute to other parts of San Diego for work. It's a tranquil, residential area, with a small number of local shops and restaurants. It's best known for its mature eucalyptus trees, which add to the overall charm. This community has around 30,000 residents and provides much-needed shelter from the stressful working life of surrounding urban areas.
+
+Like many San Diego County residents, however, Scripps Ranch residents must also content with high construction costs and limited living space. One of the best options to circumvent both of these issues is a home addition project. Murray Lampert Design, Build, Remodel specializes in [home additions in San Diego](/san-diego-room-additions), with dozens of family room expansions, guest room builds, and room additions in the Scripps Ranch area to our name.
+
+![image of Scripps Ranch sign](https://mrcreditradio.files.wordpress.com/2015/06/92131-scripps-ranch-sign-e1476678714984.jpg "Scripps Ranch, San Diego")
 
 ## Scripps Ranch Room & Home Additions
 
-Our Scripps Ranch room additions service gives you the possibility of <a href="http://murraylampert.com/san-diego-home-design-services/">designing your new room</a> to fit your style and preferences. Our team will personalize your new space with the help of your input. Our staff architect will work closely with you to determine the purpose of your new space. The purpose will tell you a lot about what the place should look like and what features will have to be incorporated.
-<h3>Enviable expertise and premier project management</h3>
-At Murray Lampert, we take great pride in <a href="http://murraylampert.com/about-murray-lampert-design-build-remodel/">our A list of professionals</a>. Testimonies of their unparalleled skill can be seen all over Scripps Ranch and throughout San Diego. In order to keep abreast of the innovations and trends in the industry, our staff goes through continuous training.
+Murray Lampert gives you the ability to completely [customize the design of your new home](san-diego-home-design-services) addition to fit your unique style. Our team will work closely with you to personalize your new space and determine what features should be incorporated.
 
-Our efficiency also lies within our project management. Our experienced project managers handle every part of your room additions project so everything is done on schedule and within budget. Moreover, our professionals make an excellent team of individuals who work together perfectly. Each professional focuses on their area of expertise, while the common goal is to stay within budget. This is done through careful planning and management, as well as anticipating possible problems and additional costs. When preparations are detailed, then several strategies can be devised in advance, thus allowing for a smooth process and quick thinking in case of any problems.
-<h3>Sophisticated technology ensures superior service</h3>
-Murray Lampert is praised for the creativity and innovation of its team, and this is something we pride ourselves on above everything else. It separates us from the competition and brings the much needed edge. However, creativity is nothing without efficiency. We have always kept pace with the latest trends in order to find the most efficient tools and software. In that way, we have discovered and made extensive use of 3D modeling. This <a href="http://murraylampert.com/3d-architectural-rendering-services/">sophisticated 3D technology</a> helps our designers and architects see the end result from different angles. It also brings about aspects that may otherwise be neglected. Nothing is left to chance, because innovation goes hand in hand with efficiency and compliance with industry standards.
+We take great pride in our [team of A-list home remodeling professionals](/about-murray-lampert-design-build-remodel#team-members). [Testimonials](/testimonials) from satisfied clients in Scripps and throughout San Diego help to validate our efforts to stay ahead of the competition when it comes to knowledge, training, experience, and customer service.
 
-Murray Lampert Design, Build, Remodel is a reputable company that has dedicated years to providing the best-quality service to all of San Diego. If you are in need of additional space, hire our room additions Scripps Ranch service and let us stun you with the result!
+When it comes to your Scripps Ranch room addition, our experienced project managers will handle every aspect of your project to keep things on schedule and within budget. Through careful planning and execution, we do everything we can to ensure your room addition experience goes smoothly and the finished product is exactly what you had envisioned.
 
-For more information on the range of our services, visit our <a href="http://murraylampert.com/room-additions-rancho-santa-fe+">room additions Rancho Santa Fe</a> page.
+### Sophisticated Technology Complements Superior Service
+
+A major differentiator between Murray Lampert and other local design-build firms is how we combine cutting-edge technology with award-winning customer service to wow our clients. Our staff architect and design team work with you in the initial phase of your project to develop [architectural designs](/san-diego-architectural-design-services) and [3D renderings](/3d-architectural-rendering-services) of your project, giving you a preview of your finished project before we break ground!
+
+Along the way, our team's dedication to customer service shines through, which is a why we've [won the BBB Torch Award for Business Ethics four times](/another-better-business-bureau-torch-award/), and are a three-time [GuildQuality Service Award winner](/murray-lampert-recognized-among-north-americas-best/) as well.
+
+Murray Lampert Design, Build, Remodel is a reputable company who has dedicated years to providing top-quality [home remodeling services](/san-diego-home-remodel-services) to all of San Diego. If you're in need of additional space in Scripps Ranch, we'd love to talk about your project. [Contact us today](#quick-contact)!
