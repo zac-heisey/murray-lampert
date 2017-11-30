@@ -3,7 +3,7 @@ title: Room Additions Scripps Ranch
 permalink: "/room-additions-scripps-ranch"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Scripps
   Ranch, San Diego. Take your Scripps Ranch home addition to the next level with us.
 ---

@@ -3,7 +3,7 @@ title: Room Additions Solana Beach
 permalink: "/room-additions-solana-beach"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Room additions in Solana Beach, San Diego by Murray Lampert Design, Build,
   Remodel. Solana Beach home addition experts since 1975. Visit Murray Lampert today!
 ---
