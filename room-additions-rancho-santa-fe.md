@@ -3,30 +3,31 @@ title: Room Additions Rancho Santa Fe
 permalink: "/room-additions-rancho-santa-fe"
 layout: default
 section_id: room-additions
-featured-image: 
-excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
-  Santa Fe, San Diego. Take your Rancho Santa Fe home addition to the next level with
-  us.
+featured-image:
+excerpt: Room additions in Rancho Santa Fe, San Diego by Murray Lampert Design, Build,
+  Remodel. Rancho Santa Fe home addition experts since 1975. Visit us today!
 ---
 
-Being one of the highest income communities in the US, Rancho Santa Fe is a great residential community for young families. Even though it has a warm-summer Mediterranean climate, Rancho Santa Fe is one of the few places in suburban San Diego to have snowfall. This is ideal for families who enjoy warm climate but don’t want to part with the sensation of a white Christmas.
+Being one of the highest income communities in the US, Rancho Santa Fe is a great residential community for young families and career-minded professionals alike. Even though it has a warm-summer Mediterranean climate, Rancho Santa Fe is one of the few places in suburban San Diego to receive occasional snowfall. This is ideal for folks who enjoy warm weather but enjoy a white Christmas every now and then.
 
-Rancho Santa Fe is also home to Rancho Santa Fe Golf & Tennis Club, welcoming sport lovers, and Rancho Santa Fe Historical Society, which organizes fun and educational tours of the area’s history.
+Rancho Santa Fe is also home to [Rancho Santa Fe Golf](http://www.rsfgolfclub.com/Club/Scripts/Home/home.asp) & [Tennis Club](http://www.rsftennis.club/), as well as the [Rancho Santa Fe Historical Society](http://www.ranchosantafehistoricalsociety.org/), which organizes fun and educational tours of the area’s history.
 
-It is no surprise families choose to settle in Rancho Santa Fe and achieve a high living standard. With growing families, there is a necessity for adding more space to homes, which is why many homeowners rightfully consider having home or room additions.
+It's no surprise families choose to settle in Rancho Santa Fe and enjoy a high living standard. With growing families come the necessity for more living space, leading many homeowners in the area to consider [home additions](/san-diego-room-additions) with Murray Lampert Design, Build, Remodel.
 
-## Rancho Santa Fe Home Additions
+## Rancho Santa Fe Home Addition Experts
 
-In order to achieve the best services, you need to hire professionals who have considerable experience in the field.  Murray Lampert has been in the <a href="http://murraylampert.com/">home remodeling</a> and  renovation business for over 40 years, and was awarded <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">GuildQuality’s 2015 Guildmaster Award</a>, as well as <a href="http://murraylampert.com/another-better-business-bureau-torch-award/">Better Business Bureau Torch Award</a>. We pride ourselves on the transparency of our services, superior workmanship and favorable <a href="http://murraylampert.com/testimonials/">reviews from our satisfied customers</a>.
-<h3>We have the best prices for room additions in Rancho Santa Fe</h3>
-You will be required to allot a certain budget for the room addition services. In order to avoid exploitation, you should take your time and compare different companies available so that you can decide on the best who will assure you great services.
+We're proud to have served residents in Rancho Santa Fe since 1975, assisting homeowners with projects ranging from [second story additions](http://localhost:4000/san-diego-second-story-addition) to [in-law suite](http://localhost:4000/san-diego-in-law-suites) permitting and construction. Over the past 40+ years of home remodeling and additions, Murray Lampert has earned recognition from [GuildQuality](/murray-lampert-recognized-among-north-americas-best), the [Better Business Bureau](/another-better-business-bureau-torch-award), and other [industry associations](/associations).
 
-Some companies will have a lot of hidden charges. You should factor in all the hidden charges if you want to avoid wasting money. You should be free to ask the company about the rates of the services before you decide to invite them to your home for the room additions services. At Murray Lampert, we are dedicated not only to delivering impeccable service but also enabling the return on your investment.
-<h3>We use high-quality materials for your home additions</h3>
-The right company for you to hire should always use quality materials in your room addition. This is necessary because the use of high-quality materials will ensure safety and durability. Even if you do not have enough experience on the right type of materials, our professionals will gladly give you the right information.
+### Top-Quality Materials and Expert Contractors
 
-Our experts will offer you an overview of the advantages and disadvantages of different materials so that you will make you own decision. The choice of the most suitable materials depends on the space available in your home, the type of home addition you need and many other factors. It will be very easy for you to decide on the best design after you work closely with our professionals.
-<h3>We guarantee quick turnaround time for the services</h3>
-The right company should respond fast to your call. Sometimes you may be faced with an emergency where you need the professionals to carry out the room addition services within a short period of time. You will avoid stress if you will hire professionals who are known to respond to emergencies fast. We pride ourselves on high-quality customer care, which is why we make your satisfaction our priority.
+With four decades of [San Diego home remodeling](/san-diego-home-remodel-services) experience to our name, we've been able to develop deep relationships with some of the best building material vendors, craftsmen, and professional contractors in Southern California.
 
-For more information on the range of our services, visit our <a href="http://murraylampert.com/home-additions-rancho-penasquitos">room additions Rancho Penasquitos</a> page.
+What does this mean for you? For starters, it means you can count on having the best in the business working on your Rancho Santa Fe room addition from start to finish. Additionally, Murray Lampert's vendor relationships ensure top-quality materials will be used. Throughout your entire project, your dedicated Project Manager will handle all permitting and licensing needs, will serve as your main point of contact for all contractors and vendor communication, and will keep you updated on progress every step of the way.
+
+Transparency, quality, and service are what our clients have to come to expect - and are exactly what our team aims to deliver.
+
+### Ready to Work with Murray Lampert?
+
+Communication is at the heart of every home addition project we take on, starting with our goal of same-day discussions with interested clients. From there, we'll schedule an in-home consultation to get a better idea of your project goals, develop a blueprint and 3D rendering of your finished project, and agree on all details before breaking ground.
+
+If you're ready to partner with the top [design-build firm in San Diego](/san-diego-design-build-contractors) to realize your home addition dream in Rancho Santa Fe, [contact Murray Lampert](#quick-contact).
