@@ -960,9 +960,11 @@ body.screenshot {
 .modBlogPost .tags a {
   font-style: italic;
 }
-/* .modBlogPost img {
-  width: 100%;
-} */
+.modBlogPost img {
+  display: block;
+  margin: 0 auto;
+  /* width: 100%; */
+}
 .modBlogPost a:hover img {
   -moz-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
