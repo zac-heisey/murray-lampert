@@ -1,11 +1,11 @@
 ---
 title: Kitchen Remodeling Coronado
 permalink: "/kitchen-remodeling-coronado"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Coronado, San Diego. Take your Coronado kitchen remodel to the next level with us.
+layout: default
 ---
 
 The lovely city of Coronado is a resort area in downtown San Diego. It is a sparsely populated city with only about 24,600 residents. It is part of the San Diego Metropolitan Statistical area. Coronado is popular as a resort city and tourists love its laid-back lifestyle, warm weather and great beaches. Popular events in this city are the 4th of July parade, Coronado Flower Show and the Summer Concert Series.
@@ -14,7 +14,7 @@ Coronado residents try to preserve their homes and also enhance their functional
 
 ## Custom Kitchen Remodels in Coronado
 
-![Stanfel Kitchen Remodel after image](/uploads/stanfel-kitchen-after.jpg)
+![Stanfel Kitchen Remodel after image](/uploads/stanfel-kitchen-after.jpg "Coronado Kitchen Remodel")
 
 ### We tailor our service to suit our clients’ needs
 
