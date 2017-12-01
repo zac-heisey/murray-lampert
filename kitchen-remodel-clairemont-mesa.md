@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodel Clairemont Mesa
 permalink: "/kitchen-remodel-clairemont-mesa"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Clairemont Mesa, San Diego. Take your Clairemont Mesa kitchen remodel to the next
   level with us.
+layout: default
 ---
 
 Many homes in Clairemont Mesa were built in 1950s and 1960s, which gives this community a charmingly traditional feel. Many neighborhoods in this community enjoy the view of Mission Bay and the Pacific Ocean, which makes Clairemont Mesa a very attractive residential area.
@@ -15,7 +15,7 @@ Since Clairemont Mesa is a relatively quiet, family-oriented community, homeowne
 
 ## Clairemont Mesa Kitchen Remodeling
 
-![Schuff Kitchen Remodel after image](/uploads/schuff-kitchen-after.jpg)
+![Schuff Kitchen Remodel after image](/uploads/schuff-kitchen-after.jpg "Clairemont Mesa Kitchen Remodel")
 
 ### The need for a kitchen remodel
 
