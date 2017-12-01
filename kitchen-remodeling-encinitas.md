@@ -1,19 +1,19 @@
 ---
 title: Kitchen Remodeling Encinitas
 permalink: "/kitchen-remodeling-encinitas"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Encinitas, San Diego. Take your Encinitas kitchen remodel to the next level with
   us.
+layout: default
 ---
 
 The lovely city of Encinitas is a beach city in North County, San Diego. It is about 95 miles south of Los Angeles and 25 miles north of San Diego City. According to official government figures, Encinitas has a population of 59,500 residents. This city is famous for its cultural events including Oktoberfest, Deep Pit BBQ, Fall Festival, Street Fair and many others. Encinitas also enjoys the services of one of San Diego’s most trusted and most innovative interior design and remodeling companies. <strong>Murray Lampert Design Build Remodel</strong> is well known for its amazing remodeling work, its<a href="http://murraylampert.com/san-diego-home-design-services/"> innovative designs</a> and modern furnishings and fixtures.
 
 ## Custom Encinitas Kitchen Remodeling Services
 
-![Encinitas Kitchen Remodeling projects](/uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg)
+![image of custom kitchen remodel in Encinitas](/uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg "Encinitas Kitchen Remodel")
 
 ### Custom kitchen remodeling service for Encinitas residents
 
