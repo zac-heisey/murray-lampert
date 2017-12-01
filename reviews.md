@@ -1,11 +1,11 @@
 ---
 title: Murray Lampert Reviews
 permalink: "/reviews"
-layout: default
 section_id: reviews
 featured-image: 
 excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out our
   online customer reviews from Google, Yelp, Houzz, and GuildQuality.
+layout: default
 ---
 
 ## Check out what our customers are saying around the web
@@ -28,7 +28,7 @@ excerpt: Murray Lampert kitchen, bath, and home remodeling reviews. Check out ou
 
 <span class="yelp-review" data-review-id="h-NgzXwHPkoeBjgFD5LLgw" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=x5wu1VqqoDCEmY0UiJoGlw" rel="nofollow noopener">Ellen R.</a>'s <a href="https://www.yelp.com/biz/murray-lampert-design-build-remodel-san-diego?hrid=h-NgzXwHPkoeBjgFD5LLgw" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/oeIsDIcIiqbk94lIFs7SUA" rel="nofollow noopener">Murray Lampert Design Build Remodel</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>
 
-### [GuildQuality](#)
+### [GuildQuality](https://www.guildquality.com/murraylampert?tab=reviews)
 <div id="gq-reviews-widgetv1"></div> <script type="text/javascript"> if(document.createStyleSheet) { document.createStyleSheet("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700"); } else { var GQstylesheet = "@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700');"; var createCss =document.createElement('link'); createCss.rel='stylesheet'; createCss.href='data:text/css,'+escape(GQstylesheet); if (document.getElementsByTagName("head")[0]) { document.getElementsByTagName("head")[0].appendChild(createCss); } else { document.write('<link rel="stylesheet" href="data:text/css,' + escape(GQStyleSheet) + '"/>'); } } /*handle pseudo selectors*/ var css = '.gq-reviewcontent-blockquote:before{content: \'\\201C\';font-size: 48px;line-height: 42px;position: absolute;left: 0;color: #b9c4d7;}', head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style'); /*set css for blockquote:before*/ style.type = 'text/css'; if (style.styleSheet){ style.styleSheet.cssText = css; } else { style.appendChild(document.createTextNode(css)); } head.appendChild(style); /*end pseudo selector code*/ function embedGQwidget(html){ document.getElementById('gq-reviews-widgetv1').innerHTML = html; } </script><script type='text/javascript' src='https://www.guildquality.com/embed/5401$4dcbcfb5d/3/all/?callback=embedGQwidget' async></script>
 
 ### [Houzz](https://www.houzz.com/browseReviews/gcantor/murray-lampert-design-build-remodel)
