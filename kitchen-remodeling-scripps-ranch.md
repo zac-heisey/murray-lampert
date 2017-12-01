@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodeling Scripps Ranch
 permalink: "/kitchen-remodeling-scripps-ranch"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Scripps Ranch, San Diego. Take your Scripps Ranch remodel to the next level with
   us.
+layout: default
 ---
 
 Scripps Ranch is a charming commuter town, where industrial and commercial activities don’t go beyond a small number of retail. It is home to working families who decide to live in this area because of its tranquility. Scripps Ranch boasts many mature eucalyptus trees, which are regarded as its distinctive feature.
@@ -15,7 +15,7 @@ This relatively young community of around 30,000 residents is a nice and welcomi
 
 ## Scripps Ranch Kitchen Remodeling from Murray Lampert
 
-![Scripps Ranch kitchen remodel projects](/uploads/widder-johnson-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in Scripps Ranch](/uploads/widder-johnson-kitchen-remodel-after.jpg "Scripps Ranch Kitchen Remodel")
 
 ### Hire an expert in kitchen remodeling in Scripps Ranch
 
