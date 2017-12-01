@@ -1,19 +1,19 @@
 ---
 title: Kitchen Remodeling Rancho Santa Fe
 permalink: "/kitchen-remodeling-rancho-santa-fe"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Rancho Santa Fe, San Diego. Take your Rancho Santa Fe kitchen remodel to the next
   level with us.
+layout: default
 ---
 
 Rancho Santa Fe is a suburb in San Diego County but is officially referred to as a CDP or census-designated place. It is a sparsely populated area with only about 1,000 inhabitants according to the 2010 census. Rancho Santa Fe is popular for its warm weather and Mediterranean climate. When it comes to home remodeling, Murray Lampert Design Build and Remodel is one of the best known and most trusted remodeling firms in Rancho Santa Fe and the entire San Diego County.
 
 ## Rancho Santa Fe Kitchen Remodeling
 
-![Rancho Santa Fe kitchen remodel projects](/uploads/tufaro-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in Rancho Santa Fe](/uploads/tufaro-kitchen-remodel-after.jpg "Rancho Santa Fe Kitchen Remodel")
 
 ### Tailored kitchen remodeling services
 
