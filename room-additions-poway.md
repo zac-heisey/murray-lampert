@@ -3,42 +3,28 @@ title: Room Additions Poway
 permalink: "/room-additions-poway"
 layout: default
 section_id: room-additions
-featured-image: "/uploads/gallery/outdoor-spaces/outdoor-spaces-06.jpg"
-excerpt: Murray Lampert has over 40 years of experience with room additions in Poway,
-  San Diego. Take your Poway home addition to the next level with us.
+featured-image:
+excerpt: Murray Lampert Design, Build, Remodel has 40+ years experience with room additions in Poway, San Diego. Trust your Poway home addition project to us!
 ---
 
-Poway is a San Diego city also known as ‘’The City in the Country’’ due to its agricultural roots. Its population numbers around 47,000 residents. A variety of green spaces make Poway a perfect place for outdoor cultural and recreational activities. Sights such as the Old Poway Park, Blue Sky Ecological Reserve and Poway Community Park are among the most famous. Poway is a vibrant community with growing families, which has enabled the popularity of room additions Poway projects. For this and other home renovation projects, Poway residents have trusted one of the top home design-build companies - Murray Lampert Design, Build, Remodel.
+Poway is a San Diego city also known as 'The City in the Country' due to its agricultural roots. Its population numbers around 50,077 residents (as of 2016). A variety of green spaces make Poway a perfect place for outdoor cultural and recreational activities. Sights such as the Old Poway Park, [Blue Sky Ecological Reserve](http://www.blueskyreserve.org/), and Poway Community Park are among the most famous.
 
-## Home Additions in Poway
+Poway is a vibrant community with a steadily increasing population, which means limited residential space and rising construction costs. For Poway residents looking to increase square footage without having to move, a [room or home addition](/san-diego-room-additions) from Murray Lampert Design, Build, Remodel can work beautifully.
 
-Poway is a San Diego city also known as ‘’The City in the Country’’ due to its agricultural roots. Its population numbers around 47,000 residents. A variety of green spaces make Poway a perfect place for outdoor cultural and recreational activities. Sights such as the Old Poway Park, Blue Sky Ecological Reserve and Poway Community Park are among the most famous. Poway is a vibrant community with growing families, which has enabled the popularity of room additions Poway projects. For this and other home renovation projects, Poway residents have trusted one of the top home design-build companies - Murray Lampert Design, Build, Remodel.
-<h3><img class="aligncenter wp-image-3087 size-large" src="http://murraylampert.com/wp-content/uploads/3.-Brown-Rear-2-After-1024x684.jpg" alt="room additions poway" width="940" height="628" />Reliable service backed by 40 years of experience</h3>
-The need for additional space is not only understandable with growing families, but also for everyone who needs an extra room for a master suite, home office or bathroom additions. Perhaps you need extra space to serve as storage or any other purpose. With a variety of client needs we have met over the years, we at Murray Lampert are fully equipped to offer room additions that will meet all your demands, as well as your budget.
+![image of Lake Poway](https://sdfish.com/wp-content/uploads/2015/04/lake-poway.jpg "Lake Poway in San Diego County")
 
-Our room additions team will keep the process smooth by involving you in every part of the project. Firstly, all our projects begin with a free in-home consultation with a staff designer and architect. They will assess your home and the possibilities it offers for a successful room addition. Afterwards, a design will be presented to you using <a href="http://murraylampert.com/3d-architectural-rendering-services/">3D modeling technology</a>, so you can actually see what the end result will look like. Our designers and architects will try to add extra space to your house without disrupting the landscape and the original structure. Should you feel any changes need to be made, the team will gladly incorporate them into the final design before the on-site work begins.
-<h3>Transparent and fair pricing</h3>
-Since you are actively involved in the project from beginning to end, our team also keeps you fully updated on the costs. Moreover, when the design is agreed on, our team will accurately estimate the cost of the project, so you will be able to plan your budget from day one. What sets us apart from our competition is the fact we do not try to win the project by initially offering low prices and later altering them. We at Murray Lampert Design, Build Remodel use a design-build system which enables us to shop for materials from approved vendors with the contractors' discount.
+## Custom Poway Home Additions by Murray Lampert
 
-Since we have established a sold relationship with local vendors and suppliers, we know in advance what the costs will be, and so we can accurately add them up to the overall cost. In that way, our team is able to offer you a fully transparent and accurate budget plan. We have learned how to be flexible when it comes to adapting to our clients' different financial situations. Our goal is to deliver a project that is within you budget, but still a high-quality one.
+Whether you need an expanded master suite, new home office, or bathroom addition, Murray Lampert's fully qualified team can bring your vision to life. A major benefit of working with a [San Diego design-build contract](/san-diego-design-build-contractors) like Murray Lampert is that you'll have a single point of contact throughout your project, rather than having to seek out and vet multiple vendors and contractors.
 
-What is more, the <a href="http://murraylampert.com/san-diego-design-build-contractors/">Murray Lampert Design-Build Package for room additions</a> also comprises construction documents drawn by our staff architect, as well as building permit fees, alongside professional project supervision. Additionally, we offer a 5-year written warranty.
+The Murray Lampert design-build process involves a dedicated project manager who will be in charge of coordinating all aspects of your project and communicating with you during each phase of work. You'll receive regular progress updates and timely answers to any questions you may have. We view every [home remodeling](/san-diego-home-remodel-services) project as a collaborative effort between our team and you, which means your input will be a vital part of the overall process.
 
-Finally, if you are looking for a trustworthy Poway room additions contractor, Murray Lampert Design, Build, Remodel is your number 1 choice.
+### Service & Transparency, Every Step of the Way
 
-Check out our <a href="http://murraylampert.com/home-additions-carmel-mountain">home additions Carmel Mountain</a> page for more information on the range of the services we offer.
+Our design-build approach enables us to ensure complete transparency and faster project timelines, eliminate under-budgeting risks and control costs, all while managing all project phases, from design and specifications to permitting and construction. By perfecting our innovative approach to the design-build process, we're able to deliver uncompromising quality, unmatched customer service, and unbelievable results.
 
-&nbsp;
-The need for additional space is not only understandable with growing families, but also for everyone who needs an extra room for a master suite, home office or bathroom additions. Perhaps you need extra space to serve as storage or any other purpose. With a variety of client needs we have met over the years, we at Murray Lampert are fully equipped to offer room additions that will meet all your demands, as well as your budget.
+We've established rock-solid relationships with local vendors, suppliers, and contractors over our 40+ years in business, allowing us to more accurately predict costs and timelines up front. This helps eliminate unforseen cost overruns, time delays, and other unwanted surprises throughout the course of your project with us.
 
-Our room additions team will keep the process smooth by involving you in every part of the project. Firstly, all our projects begin with a free in-home consultation with a staff designer and architect. They will assess your home and the possibilities it offers for a successful room addition. Afterwards, a design will be presented to you using <a href="http://murraylampert.com/3d-architectural-rendering-services/">3D modeling technology</a>, so you can actually see what the end result will look like. Our designers and architects will try to add extra space to your house without disrupting the landscape and the original structure. Should you feel any changes need to be made, the team will gladly incorporate them into the final design before the on-site work begins.
-<h3>Transparent and fair pricing</h3>
-Since you are actively involved in the project from beginning to end, our team also keeps you fully updated on the costs. Moreover, when the design is agreed on, our team will accurately estimate the cost of the project, so you will be able to plan your budget from day one. What sets us apart from our competition is the fact we do not try to win the project by initially offering low prices and later altering them. We at Murray Lampert Design, Build Remodel use a design-build system which enables us to shop for materials from approved vendors with the contractors' discount.
+### Experience The Murray Lampert Design-Build Difference
 
-Since we have established a sold relationship with local vendors and suppliers, we know in advance what the costs will be, and so we can accurately add them up to the overall cost. In that way, our team is able to offer you a fully transparent and accurate budget plan. We have learned how to be flexible when it comes to adapting to our clients' different financial situations. Our goal is to deliver a project that is within you budget, but still a high-quality one.
-
-What is more, the <a href="http://murraylampert.com/san-diego-design-build-contractors/">Murray Lampert Design-Build Package for room additions</a> also comprises construction documents drawn by our staff architect, as well as building permit fees, alongside professional project supervision. Additionally, we offer a 5-year written warranty.
-
-Finally, if you are looking for a trustworthy Poway room additions contractor, Murray Lampert Design, Build, Remodel is your number 1 choice.
-
-Check out our <a href="http://murraylampert.com/home-additions-carmel-mountain">home additions Carmel Mountain</a> page for more information on the range of the services we offer.
+When the time comes to expand your home in Poway, we hope you'll consider working with us. If you're ready to discuss your project with our team, we'd love to hear from you. [Contact us today](#quick-contact) and let's get started!
