@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodeling Rancho Penasquitos
 permalink: "/kitchen-remodeling-rancho-penasquitos"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Rancho Penasquitos, San Diego. Take your Rancho Penasquitos kitchen remodel to the
   next level with us.
+layout: default
 ---
 
 Rancho Penasquitos is a welcoming, friendly area with a strong sense of community. Events such as the Fun Run, Street Fair and the Parade bring Rancho Penasquitos residents together. With the population of around 50,000 residents, this San Diego neighborhood is ideal for families.
@@ -15,7 +15,7 @@ Like in any other modern area, and especially the one as thriving as Rancho Pena
 
 ## Custom Rancho Penasquitos Kitchen Remodeling
 
-![Rancho Penasquitos kitchen remodel projects](/uploads/barnard-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in Rancho Penasquitos](/uploads/barnard-kitchen-remodel-after.jpg "Rancho Penasquitos Kitchen Remodel")
 
 ### Rely on design, build &amp; remodel experts
 
