@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodeling North Park
 permalink: "/kitchen-remodeling-north-park"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   North Park, San Diego. Take your North Park kitchen remodel to the next level with
   us.
+layout: default
 ---
 
 What makes North Park stand out is its architecture, reflecting the era of California’s suburban development with its Craftsman cottages and bungalows.
@@ -15,7 +15,7 @@ As one of the fastest-growing urban San Diego communities, North Park is seeing 
 
 ## North Park Kitchen Remodeling
 
-![North Park kitchen remodeling projects](/uploads/carmelite-monastery-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in North Park](/uploads/carmelite-monastery-kitchen-remodel-after.jpg "North Park Kitchen Remodel")
 
 ### The leader in kitchen remodeling in North Park
 
