@@ -178,8 +178,8 @@ layout: default
       </ul>
     </div>
     <!-- BBB Torch Award and Tape Measure Images -->
-    <p class="torch"><img class="alignright size-full wp-image-1702" src="/uploads/tourch-01b.jpg" alt="tourch awards" width="460" height="243" />
-    <img class="alignright size-full wp-image-1703" src="/uploads/tourch-02.jpg" alt="tourch-02" width="460" height="193" /></p>
+    <p class="torch"><img class="alignright size-full wp-image-1702" src="/uploads/tourch-01b.jpg" title="Murray Lampert BBB Torch Award Winner for Marketplace Ethics" alt="BBB Torch Awards logo" width="460" height="243" />
+    <img class="alignright size-full wp-image-1703" src="/uploads/tourch-02.jpg" title="Murray Lampert Design, Build, Remodel example services" alt="tape measure image" width="460" height="193" /></p>
   </div>
   <div class='full'>
     <div class='row'>
