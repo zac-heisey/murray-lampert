@@ -12,11 +12,11 @@ layout: post
 
 The holiday season is arguably the busiest time of year. But despite how hectic it may feel, nothing is better than slowing down at the end of the year to spend quality time with your loved ones. We are a huge fan of entertaining, and love nothing more than to have our home filled with family and friends to spread that holiday cheer.
 
- Yet, with everything that comes along with hosting (planning, decorating, shopping, prepping, cleaning)  - it is impossible to find the time to cook. Luckily, traditional holiday meals are no longer required when hosting...  seriously! 
+Yet, with everything that comes along with hosting (planning, decorating, shopping, prepping, cleaning)  - it is impossible to find the time to cook. Luckily, traditional holiday meals are no longer required when hosting...  seriously!
 
 Appetizers are a fun and easy way to feed your hungry guests while spending half the amount of time in the kitchen...and they won't even know the difference! We promise, a spread of fun and easy appetizers will impress your guests and keep them interacting and enjoying festivities all night long.
 
-Here are some of our favorite holiday bites that can prepared in minutes! 
+Here are some of our favorite holiday bites that can prepared in minutes!
 
 ![salmon-dip.jpg](/uploads/salmon-dip.jpg)
 
@@ -28,7 +28,13 @@ A wonderful spin on a simple dip, this recipe requires very few ingredients and 
 
 [GRAHAM CRACKER DELIGHT](http://www.geniuskitchen.com/recipe/quot-its-that-easy-quot-graham-cracker-delight-328250)
 
-Don’t have time for a traditional dessert? These graham cracker delights are a wonderful alternative for cheesecake dessert. Not only do they look beautiful, but they're healthier than most dessert options! 
+Don’t have time for a traditional dessert? These graham cracker delights are a wonderful alternative for cheesecake dessert. Not only do they look beautiful, but they're healthier than most dessert options!
+
+![fig-skewer.jpg](/uploads/fig-skewer.jpg)
+
+[MARINATED FIG, PROSCIUTTO, MOZZARELLA SKEWERS](https://www.bbcgoodfood.com/recipes/1601/marinated-figs-with-prosciutto-mozzarella-and-basi) 
+
+These are decadent, fresh, and packed with flavor. Skewers are a great way to create addicting appetizers using minimal ingredients. They're mess free, too! 
 
 \
 ![chocolate-covered-almonds.jpg](/uploads/chocolate-covered-almonds.jpg)
@@ -37,7 +43,7 @@ Don’t have time for a traditional dessert? These graham cracker delights are a
 
 It is just as good as it sounds. Who doesn’t love the combination of sweet and salty?
 
-![shrimp-cocktail.jpg](/uploads/shrimp-cocktail.jpg)\
+![shrimp-cocktail.jpg](/uploads/shrimp-cocktail.jpg)\\
 
 [SHRIMP COCKTAIL](http://www.geniuskitchen.com/recipe/shrimp-cocktail-316663)
 
