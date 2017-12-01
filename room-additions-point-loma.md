@@ -3,7 +3,7 @@ title: Room Additions Point Loma
 permalink: "/room-additions-point-loma"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Room additions in Point Loma, San Diego by Murray Lampert Design, Build,
   Remodel. Point Loma home addition experts since 1975. Visit Murray Lampert today!
 ---

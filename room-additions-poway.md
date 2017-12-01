@@ -3,8 +3,9 @@ title: Room Additions Poway
 permalink: "/room-additions-poway"
 layout: default
 section_id: room-additions
-featured-image:
-excerpt: Murray Lampert Design, Build, Remodel has 40+ years experience with room additions in Poway, San Diego. Trust your Poway home addition project to us!
+featured-image: 
+excerpt: Murray Lampert Design, Build, Remodel has 40+ years experience with room
+  additions in Poway, San Diego. Trust your Poway home addition project to us!
 ---
 
 Poway is a San Diego city also known as 'The City in the Country' due to its agricultural roots. Its population numbers around 50,077 residents (as of 2016). A variety of green spaces make Poway a perfect place for outdoor cultural and recreational activities. Sights such as the Old Poway Park, [Blue Sky Ecological Reserve](http://www.blueskyreserve.org/), and Poway Community Park are among the most famous.

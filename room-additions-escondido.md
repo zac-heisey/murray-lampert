@@ -3,7 +3,7 @@ title: Room Additions Escondido
 permalink: "/room-additions-escondido"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Room additions in Escondido, San Diego by Murray Lampert Design, Build, Remodel.
   Escondido home addition experts since 1975. Visit Murray Lampert today!
 ---

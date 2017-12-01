@@ -3,7 +3,7 @@ title: Room Additions Carmel Valley
 permalink: "/room-additions-carmel-valley"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Carmel
   Valley, San Diego. Take your Carmel Valley home addition to the next level with
   us.
