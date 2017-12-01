@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodeling Ocean Beach
 permalink: "/kitchen-remodeling-ocean-beach"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Ocean Beach, San Diego. Take your Ocean Beach kitchen remodel to the next level
   with us.
+layout: default
 ---
 
 Ocean Beach is one of the most impressive beachfront neighborhoods in San Diego. The area boasts picturesque rows of trendy residential areas. The residents have a sense of class when it comes to interior décor and they take pride in constantly improving and upgrading their areas of habitation. If you happen to live in this area, they you will definitely be impressed to hear that you can access services related to kitchen remodeling with minimum hassle. You are always looking to partner with a local company that has <a href="https://www.youtube.com/watch?v=RGn8ISNG-AY&amp;feature=youtu.be">a flawless reputation</a> and is exceptionally good at what it does.
@@ -15,7 +15,7 @@ Traditional kitchens in Ocean Beach were durable, classy and stylish. However, o
 
 ## Ocean Beach Kitchen Remodeling Experts
 
-![Ocean Beach kitchen remodeling projects](/uploads/keyes-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in Ocean Beach](/uploads/keyes-kitchen-remodel-after.jpg "Ocean Beach Kitchen Remodel")
 
 ### The essence of a kitchen remodel in Ocean Beach
 
