@@ -1,12 +1,12 @@
 ---
 title: Kitchen Remodeling Point Loma
 permalink: "/kitchen-remodeling-point-loma"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Point Loma, San Diego. Take your Point Loma kitchen remodel to the next level with
   us.
+layout: default
 ---
 
 The seaside community of Point Loma is known for its elaborate decorations, especially during the festive season. The hilly peninsula is a distinctive feature of San Diego Bay. The name Point Loma is not merely a name for the place but a name for the vibrant community too. Aside from being home to 47,981 residents, the peninsula has a rich culture behind it. It is considered by many as being the place ‘’where California began’’ since the first Europeans to come to California docked there.
@@ -15,7 +15,7 @@ For Point Loma residents, living in style is a part of their heritage, so remode
 
 ## Point Loma Kitchen Remodeling by Murray Lampert
 
-![Point Loma kitchen remodeling projects](/uploads/prendergast-kitchen-remodel-after.jpg)
+![image of custom kitchen remodel in Point Loma](/uploads/prendergast-kitchen-remodel-after.jpg "Point Loma Kitchen Remodel")
 
 ### You imagine it, and we design and build it for you
 
