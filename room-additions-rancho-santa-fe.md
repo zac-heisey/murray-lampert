@@ -1,11 +1,11 @@
 ---
 title: Room Additions Rancho Santa Fe
 permalink: "/room-additions-rancho-santa-fe"
-layout: default
 section_id: room-additions
 featured-image: 
 excerpt: Room additions in Rancho Santa Fe, San Diego by Murray Lampert Design, Build,
   Remodel. Rancho Santa Fe home addition experts since 1975. Visit us today!
+layout: default
 ---
 
 Being one of the highest income communities in the US, Rancho Santa Fe is a great residential community for young families and career-minded professionals alike. Even though it has a warm-summer Mediterranean climate, Rancho Santa Fe is one of the few places in suburban San Diego to receive occasional snowfall. This is ideal for folks who enjoy warm weather but enjoy a white Christmas every now and then.
@@ -16,7 +16,7 @@ It's no surprise families choose to settle in Rancho Santa Fe and enjoy a high l
 
 ## Rancho Santa Fe Home Addition Experts
 
-We're proud to have served residents in Rancho Santa Fe since 1975, assisting homeowners with projects ranging from [second story additions](http://localhost:4000/san-diego-second-story-addition) to [in-law suite](http://localhost:4000/san-diego-in-law-suites) permitting and construction. Over the past 40+ years of home remodeling and additions, Murray Lampert has earned recognition from [GuildQuality](/murray-lampert-recognized-among-north-americas-best), the [Better Business Bureau](/another-better-business-bureau-torch-award), and other [industry associations](/associations).
+We're proud to have served residents in Rancho Santa Fe since 1975, assisting homeowners with projects ranging from [second story additions](http://localhost:4000/san-diego-second-story-addition) to [in-law suite](http://localhost:4000/san-diego-in-law-suites) permitting and construction. Over the past 40+ years of home remodeling and additions, Murray Lampert has earned recognition from [GuildQuality](/murray-lampert-recognized-among-north-americas-best), the [Better Business Bureau](/another-better-business-bureau-torch-award), and other [industry associations](/association).
 
 ### Top-Quality Materials and Expert Contractors
 
