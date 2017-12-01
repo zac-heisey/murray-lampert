@@ -1,18 +1,18 @@
 ---
 title: Kitchen Remodeling Del Mar
 permalink: "/kitchen-remodeling-del-mar"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Del Mar, San Diego. Take your Del Mar kitchen remodel to the next level with us.
+layout: default
 ---
 
 Since 1975 when Murray Lampert Design Build and Remodel started serving Del Mar we have been working towards establishing ourselves as the leader in everything related to <a href="http://murraylampert.com/san-diego-home-design-services/">home improvement</a> in Del Mar, CA. We offer a wide variety of services to our customers in Del Mar and their <a href="http://murraylampert.com/testimonials/">satisfied responses</a> have since been our motivation and leading source of business, as most of our clients come to us through a referral. We boast 5-star <a href="http://murraylampert.com/reviews/">online reviews</a> and have been awarded multiple times for our efforts. We are happy to be able to offer only the best when it comes to <a href="http://murraylampert.com/san-diego-kitchen-remodeling-services/">kitchen remodeling</a> in Del Mar, and if you don’t believe us just ask around! There’s a high chance one of your neighbors employed Murray Lampert, and if they have, we are sure that they will only have words of praise regarding the result.
 
 ## Murray Lampert: Premier kitchen remodeling in Del Mar
 
-![Full Kitchen Remodel image](uploads/Open-Space-Kitchen-Home-Remodeling-Escondido.jpg)
+![image of custom kitchen remodel in Del Mar](uploads/Open-Space-Kitchen-Home-Remodeling-Escondido.jpg "Del Mar Kitchen Remodel")
 
 ### What does kitchen remodeling entail?
 
