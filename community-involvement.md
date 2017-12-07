@@ -1,6 +1,5 @@
 ---
 title: Community Involvement in San Diego
-permalink:
 layout: default
 section_id: community
 featured-image: "/uploads/community-involvement-header.jpg"
