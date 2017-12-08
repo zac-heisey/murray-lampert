@@ -3,8 +3,9 @@ title: Kitchen Remodeling Bonita
 permalink: "/kitchen-remodeling-bonita"
 layout: default
 section_id: kitchen-remodels
-featured-image:
-excerpt: Kitchen remodeling in Bonita, San Diego by Murray Lampert Design, Build, Remodel. Bonita kitchen remodel experts since 1975. Visit us today!
+featured-image: 
+excerpt: Kitchen remodeling in Bonita, San Diego by Murray Lampert Design, Build,
+  Remodel. Bonita kitchen remodel experts since 1975. Visit us today!
 ---
 
 Considered a rural suburban paradise, Bonita, CA is a town with rich <a href="https://en.wikipedia.org/wiki/Culture_of_San_Diego">tradition and culture</a>. The inhabitants of Bonita are keepers of this tradition, which is especially true for the local cuisine. Every autumn during the Bonitafest event, the locals and tourists from all sides can see the parade and the street fair, enjoy music and entertainment, but also try out the local food prepared by some of the finest local chefs who take pride in our rich culinary tradition. Many inhabitants of Bonita, CA are passionate food lovers, but their old kitchen does not allow them to enjoy cooking and prepare some of the finest local dishes for their families. If you recognize yourself in this description, maybe a kitchen remodeling Bonita expert is just the thing you need? Have you considered giving your old kitchen a new life?

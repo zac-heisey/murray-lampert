@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carlsbad
 permalink: "/kitchen-remodeling-carlsbad"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Carlsbad, San Diego. Take your Carlsbad kitchen remodel to the next level with us.
 ---
