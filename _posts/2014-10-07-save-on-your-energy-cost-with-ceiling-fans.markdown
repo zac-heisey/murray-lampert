@@ -1,11 +1,12 @@
 ---
 title: Save On Your Energy Cost with Ceiling Fans
 date: 2014-10-07 10:26:09 Z
+permalink: "/save-on-your-energy-cost-with-ceiling-fans/"
 categories:
 - Home DIY Tips
 - Green Construction
-permalink: "/save-on-your-energy-cost-with-ceiling-fans/"
-excerpt: Not only can ceiling fans reduce your power bill and provide significant energy savings, they're also a cost-effective way to make a bold design statement.
+excerpt: Not only can ceiling fans reduce your power bill and provide significant
+  energy savings, they're also a cost-effective way to make a bold design statement.
 author: Gregg Cantor
 layout: post
 ---

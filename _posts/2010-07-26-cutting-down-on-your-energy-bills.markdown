@@ -1,11 +1,12 @@
 ---
 title: Cutting Down on Your Energy Bills
 date: 2010-07-26 11:20:08 Z
+permalink: "/cutting-down-on-your-energy-bills/"
 categories:
 - Home DIY Tips
 - Green Construction
-permalink: "/cutting-down-on-your-energy-bills/"
-excerpt: Cutting down on your energy bills doesn't have be a hassle. Murray Lampert shares 8 no or low cost ways of lowering your energy bills.
+excerpt: Cutting down on your energy bills doesn't have be a hassle. Murray Lampert
+  shares 8 no or low cost ways of lowering your energy bills.
 author: Gregg Cantor
 layout: post
 ---

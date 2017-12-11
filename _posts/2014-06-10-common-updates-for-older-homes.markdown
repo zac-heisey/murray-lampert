@@ -1,11 +1,12 @@
 ---
 title: Common Updates for Older Homes
 date: 2014-06-10 08:00:27 Z
+permalink: "/common-updates-for-older-homes/"
 categories:
 - Home DIY Tips
 - Green Construction
-permalink: "/common-updates-for-older-homes/"
-excerpt: Older homes have lots of charm and personality, but they can also present major headaches. We share six of the most commonly needed updates for older homes.
+excerpt: Older homes have lots of charm and personality, but they can also present
+  major headaches. We share six of the most commonly needed updates for older homes.
 author: Gregg Cantor
 layout: post
 ---
