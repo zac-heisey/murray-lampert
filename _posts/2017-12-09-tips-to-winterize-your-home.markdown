@@ -3,10 +3,11 @@ title: 7 Tips to Winterize Your San Diego Home
 date: 2017-12-09 19:30:00 Z
 categories:
 - Home DIY Tips
+- Green Construction
 featured-image: "/uploads/winterize-your-home.png"
 excerpt: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
   your home will keep you safe while reducing energy!
-author: 'Gregg Cantor '
+author: Gregg Cantor
 layout: post
 ---
 
@@ -44,7 +45,7 @@ When you leave for work or go to sleep at night, it's  a good idea to lower your
 
 ### 6. Check Your Insulation
 
-Insulation may not be the first thing that comes to mind when considering winterization in your San Diego home, but it is an important factor when it comes to saving money and energy in your home. Factor in the age of your home, as insulation deteriorates over time, in addition to the [type of insulation used in your home](/natural-wool-or-recycled-cotton-which-insulation-is-better-for-your-home/). 
+Insulation may not be the first thing that comes to mind when considering winterization in your San Diego home, but it is an important factor when it comes to saving money and energy in your home. Factor in the age of your home, as insulation deteriorates over time, in addition to the [type of insulation used in your home](/natural-wool-or-recycled-cotton-which-insulation-is-better-for-your-home/).
 
 Add additional insulation material to your attic, crawl spaces, and exposed areas of decks to help trap heat.
 
