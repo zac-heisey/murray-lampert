@@ -7,11 +7,11 @@ categories:
 tags:
 - granny flats
 - in-law suites
-layout: post
 featured-image: "/uploads/stock-kitchen.jpg"
 excerpt: We share the pros and cons of having an in-law suite in San Diego. Click
   to learn more and find out if an in-law suite is right for you.
 author: Gregg Cantor
+layout: post
 ---
 
 With the cost of housing increasing yearly, San Diego residents have sought out in-law suite additions to increase the overall living space of their property. In-law suites or granny flats are an external addition to the original property to provide space for renters or family members.
@@ -22,7 +22,7 @@ As with every addition made to a home, there are pros and cons to the decision o
 
 **1) Increases the overall value of your property**
 
-The demand for in-law suites is high, adding an [in-law suite in San Diego](/san-diego-in-law-suites) can increase the value of your property up to 60%. In addition to the overall increase in value to your home, in-law suites in San Diego can provide an extra source of income for owners through renting the space. Whether it is a permanent renter or you use the space for short-time renters, an easy way to make up the costs for your addition is to rent out the in-law suite.
+With soaring real estate costs and limited space in Southern California, the case for adding an [in-law suite in San Diego](/san-diego-in-law-suites) continues to build. In addition to boosting the resale value of your home, in-law suites in San Diego can provide an extra source of income for owners through renting the space. Whether it is a permanent renter or you use the space for short-time renters, an easy way to make up the costs for your addition is to rent out the in-law suite.
 
 **2) Independence for Family Members**
 
