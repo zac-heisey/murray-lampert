@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carmel Valley
 permalink: "/kitchen-remodeling-carmel-valley"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Carmel Valley, San Diego. Take your Carmel Valley kitchen remodel to the next level
   with us.

@@ -3,9 +3,9 @@ title: Kitchen Remodeling Carmel Mountain
 permalink: "/kitchen-remodel-carmel-mountain"
 layout: default
 section_id: kitchen-remodels
-featured-image:
-excerpt: Kitchen remodeling in Carmel Mountain, San Diego by Murray Lampert Design, Build,
-  Remodel. Carmel Mountain kitchen remodel experts since 1975. Visit us today!
+featured-image: 
+excerpt: Kitchen remodeling in Carmel Mountain, San Diego by Murray Lampert Design,
+  Build, Remodel. Carmel Mountain kitchen remodel experts since 1975. Visit us today!
 ---
 
 Carmel Mountain is a San Diego community comfortably tucked in the shadow of the Black Mountain. Its residents simply love the coziness and cheerfulness of the place. It boasts beautiful golf courses, especially the top-ranking [Carmel Mountain Ranch Golf Club](http://www.clubcmr.com/), a favorite of both residents and visitors. Carmel Mountain Plaza accommodates a row of lively cafes and restaurants and is the most popular with the local community.
