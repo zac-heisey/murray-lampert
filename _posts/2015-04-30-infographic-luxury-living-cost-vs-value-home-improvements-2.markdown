@@ -4,6 +4,7 @@ date: 2015-04-30 16:05:57 Z
 permalink: "/infographic-luxury-living-cost-vs-value-home-improvements-2/"
 categories:
 - Home Remodeling
+- Infographics
 excerpt: An infographic showing the average cost and expected return value of popular
   home remodeling projects across the country. Check it out on MurrayLampert.com.
 author: Gregg Cantor
