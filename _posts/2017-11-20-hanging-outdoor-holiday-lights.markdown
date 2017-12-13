@@ -8,8 +8,7 @@ categories:
 featured-image: "/uploads/holiday-lights.png"
 excerpt: Being festive has never been easier with these 8 essential tips for hanging
   holiday lights outside your San Diego home from Murray Lampert Design, Build, Remodel.
-author: 'Gregg Cantor '
-Field name: 
+author: Gregg Cantor
 layout: post
 ---
 
@@ -17,13 +16,13 @@ It’s the most wonderful time of the year — family is traveling, the baking h
 
 **1. PLAN YOUR DESIGN**
 
-The holidays tend to sneak up on us all. One day you might wake up to see that your neighbors have transformed their houses into winter wonderland, making you feel like a grinch who has yet to decorate. Start your planning now! Consider the [structure of your home](/san-diego-architectural-design-services), including its shapes and surfaces. Once you have a good idea of what areas might be best for lights, find a focal point. 
+The holidays tend to sneak up on us all. One day you might wake up to see that your neighbors have transformed their houses into winter wonderland, making you feel like a grinch who has yet to decorate. Start your planning now! Consider the [structure of your home](/san-diego-architectural-design-services), including its shapes and surfaces. Once you have a good idea of what areas might be best for lights, find a focal point.
 
 For example, if you have a main entryway with columns or a large bay window at the front of your house, start there. Without a focal point for your design, it tends to look like an explosion of lights, but not in a good way.
 
 For a traditional look, keep lights white and arranged only on gutters, windows, and a few trees or bushes in your front yard. The goal is to keep all lights symmetrical for a pleasing aesthetic. To bring in color, consider large red bows, red persimmons, or select colored lights such as red, green, or blue for the windows.
 
-If you prefer a more festive look, mix up your lights with hanging icicles, colored strands, or large bulb lights. Don’t limit yourself to gutters and windows—decorate your landscape area, mailbox, or even walkway with festive lights. 
+If you prefer a more festive look, mix up your lights with hanging icicles, colored strands, or large bulb lights. Don’t limit yourself to gutters and windows—decorate your landscape area, mailbox, or even walkway with festive lights.
 
 **2. PICK YOUR LIGHTS**
 
