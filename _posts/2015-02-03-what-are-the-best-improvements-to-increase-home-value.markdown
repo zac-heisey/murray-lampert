@@ -1,11 +1,13 @@
 ---
 title: What are the Best Improvements to Increase Home Value?
 date: 2015-02-03 09:28:24 Z
+permalink: "/what-are-the-best-improvements-to-increase-home-value/"
 categories:
 - Home Remodeling
-permalink: "/what-are-the-best-improvements-to-increase-home-value/"
 featured-image: "/uploads/home-improvement-value.jpg"
-excerpt: Not every home improvement project adds value to your home’s resale. We've outlined several home remodeling projects that can help maximize your home's resale value.
+excerpt: Not every home improvement project adds value to your home’s resale. We've
+  outlined several home remodeling projects that can help maximize your home's resale
+  value.
 author: Gregg Cantor
 layout: post
 ---

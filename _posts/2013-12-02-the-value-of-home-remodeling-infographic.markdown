@@ -1,11 +1,12 @@
 ---
 title: INFOGRAPHIC - The Value of Home Remodeling
 date: 2013-12-02 22:46:47 Z
+permalink: "/the-value-of-home-remodeling-infographic/"
 categories:
 - Home Remodeling
 - Infographics
-permalink: "/the-value-of-home-remodeling-infographic/"
-excerpt: Determine how much value a home remodeling project can add to your property with this infographic from Murray Lampert Design, Build, Remodel.
+excerpt: Determine how much value a home remodeling project can add to your property
+  with this infographic from Murray Lampert Design, Build, Remodel.
 author: Gregg Cantor
 layout: post
 ---
