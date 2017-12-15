@@ -4,7 +4,7 @@ date: 2014-01-23 10:02:23 Z
 categories:
 - Real Estate
 featured-image: "/uploads/first-time-home-buyers.jpg"
-excerpt:
+excerpt: 
 author: Gregg Cantor
 layout: post
 ---
