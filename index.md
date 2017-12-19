@@ -8,11 +8,11 @@ works:
   title: Custom Bathrooms
   desc: From Soaker Tubs to Universal Design
   url: san-diego-bathroom-remodeling-services
-- image: uploads/RanchoSantaFe-kitchen.jpg
-  class: kitchen-remodels
-  title: Custom Designed Kitchens
-  desc: From Basic to Gourmet
-  url: san-diego-kitchen-remodeling-services
+- image: uploads/MLDBR_testimonial_Don_P.png
+  class: testimonials
+  title: Putting Clients First Since 1975
+  desc: Read More Testimonials
+  url: testimonials
 - image: uploads/cava-621-i-ave-KD-36.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Featured Project
@@ -51,15 +51,15 @@ works:
   class: major-renovations wide
   title: Interior Design Service
   desc: Specifying, Sourcing & Accurate Pricing
-- image: uploads/berry-historical-kitchen-1.jpg
-  class: major-renovations featured-projects
-  title: Mission Hills Historical
-  desc: 
-  url: featured-projects/historical-home-remodel-mission-hills/
+- image: uploads/MLDBR_testimonial_Laura_G.png
+  class: testimonials
+  title: Click for More Client Testimonials
+  desc:
+  url: testimonials
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc: 
+  desc:
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -76,10 +76,9 @@ works:
   title: Full Service Design
   desc: See All the Textures & Colors
   url: rendering-gallery
-- image: uploads/MissionHillsCraftsman.jpg
-  class: bathroom-remodels
-  title: Bankers Hills Custom Bathroom
-  desc: 
-  url: san-diego-bathroom-remodeling-services
+- image: uploads/MLDBR_testimonial_Michaela_K.png
+  class: testimonials
+  title:
+  desc:
+  url: testimonials  
 ---
-
