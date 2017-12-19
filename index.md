@@ -54,12 +54,12 @@ works:
 - image: uploads/MLDBR_testimonial_Laura_G.png
   class: testimonials
   title: Click for More Client Testimonials
-  desc:
+  desc: 
   url: testimonials
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc:
+  desc: 
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -78,7 +78,8 @@ works:
   url: rendering-gallery
 - image: uploads/MLDBR_testimonial_Michaela_K.png
   class: testimonials
-  title:
-  desc:
-  url: testimonials  
+  title: 
+  desc: 
+  url: testimonials
 ---
+
