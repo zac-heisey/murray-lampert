@@ -1,11 +1,11 @@
 ---
 title: 12 Ways to Lower Your Energy Bill This Winter
-date: 2017-12-20 00:00:01 Z
+date: 2017-12-20 00:00:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/thermostat.png"
-excerpt: Don’t let the cold weather freeze your wallet when there are easy DIY tips
-  that can save you money! Here are 12 ways to lower your energy bills this winter.
+excerpt: Energy efficiency has never been easier. Read these DIY home maintenance
+  strategies to low your San Diego energy bill this winter.
 author: Gregg Cantor
 layout: post
 ---
