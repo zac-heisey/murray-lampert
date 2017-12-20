@@ -3,7 +3,7 @@ title: Murray Lampert Testimonials
 permalink: "/testimonials"
 layout: default
 section_id: testimonials
-featured-image:
+featured-image: 
 excerpt: Customer testimonials for Murray Lampert's work on second stories, custom
   kitchens & bath remodels, room additions, and complete home remodeling projects.
 ---
