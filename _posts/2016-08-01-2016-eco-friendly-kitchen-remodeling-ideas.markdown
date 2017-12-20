@@ -1,12 +1,13 @@
 ---
 title: 2016 Eco-Friendly Kitchen Remodeling Ideas
 date: 2016-08-01 01:55:08 Z
+permalink: "/2016-eco-friendly-kitchen-remodeling-ideas/"
 categories:
 - Kitchen Remodeling
 - Green Construction
-permalink: "/2016-eco-friendly-kitchen-remodeling-ideas/"
 featured-image: "/uploads/eco-friendly-kitchen-remodeling.jpg"
-excerpt: Not sure where to begin when it comes to your kitchen remodel? Our solution - Go Green. Here are 8 eco-friendly kitchen remodeling ideas from Murray Lampert.
+excerpt: Not sure where to begin when it comes to your kitchen remodel? Our solution
+  - Go Green. Here are 8 eco-friendly kitchen remodeling ideas from Murray Lampert.
 author: Gregg Cantor
 layout: post
 ---

@@ -1,11 +1,13 @@
 ---
 title: Kitchen Remodeling Do's and Don'ts
 date: 2012-09-21 09:14:10 Z
+permalink: "/kitchen-remodeling-dos-and-donts/"
 categories:
 - Kitchen Remodeling
-permalink: "/kitchen-remodeling-dos-and-donts/"
 featured-image: "/uploads/kitchen-remodel-dos-donts.jpg"
-excerpt: A good kitchen can sell a home, which is why so many homeowners take on a kitchen remodel to raise property value. Here are some do's and don'ts to get you started.
+excerpt: A good kitchen can sell a home, which is why so many homeowners take on a
+  kitchen remodel to raise property value. Here are some do's and don'ts to get you
+  started.
 author: Gregg Cantor
 layout: post
 ---
