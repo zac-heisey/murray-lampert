@@ -1,14 +1,14 @@
 ---
-title: Testimonials
+title: Murray Lampert Testimonials
 permalink: "/testimonials"
 layout: default
 section_id: testimonials
-featured-image: 
+featured-image:
 excerpt: Customer testimonials for Murray Lampert's work on second stories, custom
   kitchens & bath remodels, room additions, and complete home remodeling projects.
 ---
 
-## Below are a Few of Our Home Remodeling Customer Testimonials
+## Below Are A Few Testimonials from Happy Home Remodeling Clients
 
 ### Second Story Bedroom Addition
 > "Professionalism every step of the way. Exceptional communication in all aspects and phases of the project. The project was finished well ahead of schedule, allowing us to move back in before the start of school." - _JULIE & RICHARD N. – RANCHO PENASQUITOS_
