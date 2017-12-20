@@ -1,5 +1,5 @@
 ---
-title: 12 Ways to Lower Your Energy Bill This Summer
+title: 12 Ways to Lower Your Energy Bill This Winter
 date: 2017-12-20 00:00:01 Z
 categories:
 - Home DIY Tips
