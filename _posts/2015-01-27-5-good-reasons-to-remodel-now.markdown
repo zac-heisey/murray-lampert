@@ -1,10 +1,11 @@
 ---
 title: 5 Good Reasons to Remodel Now
 date: 2015-01-27 09:00:38 Z
+permalink: "/5-good-reasons-to-remodel-now/"
 categories:
 - Home Remodeling
-permalink: "/5-good-reasons-to-remodel-now/"
-excerpt: Murray Lampert shares 5 reasons why now is a great time to start that home remodeling project you've been putting off.
+excerpt: Murray Lampert shares 5 reasons why now is a great time to start that home
+  remodeling project you've been putting off.
 author: Gregg Cantor
 layout: post
 ---

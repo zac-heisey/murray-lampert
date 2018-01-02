@@ -6,7 +6,8 @@ section_id: contact
 address1: 2878 Camino Del Rio South
 address2: Suite 160, San Diego CA, 92108
 phone: "(619) 285-9222"
-excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today for a free in-home consultation to get your home remodeling project started!
+excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today for
+  a free in-home consultation to get your home remodeling project started!
 ---
 
   <div class='medium-8 columns'>

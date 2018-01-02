@@ -1,10 +1,11 @@
 ---
 title: Murray Lampert Recognized Among North America’s Best
 date: 2015-06-19 15:00:00 Z
+permalink: "/murray-lampert-recognized-among-north-americas-best/"
 categories:
 - Community
-permalink: "/murray-lampert-recognized-among-north-americas-best/"
-excerpt: Murray Lampert is proud to be awarded the 2015 Guildmaster Award from GuildQuality for exceptional customer service in home remodeling.
+excerpt: Murray Lampert is proud to be awarded the 2015 Guildmaster Award from GuildQuality
+  for exceptional customer service in home remodeling.
 author: Gregg Cantor
 layout: post
 ---

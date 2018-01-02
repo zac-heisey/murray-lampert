@@ -2,7 +2,7 @@
 title: Room Additions Rancho Santa Fe
 permalink: "/room-additions-rancho-santa-fe"
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Room additions in Rancho Santa Fe, San Diego by Murray Lampert Design, Build,
   Remodel. Rancho Santa Fe home addition experts since 1975. Visit us today!
 layout: default
