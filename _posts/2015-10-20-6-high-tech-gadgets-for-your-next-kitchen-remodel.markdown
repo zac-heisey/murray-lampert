@@ -1,7 +1,11 @@
 ---
 title: 6 High-Tech Gadgets for Your Next Kitchen Remodel
 date: 2015-10-20 09:34:30 Z
+categories:
+- Kitchen Remodeling
 permalink: "/6-high-tech-gadgets-for-your-next-kitchen-remodel/"
+excerpt: Technology is changing every aspect of our daily lives, including how we work in the kitchen. We share 6 high-tech kitchen gadgets for your kitchen remodel.
+author: Gregg Cantor
 layout: post
 ---
 

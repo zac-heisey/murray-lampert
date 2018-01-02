@@ -1,7 +1,11 @@
 ---
 title: The Homeowner's Guide to Choosing the Perfect Kitchen Backsplash
 date: 2016-02-03 15:42:56 Z
+categories:
+- Kitchen Remodeling
 permalink: "/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/"
+excerpt: Backsplashes take up a small portion of your kitchen, but they can make or break your kitchen's look. See our guide to choosing the perfect kitchen backsplash.
+author: Gregg Cantor
 layout: post
 ---
 

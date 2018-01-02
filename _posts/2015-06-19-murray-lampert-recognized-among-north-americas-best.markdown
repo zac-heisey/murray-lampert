@@ -1,7 +1,11 @@
 ---
 title: Murray Lampert Recognized Among North America’s Best
 date: 2015-06-19 15:00:00 Z
+categories:
+- Community
 permalink: "/murray-lampert-recognized-among-north-americas-best/"
+excerpt: Murray Lampert is proud to be awarded the 2015 Guildmaster Award from GuildQuality for exceptional customer service in home remodeling.
+author: Gregg Cantor
 layout: post
 ---
 
@@ -9,7 +13,9 @@ layout: post
 
 ### GuildQuality’s 2015 Guildmaster Award Honors Murray Lampert Design, Build Remodel as Customer Service Leaders within the Residential Construction Industry
 
-<b>San Diego, CA June 2015 </b>- Murray Lampert, Home Design Build and Remodeling in San Diego County California, has been awarded a 2015 Guildmaster Award for exceptional customer service. GuildQuality, an independent<a href="http://www.guildquality.com/"> customer satisfaction surveying</a> company, has powered the Guildmaster Award since 2005 to celebrate service excellence in the building, remodeling, contracting, and home services professions.
+**San Diego, CA June 2015**
+
+[Murray Lampert Design, Build, Remodel](/) in San Diego County California, has been awarded a 2015 Guildmaster Award for exceptional customer service. GuildQuality, an independent<a href="http://www.guildquality.com/"> customer satisfaction surveying</a> company, has powered the Guildmaster Award since 2005 to celebrate service excellence in the building, remodeling, contracting, and home services professions.
 
 Murray Lampert was selected as one of the over 300<a href="http://www.guildquality.com/guildmaster/"> North American builders, remodelers, developers, and contractors</a> recognized by GuildQuality for their superior delivery of customer care.
 

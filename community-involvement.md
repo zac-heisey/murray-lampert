@@ -3,8 +3,7 @@ title: Community Involvement in San Diego
 layout: default
 section_id: community
 featured-image: "/uploads/community-involvement-header.jpg"
-excerpt: Murray Lampert green home remodeling & construction. A Green Certified home
-  building contractor. Learn more about our environmentally friendly practices.
+excerpt: The team at Murray Lampert is proud to serve the San Diego community since 1975. Learn more about our community involvement throughout San Diego County.
 ---
 
 ## Proud to Serve the San Diego Community Since 1975
