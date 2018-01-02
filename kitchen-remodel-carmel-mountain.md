@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carmel Mountain
 permalink: "/kitchen-remodel-carmel-mountain"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Kitchen remodeling in Carmel Mountain, San Diego by Murray Lampert Design,
   Build, Remodel. Carmel Mountain kitchen remodel experts since 1975. Visit us today!
 ---
@@ -26,7 +26,7 @@ Most often, it is the kitchen that needs modernizing and remodeling. It is for t
 
 The kitchen speaks volumes about your sense of style and it is, therefore, no doubt that no thorough home renovation will be complete without proper [kitchen remodeling](/san-diego-kitchen-remodeling-services). When renovating your home's interior, you may be surprised at the remodeling work that your kitchen requires. For instance, you might consider:
 
-- Refinishing or replacing time-worn [cabinets and counter tops](http://localhost:4000/san-diego-custom-cabinet-construction-services)
+- Refinishing or replacing time-worn [cabinets and counter tops](/san-diego-custom-cabinet-construction-services)
 - Updating [kitchen backsplash designs](/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/)
 - Improving plumbing fixtures and fittings
 - Upgrading [kitchen appliances](/6-high-tech-gadgets-for-your-next-kitchen-remodel/)
