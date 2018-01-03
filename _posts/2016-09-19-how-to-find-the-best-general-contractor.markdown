@@ -4,7 +4,8 @@ date: 2016-09-19 04:27:33 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/find-best-contractor.jpg"
-excerpt: Murray Lampert provides an easy-to-follow checklist that will help you evaluate and choose the right contractor for your next home remodel project.
+excerpt: Murray Lampert provides an easy-to-follow checklist that will help you evaluate
+  and choose the right contractor for your next home remodel project.
 author: Gregg Cantor
 layout: post
 ---

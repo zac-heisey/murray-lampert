@@ -4,7 +4,8 @@ date: 2010-07-11 19:25:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/choose-contractor.jpg"
-excerpt: Part 2 of 2 to help San Diego homeowners choose the right design-build contractor to ensure a successful home remodel project.
+excerpt: Part 2 of 2 to help San Diego homeowners choose the right design-build contractor
+  to ensure a successful home remodel project.
 author: Gregg Cantor
 layout: post
 ---

@@ -1,11 +1,12 @@
 ---
 title: How to Choose a Contractor for Successful Home Remodeling Part 1
 date: 2010-06-30 07:15:34 Z
+permalink: "/how-to-choose-a-contractor-for-successful-home-remodeling-part-1/"
 categories:
 - Home Remodeling
 featured-image: "/uploads/choose-contractor.jpg"
-permalink: "/how-to-choose-a-contractor-for-successful-home-remodeling-part-1/"
-excerpt: Part 1 of 2 to help San Diego homeowners choose the right design-build contractor to ensure a successful home remodel project.
+excerpt: Part 1 of 2 to help San Diego homeowners choose the right design-build contractor
+  to ensure a successful home remodel project.
 author: Gregg Cantor
 layout: post
 ---
