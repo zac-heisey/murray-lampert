@@ -19,7 +19,7 @@ In Part 2 of our short guide on hose to choose the right home remodeling contrac
 
 4. Ask for past and current references. **Call at least 5 references** of completed projects, and consider visiting 2 or 3 past or in-progress projects. When interviewing references, ask if the contractor finished on time and within budget. Find out how unforeseen conditions were handled and if the site/home was kept safe and clean throughout the project.
 
-5. Request for proof of liability, workers compensation insurance and a certificate naming you as additional insured.
+5. Request proof of liability, worker's compensation insurance, and a certificate naming you as additional insured.
 
 6. Meet the project manager that will be assigned to your job. This person will be your primary point of contact throughout your project, so establishing a good rapport is important.
 
