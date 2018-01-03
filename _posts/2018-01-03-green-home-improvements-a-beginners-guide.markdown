@@ -1,11 +1,12 @@
 ---
 title: 'Green Home Improvements: A Beginner''s Guide'
 date: 2018-01-03 08:30:51 Z
+permalink: "/green-home-improvements-a-beginners-guide/"
 categories:
 - Green Construction
 featured-image: "/uploads/green-home-improvements-beginners-guide.jpg"
-permalink: "/green-home-improvements-a-beginners-guide/"
-excerpt: The green movement also includes tackling various green home improvement projects to increase the efficiency and environmental impact of your home.
+excerpt: The green movement also includes tackling various green home improvement
+  projects to increase the efficiency and environmental impact of your home.
 author: Gregg Cantor
 layout: post
 ---
