@@ -1,27 +1,32 @@
 ---
 title: How to Choose a Contractor for Successful Home Remodeling Part 2
 date: 2010-07-11 19:25:00 Z
-permalink: "/how-to-choose-a-contractor-for-successful-home-remodeling-part-2/"
+categories:
+- Home Remodeling
+featured-image: "/uploads/choose-contractor.jpg"
+excerpt: Part 2 of 2 to help San Diego homeowners choose the right design-build contractor to ensure a successful home remodel project.
+author: Gregg Cantor
 layout: post
 ---
 
-<p style="text-align: center;"><a href="http://www.murraylampert.com"><img class="aligncenter size-full wp-image-412" title="home_improvement_contractor" src="http://murraylampert.com/wp-content/uploads/2010/07/home_improvement_contractor.jpg" alt="" width="350" height="287" /></a></p>
-1.  Build a list of contractors to interview by asking friends, relatives, neighbors and doing online research.  Only consider companies that specialize in home remodeling.
+In Part 2 of our short guide on hose to choose the right home remodeling contractor for your project, we've outlined 9 tips to help you find, vet, and select a trustworthy contractor. You can [check out Part 1 here](/how-to-choose-a-contractor-for-successful-home-remodeling-part-1/).
 
-2.  Visit <a href="http://www.cslb.ca.gov">www.cslb.ca.gov</a> and verify licensing, workers compensation, and bonding.  Visit <a href="http://www.bbb.org">www.bbb.org</a> and check the companies grade and complaint history.  Use Google maps to make sure the companies have a physical location and are not out of garage or truck.
+1. Build a list of contractors to interview by asking friends, relatives, neighbors and doing online research. We strongly suggest [working with a design-build firm](/why-choose-design-build-for-your-home-project/) to ensure your project is managed properly and completed on time and on budget.
 
- 3.  Grade your prospects and only contact the best 2 or 3 to schedule an in person interview.
+2. Visit [www.cslb.ca.gov](http://www.cslb.ca.gov) and verify licensing, worker's compensation, and bonding. You should also visit [www.bbb.org](http://www.bbb.org) to check a company's grade and complaint history. Use Google Maps to make sure the companies have a physical location and are not run out of garage or truck.
 
-4.  Ask for past and current references.  Call at least 5 references of jobs completed within 1 to 10 and visit 2 or 3 past and current projects.  When interviewing references, ask if the contractor finished on time and within budget.  Find out how unforseen conditions were handled and if the site/home was kept safe and clean at all times.
+3. After completing steps 1 and 2, grade your the prospective contractors on list and contact the top 3 to schedule an in-person interview.
 
-5.  Request for proof of liablility, workers compensation insurance and a certificate naming you as additional insured.
+4. Ask for past and current references. **Call at least 5 references** of completed projects, and consider visiting 2 or 3 past or in-progress projects. When interviewing references, ask if the contractor finished on time and within budget. Find out how unforeseen conditions were handled and if the site/home was kept safe and clean throughout the project.
 
-6.  Meet the project manager that will be assigned to your job.
+5. Request for proof of liability, workers compensation insurance and a certificate naming you as additional insured.
 
-7.  Ask for a copy of the contractor's warranty.
+6. Meet the project manager that will be assigned to your job. This person will be your primary point of contact throughout your project, so establishing a good rapport is important.
 
-8.  Before you sign the contract, make sure everything is included, and the finishes/fixture allowances cover the quality/grade you want.  Make sure the payment schedule is reasonable and that the last payment is substantial enough to ensure the final punch list is completed timely and to your satisfaction.
+7. Ask for a copy of the contractor's warranty.
 
-9.  During construction, request conditional lien releases with each progress payment and an unconditional lien release/releases upon making the final payment.  Do not make the final payment until the inspector has signed off on everything.
+8. Before you sign a contract, make sure everything is included, and the finishes/fixture allowances cover the quality/grade you want. Make sure the payment schedule is reasonable and that the last payment is substantial enough to ensure the final punch list is completed timely and to your satisfaction.
 
-For more information, visit <a href="http://www.cslb.ca.gov">www.cslb.ca.gov</a> and <a href="http://www.bbb.org">www.bbb.org</a>.
+9. During construction, request conditional lien releases with each progress payment and an unconditional lien release/releases upon making the final payment. Do not make the final payment until the inspector has signed off on everything.
+
+We hope this short series is helpful when it comes to choosing the right contractor for your [home remodel in San Diego](/san-diego-home-remodel-services). If you need more guidance or have any questions, please don't hesitate to [contact us](#quick-contact).
