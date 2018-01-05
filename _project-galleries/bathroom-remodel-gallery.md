@@ -3,10 +3,14 @@ title: Bathroom Remodel Projects
 permalink: "/bathroom-remodel-gallery"
 layout: project-galleries
 gallery-images:
+- uploads/aung-twitty-solana-beach-bathroom-1.jpg
 - uploads/gallery/baths/cote-master-bath.jpg
+- uploads/cote-bathroom-1.jpg
 - uploads/gallery/baths/stanfel-master-bath-after.jpg
 - uploads/cava-621-i-ave-KD-11.jpg
 - uploads/cava-621-i-ave-KD-13.jpg
+- uploads/anderson-bathroom-1.jpg
+- uploads/anderson-bathroom-2.jpg
 excerpt: Custom bathroom remodeling and renovation projects by Murray Lampert. View
   our San Diego bathroom remodel projects gallery today.
 ---
