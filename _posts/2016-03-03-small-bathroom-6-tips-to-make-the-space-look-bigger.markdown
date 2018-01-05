@@ -4,7 +4,7 @@ date: 2016-03-03 05:44:58 Z
 categories:
 - Bathroom Remodeling
 featured-image: "/uploads/small-bathroom-tips.jpg"
-excerpt:
+excerpt: Dealing with limited space in your bathroom? From color to light, we share 6 tips to make your bathroom appear larger than life.
 author: Gregg Cantor
 layout: post
 ---
