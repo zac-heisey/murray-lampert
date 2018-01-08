@@ -5,7 +5,8 @@ permalink: "/home-office-pre-construction-checklist-home-additions-la-jolla-proj
 categories:
 - Home Additions
 featured-image: "/uploads/home-office-1.jpg"
-excerpt: If you work from home, you understand the need for a quiet, well-lit work space. Here's a quick checklist to help telecommuters planning their home office.
+excerpt: If you work from home, you understand the need for a quiet, well-lit work
+  space. Here's a quick checklist to help telecommuters planning their home office.
 author: Gregg Cantor
 layout: post
 ---
