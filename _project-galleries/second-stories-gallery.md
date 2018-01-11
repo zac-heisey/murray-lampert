@@ -5,6 +5,12 @@ layout: project-galleries
 gallery-images:
 - uploads/gallery/second-stories/leonida.jpg
 - uploads/gallery/second-stories/Lovett-4-W.jpg
+- uploads/second-story-remodel.png
+- uploads/weeks-second-story-1.jpg
+- uploads/weeks-second-story-2.jpg
+- uploads/barron-second-story.jpg
+- uploads/smith-santos-second-story.jpg
+- uploads/white-second-story.jpg
 excerpt: San Diego second story addition projects gallery. View previous second story
   projects from Murray Lampert Design, Build, Remodel San Diego.
 ---
