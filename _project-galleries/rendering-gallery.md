@@ -15,6 +15,12 @@ gallery-images:
 - uploads/mehdizadeh-rendering3.png
 - uploads/mehdizadeh-rendering4.png
 - uploads/mehdizadeh-rendering5.png
+- uploads/wise-front-render.jpg
+- uploads/wise-family-room-render.jpg
+- uploads/wise-kitchen-render.jpg
+- uploads/wise-kitchen-render-2.jpg
+- uploads/wise-kitchen-outdoor-render.jpg
+- uploads/wise-outdoor-space-render.jpg
 excerpt: San Diego architectural design and 3D project modeling image gallery. Get
   a preview of your home remodeling project with Murray Lampert Design, Build, Remodel.
 ---
