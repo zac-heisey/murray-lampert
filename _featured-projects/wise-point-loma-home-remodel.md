@@ -26,4 +26,4 @@ excerpt: Featured total home renovation in Point Loma, CA by Murray Lampert. Che
 
 Our most recent project is currently underway in Point Loma! This is a total home renovation featuring a [Point Loma kitchen remodel](/kitchen-remodeling-point-loma), [room addition](/room-additions-point-loma), and more.
 
-Check back for more images, videos, and other updates as this project progresses!
+Check back for more images, videos, and other updates as this project comes together!
