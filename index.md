@@ -8,11 +8,11 @@ works:
   title: Custom Bathrooms
   desc: From Soaker Tubs to Universal Design
   url: san-diego-bathroom-remodeling-services
-- image: uploads/RanchoSantaFe-kitchen.jpg
-  class: kitchen-remodels
-  title: Custom Designed Kitchens
-  desc: From Basic to Gourmet
-  url: san-diego-kitchen-remodeling-services
+- image: uploads/wise-kitchen-render-2.jpg
+  class: rendering featured-projects
+  title: Featured Project | In Progress
+  desc: Total Renovation in Point Loma
+  url: featured-projects/wise-point-loma-home-remodel/
 - image: uploads/cava-621-i-ave-KD-36.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Featured Project
@@ -60,7 +60,7 @@ works:
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc: 
+  desc:
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -73,7 +73,7 @@ works:
   desc: Combining Technology & Experience
   url: about-murray-lampert-design-build-remodel
 - image: uploads/mehdizadeh-rendering6.png
-  class: 3d-project-modeling
+  class: rendering
   title: Full Service Design
   desc: See All the Textures & Colors
   url: rendering-gallery
@@ -83,4 +83,3 @@ works:
   desc: Enjoy San Diego's Weather Year-Round
   url: san-diego-outdoor-living-space-design
 ---
-
