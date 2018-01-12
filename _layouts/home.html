@@ -2,7 +2,7 @@
 <html>
 
   {% include head.html %}
-  
+
   <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSGKJ4B"
@@ -25,7 +25,6 @@
         <ul class='gallery'>
           {% for work in page.works %}
             <li class='{{work.class}}'>
-              {% if work.url %} <!-- If image in gallery is Featured Project, go to project URL -->
               <a href='{{ work.url }}'>
                 <img title="{{ work.title }} | Murray Lampert" alt="{{work.title}} image" src="{{work.image}}" />
                 <div class='overlay'>
@@ -35,17 +34,6 @@
                   </div>
                 </div>
               </a>
-              {% else %} <!-- Else go to Projects gallery page -->
-              <a href='/san-diego-remodel-project-gallery'>
-                <img title="{{ work.title }} | Murray Lampert" alt="{{work.title}} image" src="{{work.image}}" />
-                <div class='overlay'>
-                  <div class='thumb-info'>
-                    <h3>{{work.title}}</h3>
-                    <p>{{work.desc}}</p>
-                  </div>
-                </div>
-              </a>
-              {% endif %}
             </li>
           {% endfor %}
         </ul>
