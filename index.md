@@ -60,7 +60,7 @@ works:
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc:
+  desc: 
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -83,3 +83,4 @@ works:
   desc: Enjoy San Diego's Weather Year-Round
   url: san-diego-outdoor-living-space-design
 ---
+
