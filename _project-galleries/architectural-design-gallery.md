@@ -18,6 +18,7 @@ gallery-images:
 - uploads/gallery/architectural-design/design8.png
 - uploads/gallery/architectural-design/design9.png
 - uploads/gallery/architectural-design/design10.png
+- uploads/wise-floorplan.jpg
 excerpt: Murray Lampert architectural design project gallery. Our staff architect
   and in-house design team works with each client to create customized remodeling
   blueprints.
