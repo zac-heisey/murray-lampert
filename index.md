@@ -22,6 +22,7 @@ works:
   class: kitchen-remodels
   title: Contemporary Kitchen
   desc: Del Mar
+  url: san-diego-kitchen-remodeling-services
 - image: uploads/drone-ib-framing.jpg
   class: under-construction
   title: Full Service Design-Build
@@ -59,7 +60,7 @@ works:
 - image: uploads/MissionHillsOutdoor.jpg
   class: outdoor-spaces
   title: Patios, Decks, and<br> Landscaping
-  desc: 
+  desc:
   url: san-diego-outdoor-living-space-design
 - image: uploads/DelMarBeachHouse.jpg
   class: wide
@@ -82,4 +83,3 @@ works:
   desc: Enjoy San Diego's Weather Year-Round
   url: san-diego-outdoor-living-space-design
 ---
-
