@@ -19,7 +19,7 @@ Apart from enhancing their aesthetic appeal, designers are now trying to include
 
 Kitchen islands aren’t just for cooking and chopping! As we enter 2018, integrating technology into interior design has never been more at the forefront. You’ll see homeowners craving kitchen islands that can double as a technology hub for their family. Think: custom-built storage for laptops, tablets, and charging stations. This comes to us as no surprise, as the kitchen tends to be Grand Central Station for most families. Don’t forget about music! Islands can be equipped with state-of-the-art speakers so you can play tunes while you whip up your next meal or entertain friends.
 
-#### Move Aside Marble
+### Move Aside Marble
 
 Everywhere you looked in 2017, marble was sure to be found. While we don’t believe the classic appeal of marble will ever go out of style, there is a new, more versatile sheriff in town - [Terrazzo](https://www.apartmenttherapy.com/on-trend-terrazzo-is-making-a-major-comeback-241123). Being praised for it’s versatility, Terrazzo can be styled with an understated vibe, or in a colorful maximalist fashion.
 
