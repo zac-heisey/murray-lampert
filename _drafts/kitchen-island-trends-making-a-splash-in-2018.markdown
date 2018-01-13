@@ -21,7 +21,7 @@ Kitchen islands aren’t just for cooking and chopping! As we enter 2018, integr
 
 #### Move Aside Marble
 
-Everywhere you looked in 2017, marble was sure to be found. While we don’t believe the classic appeal of marble will ever go out of style, there is a new, more versatile sheriff in town…[Terrazzo](https://www.apartmenttherapy.com/on-trend-terrazzo-is-making-a-major-comeback-241123). Being praised for it’s versatility, Terrazzo can be styled with an understated vibe, or in a colorful maximalist fashion.
+Everywhere you looked in 2017, marble was sure to be found. While we don’t believe the classic appeal of marble will ever go out of style, there is a new, more versatile sheriff in town - [Terrazzo](https://www.apartmenttherapy.com/on-trend-terrazzo-is-making-a-major-comeback-241123). Being praised for it’s versatility, Terrazzo can be styled with an understated vibe, or in a colorful maximalist fashion.
 
 ![image of terrazzo pattern](/uploads/terrazzo.png "Terrazzo: Coming to a Kitchen Near Your in 2018")
 
