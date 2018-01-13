@@ -60,9 +60,10 @@ This type of kitchen island combines the traditional function of the kitchen isl
 
 ### Double Islands
 
-For larger homes, homeowners are opting to double down on their kitchen islands. The main kitchen island, closest to the appliances and cooking area, is used mainly for utility. The second kitchen island is typically for added seating. *Image couresty of [HomeDesigning.com](http://www.home-designing.com/2012/06/perfectly-peaceful-designer-pad/wooden-kitchen-island-units)*
+For larger homes, homeowners are opting to double down on their kitchen islands. The main kitchen island, closest to the appliances and cooking area, is used mainly for utility. The second kitchen island is typically for added seating.
 
 ![image of double kitchen island](/uploads/double-island.jpg "Double Kitchen Islands are Twice the Fun")
+_Image couresty of [HomeDesigning.com](http://www.home-designing.com/2012/06/perfectly-peaceful-designer-pad/wooden-kitchen-island-units)_
 
 ### Side Details
 
