@@ -46,17 +46,7 @@ It seems that using the kitchen island counter only as an extra working area isn
 
 Although large islands are definitely trending, small kitchens need not shy away. Small space kitchen islands are popping up everywhere, as designers are getting better and better at creating efficiencies despite a lack of square footage.
 
-![small-space-kitchen-islands.png](/uploads/small-space-kitchen-islands.png)
-
-**Two-Faced Islands**
-
-In a contemporary open plan kitchen, we expect to see a blend of colors, textures, and styles. Naturally, something has to be done about the imposing kitchen island. Currently, more and more homeowners choose to have the ‘’two-faced island’’ – one side of the island blends with the style of the kitchen, while the other side facing the living room looks differently and has a different function.
-
-It doesn’t mean that the island has to be made of two different materials, though. In fact, the focus is on functionality. While the side facing the kitchen can incorporate the sink, the oven or closed-door cabinetry, the one facing the living room can have open shelves for books and decorative elements.
-
-**Two-Level Islands**
-
-This type of kitchen island combines the traditional function of the kitchen island with the bar counter functionality. While the lower level can provide the additional working space, the upper level can be used for having meals or simply enjoying a glass of wine while sitting comfortably on a bar stool. Can you say, cheers?
+![image of small kitchen island](/uploads/small-space-kitchen-islands.png "Small Space Kitchen Islands Pack In a Lot of Style")
 
 ### Double Islands
 
