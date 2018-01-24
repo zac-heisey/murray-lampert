@@ -48,24 +48,36 @@ works:
   title: Space Planning for Your Lifestyle
   desc: Functional Style & Comfort
   url: san-diego-room-additions
-
 feat_testimonials:
 - name: Julie & Richard
   location: Rancho Penasquitos
-  desc: Professionalism every step of the way. Exceptional communication in all aspects and phases of the project. The project was finished well ahead of schedule, allowing us to move back in before the start of school.
+  desc: Professionalism every step of the way. Exceptional communication in all aspects
+    and phases of the project. The project was finished well ahead of schedule, allowing
+    us to move back in before the start of school.
 - name: Dan & Jennifer
   location: Del Mar
-  desc: Communication was exceptional and the work ethic was impeccable. The craftsmanship on all elements of our home is outstanding. My husband and I both get up every day and say how much we love our home.
+  desc: Communication was exceptional and the work ethic was impeccable. The craftsmanship
+    on all elements of our home is outstanding. My husband and I both get up every
+    day and say how much we love our home.
 - name: Michaela & Stacey
   location: Chula Vista
-  desc: We were completely satisfied with the process from planning, execution, to completion. The team was outstanding and I would recommend them to anyone looking for work to be done on or in their home!
+  desc: We were completely satisfied with the process from planning, execution, to
+    completion. The team was outstanding and I would recommend them to anyone looking
+    for work to be done on or in their home!
 - name: Stan & Gemma
   location: Spring Valley
-  desc: The quality of the work, cost and early completion of the project makes us happy we chose Murray Lampert among other contractors. We've received a lot of compliments on the quality of our project.
+  desc: The quality of the work, cost and early completion of the project makes us
+    happy we chose Murray Lampert among other contractors. We've received a lot of
+    compliments on the quality of our project.
 - name: Armida
   location: San Diego
-  desc: It was a pleasure having Murray Lampert remodel my home. They were very attentive to my concerns and I couldn't be happier with the completed project. Murray Lampert was amazing to work with.
+  desc: It was a pleasure having Murray Lampert remodel my home. They were very attentive
+    to my concerns and I couldn't be happier with the completed project. Murray Lampert
+    was amazing to work with.
 - name: Liz
   location: Carlsbad
-  desc: What I got was beyond my hopes. Murray Lampert actually made me feel like I was their ONLY customer! I have another addition planned in the future, and you can be sure Murray Lampert will be my heroes again.
+  desc: What I got was beyond my hopes. Murray Lampert actually made me feel like
+    I was their ONLY customer! I have another addition planned in the future, and
+    you can be sure Murray Lampert will be my heroes again.
 ---
+
