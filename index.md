@@ -28,11 +28,11 @@ works:
   title: Full Service Design-Build
   desc: Whole Home Remodeling
   url: san-diego-design-build-contractors
-- image: uploads/MLDBR-testimonial-Don-P.png
-  class: testimonials wide
-  title: Putting Clients First For Over 40 Years
-  desc: Read More Testimonials
-  url: testimonials
+- image: uploads/berry-historical-exterior-1.jpg
+  class: major-renovations featured-projects wide
+  title: Featured Project
+  desc: Historical Remodel in Mission Hills
+  url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/under-roof.jpg
   class: miscellaneous
   title: Sustainable Design
@@ -48,39 +48,24 @@ works:
   title: Space Planning for Your Lifestyle
   desc: Functional Style & Comfort
   url: san-diego-room-additions
-- image: uploads/Metcalf2_W.jpg
-  class: major-renovations wide
-  title: Interior Design Service
-  desc: Specifying, Sourcing & Accurate Pricing
-- image: uploads/berry-historical-exterior-1.jpg
-  class: major-renovations featured-projects
-  title: Featured Project
-  desc: Historical Remodel in Mission Hills
-  url: featured-projects/historical-home-remodel-mission-hills/
-- image: uploads/MissionHillsOutdoor.jpg
-  class: outdoor-spaces
-  title: Patios, Decks, and<br> Landscaping
-  desc: 
-  url: san-diego-outdoor-living-space-design
-- image: uploads/DelMarBeachHouse.jpg
-  class: wide
-  title: Our Interior Designers
-  desc: Turn Your House into a Home
-  url: san-diego-asid-professionals
-- image: uploads/MLDBR-conference-room.jpg
-  class: miscellaneous
-  title: Building Relationships Since 1975
-  desc: Combining Technology & Experience
-  url: about-murray-lampert-design-build-remodel
-- image: uploads/mehdizadeh-rendering6.png
-  class: rendering
-  title: Full Service Design
-  desc: See All the Textures & Colors
-  url: rendering-gallery
-- image: uploads/miller-back-after.jpg
-  class: outdoor-spaces
-  title: Indoor-Outdoor Living Spaces
-  desc: Enjoy San Diego's Weather Year-Round
-  url: san-diego-outdoor-living-space-design
----
 
+feat_testimonials:
+- name: Julie & Richard
+  location: Rancho Penasquitos
+  desc: Professionalism every step of the way. Exceptional communication in all aspects and phases of the project. The project was finished well ahead of schedule, allowing us to move back in before the start of school.
+- name: Dan & Jennifer
+  location: Del Mar
+  desc: Communication was exceptional and the work ethic was impeccable. The craftsmanship on all elements of our home is outstanding. My husband and I both get up every day and say how much we love our home.
+- name: Michaela & Stacey
+  location: Chula Vista
+  desc: We were completely satisfied with the process from planning, execution, to completion. The team was outstanding and I would recommend them to anyone looking for work to be done on or in their home!
+- name: Stan & Gemma
+  location: Spring Valley
+  desc: The quality of the work, cost and early completion of the project makes us happy we chose Murray Lampert among other contractors. We've received a lot of compliments on the quality of our project.
+- name: Armida
+  location: San Diego
+  desc: It was a pleasure having Murray Lampert remodel my home. They were very attentive to my concerns and I couldn't be happier with the completed project. Murray Lampert was amazing to work with.
+- name: Liz
+  location: Carlsbad
+  desc: What I got was beyond my hopes. Murray Lampert actually made me feel like I was their ONLY customer! I have another addition planned in the future, and you can be sure Murray Lampert will be my heroes again.
+---
