@@ -12,15 +12,17 @@
     {% include header.html %}
 
     <div id='main' role='main'>
-      <div class='full' style='background: #3d3d3d'>
+      <!-- Homepage Main Header -->
+      <div class='full' style='background-image: url("/uploads/assets/images/wood-bg.jpg"); background-size: contain;'>
         <div class='row'>
           <div class='large-12 columns'>
-            <h1 style='color: #fff;' class="centered-text">Murray Lampert Design, Build, Remodel</h1>
-            <h2 style='color: #fff;' class="centered-text">San Diego's Home Remodeling Expert Since 1975</h2>
+            <h1 style='color: #3d3d3d;' class="centered-text">Murray Lampert Design, Build, Remodel</h1>
+            <h2 style='color: #3d3d3d;' class="centered-text">San Diego's Home Remodeling Expert Since 1975</h2>
           </div>
         </div>
         <div class='spacing'></div>
       </div>
+      <!-- Header Masonry Gallery -->
       <div class='mod modMasonryGallery'>
         <ul class='gallery'>
           {% for work in page.works %}
@@ -38,7 +40,28 @@
           {% endfor %}
         </ul>
       </div>
-      {{ content }}
+      <!-- Homepage Testimonials -->
+      <div class='full' style='background: #B5C6D6; text-align: center;'>
+        <div class='row'>
+          <div class='large-12 columns'>
+            <h2>Some of Our Client Testimonials</h2>
+            <div class='mod modBoxedTextSlider'>
+              <div class='boxes'>
+                {% for testimonial in page.feat_testimonials %}
+                  <div class='box'>
+                    <h3>{{ testimonial.name }}</h3>
+                    <h4>{{ testimonial.location }}</h4>
+                    <p>"{{ testimonial.desc }}"</p>
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
+            <a href="/testimonials">Read More Testimonials</a>
+            <div class='spacing'></div>
+          </div>
+        </div>
+      </div>
+      {{ content }} <!-- Nothing yet; would come from body content on index.md -->
     </div>
 
     {% include footer.html %}
