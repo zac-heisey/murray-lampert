@@ -1,5 +1,5 @@
 ---
-title: Del Mar Vista Design, Build, and Remodel Services
+title: Del Mar Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: "/uploads/Del-Mar.jpg"
