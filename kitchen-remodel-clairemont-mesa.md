@@ -23,7 +23,7 @@ Many homeowners appreciate the kitchen as a vital part of the home. It is where 
 
 Murray Lampert Design, Build, Remodel is a renowned [kitchen remodeling firm in San Diego](/san-diego-kitchen-remodeling-services), trusted by residents to provide modern home additions, total renovations, and a plethora of other [design-build services](/design-build-services-san-diego). As one of the leading kitchen remodel Clairemont Mesa firms, we have been helping property owners with kitchen upgrades and remodeling services since 1975.
 
-### Consult the experts in kitchen remodeling
+### Murray Lampert: San Diego's Kitchen Remodeling Experts
 
 Since families spend so much time in the kitchen, it should be modernized and expanded so that it is large enough to fit everyone. As a property owner, you can remodel your kitchen to make it look better, ensure it meets all your needs and stores all your appliances with enough space for all the cooking and meal preparation. Whether you need a larger space, upgraded fixtures, a nice floor, new countertops or modern <a href="http://murraylampert.com/san-diego-custom-cabinet-construction-services/">custom kitchen cabinets</a>, rely on our professional team to meet all your demands. Their <a href="https://www.youtube.com/watch?v=RGn8ISNG-AY&amp;feature=youtu.be">experience, knowledge and reputation</a> can help you expand and remodel your kitchen so it is more attractive and more functional.
 
@@ -31,7 +31,7 @@ Remodeling a kitchen is a multi-trade project that needs to be managed by an est
 
 ### Clairemont Mesa kitchen remodel with a Murray Lampert difference
 
-Once you decide you want to remodel your home kitchen, simply get in touch with our firm and let us know what you want. A simple phone call, an email or a personal visit to our office is enough to set the project in motion.
+Once you decide you want to remodel your kitchen, the next step is to find the right contractor to bring your dream kitchen to life. Our team is always ready and willing to answer any questions, walk you through the initial steps, and set up an initially walk-through to kick-off the kitchen remodel process.
 
 The interior designers and remodeling experts will then visit your home and inspect your kitchen. This is important so they can provide actual estimates and advise you on the best, most affordable products to use in your kitchen remodeling in Clairemont Mesa. By engaging Murray Lampert, you will not only receive the most professional services by a team of respected, qualified and experienced experts but also <a href="http://murraylampert.com/another-better-business-bureau-torch-award/">honest pricing and a guarantee of ethics</a>.
 
