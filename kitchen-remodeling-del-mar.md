@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Del Mar
 permalink: "/kitchen-remodeling-del-mar"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Del Mar, San Diego by Murray Lampert Design, Build,
   Remodel. Del Mar kitchen remodel experts since 1975. Visit us today!
 layout: default
