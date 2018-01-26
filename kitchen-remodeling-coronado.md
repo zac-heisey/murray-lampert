@@ -2,9 +2,9 @@
 title: Kitchen Remodeling Coronado
 permalink: "/kitchen-remodeling-coronado"
 section_id: kitchen-remodels
-featured-image: 
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
-  Coronado, San Diego. Take your Coronado kitchen remodel to the next level with us.
+featured-image:
+excerpt: Kitchen remodeling in Coronado, San Diego by Murray Lampert Design, Build,
+  Remodel. Coronado kitchen remodel experts since 1975. Visit us today!
 layout: default
 ---
 
@@ -30,12 +30,12 @@ Every kitchen needs high-quality, functional and beautiful cabinets to store kit
 
 ### We have over 40 years’ experience in home remodeling
 
-Homeowners always prefer working with experienced companies. It is always safer to choose a firm which has been in the business for many years. Murray Lampert was founded back in 1975 and has been going from strength to strength over the years. All employees have relevant experience in their areas of expertise. This ensures they will do a great job and give you the kitchen of your dreams.
+Homeowners always prefer working with experienced companies. It is always safer to choose a firm which has been in the business for many years. [Murray Lampert was founded back in 1975](/about-murray-lampert-design-build-remodel) and has been going from strength to strength over the years. All employees have relevant experience in their areas of expertise. This ensures they will do a great job and give you the kitchen of your dreams.
 
 ### Choose a trusted and reliable company for your kitchen remodel
 
 When you decide to undertake a large remodeling project, it is always best to hire a company that is honest in its charges, pricing and delivery of services. Over the years, our company has established a relationship of trust with homeowners due to our honest pricing system, professionalism and the ability to keep our word. Honesty is one of the most important virtues that we continue to hold dear.
 
-Our company has won a number of excellence awards over the years. We have been recognized by institutions and organizations for our outstanding work, our trustworthy service and affordable pricing. These awards mean a lot to our company and they encourage us to continue maintaining the high standards we set for ourselves.
+Our company has [won a number of excellence awards over the years](/affiliation). We have been recognized by institutions and organizations for our outstanding work, our trustworthy service and affordable pricing. These awards mean a lot to our company and they encourage us to continue maintaining the high standards we set for ourselves.
 
-For more information on the range of our services, visit our <a href="http://murraylampert.com/kitchen-remodel-clairemont-mesa">kitchen remodel Clairemont Mesa</a> page.
+For more information on the range of our [design-build services](/design-build-services-san-diego), [reach out to our team](#quick-contact) today!
