@@ -11,7 +11,9 @@ author: Gregg Cantor
 layout: post
 ---
 
-I recently had a chance to chat with Lynda Martin on the [Approved Home Pros](http://www.sandiegoapprovedhomepros.com/) segment about some of the hot home remodeling trends we anticipate seeing in 2018. These include more pet-friendly customizations such as in-home dog washing stations, unique home office additions, a rise in popularity of companion units (aka "granny flats" or "in-law suites), and creative indoor-outdoor living space designs that take advantage of San Diego's wonderful weather.
+I recently had a chance to chat with Lynda Martin on the [Approved Home Pros](http://www.sandiegoapprovedhomepros.com/) segment about some of the hot home remodeling trends we anticipate seeing in 2018. These include more pet-friendly customizations like in-home dog washing stations, unique home office additions, a rise in popularity of companion units (aka "granny flats" or "in-law suites), and creative indoor-outdoor living space designs that take advantage of San Diego's wonderful weather.
+
+Check out the segment below, and be sure to [download our free guide](/landing/san-diego-home-remodeling-trends-2018/), **2018 Home Remodeling Trends**, which outlines some of the more popular remodeling styles and interior design techniques among San Diego homeowners this year.
 
 ## San Diego Home Remodeling Trends to Watch For in 2018
 
