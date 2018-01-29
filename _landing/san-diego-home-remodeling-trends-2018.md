@@ -1,7 +1,7 @@
 ---
 title: San Diego Home Remodeling Trends in 2018
 layout: default
-featured-image:
+featured-image: 
 excerpt: Staying on top of the latest remodeling techniques is tough, so we've put
   together a comprehensive guide to the top San Diego home remodeling trends in 2018.
 ---
