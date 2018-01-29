@@ -1,10 +1,12 @@
 ---
 title: Hot Home Remodeling Trends in 2018
-date: 2018-01-12 23:14:00 Z
+date: 2018-01-26 23:14:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/2018-remodeling-trends-ahp-segment.jpg"
-excerpt: Murray Lampert President/CEO Gregg Cantor chats with Lynda Martin about hot home remodeling trends we anticipate seeing in 2018. Check out the full video segment here.
+excerpt: Murray Lampert President/CEO Gregg Cantor chats with Lynda Martin about hot
+  home remodeling trends we anticipate seeing in 2018. Check out the video segment
+  here.
 author: Gregg Cantor
 layout: post
 ---
