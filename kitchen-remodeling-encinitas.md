@@ -2,30 +2,32 @@
 title: Kitchen Remodeling Encinitas
 permalink: "/kitchen-remodeling-encinitas"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Encinitas, San Diego. Take your Encinitas kitchen remodel to the next level with
   us.
 layout: default
 ---
 
-The lovely city of Encinitas is a beach city in North County, San Diego. It is about 95 miles south of Los Angeles and 25 miles north of San Diego City. According to official government figures, Encinitas has a population of 59,500 residents. This city is famous for its cultural events including Oktoberfest, Deep Pit BBQ, Fall Festival, Street Fair and many others. Encinitas also enjoys the services of one of San Diego’s most trusted and most innovative interior design and remodeling companies. <strong>Murray Lampert Design Build Remodel</strong> is well known for its amazing remodeling work, its<a href="http://murraylampert.com/san-diego-home-design-services/"> innovative designs</a> and modern furnishings and fixtures.
+The lovely city of Encinitas is a beach community in North County, San Diego. It is about 95 miles south of Los Angeles and 25 miles north of San Diego City. According to official government figures, Encinitas has a population of around 60,000 residents. This city is famous for its cultural events including Oktoberfest, Deep Pit BBQ, Fall Festival, Street Fair and many others.
 
-## Custom Encinitas Kitchen Remodeling Services
+Homeowners in Encinitas also enjoy the services of one of the most trusted and innovative [kitchen remodeling contractors in San Diego](/san-diego-kitchen-remodeling-services) - **Murray Lampert Design Build Remodel**.
+
+## Custom Kitchen Remodeling in Encinitas
 
 ![image of custom kitchen remodel in Encinitas](/uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg "Encinitas Kitchen Remodel")
 
-### Custom kitchen remodeling service for Encinitas residents
-
-The lovely homes in Encinitas can now be remodeled to have larger, <a href="http://murraylampert.com/san-diego-kitchen-remodeling-services/">more efficient and better designed kitchens</a>. Encinitas homeowners have enjoyed customized home remodeling services provided by Murray Lampert for over 40 years. Our architects, interior designers and other remodeling experts always incorporate the ideas and wishes of our clients into the project and customize the designs to suit our clients’ style and preferences.
-
 ### Kitchen remodeling for the 21st century
 
-Home remodeling professionals working at Murray Lampert are highly qualified and possess specialized skills to perform various tasks including design, planning, plumbing and many more. However, we also make use of the latest modeling technology to come up with accurate designs within a short period of time. Modernizing the home remodeling process has been a hallmark of our firm ever since we entered the home renovation business.
+Our team of architects, interior designers, and remodeling experts work with clients to incorporate the latest in [kitchen design trends](/kitchen-island-trends-making-a-splash-in-2018/) and technology in to every project. The end result is a fresh, updated kitchen space that meets our clients' functional and aesthetic needs.
 
-### Company with sufficient experience to handle any project
+By staying on top of [home remodeling trends](/landing/san-diego-home-remodeling-trends-2018/) and leveraging industry-leading technology, Murray Lampert is able to craft custom, modern, and lasting kitchen remodels for Encinitas homeowners.
 
-Since its inception, our company has handled all sorts of home makeovers and kitchen remodeling projects. We have come to master the art and techniques over time. Our experience enables us to comfortably handle projects of all sizes and get them done in a timely fashion. Clients are therefore assured of excellent kitchen remodeling Encinitas jobs from our team of experienced professionals.
+### When it Comes to Kitchen Remodels, Experience Matters
+
+Since opening our doors in 1975, Murray Lampert has managed home and kitchen remodeling projects of all sizes for homeowners in Encinitas and throughout San Diego. Over the last 40+ years, we've worked to master our proven design-build process, allowing us to manage _all_ aspects of a client's project from start to finish.
+
+From drafting blueprints pulling building permits, securing materials to vetting sub-contractors, our clients can be confident that Murray Lampert has the entire process under control.
 
 ### Renowned for being a trusted and reliable San Diego firm
 
@@ -33,10 +35,10 @@ When decide on a home renovation project, clients look for a company that is tru
 
 ### Modern kitchen cabinets customized for different homes
 
-Kitchen cabinets and countertops are the most distinctive features of any kitchen. That is why many homeowners choose to have <a href="http://murraylampert.com/san-diego-custom-cabinet-construction-services/">tailor-made cabinets</a>. Murray Lampert proudly constructs custom kitchen cabinetry for your kitchen, so it can complement your brand new kitchen makeover.
+Kitchen cabinets and countertops are the most distinctive features of any kitchen. That is why many homeowners choose to have [tailor-made cabinets](/san-diego-custom-cabinet-construction-services/). Murray Lampert proudly constructs custom kitchen cabinetry for your kitchen, so it can complement your brand new kitchen makeover.
 
 ### Work with an award-winning remodeling company
 
-Over the years, Murray Lampert has won a number of prestigious awards including 4 from Better Business Bureau. These and many other awards represent the recognition of the great work we have done for the residents of Encinitas and San Diego over the years. Clients who opt to work with us in remodeling their kitchens will benefit from our affordable prices, our experience and a wide selection of custom products.
+Over the years, Murray Lampert has won a number of industry awards, including [4 Torch Awards from Better Business Bureau](/another-better-business-bureau-torch-award/). These and many other awards represent the recognition of the great work we've done for the residents of Encinitas and San Diego over the years, which is reflected in our numerous [testimonials](/testimonials) and [reviews](/reviews).
 
-For more information on the range of our services, visit our <a href="http://murraylampert.com/kitchen-remodeling-escondido">kitchen remodeling Escondido</a> page.
+Our team is ready to build your dream kitchen in Encinitas - give us a call or [reach out today](#quick-contact) to get started!
