@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Hillcrest
 permalink: "/kitchen-remodeling-hillcrest"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Hillcrest, San Diego. Take your Hillcrest kitchen remodel to the next level with
   us.

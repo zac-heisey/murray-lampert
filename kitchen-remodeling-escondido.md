@@ -2,10 +2,10 @@
 title: Kitchen Remodeling Escondido
 permalink: "/kitchen-remodeling-escondido"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Escondido, San Diego by Murray Lampert Design, Build,
   Remodel. Escondido kitchen remodel experts since 1975. Visit us today!
-layout: default  
+layout: default
 ---
 
 Escondido has a typical Mediterranean climate, excellent for widespread cultivation of avocados and oranges. As one of the oldest San Diego communities, Escondido has a charmingly traditional feel. It also boasts a large proportion of green areas with a lot of parks ideal for recreational activities.
