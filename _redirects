@@ -7,6 +7,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /team-members  /about-murray-lampert-design-build-remodel#team-members  301
 /team-member/  /about-murray-lampert-design-build-remodel#team-members  301
 /team_member_position*  /about-murray-lampert-design-build-remodel#team-members  301
+/team-member/bob-norstrand/  /about-murray-lampert-design-build-remodel#team-members  301
 /thank-you-2/  /thank-you/  301
 /thank-you-3/  /thank-you/  301
 /murray-lampert-services  /design-build-services-san-diego  301

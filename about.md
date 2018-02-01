@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -14,6 +14,7 @@ skills:
   percent: 99
 - title: Outdoor Living Spaces, Custom Cabinetry, etc.
   percent: 99
+# Team Members  
 members:
 - name: Gregg Cantor
   position: President/CEO
@@ -93,19 +94,6 @@ members:
     url: "/team-member/cheri-clark"
   - icon_class: fa fa-envelope
     url: mailto:cheri@murraylampert.com
-- name: Bob Norstrand
-  position: Assistant Project Manager
-  desc: Bob grew up in Los Angeles and graduated from Humboldt State with a BS degree
-    in Business Administration. While in college, Bob worked part time where his love
-    for building grew. After gaining many years of experience in all the major trades
-    on residential construction and remodeling projects, Bob became a licensed general
-    contractor.
-  avatar: uploads/bob.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/bob-norstrand"
-  - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com
 - name: Cameron Poeschel
   position: Project Manager
   desc: Cameron is the son of a general contractor and grew up around construction.
