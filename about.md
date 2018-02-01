@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -14,7 +14,6 @@ skills:
   percent: 99
 - title: Outdoor Living Spaces, Custom Cabinetry, etc.
   percent: 99
-# Team Members  
 members:
 - name: Gregg Cantor
   position: President/CEO
