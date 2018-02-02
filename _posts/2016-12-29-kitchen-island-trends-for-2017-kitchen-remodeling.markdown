@@ -1,7 +1,10 @@
 ---
 title: Kitchen Island Trends for 2017 Kitchen Remodeling
-date: 2016-12-29 01:49:36 Z
+date: 2016-12-29 01:49:00 Z
 permalink: "/kitchen-island-trends-for-2017-kitchen-remodeling/"
+excerpt: Aesthetic appeal and functional are key aspects of any good kitchen island.
+  Here are the top kitchen island trends for 2017.
+author: Gregg Cantor
 layout: post
 ---
 
