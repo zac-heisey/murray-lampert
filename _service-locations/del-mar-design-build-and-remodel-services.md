@@ -1,10 +1,10 @@
 ---
 title: Del Mar Design, Build, and Remodel Services
-layout: default
 section_id: service-locations
 featured-image: "/uploads/Del-Mar.jpg"
 excerpt: Murray Lampert home remodeling in Del Mar. We have over 40 years experience
   providing design, build, and remodel services in Del Mar.
+layout: default
 ---
 
 Murray Lampert has served the city of Del Mar since 1975, providing [architectural design](/san-diego-architectural-design-services), construction, and [major home renovation services](/major-renovations) with expert craftsmanship and fine quality materials. Read on to learn more about how we can help with your next home remodel or expansion.
@@ -19,7 +19,7 @@ We hold an [A+ rating with the Better Business Bureau](https://www.bbb.org/sdoc/
 
 While we provide overarching design, build, and home remodeling in Del Mar, our specific services include:
 
-- **Room additions** - We specialize in custom [Del Mar room additions](/room-additions-del-mar-del-mar). Whether you want a new bedroom or a home office, we can allow for added space for your growing family.
+- **Room additions** - We specialize in custom [Del Mar room additions](/room-additions-del-mar). Whether you want a new bedroom or a home office, we can allow for added space for your growing family.
 - **Second stories** - If adding a new room won’t suffice, add a whole new story for some new breathtaking views.
 - **Kitchen remodels** - Through our [kitchen remodel service in Del Mar](/kitchen-remodeling-del-mar), you can support a warm, inviting area to prepare and enjoy meals with the family.
 - **Bathroom remodels** – Improve your bathroom’s functions and aesthetics with new fixtures, tiles, counters, and more with a [custom bathroom remodel](/san-diego-bathroom-remodeling-services).
