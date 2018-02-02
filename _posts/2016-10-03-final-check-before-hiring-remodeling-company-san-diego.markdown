@@ -1,7 +1,10 @@
 ---
 title: Final Check Before You Hire a Remodeling Company
-date: 2016-10-03 06:13:28 Z
+date: 2016-10-03 06:13:00 Z
 permalink: "/final-check-before-hiring-remodeling-company-san-diego/"
+excerpt: Choosing a remodeling company for your project is no small task. We share
+  some tips to help you on your final check before hiring a home remodeling company.
+author: Gregg Cantor
 layout: post
 ---
 
