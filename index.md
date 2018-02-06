@@ -23,11 +23,11 @@ works:
   title: Contemporary Kitchen
   desc: Del Mar
   url: san-diego-kitchen-remodeling-services
-- image: uploads/drone-ib-framing.jpg
-  class: under-construction
-  title: Full Service Design-Build
-  desc: Whole Home Remodeling
-  url: san-diego-design-build-contractors
+- image: uploads/q1-ebook-homepage-graphic.png
+  class:
+  title: Home Remodeling Trends in 2018
+  desc: Download Your Free Guide Here
+  url: landing/san-diego-home-remodeling-trends-2018/
 - image: uploads/berry-historical-exterior-1.jpg
   class: major-renovations featured-projects wide
   title: Featured Project
@@ -80,4 +80,3 @@ feat_testimonials:
     I was their ONLY customer! I have another addition planned in the future, and
     you can be sure Murray Lampert will be my heroes again.
 ---
-
