@@ -2,7 +2,7 @@
 title: Kitchen Remodeling North Park
 permalink: "/kitchen-remodeling-north-park"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   North Park, San Diego. Take your North Park kitchen remodel to the next level with
   us.

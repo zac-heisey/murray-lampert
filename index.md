@@ -24,7 +24,7 @@ works:
   desc: Del Mar
   url: san-diego-kitchen-remodeling-services
 - image: uploads/q1-ebook-homepage-graphic.png
-  class:
+  class: 
   title: Home Remodeling Trends in 2018
   desc: Download Your Free Guide Here
   url: landing/san-diego-home-remodeling-trends-2018/
@@ -80,3 +80,4 @@ feat_testimonials:
     I was their ONLY customer! I have another addition planned in the future, and
     you can be sure Murray Lampert will be my heroes again.
 ---
+

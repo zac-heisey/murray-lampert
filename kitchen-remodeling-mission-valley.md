@@ -2,9 +2,9 @@
 title: Kitchen Remodeling Mission Valley
 permalink: "/kitchen-remodeling-mission-valley"
 section_id: kitchen-remodels
-featured-image:
-excerpt: Kitchen remodeling in Mission Valley, San Diego by Murray Lampert Design, Build,
-  Remodel. Mission Valley kitchen remodel experts since 1975. Visit us today!
+featured-image: 
+excerpt: Kitchen remodeling in Mission Valley, San Diego by Murray Lampert Design,
+  Build, Remodel. Mission Valley kitchen remodel experts since 1975. Visit us today!
 layout: default
 ---
 
