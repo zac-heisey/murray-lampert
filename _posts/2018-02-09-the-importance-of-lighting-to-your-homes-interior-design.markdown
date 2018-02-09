@@ -13,13 +13,13 @@ layout: post
 
 **Why is lighting so important in your home's interior design?**
 
-Lighting is one of the first things that a guest will notice inside of a home. Think about it for a moment. When you first step through someone's front door, what's the first thing that happens? Your eyes adjust to the lighting in that home, bright or dark. You notice if it's a cool, dimly lit area, or if it's flooding with natural light. You might also notice the clever placement of light fixtures, bold or subtle, or pick up on the colors and light emitted from their designs. 
+Lighting is one of the first things that a guest will notice inside of a home. Think about it for a moment. When you first step through someone's front door, what's the first thing that happens? Your eyes adjust to the lighting in that home, bright or dark. You notice if it's a cool, dimly lit area, or if it's flooding with natural light. You might also notice the clever placement of light fixtures, bold or subtle, or pick up on the colors and light emitted from their designs.
 
-Not only is lighting a hot [interior design trend in 2018](https://murraylampert.com/landing/san-diego-home-remodeling-trends-2018/), it completely sets the tone for the atmosphere of a home. When it comes to your home, a place where you likely spend a majority of your free time, lighting dictates the overall "vibe" of the space. 
+Not only is lighting a hot [interior design trend in 2018](https://murraylampert.com/landing/san-diego-home-remodeling-trends-2018/), it completely sets the tone for the atmosphere of a home. When it comes to your home, a place where you likely spend a majority of your free time, lighting dictates the overall "vibe" of the space.
 
 ![importance-of-lighting (4).png](/uploads/importance-of-lighting%20(4).png)
 
-Unfortunately, light can often be overlooked in the interior design process, but if you start with lighting first, you can create a beautifully curated space that either relaxes you or boosts your energy. With the right plan of attack, as well as the proper knowledge of interior lighting, your home can quickly take a giant leap forward in aesthetic appeal. 
+Unfortunately, light can often be overlooked in the interior design process, but if you start with lighting first, you can create a beautifully curated space that either relaxes you or boosts your energy. With the right plan of attack, as well as the proper knowledge of interior lighting, your home can quickly take a giant leap forward in aesthetic appeal.
 
 Now that we know how important lighting is when it comes to interior design, here are our tips for enhancing light in your San Diego home.
 
@@ -37,7 +37,7 @@ Many people automatically assume that lighting should illuminate an entire room.
 
 Specific areas of a room can and should be targeted. There are literally hundreds of designs out there that are built on illuminating certain areas of a room. These areas typically include specific furniture, work areas, and decorative elements. When directional lighting is utilized correctly, it presents a calming and magnificent aura to any room.
 
-![importance-of-lighting (2).png](/uploads/importance-of-lighting%20(2).png)\
+![importance-of-lighting (2).png](/uploads/importance-of-lighting%20(2).png)\\
 
 In addition to these areas, entry ways are also commonly illuminated. In an era where the open floor plan is growing like wildfire, it has become vitally important to accentuate walkways and entryways with strategic lighting. This adds depth to an open room, as well as directs visual points to open areas. There are many effective ways to use lighting successfully in an open floor plan. Your San Diego interior design will benefit greatly from targeted lighting.
 
@@ -47,7 +47,7 @@ Lighting adds a certain flare to any color scheme. Current trends are heavily fo
 
 Strategically placed lighting in warm-toned rooms will effectively promote the natural appearance that is being sought after. You can direct light straight down the wall with hidden fixtures, or go for a traditional, lamp-style lighting that will provide visual stimulation and depth as well as focused lighting.
 
-Darker toned rooms can also enhanced with well-placed lighting. Dark tones are quickly arising as a growing trend in 2018. San Diego, specifically, is among the areas with this focus. Natural lighting works great in a dark-toned paint scheme, as well as dim lighting in low-traffic areas. Not only will this strategy further emphasize the dark color pattern, but it will also provide just the right amount of functional light to aesthetically compliment the senses\
+Darker toned rooms can also enhanced with well-placed lighting. Dark tones are quickly arising as a growing trend in 2018. San Diego, specifically, is among the areas with this focus. Natural lighting works great in a dark-toned paint scheme, as well as dim lighting in low-traffic areas. Not only will this strategy further emphasize the dark color pattern, but it will also provide just the right amount of functional light to aesthetically compliment the senses\\
 
 **Have Fun with Fixtures**
 
