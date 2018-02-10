@@ -2,19 +2,18 @@
 title: 2018 Home Addition Trends We Love
 date: 2018-02-09 15:21:00 Z
 categories:
-- Home Remodeling
+- Home Additions
 featured-image: "/uploads/importance-of-lighting%20(3).png"
-excerpt: 'We''re uncovering all of the hottest trends in home remodeling for 2018,
-  and home additions are a huge one! Learn about the latest home addition trends that
-  San Diego homeowners are asking for! '
+excerpt: Murray Lampert uncovers the hottest trends in home remodeling for 2018, and
+  home additions play a huge role. Get the latest info on home addition trends in
+  San Diego.
 author: 'Gregg Cantor '
 layout: post
 ---
 
-**San Diego Home Addition Trends for 2018**
+It’s no surprise that any addition to a home can increase the value of the property, as well as the overall appearance of the house. Home additions are also one of the [hot home remodeling trends in 2018](https://murraylampert.com/hot-home-remodeling-trends-2018-ahp-video/). From small upgrades and add-ons, to major room additions and installations - there are a ton of home addition projects to consider this year.
 
-\
-It’s no surprise that any addition to a home can increase the value of the property, as well as the overall appearance of the house. But home additions are one of the many hot [home remodeling trends in 2018](https://murraylampert.com/hot-home-remodeling-trends-2018-ahp-video/). From small upgrades and add-ons, to major room additions and installations - there are a ton of additions to consider for your home this year.
+### San Diego Home Addition Trends for 2018
 
 During our consultations, we're learning that many San Diego homeowners want to add ease of use and square footage. There's a large demand for installing smart home technology and investing in larger remodel projects such as finishing a basement or added an in-law suite.  While some of these home additions may get somewhat pricey, they are an investment in the equity of your home and have major payoff. Even still, there are several ways to add to your home while maintaining a realistic budget. Let's go through our list of top trends in home additions that we are loving right now.
 
@@ -73,6 +72,8 @@ Master Suites are considered a [major renovation](https://murraylampert.com/majo
 
 ![master-suite.png](/uploads/master-suite.png)
 
-The master suite concepts for 2018 revolve around open space and luxurious additions. Many suites are adopting perks that include fireplaces, televisions built in to both the bedroom and bathroom walls, reading nooks, and skylights to enhance natural lighting. Rock work within the entire room to accent a modern design truly drives home the entire benefit of a master suite. The design concept of the master suite is an open area that includes a large bathroom connected to the room. This allows for the open concept to hold true in every area of the house.
+Master suite concepts for 2018 revolve around open space and luxurious additions. Many suites are adopting perks that include fireplaces, televisions built in to both the bedroom and bathroom walls, reading nooks, and skylights to enhance natural lighting. Rock work within the entire room to accent a modern design truly drives home the entire benefit of a master suite. The design concept of the master suite is an open area that includes a large bathroom connected to the room. This allows for the open concept to hold true in every area of the house.
 
-All of these home addition trends for 2018 have one thing in common; they ensure that the time spent at home is both relaxing and accessible. San Diego homes are leading the charge in most of these categories. While home additions can be costly and time consuming, the final result will yield much enjoyment, and a good profit if and when the time comes to sell the home. If a patient approach is taken in the planning and execution of a home addition, the process can be smooth and painless. 2018 will be a big year for home additions in San Diego!
+All of these home addition trends for 2018 have one thing in common; they ensure that the time spent at home is both relaxing and accessible. San Diego homes are leading the charge in most of these categories. While home additions can be costly and time consuming, the final result will yield much enjoyment, and a good profit if and when the time comes to sell your home.
+
+If you're looking for even more ideas to ensure your 2018 home remodeling projects are on-trend, check out our [guide to the top home remodeling trends in 2018](/landing/san-diego-home-remodeling-trends-2018/).
