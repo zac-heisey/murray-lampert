@@ -5,7 +5,7 @@ section_id: projects
 client: Wise
 location: Point Loma
 project-date: In Progress
-featured-video:
+featured-video: 
 featured-images:
 - uploads/wise-before-front-1.jpg
 - uploads/wise-before-front-2.jpg
