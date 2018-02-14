@@ -3,7 +3,7 @@ title: Murray Lampert Testimonials
 permalink: "/testimonials"
 layout: default
 section_id: testimonials
-featured-image: 
+featured-image:
 excerpt: Customer testimonials for Murray Lampert's work on second stories, custom
   kitchens & bath remodels, room additions, and complete home remodeling projects.
 ---
@@ -29,7 +29,7 @@ excerpt: Customer testimonials for Murray Lampert's work on second stories, cust
 ### Second Story
 > "I am a single female homeowner and wanted a remodel/addition. Naturally, as a woman, I was afraid of being cheated, and as a reserved personality, afraid of being put off while the " squeaky wheels" got all the attention.What I hoped a reputable company like Murray Lampert could do was to treat me the same as any assertive male customer. What I got was beyond my hopes. Murray Lampert actually made me feel like I was their ONLY customer! Beyond the beautiful work that they do, beyond the courteous & thorough workmen with whom they contract, beyond the surprising speed of construction, they will put your mind at ease at every turn so that you are never afraid. To me, that was worth everything.I have another addition planned in the future, and you can be sure Murray Lampert will be my heroes again!" - _LIZ - CARLSBAD_
 
-### Second Story, Addition & Kitchen
+### Second Story Addition & Kitchen Remodel
 > "This company has been a dream to work with from design through completion. I would pick them again for our next project." - _DR. REBECCA - LA JOLLA_
 
 ### Room Addition
@@ -37,3 +37,8 @@ excerpt: Customer testimonials for Murray Lampert's work on second stories, cust
 
 ### Kitchen & bath remodel
 > "I loved how everything went as planned and I was well-informed, every step of the way. It was a "plus" to have my story and photos in the SD Union Tribune! Everyone was friendly, respectful and professional." - _JULIE & RICHARD N. – RANCHO PENASQUITOS_
+
+### Major Renovation & Second Story Addition
+> "Gregg and his company did a fantastic job on our home remodel! The work was extensive, including moving walls, building a second story, bathrooms, cabinets, HVAC, tile work, etc. Highly recommend!" - _ROBERT JASSOY - SAN DIEGO_
+
+<div class="two spacing"><div>
