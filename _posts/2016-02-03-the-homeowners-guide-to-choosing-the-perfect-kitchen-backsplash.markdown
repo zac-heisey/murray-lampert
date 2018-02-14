@@ -10,7 +10,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-<img class="wp-image-2882 alignright" src="http://murraylampert.com/wp-content/uploads/cantor2-1024x685.jpg" alt="cantor2" width="501" height="336" />If you're planning a kitchen remodel, it's easy to feel overwhelmed by the sheer number of decisions you
+If you're planning a [kitchen remodel in San Diego](/san-diego-kitchen-remodeling-services), it's easy to feel overwhelmed by the sheer number of decisions you
 have to make. Should you add an island? How do you want to redo the cabinets? Do you need any new appliances,
 and will they match your ideal décor? Do you want a brightly colored kitchen, or would you prefer more muted
 tones?
@@ -46,7 +46,9 @@ No matter which style you want, there's a backsplash to match. Just remember to 
 in-depth with your remodeling team long before you invest in any of the materials you need for your
 backsplash.
 
-<strong>3. Choose a Material<img class="wp-image-2880 alignright" src="http://murraylampert.com/wp-content/uploads/6.-Metcalf-Kitchen-2-After-1024x876.jpg" alt="6. Metcalf Kitchen 2 After" width="506" height="433" /></strong>
+![image of final results from Metcalf kitchen remodel](/uploads/metcalf-kitchen-after.jpg "Metcalf Full Kitchen Remodel: After")
+
+<strong>3. Choose a Material</strong>
 
 The type of material you choose depends on your goals for your kitchen's design. Some of the most popular
 backsplash materials include tile, brick, granite, and stainless steel. Each material has its pros and cons.
@@ -87,6 +89,8 @@ Most people who want a stainless steel backsplash have a modern, industrial aest
 steel is durable, affordable, and easy to install. Although it's fairly easy to clean with warm water and
 soap, you have to rinse it off frequently to maintain its polished look. Stainless steel accumulates stains
 and streaks quickly.
+
+![image of finished Cava kitchen remodel](/uploads/cava-621-i-ave-KD-34.jpg "Cava Kitchen Remodel in Coronado")
 
 <strong>4. Consider Your Budget</strong>
 

@@ -16,7 +16,6 @@ Here’s where you should also rely on the <a href="http://murraylampert.com/tes
 <h3>Past Projects</h3>
 Checking out a contractor’s <a href="http://murraylampert.com/kitchen-remodel-gallery/">portfolio</a> is an excellent way to see if their work fits your personal style and preferences. Check out their <a href="http://murraylampert.com/room-additions-gallery/">gallery</a> or showroom and you should have a clearer idea of how they might contribute to your home.
 
-<img class="aligncenter size-large wp-image-3168" src="http://murraylampert.com/wp-content/uploads/Kitchen-Remodel-Remodeling-Company-San-Diego-1024x713.jpg" alt="Kitchen Remodel - Remodeling Company San Diego" width="940" height="655" />
 <h3>Permits</h3>
 Even though you could go through the process of <a href="https://www.sandiego.gov/development-services/homeownr/hometips#whoshould">obtaining a construction permit</a> yourself, we advise you to at least consult your contractor. Remember, you should deal only with contractors licensed by the State of California. Licensed and experienced contractors have the necessary know-how in handling permits and assisting their customers.
 
