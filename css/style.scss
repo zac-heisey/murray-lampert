@@ -3543,10 +3543,11 @@ body {
   }
 }
 
-/* Re-size Google Map Embed */
-#google-map iframe {
+/* Re-size Google Map & 360 Tour Embeds */
+#google-map iframe,
+#google-360 iframe {
 
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 1070px) {
     max-width: 320px;
     max-height: 300px;
   }

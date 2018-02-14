@@ -10,7 +10,7 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
   a free in-home consultation to get your home remodeling project started!
 ---
 
-  <div class='medium-8 columns'>
+  <div class='medium-7 columns'>
     <div class='form'>
       <div class='row'>
         <!-- Removed id='contact_form' and method='POST' from original <form> -->
@@ -71,17 +71,19 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
     </div>
     <div class='two spacing'></div>
   </div>
-  <div class='medium-4 columns'>
+  <div class='medium-5 columns'>
     <div class='contact-details'>
       <h3>Murray Lampert Design, Build, Remodel</h3>
+      <h4>Tour Our Office:</h4>
+      <div id='google-360'>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1465752414684!6m8!1m7!1sDrqoIdKU0acAAAQvO-o9aw!2m2!1d32.77138637902566!2d-117.1302241034218!3f35!4f0!5f0.7820865974627469" width="436.66" height="306" frameborder="0" style="border:0;margin-bottom:1rem;" allowfullscreen></iframe>
+      </div>
       <h4>Address:</h4>
-      <p>{{ page.address1 }}<br>{{ page.address2 }}</p>
-      <h4>Phone:</h4>
-      <p><a href="tel:+6192859222">{{ page.phone }}</a></p>
+      <p>{{ page.address1 }}<br>{{ page.address2 }}<br><a href="tel:+6192859222">{{ page.phone }}</a></p>
       <h4>Map:</h4>
       <div id='google-map'>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d53676.110066872054!2d-117.13469700000002!3d32.772185!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x409268b5dbfcff56!2sMurray+Lampert+Design%2C+Build%2C+Remodel!5e0!3m2!1sen!2sus!4v1497635068979" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-      </div>  
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d53676.110066872054!2d-117.13469700000002!3d32.772185!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x409268b5dbfcff56!2sMurray+Lampert+Design%2C+Build%2C+Remodel!5e0!3m2!1sen!2sus!4v1497635068979" width="436.66" height="306" frameborder="0" style="border:0;margin-bottom:1rem;" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
   <div class='four spacing'></div>
