@@ -78,7 +78,7 @@ feat_testimonials:
   location: Carlsbad
   desc: What I got was beyond my hopes. Murray Lampert actually made me feel like
     I was their ONLY customer! I have another addition planned in the future, and
-    you can be sure Murray Lampert will be my heroes again.
+    you can be sure Murray Lampert will be my heroes again!
 - name: Robert    
   location: San Diego
   desc: Gregg and his company did a fantastic job on our home remodel! The work was extensive, including moving walls, building a second story, bathrooms, cabinets, HVAC, tile work, etc. Highly recommend!
