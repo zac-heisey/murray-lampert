@@ -1,7 +1,7 @@
 ---
 title: Best Pet-Friendly Home Remodeling Features
 date: 2017-03-21 03:55:35 Z
-permalink: "/pet-friendly-home-remodeling-escondido/"
+permalink: "/pet-friendly-home-remodeling/"
 categories:
 - Home Remodeling
 tags:
@@ -14,9 +14,9 @@ excerpt: We've got some pet-friendly home remodeling features to incorporate int
 author: Gregg Cantor
 ---
 
-Adopting a pet can turn your world completely upside down. As pet parents are well aware of, pets are not unlike children. They can change your life for the better, but they also have their needs. And if you are thinking about home remodeling in Escondido, you should make sure you respect those needs and plan the project the same as you would if you were remodeling to cater to a child’s needs.
+Adopting a pet can turn your world completely upside down. As pet parents are well aware of, pets are not unlike children. They can change your life for the better, but they also have their needs. And if you are thinking about [home remodeling in San Diego](/san-diego-home-remodel-services), you should make sure you respect those needs and plan the project the same as you would if you were remodeling to cater to a child’s needs.
 
-However, unlike with children, you don’t have to plan an entire room addition for your pet. Your bed is just enough for them. But adding a few key features when planning the remodeling will make sure your pets are safe and happy. Here are some ideas you could incorporate into your [home remodeling project](/san-diego-home-remodel-services) that are sure to make your furry friends thankful.
+However, unlike with children, you don’t have to plan an entire room addition for your pet. Your bed is just enough for them. But adding a few key features when planning the remodeling will make sure your pets are safe and happy. Here are some ideas you could incorporate into your [home remodeling project](/san-diego-remodel-project-gallery) that are sure to make your furry friends thankful.
 
 **Safety Features**
 
