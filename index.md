@@ -86,8 +86,8 @@ feat_testimonials:
     HVAC, tile work, etc. Highly recommend!
 - name: Julie
   location: San Diego
-  desc: I've worked with Murray Lampert over the past 15 years and I've always been impressed with their honesty and professionalism. They treat each project with a personal touch and really explain the process of remodeling.
+  desc: I've worked with Gregg and Murray Lampert over the past 15 years and I've always been impressed with their honesty and professionalism. They treat each project with a personal touch.
 - name: Lance
   location: San Diego
-  desc: Greg is a very kind person and extremely knowledgeable in all areas of construction. I recommend him and Murray Lampert to anyone in need of quality construction services.    
+  desc: Greg is a very kind person and extremely knowledgeable in all areas of construction. I recommend him and the team at Murray Lampert to anyone in need of quality construction services.    
 ---
