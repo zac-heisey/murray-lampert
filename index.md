@@ -24,7 +24,7 @@ works:
   desc: Del Mar
   url: san-diego-kitchen-remodeling-services
 - image: uploads/q1-ebook-homepage-graphic.png
-  class: 
+  class:
   title: Home Remodeling Trends in 2018
   desc: Download Your Free Guide Here
   url: landing/san-diego-home-remodeling-trends-2018/
@@ -84,5 +84,10 @@ feat_testimonials:
   desc: Gregg and his company did a fantastic job on our home remodel! The work was
     extensive, including moving walls, building a second story, bathrooms, cabinets,
     HVAC, tile work, etc. Highly recommend!
+- name: Julie
+  location: San Diego
+  desc: I've worked with Murray Lampert over the past 15 years and I've always been impressed with their honesty and professionalism. They treat each project with a personal touch and really explain the process of remodeling.
+- name: Lance
+  location: San Diego
+  desc: Greg is a very kind person and extremely knowledgeable in all areas of construction. I recommend him and Murray Lampert to anyone in need of quality construction services.    
 ---
-
