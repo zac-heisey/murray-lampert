@@ -3,7 +3,7 @@ title: Room Additions Poway
 permalink: "/room-additions-poway"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel has 40+ years experience with room
   additions in Poway, San Diego. Trust your Poway home addition project to us!
 ---
@@ -16,7 +16,7 @@ Poway is a vibrant community with a steadily increasing population, which means 
 
 ## Custom Poway Home Additions by Murray Lampert
 
-Whether you need an expanded master suite, new home office, or bathroom addition, Murray Lampert's fully qualified team can bring your vision to life. A major benefit of working with a [San Diego design-build contract](/san-diego-design-build-contractors) like Murray Lampert is that you'll have a single point of contact throughout your project, rather than having to seek out and vet multiple vendors and contractors.
+Whether you need an expanded master suite, a new home office, or a [kitchen remodel in Poway](/kitchen-remodeling-poway), Murray Lampert's fully qualified team can bring your vision to life. A major benefit of working with a [San Diego design-build contract](/san-diego-design-build-contractors) like Murray Lampert is that you'll have a single point of contact throughout your project, rather than having to seek out and vet multiple vendors and contractors.
 
 The Murray Lampert design-build process involves a dedicated project manager who will be in charge of coordinating all aspects of your project and communicating with you during each phase of work. You'll receive regular progress updates and timely answers to any questions you may have. We view every [home remodeling](/san-diego-home-remodel-services) project as a collaborative effort between our team and you, which means your input will be a vital part of the overall process.
 
