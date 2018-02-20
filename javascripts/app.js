@@ -259,10 +259,10 @@ jQuery(document).foundation();
 
       $('.slides', $ctx).slick({
         autoplay: true,
-        pauseOnHover: false,
+        pauseOnHover: true,
         dots: true,
         speed: 1500,
-        arrows: false
+        arrows: true
       });
 
     }
