@@ -2,7 +2,7 @@
 title: La Jolla Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: 
+featured-image:
 excerpt: Murray Lampert home remodeling in La Jolla. We have over 40 years experience
   providing design, build, and remodel services in La Jolla.
 ---
@@ -21,7 +21,7 @@ Whether you’re looking for La Jolla home remodeling services or you want to ex
 
 - **Room additions** -Through our [La Jolla room additions](/room-additions-la-jolla) services, Murray Lampert can help add space to your home to accommodate your growing family.
 - **Second stories** - To add space without sacrificing landscaping or yard space, build vertically and take advantage of new, beautiful views with [second story addition](/san-diego-second-story-addition).
-- **Kitchen remodels** - Our [kitchen remodeling service in La Jolla](/kitchen-remodeling-la-jolla) can help you create an inviting, functional space for cooking meals and entertaining guests.
+- **Kitchen remodels** - A [custom kitchen remodel in La Jolla](/kitchen-remodeling-la-jolla) can help create an inviting, functional space for cooking meals and entertaining guests.
 - **Bathroom remodels** – A [custom bathroom remodel](/san-diego-bathroom-remodeling-services) will take your bathroom to the next level with upgraded appliances, plumbing, tiles, and more
 - **Cabinets** – [Custom cabinets](/san-diego-custom-cabinet-construction-services) add storage and style with custom designed cabinets.
 - **[Architectural design](/san-diego-architectural-design-services)** - Collaborate with our staff architect to create a custom design that fits your budget, lifestyle, and aesthetic preferences.

@@ -21,7 +21,7 @@ Murray Lampert received the Torch Award for marketplace ethics from the Better B
 
 At Murray Lampert, we pride ourselves on top-quality design, build, and home remodeling services in Carlsbad, including:
 
-- **Kitchen remodel** – Take advantage of our kitchen remodel service in Carlsbad to create an aesthetically pleasing space that doesn’t sacrifice warmth and comfort.
+- **Kitchen remodel** – We've completed dozens of [kitchen remodels in Carlsbad](/kitchen-remodeling-carlsbad) to create an aesthetically pleasing space that doesn’t sacrifice warmth and comfort.
 - **Bathroom remodel** – Update your bathroom’s form and function by installing new plumbing, tub – shower walls, counters, and cabinets.
 - **Room additions** – Our [room addition service in Carlsbad](/room-additions-carlsbad) allows you to add an extra bedroom or create the home office you’ve always dreamed of.
 - **Second stories** – If you have limited yard space, expand your home vertically and enjoy new sights.

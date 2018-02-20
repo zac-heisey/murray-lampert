@@ -19,15 +19,15 @@ We maintain an A+ with the Better Business Bureau and received the [BBB Torch Aw
 
 Whether you’re looking for home remodeling services in Santee or just want to weigh your options for expansion, we have you covered with a wide range of services.
 
-- **Room additions** - Give your growing family the space it needs with a Santee [home or room addition](/san-diego-room-additions).
-- **Second stories** - If one room isn’t enough, a [second story addition](/san-diego-second-story-addition) can allow you to take advantage of San Diego’s scenic views.
-- **Kitchen remodels** - Let our [kitchen remodeling contractors](/san-diego-kitchen-remodeling-services) give yourself a beautiful, functional dream kitchen with our kitchen remodel service in Santee.
-- **Bathroom remodels** – Improve your bathroom’s look and function with new plumbing, fixtures, tiles, and more with a [custom bathroom remodel](/san-diego-bathroom-remodeling-services).
+- **Room Additions** - Give your growing family the space it needs with a [Santee home or room addition](/room-additions-santee).
+- **Second Stories** - If one room isn’t enough, a [second story addition](/san-diego-second-story-addition) can allow you to take advantage of San Diego’s scenic views.
+- **Kitchen Remodels** - Let our [Santee kitchen remodeling](/kitchen-remodeling-santee) professionals give your home a beautiful, functional space to cook, gather, and entertain.
+- **Bathroom Remodels** – Improve your bathroom’s look and function with new plumbing, fixtures, tiles, and more with a [custom bathroom remodel](/san-diego-bathroom-remodeling-services).
 - **Cabinets** – Create the perfect [cabinets](/san-diego-custom-cabinet-construction-services) for your home to maximize storage and aesthetics.
-- **[Architectural design](/san-diego-architectural-design-services)** - Collaborate with our staff architect to create a design that is tailored to your needs.
-- **3D project modeling** - Using the latest [3D modeling technology](/3d-architectural-rendering-services), we’ll give you a preview of what your remodel will look like when it’s all finished.
-- **Outdoor space** – Take advantage of Santee’s beautiful sun with a patio, deck, or other custom [outdoor living area](/san-diego-outdoor-living-space-design/)
-- **[Green building](/san-diego-green-home-construction)** – We are committed to keeping the planet healthy through environmentally friendly methods that also save you money.
+- **[Architectural Design](/san-diego-architectural-design-services)** - Collaborate with our staff architect to create a design that is tailored to your needs.
+- **3D Project Modeling** - Using the latest [3D modeling technology](/3d-architectural-rendering-services), we’ll give you a preview of what your remodel will look like when it’s all finished.
+- **Outdoor Living Spaces** – Take advantage of Santee’s beautiful sun with a patio, deck, or other custom [outdoor living area](/san-diego-outdoor-living-space-design/)
+- **[Green Home Construction](/san-diego-green-home-construction)** – We are committed to keeping the planet healthy through environmentally friendly methods that also save you money.
 
 ### Our Santee Home Remodeling Process
 
