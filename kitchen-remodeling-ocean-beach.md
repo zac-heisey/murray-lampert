@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Ocean Beach
 permalink: "/kitchen-remodeling-ocean-beach"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Kitchen remodeling in Ocean Beach, San Diego by Murray Lampert Design, Build,
   Remodel. Ocean Beach kitchen remodel experts since 1975. Visit us today!
 layout: default
@@ -10,7 +10,7 @@ layout: default
 
 Ocean Beach (or "OB," as it's referred to locally) is one of the most vibrant beachfront neighborhoods in San Diego. Known as a quirky, bohemian enclave, Ocean Beach is situated to the south of Mission Beach and north of Point Loma and boasts some of the best surfing and picturesque sunsets around.
 
-The area boasts picturesque rows of unique single-family homes and Craftsman bungalows dating as far bas as the late 1880s. Many of these older homes feature kitchens that are durable, classy, and relatively stylish. Over time, however, homeowners with a desire to upgrade their kitchen into a more modern, functional cooking and entertaining area will look to start a kitchen remodel in San Diego.
+The area boasts picturesque rows of unique single-family homes and Craftsman bungalows dating as far back as the late 1880s. Many of these older homes feature kitchens that are durable, classy, and relatively stylish. Over time, however, homeowners with a desire to upgrade their kitchen into a more modern, functional cooking and entertaining area will look to start a kitchen remodel in San Diego.
 
 This is where [Murray Lampert Design, Build, Remodel](/) truly shines. Since 1975, we've been helping Ocean Beach residents plan, design, and build their dream kitchens. Our team has been [San Diego's leading design-build firm](/san-diego-design-build-contractors) for over 40 years, and [the reputation we've built](https://www.youtube.com/watch?v=RGn8ISNG-AY) over that time means everything to us.
 
@@ -24,9 +24,9 @@ While you may be content with your current kitchen, your needs and preferences a
 
 Done right, a well-designed kitchen remodel also has the potential to add significant value to your home. Chances are that at some point you might want to move on and leave your house behind. Whether you're looking to do that in the next few months or in 5 years' time, you are going to need your kitchen to be in top condition in order to convince prospects to walk through the door. A remodeled kitchen is of great interest to the new owner, and having it in top condition will help you fetch a goodly price when that time comes. It also boosts your bargaining power.
 
-###  Kitchen remodeling as the preserve of Ocean Beach professionals
+### Kitchen remodeling as the preserve of Ocean Beach professionals
 
-A lot of homeowners out there show off their DIY approaches to kitchen remodeling, and while this can be a wonderful experience in some instances, it's not always the best approach for larger or more complex kitchen remodel projects. You may tinker with one aspect of kitchen design and end up compromising others, which essentially creates imbalances and doesn't give you the end result you're going for.
+The home DIY movement has been a great way to introduce homeowners to the world of home improvement. And while a DIY kitchen remodel can be a wonderful experience in some instances, it's not always the best approach for larger or more complex kitchen remodel projects. You may tinker with one aspect of kitchen design and end up compromising others, which essentially creates imbalances and doesn't give you the end result you're going for.
 
 Your best bet is to seek out a reputable design-build firm, as opposed to searching for an architect, contractor, sub-contractors, and vendors on your own. Working with a seasoned, [industry-recognized professional](/murray-lampert-recognized-among-north-americas-best) design-build firm like Murray Lampert ensures that your project will be seamlessly managed from start to finish by true professionals. Best of all, your dedicated Project Manager will keep you in the loop and gather feedback from you throughout the entire process.
 
