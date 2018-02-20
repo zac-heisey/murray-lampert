@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Poway
 permalink: "/kitchen-remodeling-poway"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Poway, San Diego. Take your Poway kitchen remodel to the next level with us.
 layout: default

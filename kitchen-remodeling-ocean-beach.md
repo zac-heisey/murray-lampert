@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Ocean Beach
 permalink: "/kitchen-remodeling-ocean-beach"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Ocean Beach, San Diego by Murray Lampert Design, Build,
   Remodel. Ocean Beach kitchen remodel experts since 1975. Visit us today!
 layout: default

@@ -3,7 +3,7 @@ title: Kitchen Remodeling Oceanside
 permalink: "/kitchen-remodeling-oceanside"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Oceanside, San Diego. Take your Oceanside kitchen remodel to the next level with
   us.

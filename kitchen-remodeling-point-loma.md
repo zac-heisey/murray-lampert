@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Point Loma
 permalink: "/kitchen-remodeling-point-loma"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Point Loma, San Diego by Murray Lampert Design, Build,
   Remodel. Point Loma kitchen remodel experts since 1975. Visit us today!
 layout: default

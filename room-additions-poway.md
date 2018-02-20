@@ -3,7 +3,7 @@ title: Room Additions Poway
 permalink: "/room-additions-poway"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel has 40+ years experience with room
   additions in Poway, San Diego. Trust your Poway home addition project to us!
 ---
