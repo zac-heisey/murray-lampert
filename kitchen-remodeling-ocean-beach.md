@@ -2,16 +2,17 @@
 title: Kitchen Remodeling Ocean Beach
 permalink: "/kitchen-remodeling-ocean-beach"
 section_id: kitchen-remodels
-featured-image: 
-excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
-  Ocean Beach, San Diego. Take your Ocean Beach kitchen remodel to the next level
-  with us.
+featured-image:
+excerpt: Kitchen remodeling in Ocean Beach, San Diego by Murray Lampert Design,
+  Build, Remodel. Ocean Beach kitchen remodel experts since 1975. Visit us today!
 layout: default
 ---
 
-Ocean Beach is one of the most impressive beachfront neighborhoods in San Diego. The area boasts picturesque rows of trendy residential areas. The residents have a sense of class when it comes to interior décor and they take pride in constantly improving and upgrading their areas of habitation. If you happen to live in this area, they you will definitely be impressed to hear that you can access services related to kitchen remodeling with minimum hassle. You are always looking to partner with a local company that has <a href="https://www.youtube.com/watch?v=RGn8ISNG-AY&amp;feature=youtu.be">a flawless reputation</a> and is exceptionally good at what it does.
+Ocean Beach (or "OB," as it's referred to locally) is one of the most vibrant beachfront neighborhoods in San Diego. Known as a quirky, bohemian enclave, Ocean Beach is situated to the south of Mission Beach and north of Point Loma and boasts some of the best surfing and picturesque sunsets around.
 
-Traditional kitchens in Ocean Beach were durable, classy and stylish. However, over time, owners in the area feel the need to upgrade into something that is more within the lines of modernity. In such a scenario, you might decide to tinker with décor here and there or manipulate the space you have available. At <a href="http://murraylampert.com/about-murray-lampert-design-build-remodel/">Murray Lampert Design, Build, Remodel</a>, we have been providing these services to homeowners for more than four decades.
+The area boasts picturesque rows of unique single-family homes and Craftsman bungalows dating as far bas as the late 1880s. Many of these older homes feature kitchens that are durable, classy, and relatively stylish. Over time, however, homeowners with a desire to upgrade their kitchen into a more modern, functional cooking and entertaining area will look to start a kitchen remodel in San Diego.
+
+This is where [Murray Lampert Design, Build, Remodel](/) truly shines. Since 1975, we've been helping Ocean Beach residents plan, design, and build their dream kitchens. Our team has been [San Diego's leading design-build firm](/san-diego-design-build-contractors) for over 40 years, and [the reputation we've built](https://www.youtube.com/watch?v=RGn8ISNG-AY) over that time means everything to us.
 
 ## Ocean Beach Kitchen Remodeling Experts
 
@@ -19,18 +20,20 @@ Traditional kitchens in Ocean Beach were durable, classy and stylish. However, o
 
 ### The essence of a kitchen remodel in Ocean Beach
 
-While some of the kitchen designs around are perfect, your needs and preferences may change over time. You find yourself needing a lot more space than you did in the past. You may also realize that your décor, furniture or fittings do not fit in with the general layout in your kitchen, leading to the need to make a few changes. Once the changes are made, everything fits in, and the final look is that of a space that has been well considered, accurately mapped out and perfectly executed.
+While you may be content with your current kitchen, your needs and preferences are likely to change over time. You may find yourself needing a lot more space than you did in the past. You may also realize that your décor, furniture, or kitchen appliances do not fit in with the general layout in your kitchen, leading to the need to make a few changes. Once the changes are made, everything fits in, and the final look is that of a space that has been well considered, accurately mapped out and perfectly executed.
 
-In addition to that, <a href="http://murraylampert.com/san-diego-kitchen-remodeling-services/">kitchen remodeling adds value to your kitchen</a>. Chances are that at some point you might want to move on and leave your house behind. Whether you are looking to do it in the next week or in 5 years' time, you are going to need your kitchen to be in top condition in order to convince prospects to walk through the door. A remodeled kitchen is of great interest to the new owner, and having it in top condition will help you fetch a goodly price when that time comes. It also boosts your bargaining power.
+Done right, a well-designed kitchen remodel also has the potential to add significant value to your home. Chances are that at some point you might want to move on and leave your house behind. Whether you're looking to do that in the next few months or in 5 years' time, you are going to need your kitchen to be in top condition in order to convince prospects to walk through the door. A remodeled kitchen is of great interest to the new owner, and having it in top condition will help you fetch a goodly price when that time comes. It also boosts your bargaining power.
 
 ###  Kitchen remodeling as the preserve of Ocean Beach professionals
 
-A lot of homeowners out there show off their DIY approaches to kitchen remodeling, and while this works some of the time, it is not a great approach if you want great results. You may tinker with one aspect of kitchen design and end up compromising others, which essentially creates a sense of imbalance and does not give you the desired result. A good idea would be to reach out to seasoned and <a href="http://murraylampert.com/murray-lampert-recognized-among-north-americas-best">recognized professionals</a> like ourselves to ensure that things are done the right way.
+A lot of homeowners out there show off their DIY approaches to kitchen remodeling, and while this can be a wonderful experience in some instances, it's not always the best approach for larger or more complex kitchen remodel projects. You may tinker with one aspect of kitchen design and end up compromising others, which essentially creates imbalances and doesn't give you the end result you're going for.
+
+Your best bet is to seek out a reputable design-build firm, as opposed to searching for an architect, contractor, sub-contractors, and vendors on your own. Working with a seasoned, [industry-recognized professional](/murray-lampert-recognized-among-north-americas-best) design-build firm like Murray Lampert ensures that your project will be seamlessly managed from start to finish by true professionals. Best of all, your dedicated Project Manager will keep you in the loop and gather feedback from you throughout the entire process.
 
 ### Customized kitchen remodel in Ocean Beach
 
-We always discuss various approaches with our clients in order to give them exactly what they want. What we intend to do is mix your preferences and tastes with our own professionalism to offer a balanced result that meets all your needs. We boast an experienced <a href="http://murraylampert.com/team-members/">team of craftsmen and interior designers</a> who understand the locality well and know what you want. Whether you are looking for cutting-edge remodels, antique kitchen restorations or classic remodeling designs, we got it all. We keep ourselves updated on <a href="http://murraylampert.com/remodel-your-kitchen-with-these-6-must-have-features-2/">the trends in the market</a> and can guarantee that you will enjoy a fine personalized result at the end of our projects.
+We always discuss various approaches with our clients in order to give them exactly what they want. What we intend to do is mix your preferences and tastes with our own professionalism to offer a balanced result that meets all your needs. We boast an [experienced team](/about-murray-lampert-design-build-remodel/#team-members) of architects, contractors, and interior designers who understand the locality well and know what you want. Whether you are looking for cutting-edge remodels, antique kitchen restorations or classic remodeling designs, we got it all. We stay updated on the [top home remodeling trends](/hot-home-remodeling-trends-2018-ahp-video/) in the market and can guarantee that you'll enjoy unparalleled customer service throughout your project with us.
 
-Carrying out kitchen remodeling is guaranteed to offer a great change in décor and aesthetics around your Ocean Beach home. Whether you want a fresh coat of paint, new cabinets fitted in or a complete makeover, we are always willing and available to work with you. Our technology is cutting-edge, our staff is comprised of seasoned professionals and our timing is perfect. If you are <a href="http://murraylampert.com/contact/">looking for quotes</a>, clarifications or general advice, all you have to do is reach out to us now and allow us to help you at what we do best.
+Carrying out a successful kitchen remodel is hard work, but the payoff is always worth it. At the end of the day, you'll be enhancing one of the most frequented areas of your home, improving the quality of your day-to-day life, and adding long-term value to your property.
 
-Check out our <a href="http://murraylampert.com/kitchen-remodeling-oceanside">kitchen remodeling Oceanside</a> page for more information on the range of the services we offer.
+Ready to start your Ocean Beach kitchen remodel? So are we! [Contact our team](#quick-contact) today to schedule your free in-home consultation.
