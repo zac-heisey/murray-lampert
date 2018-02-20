@@ -7,7 +7,7 @@ excerpt: Poway remodeling by Murray Lampert. Providing superior design, build, a
   remodel services in Poway for over 40 years. Visit us today!
 ---
 
-[Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) has had the privilege of providing [architectural design](), home remodeling and construction in the Poway area since 1975.
+[Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) has had the privilege of providing [architectural design](/san-diego-architectural-design-services), home remodeling and construction in the Poway area since 1975.
 
 Read on to learn more about Murray Lampert’s Poway home remodeling services.
 
@@ -17,7 +17,7 @@ When you choose us, you’re working with a company that has been serving the Po
 
 At Murray Lampert we believe in listening to our client’s lifestyle and budget needs so our staff architect can create a custom design. We use only high quality materials and expert craftsman. Our specifications are a detailed description of your project including fixtures and finishes. By being completely transparent up front, it avoids cost overruns and unnecessary surprises.
 
-Our company is built on customer satisfaction, and our [A+ rating with the BBB](https://www.bbb.org/sdoc/business-reviews/construction-and-remodeling-services/murray-lampert-design-build-remodel-in-san-diego-ca-100554/#bbbonlineclick) gives you piece of mind that you have hired a firm with integrity. Check us out online and you find our long history of 5 star reviews from past clients. We are very proud to be a [four time winner of the BBB Torch Award for marketplace ethics](http://murraylampert.com/another-better-business-bureau-torch-award/).
+Our company is built on customer satisfaction, and our [A+ rating with the BBB](https://www.bbb.org/sdoc/business-reviews/construction-and-remodeling-services/murray-lampert-design-build-remodel-in-san-diego-ca-100554/#bbbonlineclick) gives you piece of mind that you have hired a firm with integrity. Check us out online and you find our long history of 5 star reviews from past clients. We are very proud to be a [four time winner of the BBB Torch Award for marketplace ethics](/another-better-business-bureau-torch-award/).
 
 ### Our Poway Home Remodeling Services
 
