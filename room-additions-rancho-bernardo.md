@@ -3,7 +3,7 @@ title: Room Additions Rancho Bernardo
 permalink: "/room-additions-rancho-bernardo"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
   Bernardo, San Diego. Take your Rancho Bernardo home addition to the next level with
   us.

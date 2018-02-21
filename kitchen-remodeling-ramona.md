@@ -3,7 +3,7 @@ title: Kitchen Remodeling Ramona
 permalink: "/kitchen-remodeling-ramona"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Ramona, San Diego by Murray Lampert Design, Build,
   Remodel. Ramona kitchen remodel experts since 1975. Visit us today!
 ---

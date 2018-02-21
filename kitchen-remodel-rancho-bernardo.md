@@ -3,7 +3,7 @@ title: Kitchen Remodel Rancho Bernardo
 permalink: "/kitchen-remodel-rancho-bernardo"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Rancho Bernardo, San Diego. Take your Rancho Bernardo kitchen remodel to the next
   level with us.
