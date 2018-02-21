@@ -3,7 +3,7 @@ title: Room Additions Santee
 permalink: "/room-additions-santee"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Santee,
   San Diego. Take your Santee home addition to the next level with us.
 ---
@@ -12,7 +12,7 @@ In 2013, Santee had a population of 56,105 and a median household income of $69,
 
 Santee is a community that embraces growth. As a result, there has been a significant increase in home addition projects in Santee. [Adding a second story](/san-diego-second-story-addition) or an extra room is no small task, and the contractor you choose will have a huge influence on your overall experience and project outcome. [Murray Lampert Design, Build, Remodel](/) has specialized in Santee home additions [since 1975](/about-murray-lampert-design-build-remodel).
 
-From family room additions to a new bathroom or home office, Murray Lampert has the expertise to deliver your home addition project on time and on budget.
+From family room additions to a new bathroom or [kitchen remodel in Santee](/kitchen-remodeling-santee), Murray Lampert has the expertise to deliver your home addition project on time and on budget.
 
 ## Your Santee Home Addition Experts
 
