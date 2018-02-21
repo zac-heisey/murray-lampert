@@ -2,7 +2,7 @@
 title: Room Additions Rancho Santa Fe
 permalink: "/room-additions-rancho-santa-fe"
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Room additions in Rancho Santa Fe, San Diego by Murray Lampert Design, Build,
   Remodel. Rancho Santa Fe home addition experts since 1975. Visit us today!
 layout: default
@@ -16,7 +16,7 @@ It's no surprise families choose to settle in Rancho Santa Fe and enjoy a high l
 
 ## Rancho Santa Fe Home Addition Experts
 
-We're proud to have served residents in Rancho Santa Fe since 1975, assisting homeowners with projects ranging from [second story additions](/san-diego-second-story-addition) to [in-law suite](/san-diego-in-law-suites) permitting and construction. Over the past 40+ years of home remodeling and additions, Murray Lampert has earned recognition from [GuildQuality](/murray-lampert-recognized-among-north-americas-best), the [Better Business Bureau](/another-better-business-bureau-torch-award), and other [industry affiliations](/affiliation).
+We're proud to have served residents in Rancho Santa Fe since 1975, assisting homeowners with projects ranging from [second story additions](/san-diego-second-story-addition) to custom [Rancho Santa Fe kitchen remodels](/kitchen-remodeling-rancho-santa-fe), and even [in-law suite](/san-diego-in-law-suites) permitting and construction. Over the past 40+ years of home remodeling and additions, Murray Lampert has earned recognition from [GuildQuality](/murray-lampert-recognized-among-north-americas-best), the [Better Business Bureau](/another-better-business-bureau-torch-award), and other [industry affiliations](/affiliation).
 
 ### Top-Quality Materials and Expert Contractors
 
