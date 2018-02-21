@@ -3,7 +3,7 @@ title: Home Additions Rancho Penasquitos
 permalink: "/home-additions-rancho-penasquitos"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has 40+ years of experience with room additions in Rancho
   Penasquitos, San Diego. Take your Rancho Penasquitos home addition to the next level
   with us.
@@ -15,7 +15,7 @@ The thing that makes Rancho Peñasquitos such a magical neighborhood is how the 
 
 ## Home Expansion & Room Additions in Rancho Penasquitos
 
-We've provided top-quality room additions to homeowners in Rancho Penasquitos since 1975, and we have the [testimonials](/testimonials) to prove it. Each project we take on begins with a free in-home consultation. Our professional architects will work with you to assess your needs as well as your home’s potential for improvement.
+We've provided top-quality bathroom upgrades, [kitchen remodels](/kitchen-remodeling-rancho-penasquitos), and room additions to homeowners in Rancho Penasquitos since 1975, and we have the [testimonials](/testimonials) to prove it. Each project we take on begins with a free in-home consultation. Our professional architects will work with you to assess your needs as well as your home’s potential for improvement.
 
 Whether you need just a bit more in your bathroom or an entirely new floor, our architects will evaluate the possibilities and deliver a few initial blueprints. From there, we'll create a [3D project rendering](/3d-architectural-rendering-services) to give a better idea of what your finished home addition project will look like.
 
