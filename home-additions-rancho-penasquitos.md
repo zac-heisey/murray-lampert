@@ -3,7 +3,7 @@ title: Home Additions Rancho Penasquitos
 permalink: "/home-additions-rancho-penasquitos"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has 40+ years of experience with room additions in Rancho
   Penasquitos, San Diego. Take your Rancho Penasquitos home addition to the next level
   with us.

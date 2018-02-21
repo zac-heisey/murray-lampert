@@ -3,7 +3,7 @@ title: Kitchen Remodeling Santee
 permalink: "/kitchen-remodeling-santee"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Santee, San Diego. Take your Rancho Santee remodel to the next level with us.
 ---

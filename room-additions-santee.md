@@ -3,7 +3,7 @@ title: Room Additions Santee
 permalink: "/room-additions-santee"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Santee,
   San Diego. Take your Santee home addition to the next level with us.
 ---

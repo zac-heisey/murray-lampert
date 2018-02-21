@@ -3,7 +3,7 @@ title: Kitchen Remodel San Marcos
 permalink: "/kitchen-remodel-san-marcos"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   San Marcos, San Diego. Take your San Marcos kitchen remodel to the next level with
   us.

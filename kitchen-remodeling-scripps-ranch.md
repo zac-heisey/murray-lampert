@@ -2,9 +2,9 @@
 title: Kitchen Remodeling Scripps Ranch
 permalink: "/kitchen-remodeling-scripps-ranch"
 section_id: kitchen-remodels
-featured-image:
-excerpt: Kitchen remodeling in Scripps Ranch, San Diego by Murray Lampert Design, Build,
-  Remodel. Scripps Ranch kitchen remodel experts since 1975. Visit us today!
+featured-image: 
+excerpt: Kitchen remodeling in Scripps Ranch, San Diego by Murray Lampert Design,
+  Build, Remodel. Scripps Ranch kitchen remodel experts since 1975. Visit us today!
 layout: default
 ---
 

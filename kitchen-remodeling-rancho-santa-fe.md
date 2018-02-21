@@ -2,9 +2,9 @@
 title: Kitchen Remodeling Rancho Santa Fe
 permalink: "/kitchen-remodeling-rancho-santa-fe"
 section_id: kitchen-remodels
-featured-image:
-excerpt: Kitchen remodeling in Rancho Santa Fe, San Diego by Murray Lampert Design, Build,
-  Remodel. Rancho Santa Fe kitchen remodel experts since 1975. Visit us today!
+featured-image: 
+excerpt: Kitchen remodeling in Rancho Santa Fe, San Diego by Murray Lampert Design,
+  Build, Remodel. Rancho Santa Fe kitchen remodel experts since 1975. Visit us today!
 layout: default
 ---
 

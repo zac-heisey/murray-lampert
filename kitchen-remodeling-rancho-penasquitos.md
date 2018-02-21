@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Rancho Penasquitos
 permalink: "/kitchen-remodeling-rancho-penasquitos"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Rancho Penasquitos, San Diego. Take your Rancho Penasquitos kitchen remodel to the
   next level with us.

@@ -3,7 +3,7 @@ title: Home Additions San Marcos
 permalink: "/home-additions-san-marcos"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Home additions in San Marcos, San Diego by Murray Lampert Design, Build,
   Remodel. San Marcos room addition experts since 1975. Visit Murray Lampert today!
 ---
