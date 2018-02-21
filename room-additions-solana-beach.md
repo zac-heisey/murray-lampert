@@ -3,14 +3,14 @@ title: Room Additions Solana Beach
 permalink: "/room-additions-solana-beach"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Room additions in Solana Beach, San Diego by Murray Lampert Design, Build,
   Remodel. Solana Beach home addition experts since 1975. Visit Murray Lampert today!
 ---
 
 Solana is a cozy beach town that boasts a vast coastline of about 1.7 miles perfect for surfing and swimming. Local enjoy strolling down [Cedros Avenue](http://www.cedrosavenue.com/), grabbing a beer at [Culture Brewing](https://culturebrewingco.com/solana-beach/), or watching the sunset at the Fletcher Cove, an award-winning park. This town is also a great destination for those who enjoy golfing, hiking, as well as shopping.
 
-Life is good in Solana Beach, so it comes as no surprise that Solana Beach residents are willing to invest in their property for the long-term. When it comes to making the most of your existing house, adding more space is one of the best options. The additional space can serve a variety of purposes, and even add to your home’s value. When the time comes to break ground on your home addition in Solana Beach, turn to [Murray Lampert Design, Build, Remodel](/).
+Life is good in Solana Beach, so it comes as no surprise that Solana Beach residents are willing to invest in their property for the long-term. When it comes to making the most of your existing house, adding more space is one of the best options. The additional space can serve a variety of purposes, and even add to your home’s value. When the time comes to break ground on your new home office, room addition, or [kitchen remodel in Solana Beach](/kitchen-remodeling-solana-beach), turn to [Murray Lampert Design, Build, Remodel](/).
 
 ![image of Fletcher Cove beach in Solana Beach](http://www.rcrealtysd.com/wp-content/uploads/Solana-Beach-Real-Estate.jpg "Fletcher Cove in Solana Beach")
 
