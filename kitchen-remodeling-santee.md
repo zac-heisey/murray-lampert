@@ -12,7 +12,7 @@ The city of Santee is a suburb in the larger San Diego County of California. Thi
 
 As one of the most trusted and best known [design, build, remodel firms in Santee](/santee-design-build-and-remodel-services), Murray Lampert has been crafting custom kitchens and [Santee room additions](/room-additions-santee) for over 40 years.
 
-### Santee Custom Kitchen Remodels
+## Santee Custom Kitchen Remodels
 
 If your kitchen is small and lacks storage space or your fixtures are outdated, you need a [professional kitchen remodeling](/san-diego-kitchen-remodeling-services) expert to do the job right. You can trust Murray Lampert Design, Build, Remodel to finish your project on time and within budget. Our company is a local remodeling firm that provides trustworthy and modern remodeling services to homeowners across Santee. Any resident who needs a kitchen remodeling Santee service should simply reach out to us and we will be happy to advise them and ensure they get a beautiful and functional kitchen.
 
