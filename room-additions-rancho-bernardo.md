@@ -3,7 +3,7 @@ title: Room Additions Rancho Bernardo
 permalink: "/room-additions-rancho-bernardo"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Rancho
   Bernardo, San Diego. Take your Rancho Bernardo home addition to the next level with
   us.
@@ -15,7 +15,7 @@ Rancho Bernardo is a perfect spot for all history lovers - it boasts the Rancho 
 
 If you are in need of extra space, the wisest option is to undertake a room additions project. Since this project can be large in scope and complex to handle, you need an experienced professional by your side. Murray Lampert Design, Build, Remodel is a full-service [design-build company](/san-diego-design-build-contractors) with over 40 years of experience in the home remodeling industry. We've worked on a variety of room addition projects, overseeing all aspects and ensuring that things are completed on time, on budget, and to our client's exact specifications.
 
-You may need additional space for many different reasons. Perhaps you need a guest room to accommodate friends or family members who are coming to visit. Maybe your children have outgrown their bedrooms, so they need more privacy and – more space. Maybe you want to build a master bedroom or do a bathroom addition to include a home sauna system or any other feature for which you require more space. Perhaps you need a space to store your belongings and valuables. Or you simply want to improve your home’s overall functionality by adding more space. As you can see, possibilities are endless, and Murray Lampert is fully equipped to make every possibility a reality.
+You may need additional space for many different reasons. Perhaps you need a guest room to accommodate friends or family members who are coming to visit. Maybe your children have outgrown their bedrooms, so they need more privacy and – more space. Maybe you want to build a master bedroom or do a bathroom addition to include a home sauna system or any other feature for which you require more space. Perhaps you need a [kitchen remodel in Rancho Bernardo](/kitchen-remodel-rancho-bernardo) to increase functionality and upgrade appliances. Or you simply want to improve your home’s overall functionality by adding more space. As you can see, possibilities are endless, and Murray Lampert is fully equipped to make every possibility a reality.
 
 ## Transparent Project Management
 
