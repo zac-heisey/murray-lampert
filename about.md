@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 skills:
@@ -48,17 +48,6 @@ members:
     url: "/team-member/rachel-cantor"
   - icon_class: fa fa-envelope
     url: mailto:rachel@murraylampert.com
-- name: Michael Massa
-  position: Vice President of Sales
-  desc: Michael learned at an early age how to design and build from his father. His
-    father was built and upholstered furniture and worked alongside him during his
-    teenage years.
-  avatar: uploads/michael-massa.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/michael-massa"
-  - icon_class: fa fa-envelope
-    url: mailto:michael@murraylampert.com
 - name: Patti Atwell
   position: Director of Production
   desc: Patti Atwell is our senior project manager on the Murray Lampert production
