@@ -1,6 +1,6 @@
 ---
-title:
-date: 2018-02-2 00:00:01 Z
+title: 2018 Home Remodeling Trends
+date: 2018-02-22 00:00:01 Z
 categories:
 - Home Remodeling
 - Home DIY Tips
