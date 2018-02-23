@@ -3,6 +3,8 @@ title:
 date: 2018-02-2 00:00:01 Z
 categories:
 - Home Remodeling
+- Home DIY Tips
+- Guides
 featured-image: "/uploads/wise-family-room-render.jpg"
 excerpt: Check out the top home remodeling trends in 2018 from kitchens and baths, to interior design and outdoor living spaces. Read the full guide at MurrayLampert.com
 author: Gregg Cantor
