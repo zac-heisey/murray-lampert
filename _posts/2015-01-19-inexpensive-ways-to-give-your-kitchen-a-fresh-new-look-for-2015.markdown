@@ -1,6 +1,6 @@
 ---
 title: Inexpensive Ways to Give Your Kitchen a Fresh New Look for 2015
-date: 2015-01-19 13:00:24 Z
+date: 2015-01-19 13:00:00 Z
 permalink: "/inexpensive-ways-to-give-your-kitchen-a-fresh-new-look-for-2015/"
 layout: post
 ---
@@ -24,7 +24,7 @@ Tired of that boring old backsplash? Consider replacing it with new stylish tile
 Many happy homeowners make their kitchen accessories double as a functional art form. Install a pot-hanging rack above your stovetop and keep all your pots and kitchen utensils at just an arm’s reach away. This is especially helpful for those kitchens that are low on cabinet space. If your counters are cluttered, consider adding magnets to spice boxes or often-used cooking utensils and transform your refrigerator door into a quick and easy storage rack. Eliminate that knife block by installing a magnetic strip on a nearby wall and freely display your knife set to give your kitchen the air of a professional chef.
 
 <h3>Make It New with Shelves, Magnets and Hangers</h3>
-Many happy homeowners make their kitchen accessories double as a functional art form. Install a pot-hanging rack above your stovetop and keep all your pots and kitchen utensils at just an arm’s reach away or <a href="http://danver.com/designer-accessories/floating-shelves/">strategically placed shelves</a>. This is especially helpful for those kitchens that are low on cabinet space. If your counters are cluttered, consider adding magnets to spice boxes or often-used cooking utensils and transform your refrigerator door into a quick and easy storage rack. Eliminate that knife block by installing a magnetic strip on a nearby wall and freely display your knife set to give your kitchen the air of a professional chef.
+Many happy homeowners make their kitchen accessories double as a functional art form. Install a pot-hanging rack above your stovetop and keep all your pots and kitchen utensils at just an arm’s reach away or strategically placed shelves. This is especially helpful for those kitchens that are low on cabinet space. If your counters are cluttered, consider adding magnets to spice boxes or often-used cooking utensils and transform your refrigerator door into a quick and easy storage rack. Eliminate that knife block by installing a magnetic strip on a nearby wall and freely display your knife set to give your kitchen the air of a professional chef.
 
 There are many ways to quickly bring a new spark to an outdated kitchen. And some ideas are no more than a new set of dishes or a fresh layer of paint away. You don’t have to wait until you have enough cash for a full kitchen overhaul. Just a few quick changes can help you fall in love with your kitchen all over again.
 
