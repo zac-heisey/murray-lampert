@@ -22,7 +22,7 @@ This [year's Cost vs. Value Report ](http://www.remodeling.hw.net/cost-vs-value/
 **Want to share this animated infographic on your website? Copy + paste the code below - enjoy!**
 <textarea style="width:100;height:200">
   <p>This animated infographic was created by <a href='https://www.murraylampert.com'>Murray Lampert Design, Build, Remodel</a>.</p><br />
-  <iframe width="560" height="315" src="https://www.murraylampert.com/uploads/assets/videos/animated-infographic-2018-cost-vs-value.mp4" frameborder="0" title="2018 Home Remodeling Cost vs. Value Report Animated Infographic" alt="animated infographic of 2018 cost vs. value of common home remodeling projects" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jzFu2N95UmA?rel=0&amp;showinfo=0" frameborder="0" title="2018 Home Remodeling Cost vs. Value Report Animated Infographic" alt="animated infographic of 2018 cost vs. value of common home remodeling projects" allowfullscreen></iframe>
 </textarea>
 
 ### Our Top 5 Takeaways from the 2018 Cost vs. Value Report Home Remodeling Report
