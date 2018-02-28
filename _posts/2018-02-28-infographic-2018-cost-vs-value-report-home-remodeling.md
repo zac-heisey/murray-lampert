@@ -1,11 +1,12 @@
 ---
 title: INFOGRAPHIC - 2018 Cost vs. Value Report of Common Home Remodeling Projects
-date: 2018-02-28 00:00:01 Z
+date: 2018-02-28 00:00:00 Z
 categories:
 - Home Remodeling
 - Infographics
 featured-image: "/uploads/cost-vs-value-2018-logo.png"
-excerpt: TBD
+excerpt: We created an animated infographic of 5 key takeaways from this years' Cost
+  vs. Value report from Remodeling Magazine, plus insights for San Diego homeowners.
 author: Gregg Cantor
 layout: post
 ---
