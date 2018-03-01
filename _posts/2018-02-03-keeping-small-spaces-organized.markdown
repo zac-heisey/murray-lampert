@@ -26,7 +26,7 @@ If you live in a small home or condo, take full advantage of your walls. Often u
 
 Home offices are typically the best area to utilize wall folders. It will get papers and documents off of your desk and in a place that you can better categorize and access them. Anchors work great in heavy item areas, such as storage closets and entry halls. You can hang lighter items like coats and accessories, or even sporting equipment and outdoor specialty items.
 
-[Wall organizers](https://www.target.com/s/office\+wall\+organizers) come in a variety of styles and designs. They can even be found in several designs that fit within current trends. With a bit of research, wall organizers can not only help to clear clutter in a small area, but they can add visual interest and structure to a small space.
+[Wall organizers](https://www.containerstore.com/s/office/paper-file-storage/wall-pockets/123) come in a variety of styles and designs. They can even be found in several designs that fit within current trends. With a bit of research, wall organizers can not only help to clear clutter in a small area, but they can add visual interest and structure to a small space.
 
 ### Clearing Foot Space
 
