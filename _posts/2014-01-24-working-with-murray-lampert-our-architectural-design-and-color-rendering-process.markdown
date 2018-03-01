@@ -1,8 +1,15 @@
 ---
 title: 'Working with Murray Lampert: Our Architectural Design and Color Rendering
   Process'
-date: 2014-01-24 09:00:42 Z
+date: 2014-01-24 09:00:00 Z
 permalink: "/working-with-murray-lampert-our-architectural-design-and-color-rendering-process/"
+categories:
+- Home Remodeling
+- Design-Build
+- Interior Design
+excerpt: A critical part of any home remodeling project is the design development
+  process. Learn about Murray Lampert's architectural design & color rendering process.
+author: Gregg Cantor
 layout: post
 ---
 
