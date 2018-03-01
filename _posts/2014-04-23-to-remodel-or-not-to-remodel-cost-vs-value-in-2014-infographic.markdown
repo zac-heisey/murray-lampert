@@ -1,7 +1,12 @@
 ---
 title: 'INFOGRAPHIC - To Remodel or Not to Remodel: Cost vs. Value in 2014'
-date: 2014-04-23 13:52:06 Z
+date: 2014-04-23 13:52:00 Z
 permalink: "/to-remodel-or-not-to-remodel-cost-vs-value-in-2014-infographic/"
+categories:
+- Home Remodeling
+excerpt: Planning a home remodel in 2014? Learn about the average cost and estimated
+  return of popular remodeling projects across the U.S. in this infographic.
+author: Gregg Cantor
 layout: post
 ---
 
