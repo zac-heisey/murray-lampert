@@ -14,7 +14,7 @@ Poway is a city in San Diego whose rural roots made it also known as 'The City i
 
 ![image of custom kitchen remodel in Poway](/uploads/brown-kitchen-remodel-after.jpg "Poway Kitchen Remodel")
 
-Kitchens are the focal point of nearly every home we work on. This is why many homeowners place kitchen remodels at the top of the list of remodeling projects, in order to make it more attractive, [efficient and energy-saving](/san-diego-green-home-constructio). [Murray Lampert Design, Build, Remodel](/) offers unparalleled kitchen remodeling services in Poway and throughout San Diego County.
+Kitchens are the focal point of nearly every home we work on. This is why many homeowners place kitchen remodels at the top of the list of remodeling projects, in order to make it more attractive, [efficient and energy-saving](/san-diego-green-home-construction). [Murray Lampert Design, Build, Remodel](/) offers unparalleled kitchen remodeling services in Poway and throughout San Diego County.
 
 A modern kitchen should be expanded so that it's large enough to be both comfortable and functional. Out team can remodel your kitchen to make it look trendy and ensure it meets all your needs. We provide a vast range of services such as upgrading fixtures, refinishing the floor, installing new countertops or [custom kitchen cabinets](/san-diego-custom-cabinet-construction-services). The experience, knowledge, and reputation of our team are what you need to give your kitchen an efficient and attractive makeover.
 
@@ -22,7 +22,7 @@ Since [remodeling a kitchen in San Diego](/san-diego-kitchen-remodeling-services
 
 ### Add Value with an Upgraded Kitchen
 
-A well-organized, efficient, and modern kitchen plays a significant role in getting a favorable offer from a potential buyer. If you're considering flipping your property, kitchen remodels and [room additions in Poway](/rooms-additions-poway) are some of the first renovation projects you should consider. You're much more likely get an amazing return on your investment if you consult our remodeling experts on the best budgeting options.
+A well-organized, efficient, and modern kitchen plays a significant role in getting a favorable offer from a potential buyer. If you're considering flipping your property, kitchen remodels and [room additions in Poway](/room-additions-poway) are some of the first renovation projects you should consider. You're much more likely get an amazing return on your investment if you consult our remodeling experts on the best budgeting options.
 
 ### Poway Kitchen Remodel with a Murray Lampert Difference
 
