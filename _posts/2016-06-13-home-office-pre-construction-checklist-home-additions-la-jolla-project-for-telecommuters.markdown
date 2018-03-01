@@ -1,6 +1,6 @@
 ---
 title: 'Home Office Checklist: Home Additions Project for Telecommuters'
-date: 2016-06-13 07:07:33 Z
+date: 2016-06-13 07:07:00 Z
 permalink: "/home-office-pre-construction-checklist-home-additions-la-jolla-project-for-telecommuters/"
 categories:
 - Home Additions
@@ -11,7 +11,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-More and more people telecommute, meaning that there is a growing number of work-from-home job opportunities. However, working from home imposes the need of a functional home office. Murray Lampert has put together a [San Diego home additions](san-diego-room-additions) checklist of must-consider questions to help you decide on the type of home office project to meet your telecommuting needs.
+More and more people telecommute, meaning that there is a growing number of work-from-home job opportunities. However, working from home imposes the need of a functional home office. Murray Lampert has put together a [San Diego home additions](/san-diego-room-additions) checklist of must-consider questions to help you decide on the type of home office project to meet your telecommuting needs.
 
 ## Question #1: Why do I need a separate home office?
 
