@@ -1,7 +1,12 @@
 ---
 title: Understanding Energy Efficient Windows
-date: 2010-10-28 11:53:07 Z
+date: 2010-10-28 11:53:00 Z
 permalink: "/understanding-energy-efficient-windows/"
+categories:
+- Green Construction
+excerpt: Installing energy efficient windows is a main component in any green construction
+  project. But type & style of window should you choose? We share some tips.
+author: Gregg Cantor
 layout: post
 ---
 
