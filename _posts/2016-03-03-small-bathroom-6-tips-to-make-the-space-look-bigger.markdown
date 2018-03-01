@@ -1,6 +1,6 @@
 ---
 title: Small Bathroom? 6 Tips to Make the Space Look Bigger
-date: 2016-03-03 05:44:58 Z
+date: 2016-03-03 05:44:00 Z
 categories:
 - Bathroom Remodeling
 featured-image: "/uploads/small-bathroom-tips.jpg"
@@ -60,4 +60,4 @@ Finally, use simple window treatments in your bathroom. Choose light-colored, sh
 ---
 
 Ready to make your small bathroom look larger than life? Use the tips listed above for inspiration and remember to choose colors, patterns, and materials that suit your personal preferences. If you have any
-questions about how these (or any other) changes might affect the space as whole, [get in touch with our team]($quick-contact). We're always happy to talk shop!
+questions about how these (or any other) changes might affect the space as whole, [get in touch with our team](#quick-contact). We're always happy to talk shop!
