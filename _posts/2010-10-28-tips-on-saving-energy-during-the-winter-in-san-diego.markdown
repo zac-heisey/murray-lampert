@@ -1,7 +1,13 @@
 ---
 title: Tips on Saving Energy During the Winter in San Diego
-date: 2010-10-28 11:51:19 Z
+date: 2010-10-28 11:51:00 Z
 permalink: "/tips-on-saving-energy-during-the-winter-in-san-diego/"
+categories:
+- Green Construction
+- Home DIY Tips
+excerpt: Improving insulation, installing weather stripping, and gaps in pipes, vents
+  and fans are all ways San Diego homeowners can save energy this winter.
+author: Gregg Cantor
 layout: post
 ---
 
