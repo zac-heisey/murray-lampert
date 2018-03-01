@@ -4,11 +4,10 @@ date: 2017-06-20 00:00:00 Z
 permalink: "/summer-recipes-2017/"
 categories:
 - Outdoor Spaces
-layout: post
 featured-image: "/uploads/summer-corn-salad.jpg"
 excerpt: Summer is here, and that means BBQs and outdoor cooking. Murray Lampert shares
   our favorite Summer recipes for easy outdoor entertaining. Check them out!
-author: Michaela Keilty
+layout: post
 ---
 
 Alright folks, it's Summertime and we all know that means outdoor entertaining for those living in San Diego. Often times, hosting a party can mean being stuck at the grill or running around like a chicken with its head cut off, neither of which are not particularly enjoyable. Entertaining guests in your [outdoor kitchen](/san-diego-outdoor-kitchen-remodeling) should be stress-free and fun; and, you should be able to enjoy the party alongside your guests without having to play grill-master the entire time.
