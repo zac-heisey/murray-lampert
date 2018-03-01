@@ -1,10 +1,11 @@
 ---
 title: 5 Quick Tips for First-Time Home Buyers
-date: 2014-01-23 10:02:23 Z
+date: 2014-01-23 10:02:00 Z
 categories:
 - Real Estate
 featured-image: "/uploads/first-time-home-buyers.jpg"
-excerpt: 
+excerpt: As you start the home buying process for the first time, consider the following
+  quick tips from Murray Lampert Design, Build, Remodel.
 author: Gregg Cantor
 layout: post
 ---
