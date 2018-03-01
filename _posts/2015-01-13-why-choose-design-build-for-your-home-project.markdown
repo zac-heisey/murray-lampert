@@ -1,13 +1,19 @@
 ---
 title: Why Choose Design-Build For Your Home Project?
-date: 2015-01-13 12:04:38 Z
+date: 2015-01-13 12:04:00 Z
 permalink: "/why-choose-design-build-for-your-home-project/"
+categories:
+- Home Remodeling
+- Design-Build
+excerpt: Design-build contractors consolidate your remodeling project under one cohesive
+  contract that combines both the design and building processes.
+author: Gregg Cantor
 layout: post
 ---
 
-If you’re not familiar with the term “design-build” and are in the market for a home renovation or <a href="http://www.murraylampert.com/remodel/" target="_blank">remodeling</a> project, it’s a term you will want to get to know. Keep reading to see what we mean!
+If you’re not familiar with the term “design-build” and are in the market for a home renovation or remodeling project, it’s a term you will want to get to know. Keep reading to see what we mean!
 <h3>What is Design-Build?</h3>
-Design-build has become increasingly popular over the last fifteen years as an innovative method of project planning and delivery. Instead of working with multiple teams that may or may not directly interact, a design-build team works together under one cohesive contract that combines both the design of the project all the way through the building process and to completion. Instead of receiving multiple bids for the building process after the design phase, design-build eliminates the need for multiple contracts and separate contractors working to envision a singular project.
+[Design-build](/san-diego-design-build-contractors) has become increasingly popular over the last fifteen years as an innovative method of project planning and delivery. Instead of working with multiple teams that may or may not directly interact, a design-build team works together under one cohesive contract that combines both the design of the project all the way through the building process and to completion. Instead of receiving multiple bids for the building process after the design phase, design-build eliminates the need for multiple contracts and separate contractors working to envision a singular project.
 <h3>Why Choose Design-Build?</h3>
 <img class="alignright size-full wp-image-2734" src="http://murraylampert.com/wp-content/uploads/Miller11_W.jpg" alt="Miller11_W design-build" width="500" height="507" />
 <a href="http://www.murraylampert.com/san-diego-design-build-contractors/" target="_blank">Design-build</a> helps keep a project streamlined and within budget by employing a single contract between the owner and their team. This saves money in a multitude of ways and helps ensure that the team designing your project and the team building your project have the same goals. Nothing is lost in communication, and costs are well-defined ahead of time. This saves both money and time over the broad scope of the project.
