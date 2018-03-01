@@ -1,14 +1,14 @@
 ---
 title: Home Additions Encinitas
 permalink: "/home-additions-encinitas"
-layout: default
 section_id: room-additions
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with home additions in Encinitas,
   San Diego. Take your Encinitas home addition to the next level with us.
+layout: default
 ---
 
-Encinitas is a lively San Diego community situated along 6 miles of Pacific coastline. The terrain is slightly hilly with natural stream channels and wetland. This friendly area hosts some of San Diego’s popular music and art festivals, such as [iPalpiti Festival](http://www.ipalpiti.org/), featuring young instrumental soloists, as well as the exciting [Encinitas Art Festival](http://www.cityofencinitas.org/Festival). Encinitas offers something for everyone, from ocean activities to cultural and artistic events.
+Encinitas is a lively San Diego community situated along 6 miles of Pacific coastline. The terrain is slightly hilly with natural stream channels and wetland. This friendly area hosts some of San Diego’s popular music and art festivals, such as [iPalpiti Festival](http://www.ipalpiti.org/), featuring young instrumental soloists, as well as the exciting Encinitas Art Festival. Encinitas offers something for everyone, from ocean activities to cultural and artistic events.
 
 Being an environmentally-conscious San Diego community, Encinitas is a place where its citizens are encouraged to explore [green building options](/san-diego-green-home-construction) through the [Green Building Incentive Program](http://www.sandiegocounty.gov/pds/greenbuildings.html), which offers guidance and financial support.
 
