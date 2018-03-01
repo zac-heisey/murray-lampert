@@ -1,7 +1,13 @@
 ---
 title: Why You Should Choose Plumbing Components Water-Wisely
-date: 2014-07-07 08:00:48 Z
+date: 2014-07-07 08:00:00 Z
 permalink: "/why-you-should-choose-plumbing-components-water-wisely/"
+categories:
+- Green Construction
+- Home DIY Tips
+excerpt: Water-wise plumbing components are great for both the environment and your
+  budget. Learn more at Murray Lampert Design, Build, Construction.
+author: Gregg Cantor
 layout: post
 ---
 
