@@ -75,6 +75,4 @@ Springtime is the perfect time to touch up any chipped away areas on the outside
 
 ![art-wall-brush-painting.jpg](/uploads/art-wall-brush-painting.jpg)
 
--
-
 > There you have it! We hope you enjoyed our suggestions and as always, if you have questions about your home renovations, please don't hesitate to [contact our team! ](https://murraylampert.com/contact/)
