@@ -33,7 +33,7 @@ If you don’t have extra copies of the Sunday paper lying around, [terry cloth 
 
 Keep in mind, if you have screens on your windows, you will want to remove them and hose them off before washing the glass windows.
 
-### **3. Mind the Gutters**
+## **3. Mind the Gutters**
 
 In San Diego, our gutters hardly suffer the same conditions as other states with real “seasons.” None-the-less, it’s important to avoid damage to your home by forgetting to clean out those gutters. Leaves, sticks, and other debris can build up and cause you major issues if left untreated.
 
