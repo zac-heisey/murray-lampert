@@ -13,7 +13,7 @@ layout: post
 
 Spring is in the air in San Diego, and warmer weather means more opportunities to spend time outdoors. Oftentimes, we neglect our front and backyards during the colder winter months, and come Spring, there are a few things we can do to bring life back to our outdoor spaces.
 
-Here are a few Spring cleaning tips to get your San Diego outdoor living spaces looking fresh!
+Here are a few Spring cleaning tips to get your [San Diego outdoor living spaces]((/san-diego-outdoor-living-space-design), many of which tie in perfectly with outdoor [home remodeling trends](/2018-home-remodeling-trends/) we're seeing this year.
 
 ## 1. Combat Cobwebs
 
@@ -51,7 +51,7 @@ Invest in [garage storage solutions](https://www.homedepot.com/b/Storage-Organiz
 
 ## 5. Audit Your Lighting
 
-Do a scan of your [outdoor living space](/san-diego-outdoor-living-space-design) to seek out any flickering bulbs or lights that need to be replaced. Walk along walkways and check the lighting along major doorways. We’re all guilty of forgetting to replace an outdoor lightbulb. Spring is the perfect time to nip it in the bud and get brand new, [energy efficient lightbulbs](https://energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money) in your outdoor space! [Cutting down your energy use ](/cutting-down-on-your-energy-bills/)has never been easier.
+Do a scan of your outdoor living space to seek out any flickering bulbs or lights that need to be replaced. Walk along walkways and check the lighting along major doorways. We’re all guilty of forgetting to replace an outdoor lightbulb. Spring is the perfect time to nip it in the bud and get brand new, [energy efficient lightbulbs](https://energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money) in your outdoor space! [Cutting down your energy use ](/cutting-down-on-your-energy-bills/)has never been easier.
 
 ![image of hanging outdoor lights](/uploads/outdoor-lighting.jpg "Lights Add Character to Your Outdoor Living Areas")
 
