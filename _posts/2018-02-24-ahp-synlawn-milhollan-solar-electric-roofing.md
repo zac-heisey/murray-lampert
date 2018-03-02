@@ -6,8 +6,9 @@ categories:
 - Home Remodeling
 - Home DIY Tips
 - Outdoor Spaces
-featured-image: /uploads/2-24-KOGO-600.png
-excerpt: This week on The Approved Home Pro Radio Show we talk synthetic lawns with SYNLawn and roof inspections with Milholland Solar, Electric and Roofing.
+featured-image: "/uploads/2-24-KOGO-600.png"
+excerpt: This week on The Approved Home Pro Radio Show we talk synthetic lawns with
+  SYNLawn and roof inspections with Milholland Solar, Electric and Roofing.
 author: Gregg Cantor
 layout: post
 ---
