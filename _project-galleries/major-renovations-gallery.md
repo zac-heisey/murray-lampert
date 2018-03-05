@@ -3,12 +3,12 @@ title: Major Home Renovation Projects
 permalink: "/major-renovations-gallery/"
 layout: project-galleries
 gallery-images:
-- uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
-- uploads/gallery/kitchens/lapierre2(corrected).jpg
-- uploads/gallery/kitchens/Metcalf1_W.jpg
-- uploads/cava-621-i-ave-KD-34.jpg
-- uploads/Hood-Ghosn.png
-- uploads/tufaro-kitchen-remodel-after.jpg
+- uploads/gallery/major-renovations/major_renovations_03.jpg
+- uploads/gallery/second-stories/leonida.jpg
+- uploads/gallery/major-renovations/Dang-Tran-Living-Room.jpg
+- uploads/cava-621-i-ave-KD-39.jpg
+- uploads/gallery/second-stories/Lovett-4-W.jpg
+- uploads/berry-historical-exterior-1.jpg
 excerpt: Murray Lampert has been handling major home renovation projects in San Diego
   since 1975. Check out our major renovations gallery for ideas and inspiration.
 ---
