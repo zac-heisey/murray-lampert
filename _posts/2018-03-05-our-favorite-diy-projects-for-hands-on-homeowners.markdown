@@ -66,7 +66,7 @@ Looking for something simple to keep you feeling productive at home on the weeke
 
 Do you have furry friends or tiny tots at home? Keeping them safe and out of harms way is a must, especially if you have two stories. Let's face it, most of the baby and pet gates that you’d find in the store are boring. They’re made from metals and plastics and lack character.
 
-![ml-baby-pet-gate.jpg](/uploads/ml-baby-pet-gate.jpg)\
+![ml-baby-pet-gate.jpg](/uploads/ml-baby-pet-gate.jpg)\\
 
 You can easily build your own gate to fit your style at home! We found this easy[ DYI baby or pet gate tutorial](https://www.hometalk.com/11977039/10-minute-diy-baby-pet-gate?r=0) from Finding Purpose Furniture on the Home Talks blog!
 
