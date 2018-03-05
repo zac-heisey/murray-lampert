@@ -1,6 +1,6 @@
 ---
 title: Our Favorite DIY Projects for Hands-on Homeowners
-date: 2018-03-06 21:51:00 Z
+date: 2018-03-05 09:51:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/diy-projects.png"
