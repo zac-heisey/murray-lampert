@@ -43,7 +43,7 @@ jQuery(document).foundation();
     $('#js-disabled-alert').remove(); // Remove JS disabled alert message
 
     $('video').each(function() {
-      this.muted = true;
+      this.muted = false; // Volume is ON by default
     });
 
     $('.fadeinleft, .fadeinright, .fadein, .popin').appear(function() {
