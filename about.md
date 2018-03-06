@@ -2,18 +2,9 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
-skills:
-- title: Home & Architectural Design, 3D Project Rendering, etc.
-  percent: 99
-- title: Green Home Construction, Second Stories, Room Additions, etc.
-  percent: 99
-- title: Home, Kitchen, & Bath Remodeling, Major Renovations, etc.
-  percent: 99
-- title: Outdoor Living Spaces, Custom Cabinetry, etc.
-  percent: 99
 members:
 - name: Gregg Cantor
   position: President/CEO
@@ -138,21 +129,15 @@ layout: default
     <p>At <a href="/">Murray Lampert Design, Build, Remodel</a>, we believe in educating our clients not only on the process of home remodeling, but also on how to make sure everything is included. Some homeowners are enticed by companies who substantially undercut other bidders, later to find out there are hidden costs, and items like cabinets, granite, finish work etc. are very low quality, opening up the door for major cost overruns. We will provide you a shopping list and line you up with our preferred vendors to save you money. Everything is spelled out in our scope of work, and we work with you to make sure to stay within budget.</p>
   </div>
   <div class='medium-6 columns'>
-    <h3>Our Home Design, Build, and Remodel Expertise</h3>
+    <!-- MLDBR Brand Video -->
+    <h3>4 Generations of Design-Build Expertise</h3>
     <div class='spacing'></div>
-    <div class='mod modBarGraph'>
-      <ul class='bars'>
-        {% for skill in page.skills %}
-          <li>
-            <h4 style=''>
-              {{skill.title}}
-              <strong>{{skill.percent}}%</strong>
-            </h4>
-            <p class='highlighted' data-percent='{{skill.percent}}'></p>
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="flex-video" id="homepage-video">
+      <video autoplay controls>
+        <source src="/uploads/assets/videos/legacy-15sec.mp4" type="video/mp4" />Your browser does not support the video tag. Try upgrading your browser to the latest version.
+      </video>
     </div>
+    <div class='spacing'></div>
     <!-- BBB Torch Award and Tape Measure Images -->
     <p class="torch"><img class="alignright size-full wp-image-1702" src="/uploads/tourch-01b.jpg" title="Murray Lampert BBB Torch Award Winner for Marketplace Ethics" alt="BBB Torch Awards logo" width="460" height="243" />
     <img class="alignright size-full wp-image-1703" src="/uploads/tourch-02.jpg" title="Murray Lampert Design, Build, Remodel example services" alt="tape measure image" width="460" height="193" /></p>
