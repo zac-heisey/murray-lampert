@@ -13,7 +13,7 @@ layout: post
 
 Spring is in the air in San Diego, and warmer weather means more opportunities to spend time outdoors. Oftentimes, we neglect our front and backyards during the colder winter months, and come Spring, there are a few things we can do to bring life back to our outdoor spaces.
 
-Here are a few Spring cleaning tips to get your [San Diego outdoor living spaces]((/san-diego-outdoor-living-space-design), many of which tie in perfectly with outdoor [home remodeling trends](/2018-home-remodeling-trends/) we're seeing this year.
+Here are a few Spring cleaning tips to get your [San Diego outdoor living spaces](/san-diego-outdoor-living-space-design), many of which tie in perfectly with outdoor [home remodeling trends](/2018-home-remodeling-trends/) we're seeing this year.
 
 ## 1. Combat Cobwebs
 
