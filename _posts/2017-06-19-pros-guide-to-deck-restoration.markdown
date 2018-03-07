@@ -19,7 +19,7 @@ We’ve put together a comprehensive 3-part guide to restoring your deck so that
 
 Check the integrity of the deck coating to determine if the existing coating needs to be completely removed. How can you tell? The best indicators are that the coating won’t bead water or is severely deteriorated. If either of these are the case, it’s best to remove the coating and start with a fresh, clean surface.
 
-![Finished Wood Deck](/uploads/finished-wood-deck.jpg)
+![image of Finished Wood Deck](/uploads/finished-wood-deck.jpg "Start Fresh by Removing Old Wood Deck Coatings")
 
 **If the coating needs to be removed:**
 
@@ -45,7 +45,7 @@ These coatings can be sprayed with a commercial paint sprayer or applied with fo
 
 _Note_: Always apply a 2-square- foot test area with the coating before coating the whole deck.
 
-![Murray Lampert deck project](/uploads/2013/09/outdoor.jpg)
+![image of completed deck project by Murray Lampert](/uploads/2013/09/outdoor.jpg "Protecting Your Deck Can Make All the Difference")
 
 **Leave no joint uncoated**
 
@@ -63,7 +63,7 @@ Be sure to save the container of finish so you will remember which coating you u
 
 ## Part 3: A Clean Sweep for a Long life
 
-![Deck Cleaning](/uploads/Jim-Grant-deck-cleaning.jpg)
+![image of cleaning between deck planks](/uploads/Jim-Grant-deck-cleaning.jpg "Give Your Deck a Deep Cleaning")
 
 Make sure all that hard work doesn’t go to waste. Keep up with easy maintenance chores to keep your deck in shape for the long haul. Here are a few fast tips that take just a few minutes every month:
 
