@@ -15,7 +15,7 @@ layout: post
 
 A critical part of any home remodeling or construction project is the design development process. Keep reading to learn more about the design development phase you will experience by working with Murray Lampert Design, Build, and Remodel.
 
-<strong>Step 1: Gain a good understanding of the client’s needs and goals.<img class="alignright" alt="" src="http://www.murraylampert.com/wp-content/gallery/architectural-design/design1_page_3.png" width="336" height="224" /></strong>
+<strong>Step 1: Gain a good understanding of the client’s needs and goals.</strong>
 
 At our firm, the process begins with a meeting between the client, our design specialist, and staff architect. After we listen to our client’s lifestyle, space, and budget goals, the preliminary design is developed.
 
