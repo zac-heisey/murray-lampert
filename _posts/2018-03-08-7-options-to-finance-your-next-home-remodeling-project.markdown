@@ -8,6 +8,7 @@ excerpt: Thinking about starting a San Diego home remodeling project but you’r
   sure the best ways to finance it? Here are 7 options you can consider. Click to
   learn more.
 author: Gregg Cantor
+layout: post
 ---
 
 When it comes to home remodeling, even small and medium sized DIY projects can grow to be very costly. If you’re considering a major renovation like a kitchen, bathroom upgrades or a home addition, you could be looking at an investment of $50,000\+. There are several options to carefully consider before you finance your next home remodeling project.
