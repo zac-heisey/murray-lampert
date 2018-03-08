@@ -1,6 +1,6 @@
 ---
 title: 7 Options to Finance Your Next Home Remodeling Project
-date: 2018-03-08 20:31:00 Z
+date: 2018-03-08 00:00:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/pexels-photo-279719.jpeg"
