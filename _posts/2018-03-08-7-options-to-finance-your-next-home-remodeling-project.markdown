@@ -4,28 +4,28 @@ date: 2018-03-08 00:00:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/pexels-photo-279719.jpeg"
-excerpt: Thinking about starting a San Diego home remodeling project but you’re not
-  sure the best ways to finance it? Here are 7 options you can consider. Click to
-  learn more.
+excerpt: Thinking about starting a San Diego home improvement project but not sure
+  how to finance it? Consider these 7 options to finance your next home remodeling
+  project.
 author: Gregg Cantor
 layout: post
 ---
 
-When it comes to home remodeling, even small and medium sized DIY projects can grow to be very costly. If you’re considering a major renovation like a kitchen, bathroom upgrades or a home addition, you could be looking at an investment of $50,000\+. There are several options to carefully consider before you finance your next home remodeling project.
+When it comes to [home remodeling](/san-diego-home-remodel-services), even small and medium sized DIY projects can grow to be very costly. If you’re considering a major renovation like a kitchen, bathroom upgrades or a home addition, you could be looking at an investment of $50,000\+. There are several options to carefully consider before you finance your next home remodeling project.
 
-![saw-wood.png](/uploads/saw-wood.png)
+![image of wood being cut with hand-held circular saw](/uploads/saw-wood.png "Need Financing for Your Home Remodel? Try These Options Below")
 
 We’ve outlined the most popular options that homeowners consider before they begin a home renovation. It’s up to you to be cognizant of your unique financial situation and do what is best for you and your family. With any large investment, you should consider all outcomes and choose the direction that suits you best.
 
-**Option 1: Use Cash**
+### Option 1: Use Cash
 
-As with most purchases, if you have cash, it can be preferred to avoid taking out a line of credit. However, it’s not as realistic for all homeowners to have the funds for a major kitchen renovation sitting around. In many cases, it could take years for you to save the amount of money you’d need for an extensive home renovation.
+Paying cash is almost always the best option when it comes to financing a home improvement project (versus taking out a line of credit). However, it’s not realistic to assume most homeowners have the funds for a [major kitchen renovation](/san-diego-kitchen-remodeling-services) sitting around. In many cases, it could take years for you to save the amount of money you’d need for an extensive home renovation.
 
 ![cash.jpeg](/uploads/cash.jpeg)
 
 We recommend using cash if you have it, or even using partial cash to offset how much you’ll need to borrow. This is the safest option, but there are plenty more.
 
-**Option 2: Consider Low Interest Credit Cards**
+### Option 2: Consider Low Interest Credit Cards
 
 If you’re a homeowner, you’ve likely been teased with countless credit card offerings over your adult lifetime. If you're credit is healthy, there is nothing wrong with putting small and medium sized home renovation projects on a zero perfect interest or low interest credit card.
 
@@ -35,36 +35,44 @@ But if you know you have great credit, and can pay off the balance in the right 
 
 ![credit-card.jpeg](/uploads/credit-card.jpeg)
 
-**Option 3: Refinance Your Home**
+### Option 3: Refinance Your Home
 
 If you’ve been in your home for quite some time, and your current interest rate is higher than the rates of the market, a refinance could be a great option for you. Refinancing will lower your interest rate and thus your monthly mortgage payment, giving you some financial wiggle room to make home improvements.
 
-![house.jpeg](/uploads/house.jpeg)
+![image of multi-level house](/uploads/house.jpeg "Refinancing Your Home")
 
-Consider this option carefully. When you refinance, you’re using your home as collateral against a larger loan. It’s only advised to make home improvements that will boost your home’s value.
+Consider this option carefully. When you refinance, you’re using your home as collateral against a larger loan. It’s best to make improvements that will boost your home’s value, so be sure to review the expected [cost recoup of various home remodeling projects](/infographic-2018-cost-vs-value-report-home-remodeling/) before getting started.
 
-**Option 4: Take Out a Personal Loan**
+### Option 4: Take Out a Personal Loan
 
 Personal loans have pros and cons. One large pro to personal loans is that they don’t require you to trade your home as collateral or use it’s equity to complete your dream renovation. Some cons to taking out a personal loan for a home improvement project is that the interest rates can be higher. You’ll also need excellent credit to be approved and personal loans need to be paid back, on average, within 5-7 years.
 
-**Option 5: Apply for a Home Equity Line of Credit**
+### Option 5: Apply for a Home Equity Line of Credit
 
 Also known as HELOC, a home equity line of credit uses the equity in your home to fund the project.
 
 According to Nerd Wallet, “A home equity line of credit, so often referred to as a [HELOC](https://www.nerdwallet.com/blog/mortgages/home-equity-line-of-credit/), is a convenient way to draw on the value of your home — and tap the equity only as you need it. That’s a good thing, because your home’s long-term value can be a real wealth-building tool.”
 
-![application.jpeg](/uploads/application.jpeg)
+![image of person filling out a form](/uploads/application.jpeg "HELOC Loans Can Be a Great Financing Option")
 
-If you do this the right way, the advantages can be plentiful. The key is to understand the best HELOC lenders available to you. Nerd Wallet helped us identify [HELOC lenders](https://www.nerdwallet.com/blog/mortgages/best-heloc-lenders/) that are worth considering.
+If you do this the right way, the advantages can be plentiful. One huge benefit is that HELOC funds used to improve your home may be tax-deductible. Be sure to consult with a HELOC lender to fully understand all of your options. Nerd Wallet shares a few [HELOC lenders](https://www.nerdwallet.com/blog/mortgages/best-heloc-lenders/) that are worth considering.
 
-**Option 6: Home Equity Loan**
+### Option 6: Construction Loan
 
-A home equity loan is different from a HELOC. Home equity loans are essentially a second mortgage on your home. They typically have fixed interest rates and you can get access to the funds in one large sum. If you can manage the monthly payments, this can be a great option. Watch out for pricey transaction fees and closing costs - which can come as a surprise to those considering this option.
+These traditionally short-term loans can be a bit restrictive, but they also offer relatively low interest rates and smaller initial payments. Speciality versions like FHA construction loans and VA construction loans offer flexibility for qualified borrowers, but [according to Bank Rate](https://www.bankrate.com/finance/mortgages/construction-loans-explained.aspx), there are two main types of construction loans:
 
-**Option 7: Reverse Mortgage**
+**Construction-to-permanent**: You borrow to pay for construction. When you move in, the lender converts the loan balance into a permanent mortgage. It’s two loans in one.
 
-For those of you 62 years of age or older, a reverse mortgage can be a great option. We’ve discussed aging in place renovations numerous times, and have helped several San Diego homeowners increase their safety and comfortability at home.
+**Stand-alone construction**: Your first loan pays for construction. When it’s time to move in, you get a mortgage to pay off the construction debt. It’s two separate loans.
 
-![home-sweet-home.png](/uploads/home-sweet-home.png)
+### Option 7: Renovate America
 
-If you choose a reverse mortgage, it can be more expensive than a home loan or line of credit, but you don’t have to pay it back until you sell the home.
+[Renovate America](https://www.renovateamerica.com/) is a San Diego-based financing company that offer homeowners with two options for financing home improvement projects:
+
+**HERO Financing**: HERO financing is meant to be used to help fund energy-efficient home improvement projects like solar installation, heating and cooling upgrades, window and door efficiency, and more.
+
+**Benji Financing**: Benji loans are more flexible, and can be used to finance just about any home improvement project, big or small. Qualification based primarily on your credit score, and repayment is done through traditional monthly payments.
+
+![Renovate America Logo](http://www.counties.org/sites/main/files/imagecache/lightbox/main-images/ra_stacked_logo.png "Renovate America Provides Financing Options for Home Improvements")
+
+In addition to home improvement financing, Renovate America can also help homeowners [find reputable contractors](https://www.renovateamerica.com/find-a-contractor), as they have established relationships with local remodelers, roofers, solar installers, and more.
