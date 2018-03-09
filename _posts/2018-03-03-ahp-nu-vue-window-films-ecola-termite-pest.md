@@ -6,7 +6,8 @@ categories:
 - Home Remodeling
 - Home DIY Tips
 featured-image: "/uploads/03-03-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we talk window protection with NU-VUE Window Films and termite prevention with Ecola Termite & Pest.
+excerpt: This week on The Approved Home Pro Radio Show we talk window protection with
+  NU-VUE Window Films and termite prevention with Ecola Termite & Pest.
 author: Gregg Cantor
 layout: post
 ---
