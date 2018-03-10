@@ -65,14 +65,10 @@ These traditionally short-term loans can be a bit restrictive, but they also off
 
 **Stand-alone construction**: Your first loan pays for construction. When it’s time to move in, you get a mortgage to pay off the construction debt. It’s two separate loans.
 
-### Option 7: Renovate America
+### Option 7: Reverse Mortgage
 
-[Renovate America](https://www.renovateamerica.com/) is a San Diego-based financing company that offer homeowners with two options for financing home improvement projects:
+For homeowners 62 years of age or older, a reverse mortgage can be a great option. We’ve discussed [aging in place renovations](/aging-in-place-10-concepts-of-universal-design/) numerous times as part of a larger approach to universal design, and have helped dozens of San Diego homeowners increase their safety and comfortability at home.
 
-**HERO Financing**: HERO financing is meant to be used to help fund energy-efficient home improvement projects like solar installation, heating and cooling upgrades, window and door efficiency, and more.
+![image of home interior](/uploads/home-sweet-home.png "Finance Home Improvements with a Reverse Mortgage")
 
-**Benji Financing**: Benji loans are more flexible, and can be used to finance just about any home improvement project, big or small. Qualification based primarily on your credit score, and repayment is done through traditional monthly payments.
-
-![Renovate America Logo](http://www.counties.org/sites/main/files/imagecache/lightbox/main-images/ra_stacked_logo.png "Renovate America Provides Financing Options for Home Improvements")
-
-In addition to home improvement financing, Renovate America can also help homeowners [find reputable contractors](https://www.renovateamerica.com/find-a-contractor), as they have established relationships with local remodelers, roofers, solar installers, and more.
+If you choose a reverse mortgage, it can be more expensive than a home loan or line of credit, but you don’t have to pay it back until you sell the home.
