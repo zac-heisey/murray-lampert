@@ -69,6 +69,6 @@ These traditionally short-term loans can be a bit restrictive, but they also off
 
 For homeowners 62 years of age or older, a reverse mortgage can be a great option. We’ve discussed [aging in place renovations](/aging-in-place-10-concepts-of-universal-design/) numerous times as part of a larger approach to universal design, and have helped dozens of San Diego homeowners increase their safety and comfortability at home.
 
-![image of home interior](/uploads/home-sweet-home.png "Finance Home Improvements with a Reverse Mortgage")
+A reverse mortgage can more expensive than a home loan or line of credit, but you don’t have to pay it back until you sell the home.
 
-If you choose a reverse mortgage, it can be more expensive than a home loan or line of credit, but you don’t have to pay it back until you sell the home.
+![image of home interior](/uploads/home-sweet-home.png "Finance Home Improvements with a Reverse Mortgage")
