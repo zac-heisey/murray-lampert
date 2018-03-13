@@ -120,18 +120,19 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 ### GALLERY PAGE REDIRECTS
 /gallery*  /san-diego-remodel-project-gallery  301
-/before-after-gallery/nggallery/  /before-after-gallery  301
 /before-after-gallery/nggallery/*  /before-after-gallery  301
-/kitchen-remodel-gallery/nggallery/  /kitchen-remodel-gallery  301
 /kitchen-remodel-gallery/nggallery/*  /kitchen-remodel-gallery  301
 
 
 ### IMAGE REDIRECTS
-/wp-content/uploads/*  /uploads/:splat
-/wp-content/gallery/*  /uploads/gallery/:splat
+/wp-content/uploads/*  /uploads/:splat  301
+/wp-content/gallery/*  /uploads/gallery/:splat  301
+/uploads/ML-Dang-Tran-Kitchen-blob.jpg  /uploads/gallery/kitchens/dang-tran-kitchen2a.jpg  301
+/uploads/2011/10/AHG1.jpg  /san-diego-remodel-project-gallery  301
 
 
 ############################################################
+
 
 ### WORDPRESS 301 REDIRECTS Plugin (migrated from old website)
 
@@ -390,6 +391,7 @@ http://murraylampert.com/wordpress/?p=231	/blog/	301
 /wordpress/category/san-diego-home-remodeling/feed/	/category/san-diego-home-remodeling/feed/	301
 /wordpress/2013/02/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	301
 /wordpress/2011/07/coronado-home-renovations/	/coronado-home-renovations/	301
+/wordpress/2011/07/san-diego-designbuild-remodeling*	/san-diego-design-build-contractors	301
 http://murraylampert.com/services/san	/san-diego-room-additions/	301
 /wordpress/?p=16	/blog/	301
 /wordpress/?p=302	/green-windows-by-anderson/	301
