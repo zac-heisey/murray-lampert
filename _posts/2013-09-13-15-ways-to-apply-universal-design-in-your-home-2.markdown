@@ -20,9 +20,9 @@ Selywn Goldsmith, the author of <em>Designing for the Disabled</em> (1963), pion
 	<li>Low physical effort</li>
 	<li>Size and space for approach and use</li>
 </ul>
-Below are 15 ways that modern homes can implement universal design principles to increase accessibility and comfort for residents with and without disabilities:
 
-[caption id="attachment_221" align="aligncenter" width="613"]<a href="http://murraylampert.com/wp-content/uploads/2013/09/bath.jpg"><img class="size-full wp-image-221" src="http://murraylampert.com/wp-content/uploads/2013/09/bath.jpg" alt="San Diego custom bathroom remodeling service" width="613" height="695" /></a> San Diego custom bathroom remodeling service[/caption]
+**Below are 15 ways that modern homes can implement universal design principles to increase accessibility and comfort for residents with and without disabilities:**
+
 <ol>
 	<li>Smooth ground-level entrances without stairs.</li>
 	<li>Lever handles for opening doors rather than twisting knobs.</li>

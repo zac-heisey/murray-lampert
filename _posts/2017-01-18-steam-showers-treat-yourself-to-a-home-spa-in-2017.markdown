@@ -37,7 +37,7 @@ A steam bath has many health benefits. It is a proven relaxation method people h
 
 Steam showers are also great for people suffering from allergies or arthritis, and are known to benefit your immune system. Finally, steam showers can help people of all ages suffering from [high blood pressure](http://www.webmd.com/hypertension-high-blood-pressure/) and chronic pain.
 
-![steam shower](https://www.thisoldhouse.com/sites/default/files/styles/social_share/public/migrated/tout-images/steam-shower-x.jpg?itok=WZoxSAHt)
+![image of steam shower](https://www.thisoldhouse.com/sites/default/files/styles/social_share/public/migrated/tout-images/steam-shower-x.jpg?itok=WZoxSAHt "Steam Showers Provide a Host of Health Benefits")
 
 ## Installing a Steam Shower
 

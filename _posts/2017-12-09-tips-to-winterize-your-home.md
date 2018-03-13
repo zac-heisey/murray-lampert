@@ -13,13 +13,13 @@ layout: post
 
 A winter in San Diego is anything but brutal, although our “cold” season is from December through February. Here are our top 7 DIY tips to winterize your San Diego home to reduce energy usage and keep your family safe.
 
-![house-fan.jpg](/uploads/house-fan.jpg)
+![image of dining room and ceiling fan](/uploads/house-fan.jpg "Running Your Ceiling Fans in Reverse Creates Warmth")
 
 ### 1. Run Ceiling Fans in Reverse
 
 [Ceiling fans](/save-on-your-energy-cost-with-ceiling-fans/) do more than cool a room on a hot sunny day. When switched to a clockwise direction, the reserve air flow creates warmth. Warm air near the ceiling is circulated back down into the room creating warm temperatures and even dropping the heating costs!
 
-![fireplace-san-diego.jpg](/uploads/fireplace-san-diego.jpg)
+![image of fireplace](/uploads/fireplace-san-diego.jpg "Keep Your Fireplace Closed to Keep Cold Air Out")
 
 ### 2. Close Your Fireplace
 
@@ -37,7 +37,7 @@ Without correct tune-ups, you may be in for a hefty fee if the entire furnace ne
 
 If you're stuck in the situation of replacing your entire unit, consider an energy efficient furnace. Making this change can save a lot of money in the long run.
 
-![thermostat.jpg](/uploads/thermostat.png "Pay Attention to Your Thermostat")
+![image of home thermostat](/uploads/thermostat.png "Pay Attention to Your Thermostat")
 
 ### 5. Pay Attention to Your Thermostat
 
@@ -49,7 +49,7 @@ Insulation may not be the first thing that comes to mind when considering winter
 
 Add additional insulation material to your attic, crawl spaces, and exposed areas of decks to help trap heat.
 
-![san-diego-water-heater.jpg](/uploads/san-diego-water-heater.jpg)
+![image of water heater dial](/uploads/san-diego-water-heater.jpg "Lower Your Water Heater to 120°F")
 
 ### 7. Turn Down Your Water Heater
 

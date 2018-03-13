@@ -21,7 +21,7 @@ During our consultations, we're learning that many San Diego homeowners want to 
 
 Many homes in San Diego were built decades ago, before the idea of open concept kitchens became popular. Not to mention, older homes in this region are typically smaller, and a smaller home usually means a small kitchen, too.
 
-![double-island.jpg](/uploads/double-island.jpg)
+![image of double kitchen island](/uploads/double-island.jpg "Double Kitchen Islands Add Space and Style")
 
 The kitchen is undoubtedly the most important room in a home. Not only can it be the major focal point, but they are the central hub for entertaining guests and making memories with family. In 2018, you’ll see homeowners ditching their small, closed off kitchens for wider, open concept versions that provide more visible space. Depending on the layout of your home, your [San Diego contractor](https://murraylampert.com/san-diego-kitchen-remodeling-services) can help advise you of all the possibilities for extending your home efficiently.
 
@@ -45,19 +45,16 @@ Lighting can be adjusted by the time of day, which is one of the most popular op
 
 This option is a necessary one for any growing or multi-generation family. This trend has really taken off over the last several years, and looks to continue to rise in 2018. There is a large population of seniors who prefer to live happily and independently at home. This concept is one we often refer to as [aging in place.](https://murraylampert.com/aging-in-place-10-concepts-of-universal-design/)
 
-![accessibility.png](/uploads/accessibility.png)
+![image of accessible-friendly bathroom](/uploads/accessibility.png "Home Additions Should Be Designed With Accessibility In Mind")
 
 The need for better accessibility in San Diego homes is a result of older generations moving in with loved ones, as well as expanding on the ever popular open-floor plan. Common accommodations typically involve widening doorways, installing [zero-transition showers](http://blog.innovatebuildingsolutions.com/2015/12/11/advantages-disadvantages-curbless-walk-shower/), leveling showers and removing tub walls, decreasing steepness of steps, and adding custom yet stylish handrails where needed. Aging in place accommodations can even mean complete [in-law suite](https://murraylampert.com/3-things-to-know-about-granny-flat/) renovations. This will add value to a home as well as open up many spaces that are typically closed off from the rest of the room.
 
-![zero-transition-shower.png](/uploads/zero-transition-shower.png)
+![image of zero transition shower](/uploads/zero-transition-shower.png "Zero Transition Showers are Great Universal Design Options")
 
 **Mudrooms**
 
 The mudroom is set to be one of the fastest growing trends in San Diego. This may be the best addition for any family with children. A mudroom is essentially a room for the extra clutter. It is added on as the first room entered upon opening the door to go inside.
 
-![importance-of-lighting (6).png](/uploads/importance-of-lighting%20(6).png)
-
-\
 The mudroom can also double as a laundry space. Within the room, a families dirty clothes can be kept, as well as shoes, coats, and play equipment. This is a relatively simple addition that can take up a part of the garage, or can be an entirely new room off of the house.
 
 **Luxury Basements**
@@ -70,7 +67,7 @@ These luxury basements often include a bar, bathroom addition, sitting area, and
 
 Master Suites are considered a [major renovation](https://murraylampert.com/major-renovations) and thus, can be an expensive remodeling addition. The huge upside for the family on the fence about making this happen is that it can instantly set a house apart from other homes in the San Diego area. The investment in a master suite is an easy one to make, and likely a highly profitable one.
 
-![master-suite.png](/uploads/master-suite.png)
+![image of master suite](/uploads/master-suite.png "Master Suites Add a Touch of Luxury to a Home Addition Project")
 
 Master suite concepts for 2018 revolve around open space and luxurious additions. Many suites are adopting perks that include fireplaces, televisions built in to both the bedroom and bathroom walls, reading nooks, and skylights to enhance natural lighting. Rock work within the entire room to accent a modern design truly drives home the entire benefit of a master suite. The design concept of the master suite is an open area that includes a large bathroom connected to the room. This allows for the open concept to hold true in every area of the house.
 

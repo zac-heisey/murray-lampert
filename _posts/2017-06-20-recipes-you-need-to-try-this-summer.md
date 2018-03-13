@@ -16,28 +16,28 @@ We love hosting a stress-free party (or two) over Summer, so we find ourselves s
 
 ## Thai Peanut Chicken Skewers:
 
-![Thai Peanut Chicken Skewers](/uploads/chicken-skewers.jpg)
+![image of thai peanut chicken skewers](/uploads/chicken-skewers.jpg "Thai Peanut Chicken Skewers")
 _Image source: www.savorynothings.com_
 
 This recipe is amazing because you can prep everything the night before and throw them on the grill when you’re ready. Chicken grills quickly and finger foods always fair nicely at parties. The peanut sauce is to die for. Full recipe [here](https://www.savorynothings.com/chicken-skewers-with-satay-style-peanut-sauce/).
 
 ## Easy Summer Corn Salad:
 
-![Summer Corn Salad](/uploads/summer-corn-salad.jpg)
+![image of summer corn salad](/uploads/summer-corn-salad.jpg "Summer Corn Salad")
 _Image source: www.lilluna.com_
 
 When you have a party to throw (not to mention attend), there isn’t a lot of time for chopping vegetables. This Summer corn salad is so easy and pairs with just about anything. Forget endless chopping – you’ll have this recipe finished in under 10 minutes. As a bonus – you can also make this the night before your party and no one will know the difference. Full recipe [here](https://lilluna.com/summer-corn-salad/).
 
 ## Grilled Peaches with Vanilla Ice Cream:
 
-![Grilled Peaches](/uploads/grilled-peaches.jpg)
+![image of grilled peaches](/uploads/grilled-peaches.jpg "Grilled Peaches")
 _Image source: www.whatsgabycooking.com_
 
 We believe that every party needs dessert, but it doesn’t need to be complicated or store bought. This recipe has less than 5 ingredients and takes 5 minutes to make. Your guests will absolutely love this dish – and you’ll win some major brownie points with the health conscious crowd! Full recipe [here](http://whatsgabycooking.com/grilled-peaches-with-vanilla-ice-cream/).
 
 ## Raspberry Peach Lemonade:
 
-![Raspberry Peach Lemonade](/uploads/raspberry-peach-lemonade.jpg)
+![image of raspberry peach lemonade](/uploads/raspberry-peach-lemonade.jpg "Raspberry Peach Lemonade")
 _Image source: www.thechunkychef.com_
 
 What party is complete without a Summer cocktail? We love this raspberry peach lemonade with a twist (of vodka, that is!). However, light rum doesn’t sound bad either 🙂. We love this recipe because it can be made the night before and kept in the refrigerator overnight until you’re ready to start the party! Serving this in glass or plasticware alongside a cute straw makes it look much fancier than it is. Full recipe [here](http://www.thechunkychef.com/homemade-raspberry-peach-lemonade/).

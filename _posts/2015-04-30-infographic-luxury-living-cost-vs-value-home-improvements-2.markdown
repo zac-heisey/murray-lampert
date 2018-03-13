@@ -13,7 +13,7 @@ layout: post
 
 Considering a home improvement project this year? Learn about the average costs of popular remodeling projects across the U.S. and their estimated resale value for 2015.
 
-[![Value of Home Improvements Infographic](/uploads/1503_infographic_murray-lampert_cost-vs-value-home-improvements_v4.jpg "{{ page.title }}")](/uploads/1503_infographic_murray-lampert_cost-vs-value-home-improvements_v4.jpg)
+![Value of Home Improvements Infographic](/uploads/1503_infographic_murray-lampert_cost-vs-value-home-improvements_v4.jpg "{{ page.title }}")
 
 ### Share This Value of Home Improvements Infographic On Your Site
 

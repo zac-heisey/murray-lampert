@@ -19,8 +19,6 @@ The team at Mauzy Heating, Air & Solar never misses a beat! When we refer our cu
 
 As a homeowner, you’re likely to need help with your [HVAC system](https://www.mauzy.com/services/hvac-san-diego/) from time to time. Whether you need a simple repair or a whole new installation, the experts at Mauzy will help you with a smile. It’s always good to have your rolodex full of home improvement experts, right? So without further adieu, we will shed some light on their key service offerings.
 
-![AC-sandiego-300x200.jpg](/uploads/AC-sandiego-300x200.jpg)
-
 **Air Conditioning: Service, Repair Installation**
 
 During Summer and the early months of Fall, it’s torture to live in San Diego county without a well-tuned air conditioner. Average temperatures can soar over 100 degrees for days on end, and if your AC stops running properly, everyone in your household suffers. But there’s more to it than that, Mauzy can help you with [cooling systems](https://www.mauzy.com/services/air-conditioning-san-diego/) that offer long-term energy efficiency…saving you on your monthly energy bills. Whether you need a simple repair, service, or a complete installation, the Mauzy team can make it happen.
@@ -30,8 +28,6 @@ During Summer and the early months of Fall, it’s torture to live in San Diego 
 You’d be surprised at how many San Diego homeowners have furnaces! Mauzy is a local company that can help make sure your furnace is running properly and meets safety standards. They offer furnace repair and installation on all brands, makes and models of furnances, so your San Diego home can always stay warm!
 
 For the rest of us with heaters, we’re still in luck. One of Mauzy’s core services is [heating repair ](https://www.mauzy.com/services/heating-san-diego/)and installation. Sure, the winters in San Diego are far from brutal compared to other states, but when your heater suddenly stops working the way it should, you’ll certainly feel it! From repairs, to simple tune-ups, and complete re-installation, they’ve got your back!
-
-![mauzy-hvac-services-300x225.jpg](/uploads/mauzy-hvac-services-300x225.jpg)
 
 **HVAC Services**
 

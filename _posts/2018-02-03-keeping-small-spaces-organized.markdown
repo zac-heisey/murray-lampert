@@ -8,7 +8,7 @@ excerpt: If you live in a small San Diego home, these tips will help you keep yo
   home organized and clutter free. It's all about utilizing the space you have! Click
   to read our creative tips for maximizing space.
 author: 'Gregg Cantor '
-Field name: 
+Field name:
 layout: post
 ---
 
@@ -22,7 +22,7 @@ There are many ways to optimize small spaces in order to better utilize every in
 
 If you live in a small home or condo, take full advantage of your walls. Often under-utilized, a wall provides a solid anchor point to get items large and small off the ground. There are several ways to optimize these areas with wall folders, pockets, and anchor hardware.
 
-![shelving-creative.png](/uploads/shelving-creative.png)
+![image of creative shelving](/uploads/shelving-creative.png "Wall Organizers Can Be Clean, Simple, and Functional")
 
 Home offices are typically the best area to utilize wall folders. It will get papers and documents off of your desk and in a place that you can better categorize and access them. Anchors work great in heavy item areas, such as storage closets and entry halls. You can hang lighter items like coats and accessories, or even sporting equipment and outdoor specialty items.
 
@@ -32,7 +32,7 @@ Home offices are typically the best area to utilize wall folders. It will get pa
 
 Often times, the foot space of our small areas is the most cluttered space of all. We typically throw items on the ground, or try to cleverly stack them against a wall in a way that will look organized. This simply doesn’t bode well, especially for a small space. When you have a ton of clutter on the floor in a small area, you are robbing the area of precious square footage that could be used for design or functionality.
 
-![minimalist-living-room.png](/uploads/minimalist-living-room.png)
+![image of minimalist living room with clean floor](/uploads/minimalist-living-room.png "When Square Footage is Limited, Make Sure to Leave Foot Space Clear")
 
 Instead, aim to keep only the must essential pieces of decor and furniture in your room. This will keep bulky pieces off the floor and away from the walls…which will open up the space like you wouldn’t believe. Scan your home for pieces that can be donated or hidden from plain sight.
 
@@ -42,9 +42,9 @@ Clearing foot space is a surefire way to make a small space appear bigger, as we
 
 If you live in a small home, you have no choice but to get organized. [Closet organization](https://www.target.com/s?searchTerm=closet\+organization) will allow you take full advantage of the storage in your home. Install added [shelving](https://www.target.com/p/closetmaid-48-wall-mounted-wire-utility-shelf-white/-/A-16691265%23lnk=sametab) and consider purchasing [hanging storage cubes](https://www.target.com/p/3-shelf-hanging-closet-organizer-threshold-153/-/A-52020650%23lnk=sametab&preselect=50361378) to help store smaller items! If your closet isn’t very deep or wide, don’t sweat it. Go vertical! Take advantage of wall space, even up to the ceiling.
 
-![san-diego-closet-design.jpg](/uploads/san-diego-closet-design.jpg)
+![image of organized closet](/uploads/san-diego-closet-design.jpg "Organize Your Closet for Maximum Space")
 
-*(Image courtesy of [San Diego Closet Design ](http://www.sandiegoclosetdesign.com))*
+*(Image courtesy of [San Diego Closet Design](http://www.sandiegoclosetdesign.com))*
 
 ### Carefully Evaluate What You Bring Into Your Home
 
