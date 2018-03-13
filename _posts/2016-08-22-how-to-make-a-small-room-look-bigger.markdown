@@ -1,7 +1,7 @@
 ---
 title: How to Make a Small Room Look Bigger
 date: 2016-08-22 06:52:20 Z
-permalink: "/how-to-make-a-small-room-look-bigger/"
+permalink: "/how-to-make-small-room-look-bigger/"
 layout: post
 ---
 

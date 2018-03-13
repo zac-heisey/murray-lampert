@@ -1,7 +1,7 @@
 ---
 title: For Kitchen Remodeling, Hire A General Contractor
 date: 2010-06-02 09:46:08 Z
-permalink: "/for-kitchen-remodeling-hire-a-general-contractor/"
+permalink: "/for-kitchen-remodeling-hire-general-contractor/"
 layout: post
 ---
 
