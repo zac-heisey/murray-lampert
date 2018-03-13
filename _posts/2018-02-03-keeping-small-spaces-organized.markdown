@@ -8,7 +8,7 @@ excerpt: If you live in a small San Diego home, these tips will help you keep yo
   home organized and clutter free. It's all about utilizing the space you have! Click
   to read our creative tips for maximizing space.
 author: 'Gregg Cantor '
-Field name:
+Field name: 
 layout: post
 ---
 
