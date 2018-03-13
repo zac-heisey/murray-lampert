@@ -1,7 +1,7 @@
 ---
-title: What Home Improvements Are Tax Deductible?
+title: Which Home Improvements Are Tax Deductible?
 date: 2015-02-17 09:30:51 Z
-permalink: "/what-home-improvements-are-tax-deductible/"
+permalink: "/which-home-improvements-are-tax-deductible/"
 layout: post
 ---
 
