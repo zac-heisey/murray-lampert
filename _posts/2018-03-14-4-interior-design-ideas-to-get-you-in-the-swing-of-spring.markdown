@@ -58,14 +58,14 @@ You’d be surprised at how many low maintenance house plant options there are. 
 
 Some of our favorite low maintenance indoor plants include:
 
--Snake Plant/Mother in Law’s Tongue
--English Ivy
--Boston Ferns
--Dracena
--Cat Palms
--Various Cacti
--Rubberplant
--Spiderplant
+- Snake Plant/Mother in Law’s Tongue
+- English Ivy
+- Boston Ferns
+- Dracena
+- Cat Palms
+- Various Cacti
+- Rubberplant
+- Spiderplant
 
 ![image of plants on a wooden rack](/uploads/second-plant.jpeg "Small Potted Plants Can Have a Major Aesthetic Impact")
 
