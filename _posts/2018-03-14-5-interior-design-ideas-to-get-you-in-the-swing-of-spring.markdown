@@ -10,15 +10,15 @@ author: Gregg Cantor
 layout: post
 ---
 
-Get in the swing this Spring by freshening up your home’s interior. You don’t need to go crazy with a full redesign to enliven your home for spring. A few updates to your [home design](https://murraylampert.com/san-diego-home-design-services) can make a huge difference!
+Get in the swing this Spring by freshening up your home’s interior. You don’t need to go crazy with a full redesign to enliven your home for spring. A few updates to your [home design](/san-diego-home-design-services) can make a huge difference!
 
-Our friends at West Elm, Pottery Barn, and Anthropologie have been teasing spring trends for weeks now. We've been working hard to uncover the top [2018 home remodeling trends](/2018-home-remodeling-trends/), and below are four interior design ideas we think are perfect for Spring.
+Furniture retailers like West Elm, Pottery Barn, and Anthropologie have been teasing spring trends for weeks now. We've been working hard to uncover the top [2018 home remodeling trends](/2018-home-remodeling-trends/), and below are five interior design ideas we think are perfect for Spring.
 
 ### 1. Pastels
 
 We’re seeing pastels everywhere! From bedding to pillows, shams, and throw blankets, pastels are taking over Spring. Think watery yellows, soft bubble-gum pinks, pistachio green, or lavender purples. Pastels are a color trend that will surely carry into Summer, so don’t shy away from incorporating more pastels into your home!
 
-![image of white nightstand with cactus plant](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/pastels-f760d6.png?download "Nothing Says Spring Quite Like Pastels")
+![image of white nightstand with cactus plant](/uploads/pastels-f760d6.png?download "Nothing Says Spring Quite Like Pastels")
 
 ### 2. Geometric Patterns and Textures
 
@@ -26,21 +26,21 @@ You don’t need to have a modern style home to incorporate geometric patterns a
 
 [Linear Mercury Hurricane Vases](https://www.westelm.com/products/linear-mercury-hurricanes-vases-d5160/?pkey=e%7Cgeometric\+vase%7C66%7Cbest%7C0%7C1%7C24%7C%7C19&cm_src=NLASEARCH) - West Elm
 
-![image of linear mercury hurricane vases](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/ml-hurricane-candles-westelm.png?download "Linear Mercury Hurricane Vases")
+![image of linear mercury hurricane vases](/uploads/ml-hurricane-candles-westelm.png?download "Linear Mercury Hurricane Vases")
 
 [Faceted Porcelain Vases](https://www.westelm.com/products/linear-mercury-hurricanes-vases-d5160/?pkey=e%7Cgeometric\+vase%7C66%7Cbest%7C0%7C1%7C24%7C%7C19&cm_src=NLASEARCH) - West Elm
 
-![image of faceted porcelain vases](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/ML-FACETED-VASES-a8b198.png?download "Faceted Porcelain Vases")
+![image of faceted porcelain vases](/uploads/ML-FACETED-VASES-a8b198.png?download "Faceted Porcelain Vases")
 
 [Textured Geometric Chevron Pillow](https://www.anthropologie.com/shop/fringed-chevron-pillow?category=SEARCHRESULTS&color=011) - Anthropologie
 
-![image of textured geometric chevron pillow](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/ml-textured-pillow.png?download "Textured Geometric Chevron Pillow")
+![image of textured geometric chevron pillow](/uploads/ml-textured-pillow.png?download "Textured Geometric Chevron Pillow")
 
 ### 3. Poufs
 
 Add some bohemian flare to your home this Spring with [poufs](https://www.wayfair.com/decor-pillows/sb0/poufs-c531218.html)! There are so many colors, patterns and textures to choose from that you’re bound to find a pouf or two to match your current aesthetic.
 
-![image of pouf seating in a living room](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/ml-pouf.png?download "Poufs Add Style and Utility to Your Seating Arrangement")
+![image of pouf seating in a living room](/uploads/ml-pouf.png?download "Poufs Add Style and Utility to Your Seating Arrangement")
 
 *Image Source: [@sincerelyjules](https://www.instagram.com/p/BTo-ditADTm/?taken-by=sincerelyjules)*
 
@@ -50,7 +50,7 @@ Place one or two on your living room floor near the coffee table, or add one to 
 
 This Spring more than ever, it will be all about foliage. Time to work on your green thumb, because plants are taking interior design by storm! Design savvy homeowners are filling their homes with oxygenating plants and for good reason. They help clear toxins from the air, reduce pollutants, and simply look gorgeous.
 
-![image of three indoor succulents in white vases](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/indoor-plants.jpeg?download "Indoor Plants for the Win this Spring!")
+![image of three indoor succulents in white vases](/uploads/indoor-plants.jpeg?download "Indoor Plants for the Win this Spring!")
 
 You’d be surprised at how many low maintenance house plant options there are. We all live busy lives, and adding more plants to your home should add benefits to it, not complicate it.
 
@@ -72,16 +72,16 @@ Some of our favorite low maintenance indoor plants include:
 
 * Spiderplant
 
-![image of plants on a wooden rack](/api/v2/sites/593608389a82c04da456b81f/source/_uploads/second-plant.jpeg?download "Small Potted Plants Can Have a Major Aesthetic Impact")
+![image of plants on a wooden rack](/uploads/second-plant.jpeg?download "Small Potted Plants Can Have a Major Aesthetic Impact")
 
-5\. Natural Elements
+### 5. Natural Elements
 
 Personally, we feel that nature will never go out of style. Don't you agree? But we're not the only ones! The home design gurus at CB2, Anthropologie and West Elm are touting several natural home furnishing options that are perfect for spring!  
 
 We love CB2's [Artisan Dinnerware Collection](https://www.crateandbarrel.com/special-features/handmade-dinnerware/1) and this [reclaimed wood bed](https://www.westelm.com/products/alexa-bed-set-h771/?pkey=e%7Cwooden%2Bbed%7C85%7Cbest%7C0%7C1%7C24%7C%7C3&cm_src=PRODUCTSEARCH) from West Elm.
 
-If you're undergoing a home remodel and want to add natural elements to your design, consider floating shelves, sliding reclaimed wood doors and premium flooring. Of course, if you need help with your [interior design concepts](https://murraylampert.com/san-diego-home-design-services), our team can help! 
+If you're undergoing a home remodel and want to add natural elements to your design, consider floating shelves, sliding reclaimed wood doors and premium flooring.
 
-[![alexa-reclaimed-wood-bed-o.jpg](/uploads/alexa-reclaimed-wood-bed-o.jpg)](https://www.westelm.com/products/alexa-bed-set-h771/?pkey=e%7Cwooden%2Bbed%7C85%7Cbest%7C0%7C1%7C24%7C%7C3&cm_src=PRODUCTSEARCH)
+![image of reclaimed wood bed frame](/uploads/alexa-reclaimed-wood-bed-o.jpg "Bring Spring Indoors with Natural Elements")
 
-And there you have it! These are the top 4 Spring interior design trends that we’re swooning over in 2018. We hope these ideas give you lots of design inspiration for your San Diego home this Spring and Summer. Cheers to warmer weather and longer nights!
+And there you have it! These are five Spring interior design trends that we’re swooning over in 2018. We hope these ideas give you lots of design inspiration for your San Diego home this Spring and Summer. Cheers to warmer weather and longer nights!
