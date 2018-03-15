@@ -8,7 +8,7 @@ categories:
 - Home DIY Tips
 - Outdoor Spaces
 featured-image: "/uploads/03-10-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio we chat with Show System Pavers,
+excerpt: This week on The Approved Home Pro Radio Show we chat with Show System Pavers,
   SunPower by Milholland, and Contract Carpet. Listen to the full audio here!
 author: Gregg Cantor
 layout: post
