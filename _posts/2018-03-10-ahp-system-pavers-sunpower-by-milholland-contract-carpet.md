@@ -1,5 +1,6 @@
 ---
-title: Approved Home Pro Show - System Pavers, SunPower by Milholland, and Contract Carpet
+title: Approved Home Pro Show - System Pavers, SunPower by Milholland, and Contract
+  Carpet
 date: 2018-03-10 00:00:00 Z
 categories:
 - Approved Home Pros
@@ -7,7 +8,8 @@ categories:
 - Home DIY Tips
 - Outdoor Spaces
 featured-image: "/uploads/03-10-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio we chat with Show System Pavers, SunPower by Milholland, and Contract Carpet. Listen to the full audio here!
+excerpt: This week on The Approved Home Pro Radio we chat with Show System Pavers,
+  SunPower by Milholland, and Contract Carpet. Listen to the full audio here!
 author: Gregg Cantor
 layout: post
 ---
