@@ -12,7 +12,7 @@ Earlier this year, Houzz released their annual [Kitchen Trends Study](https://ww
 
 ## The Highlights
 
-While Houzz included [decluttering](/keeping-small-spaces-organized/), changing preferences for countertop materials and kitchen styles, a growing integration of technology as the "Big Ideas" of the study, we've included a few highlights or our own that we felt were noteworthy.
+While Houzz included [decluttering](/keeping-small-spaces-organized/), changing preferences for countertop materials and kitchen styles, and the growing integration of technology as the "Big Ideas" of the study, we've included a few highlights or our own that we felt were noteworthy.
 
 #### Kitchen Remodel Costs Hinge On Size & Scope
 
