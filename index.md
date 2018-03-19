@@ -23,11 +23,11 @@ works:
   title: Contemporary Kitchen
   desc: Del Mar
   url: san-diego-kitchen-remodeling-services
-- image: uploads/q1-ebook-homepage-graphic.png
-  class: 
-  title: Home Remodeling Trends in 2018
-  desc: Download Your Free Guide Here
-  url: landing/san-diego-home-remodeling-trends-2018/
+- image: uploads/wise-framing-drone.jpg
+  class: under-construction
+  title: Full-Service Home Remodeling
+  desc: We Lead Your Project From Start to Finish
+  url: under-construction-gallery
 - image: uploads/berry-historical-exterior-1.jpg
   class: major-renovations featured-projects wide
   title: Featured Project
@@ -38,10 +38,10 @@ works:
   title: Sustainable Design
   desc: Impeccable Craftsmanship
   url: about-murray-lampert-design-build-remodel
-- image: uploads/DelCerroWholeHomeRender.jpg
-  class: 3d-project-modeling
-  title: Full Color 3D Modeling
-  desc: Visualize Your Project<br> Before Started
+- image: uploads/mehdizadeh-rendering3.png
+  class: 3d-project-modeling rendering
+  title: Full Color 3D Modeling & Renderings
+  desc: Visualize Your Project<br> Before Getting Started
   url: 3d-architectural-rendering-services
 - image: uploads/SolanaBeachWholeHome.jpg
   class: room-additions
@@ -95,4 +95,3 @@ feat_testimonials:
     I recommend him and the team at Murray Lampert to anyone in need of quality construction
     services.
 ---
-
