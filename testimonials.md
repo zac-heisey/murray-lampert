@@ -1,11 +1,11 @@
 ---
 title: Murray Lampert Testimonials
 permalink: "/testimonials"
-layout: default
 section_id: testimonials
 featured-image: 
 excerpt: Customer testimonials for Murray Lampert's work on second stories, custom
   kitchens & bath remodels, room additions, and complete home remodeling projects.
+layout: default
 ---
 
 ## Below Are A Few Testimonials from Happy Home Remodeling Clients
@@ -21,7 +21,7 @@ excerpt: Customer testimonials for Murray Lampert's work on second stories, cust
 > "[Murray Lampert Design, Build, Remodel](/) recently completed a beautiful remodel of our master bathroom. We were completely satisfied with the process from planning, execution, to completion. This was a total cradle to grave operation with nothing left to follow up or complete at a later date. The team was outstanding and I would recommend them to anyone looking for work to be done on or in their home!" - _MICHAEL & STACEY - CHULA VISTA_
 
 ### Room Addition & Remodeling
-> "I contacted 4 top contractors in San Diego area to do our construction project. After their presentation of their plan, Murray Lampert stood the best especially the cost of the project. The quality of the work, cost and early completion of the project makes us happy of the right decision that we made why we choose Murray Lampert among other contractors. The [Murray Lampert team](/about-murray-lampert-design-build-remodel#team-members) are very good communicators. We are always informed every phase of the project. We were given an opportunity to upgrade or change the materials was put into the project. We received a lot of positive compliments the quality and workmanship of the project." - _STAN & GEMMA - SPRING VALLEY_
+> "We contacted 4 top contractors in the San Diego area to do our construction project. After the presentation of their plan, Murray Lampert stood out as the best, especially with the cost of the project. The quality of the work, cost, and early completion of the project makes us happy we choose Murray Lampert among the other contractors. The [Murray Lampert team](/about-murray-lampert-design-build-remodel#team-members) are great communicators, and they kept us informed throughout each phase of our project. We've received a lot of positive compliments on the quality and workmanship of the finished project." - _STAN & GEMMA - SPRING VALLEY_
 
 ### Second Story & Kitchen
 > "It was a pleasure having Murray Lampert [remodel my home](/san-diego-home-remodel-services). They were very attentive to any of my concerns and I couldn't be happier with the the completed project. Everyone at Murray Lampert was amazing and great to work with." - _ARMIDA - SAN DIEGO_
