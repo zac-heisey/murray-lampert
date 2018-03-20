@@ -52,4 +52,4 @@ According to the survey, homeowners in the market for a [kitchen remodel in San 
 
 > Looking for more remodeling trends in 2018? Click the button below to see our complete guide.
 
-<a class="button default" href="https://murraylampert.com/uploads/2018-home-remodeling-trends.pdf">2018 Home Remodeling Trends Guide</a>
+<a class="button default" href="https://murraylampert.com/2018-home-remodeling-trends">2018 Home Remodeling Trends Guide</a>
