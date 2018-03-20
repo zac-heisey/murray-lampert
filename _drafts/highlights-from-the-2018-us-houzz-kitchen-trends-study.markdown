@@ -11,7 +11,8 @@ layout: post
 
 Earlier this year, Houzz released their annual [Kitchen Trends Study](https://www.houzz.com/ideabooks/101927755/list/2018-us-houzz-kitchen-trends-study) based on survey responses by over 1,700 homeowners across the United States. The respondents were asked about their recent or planned kitchen renovation projects, and the results are very much in line with what our team highlighted in our own [2018 Home Remodeling Trends guide](/2018-home-remodeling-trends/).
 
-<a href='https://www.houzz.com/photo/110127883-2018-us-houzz-kitchen-trends-study' target='_blank'><img src='https://st.hzcdn.com/simgs/52e1459c0a5634b1_8-9026/home-design.jpg' alt='' border=0 width='500' height='290' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
+<a href='https://www.houzz.com/photo/110127883-2018-us-houzz-kitchen-trends-study' target='_blank'><img src='https://st.hzcdn.com/simgs/52e1459c0a5634b1_8-9026/home-design.jpg' alt='cutaway illustration of kitchen' title='Houzz 2018 Kitchen Trends Study Highlights' border=0 width='500' height='290' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
+_Image Source: Houzz.com_
 
 ## The Highlights
 
@@ -25,6 +26,22 @@ Major upgrades to larger kitchens (200+ sq.ft.) had an average spend of $42,000,
 
 #### Kitchen Style Preferences are Shifting
 
-While a key takeaway from [last year's Houzz Kitchen Trends Study](https://www.houzz.com/ideabooks/92044853/list/2017-us-houzz-kitchen-trends-study) was the preference for modern and farmhouse kitchens, particularly among millennial homeowners, this year's study finds that more respondents are opting for 
+While a key takeaway from [last year's Houzz Kitchen Trends Study](https://www.houzz.com/ideabooks/92044853/list/2017-us-houzz-kitchen-trends-study) was the preference for modern and traditional kitchens, particularly among millennial homeowners, this year's study finds that more respondents are opting for [transitional kitchen styles](https://www.houzz.com/ideabooks/1989275/list/kitchen-workbook-8-elements-of-a-transitional-kitchen).
 
-<a href='https://www.houzz.com/photo/391391-white-kitchen-cabinets-shaker-door-style-cliqstudios-traditional-kitchen-minneapolis' target='_blank'><img src='https://st.hzcdn.com/simgs/4ac1821c0edfb89c_8-1345/traditional-kitchen.jpg' alt='' border=0 width='500' height='348' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
+The battle for kitchen style supremacy continues, as transitional overtook contemporary after losing the top spot last year. This marks the third year in a year that these styles have swamped places as the preferred kitchen style in Houzz's survey.
+
+<a href='https://www.houzz.com/photo/391391-white-kitchen-cabinets-shaker-door-style-cliqstudios-traditional-kitchen-minneapolis' target='_blank'><img src='https://st.hzcdn.com/simgs/4ac1821c0edfb89c_8-1345/traditional-kitchen.jpg' alt='image of transitional kitchen' title='Transitional Kitchens are the Preferred Style in 2018' border=0 width='500' height='348' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
+_Image Source: Houzz.com_
+
+#### More Technology and Smarter Appliances
+
+The emergence of smart kitchen technology that we noted in our 2018 Home Remodeling Guide was echoed in Houzz's study, with high-tech features like touchscreens and built-in speakers appearing in 25% of new kitchen appliances. The study also reported that voice-control and wireless activation capabilities were featured in 11% of upgraded kitchen appliances in 2017-2018, a trend that is likely to grow as home technology evolves.
+
+![bar graphs showing growth of high-tech kitchen appliances](/uploads/spend-size-scope.png "Technology is Appearing in More Upgraded Kitchen Appliances")
+
+#### Coastal Homeowners Have the Highest Kitchen Remodel Costs
+
+No surprise here for most homeowners on the east and west coasts. Residents in San Francisco, Philadelphia, and Washington D.C. can expect to pay the most for both major and minor upgrades to their large or small kitchens.
+
+According to the survey, homeowners in the market for a [kitchen remodel in San Diego](/san-diego-kitchen-remodeling-services) can expect to invest between $45,000 - $17,000 for a large kitchen remodel, and around $25,000 - $15,000 for smaller kitchen renovation projects.
+
