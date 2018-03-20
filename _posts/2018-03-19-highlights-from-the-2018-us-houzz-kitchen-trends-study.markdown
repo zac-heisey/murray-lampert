@@ -1,6 +1,8 @@
 ---
 title: Highlights from the 2018 U.S. Houzz Kitchen Trends Study
 date: 2018-03-19 21:13:00 Z
+categories:
+- Kitchen Remodeling
 featured-image: "/uploads/2018-us-houzz-kitchen-trends-study.png"
 excerpt: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for homeowners
   and remodelers alike. We highlight a few of the main takeaways from this year's
@@ -10,9 +12,6 @@ layout: post
 ---
 
 Earlier this year, Houzz released their annual [Kitchen Trends Study](https://www.houzz.com/ideabooks/101927755/list/2018-us-houzz-kitchen-trends-study) based on survey responses by over 1,700 homeowners across the United States. The respondents were asked about their recent or planned kitchen renovation projects, and the results are very much in line with what our team highlighted in our own [2018 Home Remodeling Trends guide](/2018-home-remodeling-trends/).
-
-<a href='https://www.houzz.com/photo/110127883-2018-us-houzz-kitchen-trends-study' target='_blank'><img src='https://st.hzcdn.com/simgs/52e1459c0a5634b1_8-9026/home-design.jpg' alt='cutaway illustration of kitchen' title='Houzz 2018 Kitchen Trends Study Highlights' border=0 width='500' height='290' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
-_Image Source: Houzz.com_
 
 ## The Highlights
 
@@ -30,8 +29,8 @@ While a key takeaway from [last year's Houzz Kitchen Trends Study](https://www.h
 
 The battle for kitchen style supremacy continues, as transitional overtook contemporary after losing the top spot last year. This marks the third year in a year that these styles have swamped places as the preferred kitchen style in Houzz's survey.
 
-<a href='https://www.houzz.com/photo/391391-white-kitchen-cabinets-shaker-door-style-cliqstudios-traditional-kitchen-minneapolis' target='_blank'><img src='https://st.hzcdn.com/simgs/4ac1821c0edfb89c_8-1345/traditional-kitchen.jpg' alt='image of transitional kitchen' title='Transitional Kitchens are the Preferred Style in 2018' border=0 width='500' height='348' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;'/></a>
-_Image Source: Houzz.com_
+![image of transitional kitchen](http://safetylightapp.com/wp-content/uploads/2018/03/27-kitchens-with-open-shelving-for-kitchen-plans-10.jpg)
+_Image Source: safetylightapp.com_
 
 #### More Technology and Smarter Appliances
 
@@ -48,3 +47,9 @@ According to the survey, homeowners in the market for a [kitchen remodel in San 
 ![chart of large kitchen remodel costs by city](/uploads/large-kitchen-remodel-cost.png "Large Kitchen Remodel Costs by City")
 
 ![chart of small kitchen remodel costs by city](/uploads/small-kitchen-remodel-cost.png "Small Kitchen Remodel Costs by City")
+
+---
+
+> Looking for more remodeling trends in 2018? Click the button below to see our complete guide.
+
+<a class="button default" href="https://murraylampert.com/uploads/2018-home-remodeling-trends.pdf">2018 Home Remodeling Trends Guide</a>
