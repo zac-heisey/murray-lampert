@@ -37,7 +37,7 @@ _Image Source: Houzz.com_
 
 The emergence of smart kitchen technology that we noted in our 2018 Home Remodeling Guide was echoed in Houzz's study, with high-tech features like touchscreens and built-in speakers appearing in 25% of new kitchen appliances. The study also reported that voice-control and wireless activation capabilities were featured in 11% of upgraded kitchen appliances in 2017-2018, a trend that is likely to grow as home technology evolves.
 
-![bar graphs showing growth of high-tech kitchen appliances](/uploads/spend-size-scope.png "Technology is Appearing in More Upgraded Kitchen Appliances")
+![bar graphs showing growth of high-tech kitchen appliances](/uploads/appliances-with-tech.png "Technology is Appearing in More Upgraded Kitchen Appliances")
 
 #### Coastal Homeowners Have the Highest Kitchen Remodel Costs
 
@@ -45,3 +45,6 @@ No surprise here for most homeowners on the east and west coasts. Residents in S
 
 According to the survey, homeowners in the market for a [kitchen remodel in San Diego](/san-diego-kitchen-remodeling-services) can expect to invest between $45,000 - $17,000 for a large kitchen remodel, and around $25,000 - $15,000 for smaller kitchen renovation projects.
 
+![chart of large kitchen remodel costs by city](/uploads/large-kitchen-remodel-cost.png "Large Kitchen Remodel Costs by City")
+
+![chart of small kitchen remodel costs by city](/uploads/small-kitchen-remodel-cost.png "Small Kitchen Remodel Costs by City")
