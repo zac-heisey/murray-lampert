@@ -40,6 +40,9 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /what-home-improvements-are-tax-deductible*  /which-home-improvements-are-tax-deductible/  301
 /for-kitchen-remodeling-hire-a-general-contractor*  /for-kitchen-remodeling-hire-general-contractor/  301
 /how-to-make-a-small-room-look-bigger*  /how-to-make-small-room-look-bigger/  301
+/home-remodeler-awards*  /awards-affiliations  301
+/affiliation  /awards-affiliations  301
+//scripps-ranch-ca-home-renovations/*  /service-locations/scripps-ranch-design-build-and-remodel-services  301
 
 
 ### BLOG REDIRECTS
@@ -479,7 +482,7 @@ http://murraylampert.com/6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for
 /2016-kitchen-cabinet-trends/	/2016-kitchen-cabinet-trends-something-for-everyone/	301
 /kitchen-cabinet-trends*	/the-top-five-kitchen-cabinet-trends-that-will-rule-2017/	301
 /final-check-before-your-hire-a-remodeling-company/	/final-check-before-hiring-remodeling-company-san-diego/	301
-/find-the-best-general-contractor-san-diego/	/how-to-find-the-best-general-contractor/	301
+/find-the-best-general-contractor-san-diego/*	/how-to-find-the-best-general-contractor/	301
 /room-addition-santee/	/room-additions-santee/	301
 /room-addition-pacific-beach/	/room-additions-pacific-beach/	301
 /room-addition-rancho-bernardo/	/room-additions-rancho-bernardo/	301
