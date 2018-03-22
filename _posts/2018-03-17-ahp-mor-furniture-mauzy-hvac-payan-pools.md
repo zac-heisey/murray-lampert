@@ -1,5 +1,6 @@
 ---
-title: Approved Home Pro Show - Mor Furniture for Less, Mauzy Heating, Air & Solar, and Payan Pool Service
+title: Approved Home Pro Show - Mor Furniture for Less, Mauzy Heating, Air & Solar,
+  and Payan Pool Service
 date: 2018-03-17 00:00:00 Z
 categories:
 - Approved Home Pros
