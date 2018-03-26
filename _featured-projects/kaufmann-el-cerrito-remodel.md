@@ -5,7 +5,7 @@ section_id: projects
 client: Kaufmann
 location: El Cerrito
 project-date: In Progress
-featured-video:
+featured-video: 
 featured-images:
 - uploads/kaufmann-floorplan-1.jpg
 - uploads/kaufmann-basement-in-progress-1.jpg
@@ -14,7 +14,8 @@ featured-images:
 - uploads/kaufmann-exterior-in-progress-2.jpg
 - uploads/kaufmann-exterior-in-progress-3.jpg
 - uploads/kaufmann-exterior-in-progress-4.jpg
-excerpt: Home renovation in the El Cerrito neighborhood of San Diego. Get in-progress updates, before & after photos, and more from this featured project by Murray Lampert.
+excerpt: Home renovation in the El Cerrito neighborhood of San Diego. Get in-progress
+  updates, before & after photos, and more from this featured project by Murray Lampert.
 ---
 
 This latest featured project in San Diego's El Cerrito neighborhood is home to Scott and Karie Kaufmann. Karie is a good friend of ours, and she's been a valuable partner and [business coach](http://kariekaufmann.com/) to us over the years.
