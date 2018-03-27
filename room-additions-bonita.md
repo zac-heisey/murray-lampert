@@ -3,7 +3,7 @@ title: Room Additions Bonita
 permalink: "/room-additions-bonita"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Bonita,
   San Diego. Take your Bonita home addition to the next level with us.
 ---
@@ -12,7 +12,7 @@ Bonita is a community in San Diego community offering mild weather year-round, e
 
 A vital part of Bonita residents’ lifestyle is the [Chula Vista Municipal Golf Course](http://www.chulavistagc.com/), located in central Bonita. In addition to world-class golf, this recreational facility offers hiking, running, and cycling. Citizens of Bonita also enjoy horseback riding, as equestrianism has been part of the community’s tradition for quite some time.
 
-For all these reasons and more, Bonita homeowners simply love living here. With growing numbers of family members, the need for additional space becomes an important reason for home improvement projects. Many homeowners in Bonita choose to undergo home or room addition projects to add more space and value to their homes.
+For all these reasons and more, Bonita homeowners simply love living here. With growing numbers of family members, the need for additional space becomes an important reason for a [home remodel in Bonita](/service-locations/bonita-design-build-and-remodel-services/). Many homeowners in Bonita choose to undergo home or room addition projects to add more space and value to their homes.
 
 ## Quality Bonita Home & Room Additions
 
