@@ -3,7 +3,7 @@ title: Kitchen Remodeling Bonita
 permalink: "/kitchen-remodeling-bonita"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Bonita, San Diego by Murray Lampert Design, Build,
   Remodel. Bonita kitchen remodel experts since 1975. Visit us today!
 ---

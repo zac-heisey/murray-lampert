@@ -3,7 +3,7 @@ title: Room Additions Bonita
 permalink: "/room-additions-bonita"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Bonita,
   San Diego. Take your Bonita home addition to the next level with us.
 ---
