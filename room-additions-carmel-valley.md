@@ -3,7 +3,7 @@ title: Room Additions Carmel Valley
 permalink: "/room-additions-carmel-valley"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Carmel
   Valley, San Diego. Take your Carmel Valley home addition to the next level with
   us.
@@ -17,7 +17,7 @@ Carmel Valley is one of the perfect getaways in California. It has an old town b
 
 Due to the growing number of families in this region, there has been a significant need for room & home additions in Carmel Valley. However, the task of expanding your home can be daunting, and going it alone can lead to cost overruns, blown timelines, and disappointing results.
 
-Don't worry - Murray Lampert Design, Build, Remodel has you covered! We're a leading full-service [home remodeling company in San Diego](/san-diego-home-remodel-services), with over 40 years of experience and 4 generations of remodeling professionals on staff. Our team is ready to take your Carmel Valley room addition from idea to amazing!
+Don't worry - Murray Lampert Design, Build, Remodel has you covered! We're a leading full-service [home remodeling company in San Diego](/san-diego-home-remodel-services), with over 40 years of experience and 4 generations of remodeling professionals on staff. Our team is ready to take your [Carmel Valley home remodel](/service-locations/carmel-valley-design-build-and-remodel-services/) project from idea to amazing!
 
 ### Personalized, Quality Remodeling Services in Carmel Valley
 

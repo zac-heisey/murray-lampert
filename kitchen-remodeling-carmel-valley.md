@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carmel Valley
 permalink: "/kitchen-remodeling-carmel-valley"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Carmel Valley, San Diego. Take your Carmel Valley kitchen remodel to the next level
   with us.
@@ -17,7 +17,7 @@ Carmel Valley residents are quite sporty, and participate in a variety of recrea
 
 ## Superior Kitchen Remodel Service in Carmel Valley
 
-Since the kitchen is one of the most important parts of any home, it pays to think of it first when considering a [home remodeling project](/san-diego-home-remodel-services). If your kitchen is too small, poorly designed, or outdated, consider a full kitchen remodel in your Carmel Valley home. Kitchen remodeling is one of the primary services we provide at **>Murray Lampert Design, Build, Remodel**.
+Since the kitchen is one of the most important parts of any home, it pays to think of it first when considering a [home remodel in Carmel Valley](/service-locations/carmel-valley-design-build-and-remodel-services/). If your kitchen is too small, poorly designed, or outdated, consider a full kitchen remodel in your Carmel Valley home. Kitchen remodeling is one of the primary services we provide at **>Murray Lampert Design, Build, Remodel**.
 
 As [San Diego's top design, build, remodeling firm](/another-better-business-bureau-torch-award/), Murray Lampert provides all of our clients with a variety of options when it comes to the planning and execution of their ideal kitchen remodel. We believe our [reviews](/reviews) and [testimonials](/testimonials) speak volumes about the level of craftsmanship and customer service you can expect when you work with us.
 
