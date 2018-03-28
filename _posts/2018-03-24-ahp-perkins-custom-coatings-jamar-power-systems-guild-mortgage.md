@@ -1,5 +1,6 @@
 ---
-title: Approved Home Pro Show - Perkins Custom Coatings, Jamar Power Systems, and Guild Mortgage
+title: Approved Home Pro Show - Perkins Custom Coatings, Jamar Power Systems, and
+  Guild Mortgage
 date: 2018-03-24 00:00:00 Z
 categories:
 - Approved Home Pros
