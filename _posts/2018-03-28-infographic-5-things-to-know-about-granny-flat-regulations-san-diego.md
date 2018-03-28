@@ -5,7 +5,8 @@ categories:
 - In-law Suites
 - Infographics
 featured-image: "/uploads/ADU-sketch-hausable.png"
-excerpt: In this animated infographic, we outline 5 important things homeowners should know about recent changes to ADU regulations in San Diego.
+excerpt: In this animated infographic, we outline 5 important things homeowners should
+  know about recent changes to ADU regulations in San Diego.
 author: Gregg Cantor
 layout: post
 ---
