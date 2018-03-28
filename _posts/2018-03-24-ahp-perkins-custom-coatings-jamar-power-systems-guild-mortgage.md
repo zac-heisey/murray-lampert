@@ -8,8 +8,8 @@ categories:
 - Real Estate
 - Outdoor Spaces
 featured-image: "/uploads/03-24-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we chat with System Pavers,
-  SunPower by Milholland, and Contract Carpet. Listen to the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we have Perkins Custom Coatings,
+  Jamar Power Systems, and Guild Mortgage. Listen to the full audio here!
 author: Gregg Cantor
 layout: post
 ---
