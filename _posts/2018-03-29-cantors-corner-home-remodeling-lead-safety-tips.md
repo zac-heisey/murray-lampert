@@ -5,7 +5,9 @@ categories:
 - Cantor's Corner
 - Home Remodeling
 featured-image: "/uploads/cantors-corner.png"
-excerpt: By not adhering to lead-safe practices during your home remodeling project, your family's health may be at risk. Learn more about lead safety on this edition of Cantor's Corner.
+excerpt: By not adhering to lead-safe practices during your home remodeling project,
+  your family's health may be at risk. Learn more about lead safety on this edition
+  of Cantor's Corner.
 author: Gregg Cantor
 layout: post
 ---
