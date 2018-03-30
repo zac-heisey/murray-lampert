@@ -3,8 +3,9 @@ title: Home Additions Carmel Mountain
 permalink: "/home-additions-carmel-mountain"
 layout: default
 section_id: room-additions
-featured-image:
-excerpt: Since 1975, Murray Lampert has specialized in Carmel Mountain home addition projects. If you're looking for a room addition in Carmel Mountain, contact us today.
+featured-image: 
+excerpt: Since 1975, Murray Lampert has specialized in Carmel Mountain home addition
+  projects. If you're looking for a room addition in Carmel Mountain, contact us today.
 ---
 
 Carmel Mountain is a San Diego community that is famous for its yearly events organized by the welcoming local residents. These events are a real opportunity for local businesses, organizations, and schools to interact, especially during the famous fall festival.

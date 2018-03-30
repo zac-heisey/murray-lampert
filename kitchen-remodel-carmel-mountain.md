@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carmel Mountain
 permalink: "/kitchen-remodel-carmel-mountain"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in Carmel Mountain, San Diego by Murray Lampert Design,
   Build, Remodel. Carmel Mountain kitchen remodel experts since 1975. Visit us today!
 ---

@@ -2,9 +2,9 @@
 title: Carmel Mountain Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image:
-excerpt: Murray Lampert home remodeling in Carmel Mountain. We have over 40 years experience
-  providing design, build, and remodel services in Carmel Mountain.
+featured-image: 
+excerpt: Murray Lampert home remodeling in Carmel Mountain. We have over 40 years
+  experience providing design, build, and remodel services in Carmel Mountain.
 ---
 
 Carmel Mountain, also known as "Carmel Mountain Ranch" or "CMR" by locals, is situated near Rancho Peñasquitos and Rancho Bernardo in Northeast San Diego County. The roughly 50,000 residents in Carmel Mountain boast an [average household income of $113,858](https://www.point2homes.com/US/Neighborhood/CA/San-Diego/Carmel-Mountain-Demographics.html), putting them in a good position to enhance their homes through a variety of [design-build services](/design-build-services-san-diego).
