@@ -48,7 +48,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 
 ### BLOG REDIRECTS
-/news-and-tips/  /blog/  301
+/news-and-tips/*  /blog/  301
 /tag/*  /blog/categories  301
 /category/*  /blog/categories  301
 /blog/page/*  /blog/page:splat/  301
@@ -280,7 +280,6 @@ http://www.murraylampert.com/*.php	/	301
 /wordpress/2012/06/choosing-a-company-renovation/	/choosing-a-company-renovation/	301
 /wordpress/?p=20	/blog/	301
 /author/zac-heisey/page/2/	/blog/	301
-/wordpress/2011/06/san-diego-design-build-home-remodeling/trackback/	/san-diego-design-build-home-remodeling/trackback/	301
 /wordpress/2011/03/san-diego-kitchen-bath-remodeling/trackback/	/san-diego-kitchen-bath-remodeling/trackback/	301
 /author/zac-heisey/page/7/	/blog/	301
 /author/zac-heisey/page/5/	/blog/	301
@@ -313,7 +312,6 @@ http://www.murraylampert.com/*.php	/	301
 /services/san-diego-design/	/san-diego-design-build-contractors/	301
 /san-diego-design-remodeling-firms/	/san-diego-design-build-contractors/	301
 /wordpress/2012/03/better-business-bureau-san-diego/	/better-business-bureau-san-diego/	301
-/news-and-tips/page/8/	/blog/	301
 /wordpress/category/remodeling-san-diego/feed/	/category/remodeling-san-diego/	301
 /wordpress/2010/09/home-remodeler-awards/trackback/	/home-remodeler-awards/trackback/	301
 /author/zac-heisey/page/3/	/blog/	301
@@ -331,7 +329,6 @@ http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /wordpress/2013/08/5-reasons-you-need-an-architect-for-home-remodeling-projects/	/5-reasons-you-need-an-architect-for-home-remodeling-projects/	301
 /wordpress/2012/02/second-interview-with-san-diego-6/	/second-interview-with-san-diego-6/	301
 /wordpress/?p=261	/blog/	301
-/news-and-tips/page/9/	/news-and-tips/	301
 /wordpress/2011/02/san-diego-home-remodeler-screening-guide/trackback/	/san-diego-home-remodeler-screening-guide/	301
 /wordpress/2011/10/american-housing-guild-san-diego-martin-gleich/trackback/	/american-housing-guild-san-diego-martin-gleich/	301
 /wordpress/2011/09/carmel-valley-home-renovation-projects/	/carmel-valley-home-renovation-projects/	301
@@ -373,7 +370,6 @@ http://murraylampert.com/sitemap.xml.gz	/sitemap.xml	301
 /Design,%20Build%20&%20Remodel%20with%20confidence	http://murraylampert.com/	301
 /wordpress/?p=468	/live-remodeling-by-murray-lampert-construction/	301
 /wordpress/?p=266	/have-a-seat-and-relax/	301
-/news-and-tips/page/4/	/news-and-tips/	301
 /wordpress/?p=25	/blog/	301
 /wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/feed/	/5-ways-to-get-your-home-ready-for-summer/feed/	301
 /wordpress/?p=8	/blog/	301
@@ -509,5 +505,9 @@ http://murraylampert.com/6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for
 /san-diego-design-build-remodel/	/san-diego-design-build-contractors/	301
 /battle-of-the-tape*  /battle-of-the-tape-duct-mastic-vs-foil-tape/	301
 /blogs/  /blog/  301
-/home-remodeling-blog/  /blog/  301
+/home-remodeling-blog*  /blog/  301
 /san-diego-home-remodeling-blog*  /blog/  301
+/home-remodeling-boot-camp*  /blog/  301
+/wordpress/2011/06/san-diego-design-build-home-remodeling*  /san-diego-design-build-contractors  301
+/wordpress/2011/06/san-diego-design-build-home-remodeling/trackback/	/san-diego-design-build-home-remodeling/trackback/	301
+/san-diego-design-build-home-remodeling*  /san-diego-design-build-contractors  301
