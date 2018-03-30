@@ -9,11 +9,24 @@ excerpt: Murray Lampert specializes in home design, build, and remodel projects 
 ---
 
 <p><a href="/">Murray Lampert Design, Build, Remodel</a> services all of San Diego County. For information and examples of our work in your area, please click on a location below:</p>
-<br>
-<!-- Temporary way to list out service locations > Update before launch -->
-{% for location in site.service-locations %}
-  {% if location.path contains ".md" %}
-  <h2><a href="{{ location.url }}">{{ location.title }}</a></h2>
-  {% endif %}
-{% endfor %}
+<div class='spacing'></div>
+
+<div class="flex-section">
+  <!-- Service Locations Column 1 -->
+  <div class="categories-section">
+  {% for location in site.service-locations limit: 7 %}
+    {% if location.path contains ".md" %}
+    <h2><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodel" }}</a></h2>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <!-- Service Locations Column 2 -->
+  <div class="categories-section">
+  {% for location in site.service-locations offset: 7 %}
+    {% if location.path contains ".md" %}
+    <h2><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodel" }}</a></h2>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
 <div class='four spacing'></div>
