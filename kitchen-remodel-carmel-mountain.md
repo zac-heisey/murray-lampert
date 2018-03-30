@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carmel Mountain
 permalink: "/kitchen-remodel-carmel-mountain"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Kitchen remodeling in Carmel Mountain, San Diego by Murray Lampert Design,
   Build, Remodel. Carmel Mountain kitchen remodel experts since 1975. Visit us today!
 ---
@@ -12,13 +12,13 @@ Carmel Mountain is a San Diego community comfortably tucked in the shadow of the
 
 This vibrant area hosts plenty of community events, most of which are organized entirely by the hospitable local community. Visiting and taking part in any of the festivities is a real treat. There is the celebrated fall festival with a whole host of colorful booths, where local businesses, schools and community organizations get a chance to interact with each other and the visitors.
 
-However, Carmel Mountain really lights up at Christmas. Every December, more than 80 homes are lit as part of a light show called _[Holiday Magic at Fairway Village](http://www.fairwayvillagenews.com/)_, which really captures the magical holiday spirit.
+However, Carmel Mountain really lights up at Christmas. Every December, more than 80 homes are lit as part of a light show called [Holiday Magic at Fairway Village](http://www.fairwayvillagenews.com/), which really captures the magical holiday spirit.
 
 ## Carmel Mountain Kitchen Remodeling
 
-Residents of Carmel Mountain primarily occupy detached homes, which make up over 50% of all housing options in the area. There's a growing tendency among homeowners in Carmel Mountain, and throughout San Diego, to pursue [home renovation](/major-renovations) and remodeling projects over relocating to a new home.
+Residents of Carmel Mountain primarily occupy detached homes, which make up over 50% of all housing options in the area. There's a growing tendency among homeowners in to pursue [home remodels in Carmel Mountain](/service-locations/carmel-mountain-design-build-and-remodel-services/) rather than relocating to a new home.
 
-Opting for a home addition or kitchen remodel instead of moving allows homeowners to customize a familiar space to their liking, while still enjoying the lifestyle and climate that Southern California is known for.
+Opting for a [home addition](/home-additions-carmel-mountain) or kitchen remodel instead of moving allows homeowners to customize a familiar space to their liking, while still enjoying the lifestyle and climate that Southern California is known for.
 
 Most often, it is the kitchen that needs modernizing and remodeling. It is for this reason that [Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) brings to your attention some of the reasons why you should consider a kitchen remodel in Carmel Mountain.
 
