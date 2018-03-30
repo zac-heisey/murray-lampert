@@ -3,7 +3,7 @@ title: Kitchen Remodeling Carlsbad
 permalink: "/kitchen-remodeling-carlsbad"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Carlsbad, San Diego. Take your Carlsbad kitchen remodel to the next level with us.
 ---
@@ -12,7 +12,7 @@ Carlsbad is a truly vibrant San Diego community with some of the most gorgeous b
 
 This lively community offers plenty of activities, most popular of which include the State Street Farmers' Market, where visitor can enjoy locally prepared food and street entertainment, and Carlsbad Village Art Walk, a special treat for music and theater lovers. For sport lovers, Carlsbad hosts the Carlsbad Grand Prix, at which spectators can enjoy exciting cycling races for free.
 
-Due to Carlsbad’s diversity, Carlsbad residents often rent out to tourists and visitors, and which makes a property's appear and functionality that much more important. One of the most vital areas of the home in this regard, and thus a prime candidate for [home remodeling projects](/san-diego-home-remodel-services), is the kitchen.
+Due to Carlsbad’s diversity, Carlsbad residents often rent out to tourists and visitors, and which makes a property's appear and functionality that much more important. One of the most vital areas of the home in this regard, and thus a prime candidate for [Carlsbad home remodeling projects](/service-locations/carlsbad-design-build-and-remodel-services/), is the kitchen.
 
 ## Quality Kitchen Remodeling in Carlsbad
 
