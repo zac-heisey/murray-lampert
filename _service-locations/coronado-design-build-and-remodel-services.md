@@ -3,8 +3,8 @@ title: Coronado Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: "/uploads/hotel-del-coronado.jpg"
-excerpt: Home remodeling in Coronado by Murray Lampert. Providing superior Coronado design, build,
-  and remodel services for over 40 years. Visit us today!
+excerpt: Home remodeling in Coronado by Murray Lampert. Providing superior Coronado
+  design, build, and remodel services for over 40 years. Visit us today!
 ---
 
 Situated on a peninsula in San Diego Bay, Coronado is a small, affluent resort city featuring world-renowned beaches and the iconic [Hotel del Coronado](https://hoteldel.com/). Besides being a major tourist destination (there are three major resorts on the island), Coronado is also home to a large military contingent, with both Naval Amphibious Base and Naval Air Station North Island located in the area.
