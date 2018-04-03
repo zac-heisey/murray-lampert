@@ -14,7 +14,7 @@ Coronado residents try to preserve their homes and also enhance their functional
 
 ## Custom Kitchen Remodels in Coronado
 
-![image of Cava kitchen remodel project in Coronado](/uploads/cava-621-i-ave-kd-35.jpg "Coronado Kitchen Remodel")
+<img src="/uploads/cava-621-i-ave-kd-35.jpg" title="Coronado Kitchen Remodel" alt="image of Cava kitchen remodel project in Coronado" style="display:block;margin:0 auto;">
 
 ### We tailor our service to suit our clients’ needs
 

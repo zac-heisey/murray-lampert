@@ -11,7 +11,7 @@ Situated on a peninsula in San Diego Bay, Coronado is a small, affluent resort c
 
 Space is extremely limited in Coronado, and a large majority of the home types allowed by zoning laws are single-family homes. Considering the median home value in Coronado is [over $1.5 million](https://www.zillow.com/coronado-ca/home-values/), homeowners in the city tend to stay put and elect to enhance the value and functionality of their investment through various [home remodeling](/san-diego-home-remodel-services) projects.   
 
-![image of City of Coronado zoning map ](https://u.realgeeks.media/parklifeproperties/blog/screen-shot-2015-06-27-at-33237-pm.png "City of Coronado Zoning Map")
+<img src="https://u.realgeeks.media/parklifeproperties/blog/screen-shot-2015-06-27-at-33237-pm.png" title="City of Coronado Zoning Map" alt="image of City of Coronado zoning map" style="display:block;margin:0 auto;">
 
 ### Work With Murray Lampert in Coronado
 
