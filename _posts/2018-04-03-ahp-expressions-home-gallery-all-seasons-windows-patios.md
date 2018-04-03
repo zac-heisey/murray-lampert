@@ -1,13 +1,14 @@
 ---
-title: Approved Home Pro Show - Expressions Home Gallery and All Seasons Windows & Patios
-  Guild Mortgage
+title: Approved Home Pro Show - Expressions Home Gallery and All Seasons Windows &
+  Patios Guild Mortgage
 date: 2018-04-03 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 - Outdoor Spaces
 featured-image: "/uploads/04-03-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we have Expressions Home Gallery and All Seasons Windows & Patios. Listen to the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we have Expressions Home Gallery
+  and All Seasons Windows & Patios. Listen to the full audio here!
 author: Gregg Cantor
 layout: post
 ---
