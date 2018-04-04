@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -118,7 +118,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:info@murraylampert.com
 - name: Zach Hammell
-  position: Project Manager
+  position: Architectural Drafter
   desc: Zach grew up in New Jersey and graduated from Marywood University with a Bachelor
     of Architecture. Working under a general contractor for several years introduced
     him to the day-to-day details of the building industry.

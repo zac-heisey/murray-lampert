@@ -1,7 +1,7 @@
 ---
 title: Zach Hammell
 layout: default
-excerpt: Zach Hammell is a Project Manager at Murray Lampert Design, Build, Remodel
+excerpt: Zach Hammell is an Architectural Drafter at Murray Lampert Design, Build, Remodel
   in San Diego. Visit to learn more about Amy and the Murray Lampert team.
 ---
 
