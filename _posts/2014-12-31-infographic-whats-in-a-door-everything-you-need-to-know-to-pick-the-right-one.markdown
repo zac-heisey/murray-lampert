@@ -5,6 +5,7 @@ date: 2014-12-31 14:00:42 Z
 permalink: "/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/"
 categories:
 - Interior Design
+- Infographics
 excerpt: Choosing a door to compliment your home remodeling project can be tough.
   Murray Lampert has an infographic to help you choose the perfect door.
 author: Gregg Cantor
