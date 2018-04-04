@@ -2,7 +2,7 @@
 title: Our Design-Build Services in San Diego
 permalink: "/design-build-services-san-diego"
 section_id: services
-featured-image:
+featured-image: 
 excerpt: From kitchen and bath remodeling to whole house renovations in San Diego,
   Murray Lampert provides the best in Design-Build services. Visit to learn more.
 services_col_1:

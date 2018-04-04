@@ -5,7 +5,9 @@ permalink: "/infographic-national-averages-for-cost-and-return-on-investment/"
 categories:
 - Kitchen Remodeling
 - Infographics
-excerpt: California tops the list when it comes to return on investment for kitchen remodels. This infographic from Porch.com shows the ROI of specific kitchen renovation projects.
+excerpt: California tops the list when it comes to return on investment for kitchen
+  remodels. This infographic from Porch.com shows the ROI of specific kitchen renovation
+  projects.
 author: Gregg Cantor
 layout: post
 ---
