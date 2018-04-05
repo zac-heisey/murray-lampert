@@ -36,7 +36,7 @@ In San Diego, that [increase jumps to 71%](https://www.10news.com/news/californi
 
 4. **Vacation Rentals a No-Go** - City regulations stipulate that lease agreements for granny flats must be no less than 30 days. This discourages homeowners from building a granny flat as a vacation rental.
 
-5. **Fees Range Significantly** - Depending where you live and the type of granny flat you’re looking to build, fees to get started could range from $4,800 to $80,000+. Check with your local city council before you get started.
+5. **Fees Range Significantly** - Depending on where you live and the type of granny flat you’re looking to build (size, features, etc.), permitting fees and construction costs could range significantly. Check with your local city council before you get started.
 
 <div class="spacing"></div>
 ---
