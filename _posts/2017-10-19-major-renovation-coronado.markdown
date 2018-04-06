@@ -12,7 +12,7 @@ layout: post
 
 The owner of this beautiful Coronado home is a retired Navy captain and son of a brick mason. This inspired the blue accent colors throughout the home as well as the brick-red front door.
 
-This [whole home remoodel project in Coronado](/featured-projects/621-i-ave-coronado/) involved a ton of moving pieces. The project required architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction. We basically gutted the interior in remodeled the majority of the home.
+This [whole home remodel project in Coronado](/featured-projects/621-i-ave-coronado/) involved a ton of moving pieces. The project required architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction. We basically gutted and remodeled the majority of the home.
 
 **Special project highlights include:**
 
