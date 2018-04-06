@@ -1,10 +1,8 @@
 ---
 title: 621 I Ave. in Coronado
-layout: featured-project
-section_id: projects
 client: George and Patricia Cava
 location: Coronado
-project-date: September 2017
+project-date: 2017-09-01 00:00:00 Z
 featured-video: 63pVN58cKzE
 featured-images:
 - uploads/cava-621-i-ave-KD-1.jpg
@@ -49,9 +47,11 @@ featured-images:
 excerpt: Whole home renovation in Coronado, CA by Murray Lampert. Visit online to
   view videos and image galleries of our featured home remodeling projects in San
   Diego.
+section_id: projects
+layout: featured-project
 ---
 
-Architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction for a whole home remodel. The project included gutting the interior and a remodeling most of the home.
+Architectural design, interior design, sourcing of finishes, structural engineering, permit processing and construction for a whole home remodel. The project included gutting the interior and completely remodeling most of the home.
 
 **Features:**
 
