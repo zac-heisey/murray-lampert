@@ -455,11 +455,18 @@ ul.shortcode-list i {
   width: 100%;
   padding: 0;
 
-  &:before {
-    content: "\f095";
+  // &:before {
+  //   content: "\f095";
+  //   color: #3d3d3d;
+  //   font-family: FontAwesome;
+  //   margin-right: 5px;
+  // }
+
+  p {
     color: #3d3d3d;
-    font-family: FontAwesome;
-    margin-right: 5px;
+    margin-top: -1rem;
+    margin-bottom: -5rem;
+    text-transform: capitalize;
   }
 
   @media screen and (max-width: 1385px) {
