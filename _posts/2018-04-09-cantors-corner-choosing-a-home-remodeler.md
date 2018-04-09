@@ -5,7 +5,9 @@ categories:
 - Cantor's Corner
 - Home Remodeling
 featured-image: "/uploads/cantors-corner.png"
-excerpt: A home remodel is a big investment, so choosing the right home remodeler is very important. In this edition of Cantor's Corner, Gregg shares some things to consider during the vetting process.
+excerpt: A home remodel is a big investment, so choosing the right home remodeler
+  is very important. In this edition of Cantor's Corner, Gregg shares some things
+  to consider during the vetting process.
 author: Gregg Cantor
 layout: post
 ---
