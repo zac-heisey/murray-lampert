@@ -2,7 +2,7 @@
 title: Home Additions Encinitas
 permalink: "/home-additions-encinitas"
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with home additions in Encinitas,
   San Diego. Take your Encinitas home addition to the next level with us.
 layout: default
@@ -16,9 +16,9 @@ This comes in very handy if you are an Encinitas resident and are thinking of ma
 
 ## Encinitas Home & Room Additions
 
-If you're thinking of adding more space to your home, but don’t know where to start, our home additions experts in Encinitas are here to help you. It doesn't matter if a new family member has arrived, you're thinking of extending your kitchen, or you have finally decided to build the master bedroom of your dreams - whatever your reason may be, it's important to thoroughly plan your [home addition project](/san-diego-room-additions).
+If you're thinking of adding more space to your home, but don’t know where to start, our home additions experts in Encinitas are here to help you. It doesn't matter if a new family member has arrived, you're thinking of extending your [kitchen in Encinitas](/kitchen-remodeling-encinitas), or you have finally decided to build the master bedroom of your dreams - whatever your reason may be, it's important to thoroughly plan your [home addition project](/san-diego-room-additions).
 
-To begin with, there are a lot of options to consider when thinking about a home or room addition in Encinitas, and this is where professional and reputable [home design-build company](/) like Murray Lampert can make everything less stressful and more convenient for the homeowner.
+To begin with, there are a lot of options to consider when thinking about a home or room addition, and this is where professional and reputable [Encinitas remodeling company](/service-locations/encinitas-design-build-and-remodel-services/) like Murray Lampert can make everything less stressful and more convenient for the homeowner.
 
 ## Put Together Your Home Addition Wish List
 

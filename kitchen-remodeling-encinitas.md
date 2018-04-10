@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Encinitas
 permalink: "/kitchen-remodeling-encinitas"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Encinitas, San Diego. Take your Encinitas kitchen remodel to the next level with
   us.
@@ -25,7 +25,7 @@ By staying on top of [home remodeling trends](/landing/san-diego-home-remodeling
 
 ### When it Comes to Kitchen Remodels, Experience Matters
 
-Since opening our doors in 1975, Murray Lampert has managed home and kitchen remodeling projects of all sizes for homeowners in Encinitas and throughout San Diego. Over the last 40+ years, we've worked to master our proven design-build process, allowing us to manage _all_ aspects of a client's project from start to finish.
+Since opening our doors in 1975, Murray Lampert has managed [Encinitas home remodeling](/service-locations/encinitas-design-build-and-remodel-services/) and kitchen renovation projects of all sizes. Over the last 40+ years, we've worked to master our proven design-build process, allowing us to manage _all_ aspects of a client's project from start to finish.
 
 From drafting blueprints pulling building permits, securing materials to vetting sub-contractors, our clients can be confident that Murray Lampert has the entire process under control.
 
