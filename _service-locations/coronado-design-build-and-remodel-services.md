@@ -9,6 +9,22 @@ excerpt: Home remodeling in Coronado by Murray Lampert. Providing superior Coron
 
 Situated on a peninsula in San Diego Bay, Coronado is a small, affluent resort city featuring world-renowned beaches and the iconic [Hotel del Coronado](https://hoteldel.com/). Besides being a major tourist destination (there are three major resorts on the island), Coronado is also home to a large military contingent, with both Naval Amphibious Base and Naval Air Station North Island located in the area.
 
+**A Brief History of Coronado**
+
+In the early nineteenth century, before Coronado was Coronado, the land was used as a harbor for whalers, who built hide houses in order to carry out their work. The land was still under Spanish control, but 1821 marked Mexico’s independence from Spain.
+
+Land grants were issued and the peninsula we know today as Coronado changed many hands before it was purchased by Elisha Babcock, Jr., Hampton Story, and Jacob Gruendike on November 19, 1885. Babcock invited Heber Ingle, his brother-in-law, and a railroad stockholder named Josephus Collett to become mutual investors. These founders then organized the Coronado Beach Company on April 7, 1886, planting the seeds for current day Coronado.
+
+Work on the new town began promptly with the division and landscaping of lots. Water and irrigations systems were constructed and railroad tracks were laid. The San Diego and Coronado Ferry Company was established on April 16, 1886 with the ferry completing its first run in August.
+
+Lots were auctioned off in November. With the community finally coming together, the founders hired architects James and Watson Reid to design the Hotel Del Coronado in March of 1887. The hotel opened its doors February 19, 1888.
+
+Construction and development continued in the area, eventually including a naval base in North Island.
+
+**Architecture, Design, and Style**
+
+Home design in Coronado embodies a unique style that reflects the town’s proximity to the sea. Many homes feature classic [California Spanish design](https://www.pinterest.com/teamlisanicole/california-spanish-homes/) while incorporating aspects of the beachside cottage. The Hotel Del Coronado is a beautiful example of the wooden Victorian beach resort, a remnant of an American architectural genre that still stands out today.
+
 Space is extremely limited in Coronado, and a large majority of the home types allowed by zoning laws are single-family homes. Considering the median home value in Coronado is [over $1.5 million](https://www.zillow.com/coronado-ca/home-values/), homeowners in the city tend to stay put and elect to enhance the value and functionality of their investment through various [home remodeling](/san-diego-home-remodel-services) projects.   
 
 <img src="https://u.realgeeks.media/parklifeproperties/blog/screen-shot-2015-06-27-at-33237-pm.png" title="City of Coronado Zoning Map" alt="image of City of Coronado zoning map" style="display:block;margin:0 auto;">
