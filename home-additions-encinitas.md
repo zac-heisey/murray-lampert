@@ -2,7 +2,7 @@
 title: Home Additions Encinitas
 permalink: "/home-additions-encinitas"
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with home additions in Encinitas,
   San Diego. Take your Encinitas home addition to the next level with us.
 layout: default
