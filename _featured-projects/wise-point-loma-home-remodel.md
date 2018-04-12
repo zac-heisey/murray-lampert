@@ -5,7 +5,7 @@ section_id: projects
 client: Wise
 location: Point Loma
 project-date: In Progress
-featured-video: 
+featured-video:
 featured-images:
 - uploads/wise-before-front-1.jpg
 - uploads/wise-before-front-2.jpg
@@ -48,7 +48,11 @@ featured-images:
 - uploads/wise-interior-in-progress-4.jpg
 - uploads/wise-interior-in-progress-5.jpg
 - uploads/wise-fireplace-in-progress-1.jpg
+- uploads/wise-fireplace-in-progress-2.jpg
+- uploads/wise-fireplace-in-progress-3.jpg
 - uploads/wise-kitchen-in-progress-1.jpg
+- uploads/wise-kitchen-in-progress-2.jpg
+- uploads/wise-livingroom-in-progress-1.jpg
 excerpt: Featured total home renovation in Point Loma, CA by Murray Lampert. Check
   out images, videos, and more of this and other home remodeling projects in San Diego.
 ---
