@@ -6,7 +6,8 @@ categories:
 - Home Remodeling
 - Outdoor Spaces
 featured-image: "/uploads/04-07-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we chat with System Pavers and We Care Plumbing, Heating & Air. Check out the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we chat with System Pavers
+  and We Care Plumbing, Heating & Air. Check out the full audio here!
 author: Gregg Cantor
 layout: post
 ---
