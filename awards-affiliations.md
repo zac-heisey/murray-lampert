@@ -1,11 +1,11 @@
 ---
 title: Industry Awards & Affiliations
 permalink: "/awards-affiliations"
-layout: default
 section_id: industry-affiliations
 featured-image: "/uploads/slide-bbb-new.jpg"
 excerpt: Murray Lampert Design, Build, Remodel is an active San Diego BBB board members,
   4x Torch Award winner, and has been recognized by Houzz, GuildQuality, and more.
+layout: default
 ---
 
 ## Murray Lampert Design, Build, Remodel Industry Awards & Affiliations
@@ -37,6 +37,8 @@ excerpt: Murray Lampert Design, Build, Remodel is an active San Diego BBB board 
       <li>GuildQuality Guildmaster Award 2016, <strong>WINNER</strong></li>
       <li>GuildQuality Guildmaster Award 2015, <strong>WINNER</strong></li>
       <li>GuildQuality Guildmaster Award 2014, <strong>WINNER</strong></li>
+      <li>Remodeling Big50 Selection 2012, 
+<strong>WINNER</strong></li>
     </ul>
   </div>
 </div>
