@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Hillcrest
 permalink: "/kitchen-remodeling-hillcrest"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Hillcrest, San Diego. Take your Hillcrest kitchen remodel to the next level with
   us.
@@ -19,7 +19,7 @@ Residents of this vibrant community regularly look to transform their traditiona
 
 ### Custom Kitchen remodels in Hillcrest
 
-When it comes to home renovation projects, [San Diego kitchen remodels](/san-diego-kitchen-remodeling-services) tend to top the list. Remodeling your kitchen can help meet growing family needs, enhance home value ahead of a pending sale, or simply improve the overall appeal of the living space.
+When it comes to [home renovation projects in Hillcrest](/service-locations/hillcrest-design-build-and-remodel-services/), kitchen remodels tend to top the list. Remodeling your kitchen can help meet growing family needs, enhance home value ahead of a pending sale, or simply improve the overall appeal of the living space.
 
 At Murray Lampert, we specialize in custom kitchen remodels and other [major home renovations](/major-renovations). We deliver exceptional service with that has been recognized and awarded by [clients](/testimonials) and [industry organizations](/murray-lampert-recognized-among-north-americas-best) alike.
 
