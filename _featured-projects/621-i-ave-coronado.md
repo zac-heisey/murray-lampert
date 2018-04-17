@@ -2,7 +2,7 @@
 title: 621 I Ave. in Coronado
 client: George and Patricia Cava
 location: Coronado
-project-date: 2017-09-01 00:00:00 Z
+project-date: September 2017
 featured-video: 63pVN58cKzE
 featured-images:
 - uploads/cava-621-i-ave-KD-1.jpg
