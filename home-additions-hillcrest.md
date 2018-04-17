@@ -3,7 +3,7 @@ title: Home Additions Hillcrest
 permalink: "/home-additions-hillcrest"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Hillcrest,
   San Diego. Take your Hillcest home addition to the next level with us.
 ---

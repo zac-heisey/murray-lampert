@@ -3,8 +3,8 @@ title: Hillcrest Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
 featured-image: "/uploads/hillcrest-sign.jpg"
-excerpt: Hillcrest remodeling by Murray Lampert. Providing superior design, build, and
-  remodel services in Hillcrest for over 40 years. Visit us today!
+excerpt: Hillcrest remodeling by Murray Lampert. Providing superior design, build,
+  and remodel services in Hillcrest for over 40 years. Visit us today!
 ---
 
 Since 1975, [Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) has provided home remodeling and design-build services to homeowners in Hillcrest. One of San Diego's most desirable places to live, residents and visitors alike love Hillcrest's proximity to [Balboa Park](https://www.balboapark.org/), a 1,200-acre cultural park that is home to 16 museums and the world-famous San Diego Zoo.
