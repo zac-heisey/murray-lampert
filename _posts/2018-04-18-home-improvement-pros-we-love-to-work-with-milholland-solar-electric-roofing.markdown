@@ -1,10 +1,13 @@
 ---
-title: 'Home Improvement Pro''s We Love to Work With: Milholland Solar Electric & Roofing'
+title: 'Home Improvement Pro''s We Love to Work With: Milholland Solar Electric &
+  Roofing'
 date: 2018-04-18 19:30:00 Z
 categories:
 - Community
 featured-image: "/uploads/milholland-ahp.jpg"
-excerpt: Murray Lampert has been partnering with Milholland Solar Electric & Roofing for over 5 years. We spoke with Brian Milholland about his company's history, expertise, and more.
+excerpt: Murray Lampert has been partnering with Milholland Solar Electric & Roofing
+  for over 5 years. We spoke with Brian Milholland about his company's history, expertise,
+  and more.
 author: Gregg Cantor
 layout: post
 ---
