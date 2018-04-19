@@ -36,7 +36,7 @@ works:
   title: Whole House Remodel & <br>Second Story Addition
   desc: See More Major Renovation Projects
   url: major-renovations-gallery
-- image: uploads/gallery/room-additions/laco.jpg
+- image: uploads/room-additions-2.jpg
   class: room-additions
   title: Living Room Addition
   desc: See More Room Addition Projects
@@ -86,9 +86,9 @@ works:
   title: Kitchen Remodel Project
   desc: See More Kitchen Remodel Projects
   url: kitchen-remodel-gallery
-- image: uploads/gallery/room-additions/white12.jpg
+- image: uploads/room-additions-1.jpg
   class: room-additions
-  title: Basement Living Room Addition
+  title:
   desc: See More Room Addition Projects
   url: room-additions-gallery
 - image: uploads/cava-621-i-ave-KD-39.jpg
@@ -98,7 +98,7 @@ works:
   url: featured-projects/621-i-ave-coronado/
 - image: uploads/gallery/architectural-design/design1_page_2.png
   class: architectural-design
-  title: 
+  title:
   desc: See More Architectural Design Projects
   url: architectural-design-gallery
 - image: uploads/berry-historical-kitchen-1.jpg
@@ -133,7 +133,7 @@ works:
   url: featured-projects/historical-home-remodel-mission-hills/
 - image: uploads/gallery/outdoor-spaces/barthel-4_W.jpg
   class: outdoor-spaces
-  title: 
+  title:
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
 - image: uploads/gallery/before-after/Dang-Tran-Kitchen1.jpg
@@ -148,7 +148,7 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/rendering/raytrace1.jpg
   class: rendering
-  title: 
+  title:
   desc: See More Rendering Projects
   url: rendering-gallery
 - image: uploads/gallery/architectural-design/design1_page_1.png
@@ -158,7 +158,7 @@ works:
   url: architectural-design-gallery
 - image: uploads/gallery/miscellaneous/Metcalf4_W.jpg
   class: miscellaneous
-  title: 
+  title:
   desc: See More Miscellaneous Remodeling Projects
   url: miscellaneous-remodel-project-gallery
 - image: uploads/gallery/3d-modeling/3d6.jpg
@@ -178,12 +178,12 @@ works:
   url: before-after-gallery
 - image: uploads/gallery/under-construction/fischer-IB-under-construction-foundation-1.jpg
   class: under-construction wide
-  title: 
+  title:
   desc: See More Projects Under Construction
   url: under-construction-gallery
 - image: uploads/gallery/architectural-design/design5.png
   class: architectural-design
-  title: 
+  title:
   desc: See More Architectural Design Projects
   url: architectural-design-gallery
 - image: uploads/gallery/kitchens/lapierre2(corrected).jpg
@@ -198,33 +198,32 @@ works:
   url: featured-projects/621-i-ave-coronado/
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-08.jpg
   class: outdoor-spaces
-  title: 
+  title:
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
 - image: uploads/gallery/under-construction/roughframe3-wide.jpg
   class: under-construction wide
-  title: 
+  title:
   desc: See More Projects Under Construction
   url: under-construction-gallery
 - image: uploads/gallery/outdoor-spaces/outdoor-spaces-10.jpg
   class: outdoor-spaces
-  title: 
+  title:
   desc: See More Outdoor Spaces Projects
   url: outdoor-spaces-gallery
 - image: uploads/gallery/miscellaneous/weeks2.jpg
   class: miscellaneous
-  title: 
+  title:
   desc: See More Miscellaneous Remodeling Projects
   url: miscellaneous-remodel-project-gallery
 - image: uploads/gallery/miscellaneous/barron3-wide.jpg
   class: miscellaneous wide
-  title: 
+  title:
   desc: See More Miscellaneous Remodeling Projects
   url: miscellaneous-remodel-project-gallery
 - image: uploads/gallery/rendering/raytrace8-wide.jpg
   class: rendering wide
-  title: 
+  title:
   desc: See More Rendering Projects
   url: rendering-gallery
 ---
-
