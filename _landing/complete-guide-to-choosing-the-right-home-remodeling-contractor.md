@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Choosing the Right Home Remodeling Contractor
 layout: default
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has put together a comprehensive guide to help homeowners
   find, vet, and work with the right remodeling contractor for their renovation project.
 ---
@@ -41,7 +41,7 @@ With our **Complete Guide to Choosing the Right Home Remodeling Contractor**, yo
     <!-- End MailChimp Q2 EBOOK Form -->
   </div>
   <div class="medium-7 columns">
-    <img src="/uploads/q2-ebook-landing-page-graphic.png" alt="landing page graphic for Q2 Ebook - Complete Guide to Choosing the Right Home Remodeling Contractor" title="omplete Guide to Choosing the Right Home Remodeling Contractor">
+    <img src="/uploads/q2-ebook-landing-page-graphic.png" alt="landing page graphic for Q2 Ebook - Complete Guide to Choosing the Right Home Remodeling Contractor" title="Complete Guide to Choosing the Right Home Remodeling Contractor">
   </div>
 </div>
 <!-- Add some spacing between content and quick-contact form -->
