@@ -16,6 +16,10 @@ One of our strongest partners in San Diego, and a fellow vetted [Approved Home P
 
 Milholland has a similar approach to projects as Murray Lampert in that they focus on educating homeowners, providing accurate pricing, and doing quality work with a solid warranty to back it up. We consider Brian the "PhD of Solar." There are few people in the industry as knowledgeable, and we know that Brian and his team are always going to get the job done right. Brian is also a frequent guest on The Approved Home Pro Show, sharing his expertise in everything from roof repair to combating rising energy costs.
 
+As a [design-build contractor](https://murraylampert.com/san-diego-design-build-contractors), we know first-hand that proper sequencing of electrical, roofing, and PVC solar is critical. If the roofing and panel installation is not completed properly, the roof may leak. Also, with existing tile roofs, great care is needed so that surrounding areas are not damaged. 
+
+We see horrible existing solar installations all the time on homes we remodel. Several times we've been called back on a roof leak only to find a solar company has caused damage on an installation after our work. In fact, we _just_ referred a client to Brian who needs their entire system removed and reset because the installers severely damaged the roof.
+
 We spoke with Brian about Milholland's parternship with [Murray Lampert Design, Build, Remodel](/), as well as his company's history, expertise, and the value of solar energy for homeowners in San Diego.
 
 **Can you tell us how Milholland Solar & Electric got started?**
