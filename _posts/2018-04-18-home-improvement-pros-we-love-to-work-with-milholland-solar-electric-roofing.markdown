@@ -18,7 +18,7 @@ Milholland has a similar approach to projects as Murray Lampert in that they foc
 
 As a [design-build contractor](https://murraylampert.com/san-diego-design-build-contractors), we know first-hand that proper sequencing of electrical, roofing, and PVC solar is critical. If the roofing and panel installation is not completed properly, the roof may leak. Also, with existing tile roofs, great care is needed so that surrounding areas are not damaged. 
 
-We see horrible existing solar installations all the time on homes we remodel. Several times we've been called back on a roof leak only to find a solar company has caused damage on an installation after our work. In fact, we _just_ referred a client to Brian who needs their entire system removed and reset because the installers severely damaged the roof.
+We see horrible existing solar installations all the time on homes we remodel. Several times we've been called back on a leaky roof only to find a solar company has caused damage during installation after our work has been completed. In fact, we _just_ referred a client to Brian who needs their entire solar panel system removed and reset because the installers severely damaged the client's roof.
 
 We spoke with Brian about Milholland's parternship with [Murray Lampert Design, Build, Remodel](/), as well as his company's history, expertise, and the value of solar energy for homeowners in San Diego.
 
