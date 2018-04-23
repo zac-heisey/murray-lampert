@@ -5,7 +5,9 @@ categories:
 - Cantor's Corner
 - Home Remodeling
 featured-image: "/uploads/cantors-corner.png"
-excerpt: Permits and building inspections are important for your safety and help protect the investment in your home remodel. In this edition of Cantor's Corner, Gregg discusses the importance of permits and building inspections.
+excerpt: Permits and building inspections are important for your safety and help protect
+  the investment in your home remodel. In this edition of Cantor's Corner, Gregg discusses
+  the importance of permits and building inspections.
 author: Gregg Cantor
 layout: post
 ---
