@@ -14,7 +14,7 @@ layout: post
 
 Choosing the right remodeler for your home improvement project can be a daunting task. A home remodel is a big investment, so there's a lot riding on the [design-build firm](/san-diego-design-build-contractors) or contractor you decide to work with.
 
-In this edition of Cantor's Corner, we cover some of the major factors that should drive your final decision on which home remodeling company to partner with. These include experience, reputation, warranty, price, quality of work, and more.
+In this edition of Cantor's Corner, we cover some of the major factors that should drive your final decision on which home remodeling company to partner with. These include experience, reputation, warranty, price, quality of work, and more. For deeper insights, be sure to check out our [Complete Guide to Choosing the Right Home Remodeling Contract here](/landing/complete-guide-to-choosing-the-right-home-remodeling-contractor/).
 
 **Check out this edition of Cantor's Corner below:**
 
