@@ -2,14 +2,15 @@
 title: La Jolla Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image: 
+featured-image:
 excerpt: Murray Lampert home remodeling in La Jolla. We have over 40 years experience
   providing design, build, and remodel services in La Jolla.
 ---
 
 The seaside community of La Jolla occupies seven miles of pristine Pacific coastline, and is one of San Diego’s more well-known and upscale neighborhoods. With its unique shops, divine eateries and beautiful coastal views, La Jolla has become widely popular for its cozy, yet classy nature.
 
-**La Jolla Architectural Style**
+### La Jolla Architectural Style
+
 Much of La Jolla follows the Ranch and Spanish Mediterranean style of home architecture, with condos taking on a neo-Italian Tuscan style. There is only one high-rise in La Jolla, built right before the height limit went into effect in the 1970s. This limit has given way to a more collected feel, creating an intimate environment despite the high value of the homes found here.
 
 The grand hotels of La Jolla include Spanish Colonial gems such as the La Valencia and the Grande Colonial, La Jolla’s oldest hotel where the first sprinkler system west of the Mississippi can be found. A smaller throwback to the area’s roots comes in the form of the unassuming Redwood Hollow craftsman garden guest cottages.
