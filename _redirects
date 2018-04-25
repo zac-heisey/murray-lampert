@@ -9,6 +9,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /team_member_position*  /about-murray-lampert-design-build-remodel#team-members  301
 /team-member/bob-norstrand/  /about-murray-lampert-design-build-remodel#team-members  301
 /team-member/michael-massa/  /about-murray-lampert-design-build-remodel#team-members  301
+/team-member/hope-wortham/  /about-murray-lampert-design-build-remodel#team-members  301
 /thank-you-2/  /thank-you/  301
 /thank-you-3/  /thank-you/  301
 /murray-lampert-services  /design-build-services-san-diego  301
@@ -148,7 +149,6 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 
 
 ### WORDPRESS 301 REDIRECTS Plugin (migrated from old website)
-
 /services/san-diego-design-build-contractors.php	/san-diego-design-build-contractors/	301
 /services/san-diego-architectural-design-services.php	/san-diego-architectural-design-services/	301
 /services/san-diego-second-story-addition.php	/san-diego-second-story-addition/	301
@@ -170,7 +170,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /estimate/request_quote.php	/	301
 /about/about_murray_lampert.php	/about/	301
 /about/mission.php	/about/	301
-/about/murray_lampert_team.php	/team-members/	301
+/about/murray_lampert_team.php	/about-murray-lampert-design-build-remodel#team-members	301
 /about/bbb.php	/about/	301
 /about/contact.php	/contact/	301
 /wordpress/	/blog/	301
@@ -210,7 +210,6 @@ http://www.murraylampert.com/gallery/live_home_remodel.php	/gallery/	301
 http://www.murraylampert.com/estimate/request_quote.php	/	301
 http://www.murraylampert.com/about/about_murray_lampert.php	/about/	301
 http://www.murraylampert.com/about/mission.php	/about/	301
-http://www.murraylampert.com/about/murray_lampert_team.php	/team-members/	301
 http://www.murraylampert.com/about/bbb.php	/about/	301
 http://www.murraylampert.com/about/contact.php	/contact/	301
 http://www.murraylampert.com/wordpress/	/blog/	301
