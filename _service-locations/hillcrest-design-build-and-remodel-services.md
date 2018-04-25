@@ -1,10 +1,10 @@
 ---
 title: Hillcrest Design, Build, and Remodel Services
-layout: default
 section_id: service-locations
 featured-image: "/uploads/hillcrest-sign.jpg"
 excerpt: Hillcrest remodeling by Murray Lampert. Providing superior design, build,
   and remodel services in Hillcrest for over 40 years. Visit us today!
+layout: default
 ---
 
 Since 1975, [Murray Lampert Design, Build, Remodel](/about-murray-lampert-design-build-remodel) has provided home remodeling and design-build services to homeowners in Hillcrest. One of San Diego's most desirable places to live, residents and visitors alike love Hillcrest's proximity to [Balboa Park](https://www.balboapark.org/), a 1,200-acre cultural park that is home to 16 museums and the world-famous San Diego Zoo.
@@ -23,7 +23,7 @@ Murray Lampert is built on customer satisfaction, and our [A+ rating with the BB
 
 We provide high-quality design, build, and remodel services for Hillcrest residents, including:
 
-- **Room additions** - A [Hillcrest home addition](/room-additions-hillcrest) project adds more space and value, without requiring a painful and costly move.
+- **Room additions** - A [Hillcrest home addition](/home-additions-hillcrest) project adds more space and value, without requiring a painful and costly move.
 - **Second stories** - If you can’t give up valuable outdoor space, or a view can be captured, going up with a [second story addition](/san-diego-second-story-addition/) is a great option.
 - **Kitchen remodels** - The kitchen is the hub of most homes and a place to spend time with your family. We'll transform your [Hillcrest kitchen](/kitchen-remodeling-hillcrest) into a custom, functional space for entertaining and enjoying.
 - **Cabinets** - With our space planning service, we can design [custom cabinets](/san-diego-custom-cabinet-construction-services) that are more functional and with more usable space.
