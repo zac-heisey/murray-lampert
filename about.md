@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -130,13 +130,15 @@ members:
     url: mailto:zhammell@murraylampert.com
 - name: Jake Austad
   position: Senior Design Specialist
-  desc: Jake grew up in the Midwest, graduated from the University of Missouri-Columbia and has lived in the South as well as both coasts. Jake spent 10+ years construction industry designing custom wine cellars for the world’s top wine collectors.
+  desc: Jake grew up in the Midwest, graduated from the University of Missouri-Columbia
+    and has lived in the South as well as both coasts. Jake spent 10+ years construction
+    industry designing custom wine cellars for the world’s top wine collectors.
   avatar: uploads/jake-austad.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/jake-austad"
   - icon_class: fa fa-envelope
-    url: mailto:jake@murraylampert.com    
+    url: mailto:jake@murraylampert.com
 layout: default
 ---
 
