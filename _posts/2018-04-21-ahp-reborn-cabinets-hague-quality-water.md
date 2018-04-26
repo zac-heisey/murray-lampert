@@ -5,7 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/04-21-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we chat with Reborn Cabinets and Hague Quality Water. Check out the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we chat with Reborn Cabinets
+  and Hague Quality Water. Check out the full audio here!
 author: Gregg Cantor
 layout: post
 ---
