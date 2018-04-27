@@ -14,6 +14,9 @@ layout: post
 
 _This post was originally published August 25, 2014 and has been updated with additional content, resources, and images._
 
+#### Check out our infographic on choosing the right tape for your home improvement project here:
+<a class="button default" href="https://murraylampert.com/infographic-choosing-the-right-tape-for-your-home-improvement-project/">View Infographic</a>
+
 Ducts within your home can spring leaks for a wide variety of reasons, and at any time, making it a somewhat tough problem to anticipate. That’s why it’s important to have your HVAC system regularly maintained. Still, if you suddenly have a higher-than-average energy bill, your air conditioner or furnace seems to have to work harder to cool or heat your home, or some rooms are noticeably different in temperature or stuffier than others, you may have leaks in your ducts. These leaks within the home can be costly, make your appliances wear out faster, make your home less comfortable, and waste energy over time. In fact, leaky ducts can be one of the largest energy wasters in the home that hinders your attempts at [cutting down your energy bills](/cutting-down-on-your-energy-bills/).
 
 Luckily, the ducts that run through your home can be sealed with either **foil tape** or **duct mastic**, and every DIY master or contractor has their own preference for what they use when working on residential ducts. Both of these options have their benefits and drawbacks, and just like any project, a professional assessment can go a long way toward ensuring the work is done right and will last well into the future. Here are a few pros and cons of both approaches.
