@@ -23,7 +23,7 @@ In San Diego, that [increase jumps to 71%](https://www.10news.com/news/californi
 **Want to share this animated infographic on your website? Copy + paste the code below - enjoy!**
 <textarea style="width:100;height:200">
   <p>This animated infographic was created by <a href='https://www.murraylampert.com'>Murray Lampert Design, Build, Remodel</a>.</p><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/93rf4U-gUNM?rel=0&amp;showinfo=0" frameborder="0" title="2018 Home Remodeling Cost vs. Value Report Animated Infographic" alt="animated infographic of 2018 cost vs. value of common home remodeling projects" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/93rf4U-gUNM?rel=0&amp;showinfo=0" frameborder="0" title="{{ page.title }}" alt="animated infographic of san diego granny flat regulations" allowfullscreen></iframe>
 </textarea>
 
 ### 5 Things to Know About Granny Flat Regulations in San Diego
