@@ -5,7 +5,8 @@ categories:
 - Home Remodeling
 - Infographics
 featured-image: "/uploads/the-right-tape-header.png"
-excerpt: Murray Lampert has created a quick visual guide to choosing the right tape for your next home improvement project to help make the decision processes easier.
+excerpt: Murray Lampert has created a quick visual guide to choosing the right tape
+  for your next home improvement project to help make the decision processes easier.
 author: Gregg Cantor
 layout: post
 ---
