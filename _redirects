@@ -1,3 +1,7 @@
+### BLOCKED COUNTRIES
+# Redirect users from blocked foreign countries to 403 Forbidden error
+https://murraylampert.com*  /  403  Country=pk,pl,id,in,bd,cn,de,fr,bw,ph,rs,ru,si,sg,ua
+
 ### NETLIFY DEV DOMAIN REDIRECTS
 https://murray-lampert.netlify.com/*   https://murraylampert.com/:splat    301!
 http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
