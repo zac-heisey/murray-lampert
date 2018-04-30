@@ -1,12 +1,12 @@
 ---
 title: Complete Guide to Choosing the Right Home Remodeling Contractor
-layout: default
 featured-image: 
 excerpt: Murray Lampert has put together a comprehensive guide to help homeowners
   find, vet, and work with the right remodeling contractor for their renovation project.
+layout: default
 ---
 
-## Download Your Complete Guide Below
+## Sign Up to Receive Your Complete Guide By Email
 
 There are many important decisions to make when it comes to remodeling your home: Which architectural style best fits your personality? Should you go with cool and calm tones, or opt for big, bold colors? What is your timeline? How about your budget? All of these questions are important, but they take a back seat to choosing the best home remodeling contractor for _your_ specific renovation project.
 
