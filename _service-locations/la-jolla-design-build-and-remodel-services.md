@@ -1,10 +1,10 @@
 ---
 title: La Jolla Design, Build, and Remodel Services
-layout: default
 section_id: service-locations
 featured-image: 
 excerpt: Murray Lampert home remodeling in La Jolla. We have over 40 years experience
   providing design, build, and remodel services in La Jolla.
+layout: default
 ---
 
 The seaside community of La Jolla occupies seven miles of pristine Pacific coastline, and is one of San Diego’s more well-known and upscale neighborhoods. With its unique shops, divine eateries and beautiful coastal views, La Jolla has become widely popular for its cozy, yet classy nature.
@@ -25,7 +25,7 @@ Murray Lampert has provided the residents of La Jolla with home remodeling and [
 
 ### Why Choose Murray Lampert for Your La Jolla Home Remodel?
 
-For over four generations, Murray Lampert has served La Jolla with unmatched service. We hold an A+ rating with the Better Business Bureau and are [four-time winners of the BBB Torch Award for Marketplace Ethics](http://murraylampert.com/another-better-business-bureau-torch-award/). We have also received the [Best of Houzz award for customer satisfaction in 2015](murray-lampert-earns-two-customer-satisfaction-awards), and we consistently receive positive reviews and testimonials from our customers.
+For over four generations, Murray Lampert has served La Jolla with unmatched service. We hold an A+ rating with the Better Business Bureau and are [four-time winners of the BBB Torch Award for Marketplace Ethics](http://murraylampert.com/another-better-business-bureau-torch-award/). We have also received the [Best of Houzz award for customer satisfaction in 2015](/murray-lampert-earns-two-customer-satisfaction-awards), and we consistently receive positive reviews and testimonials from our customers.
 
 We have built relationships with inspectors, trade partners, distributors, and other business experts to deliver a superior product and customer satisfaction. Our commitment to service, craftsmanship, and innovation sets us above our competition.
 
