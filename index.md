@@ -9,7 +9,7 @@ works:
   desc: From Soaker Tubs to Universal Design
   url: san-diego-bathroom-remodeling-services
 - image: uploads/q2-content-pillar-graphic.png
-  class:
+  class: 
   title: Choose the Right Remodeler<br> for Your Project
   desc: Check Out the Free Guide
   url: complete-guide-to-choosing-the-right-home-remodeling-contractor/
@@ -95,3 +95,4 @@ feat_testimonials:
     I recommend him and the team at Murray Lampert to anyone in need of quality construction
     services.
 ---
+
