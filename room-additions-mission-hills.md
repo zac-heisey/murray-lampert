@@ -16,7 +16,7 @@ Homeowners in Mission Hills tend to consider home expansion projects at some poi
 
 If you want your home to stand out, investing in a room addition project is a wise move. You can simply contact our professionals and they will assure you great value for your money. Our professionals will assess your home and advise you on the best additions you can incorporate for your home to stand out. Even if your home was made out of old designs which you are not satisfied with, you can transform your home into a great looking mansion after you decide to carry out a home additions project.
 
-Murray Lampert is undoubtedly one of the [best home renovation companies](/major-renovations), renowned for our [marketplace ethics](/another-better-business-bureau-torch-award) and high level of integrity, impeccable craftsmanship, and superior customer service. Choose [one of North America’s best](/murray-lampert-recognized-among-north-americas-best) for your home addition project in Mission Hills.
+Murray Lampert has been the leading [Mission Hills home remodeling](/service-locations/mission-hills-design-build-and-remodel-services/) company since 1975. We are renowned for our [marketplace ethics](/another-better-business-bureau-torch-award) and high level of integrity, impeccable craftsmanship, and superior customer service. Choose [one of North America’s best](/murray-lampert-recognized-among-north-americas-best) for your home addition project in Mission Hills.
 
 ## Our Mission Hill room additions add value to your home
 
