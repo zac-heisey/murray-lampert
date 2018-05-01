@@ -3,7 +3,7 @@ title: Kitchen Remodeling La Jolla
 permalink: "/kitchen-remodeling-la-jolla"
 layout: default
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Kitchen remodeling in La Jolla, San Diego by Murray Lampert Design, Build,
   Remodel. La Jolla kitchen remodel experts since 1975. Visit us today!
 ---

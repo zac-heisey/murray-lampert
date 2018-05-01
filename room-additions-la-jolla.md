@@ -3,7 +3,7 @@ title: Room Additions La Jolla
 permalink: "/room-additions-la-jolla"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in La
   Jolla, San Diego. Take your La Jolla home addition to the next level with us.
 ---
