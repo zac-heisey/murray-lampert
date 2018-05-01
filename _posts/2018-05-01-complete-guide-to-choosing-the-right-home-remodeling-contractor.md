@@ -1,6 +1,6 @@
 ---
 title: Complete Guide to Choosing the Right Home Remodeling Contractor
-date: 2018-04-27 00:00:00 Z
+date: 2018-05-01 00:00:00 Z
 categories:
 - Home Remodeling
 - Guides
