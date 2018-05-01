@@ -3,7 +3,7 @@ title: Kitchen Remodeling La Jolla
 permalink: "/kitchen-remodeling-la-jolla"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Kitchen remodeling in La Jolla, San Diego by Murray Lampert Design, Build,
   Remodel. La Jolla kitchen remodel experts since 1975. Visit us today!
 ---
@@ -12,13 +12,13 @@ La Jolla is a hospitable community surrounded by ocean bluffs and beaches on thr
 
 La Jolla residents simply love living there and strive to upgrade their lifestyle to fully enjoy their stay. According to 2008 and 2009 surveys, La Jolla had the highest home prices in the nation, which is why it comes as no surprise that homeowners are willing to invest in remodeling and renovating their homes.
 
-Through various design-build upgrades, homeowners in La Jolla are able to preserve their property for years to come, which in itself is a sound investment. Moreover, the tendency is to make the home more comfortable, more [energy efficient](/san-diego-green-home-construction), and more attractive overall.
+Through various design-build upgrades - from [room additions](/room-additions-la-jolla) to outdoor spaces - homeowners in La Jolla are able to preserve their property for years to come, which in itself is a sound investment. Moreover, the tendency is to make the home more comfortable, more [energy efficient](/san-diego-green-home-construction), and more attractive overall.
 
 ## La Jolla [Kitchen Remodels by Murray Lampert](/san-diego-kitchen-remodeling-services)
 
 ![image of La Jolla Children's Pool](https://upload.wikimedia.org/wikipedia/commons/9/92/LaJolla_childrenspool.JPG "La Jolla Children's Pool")
 
-When you think about a [home remodeling project in San Diego](/san-diego-home-remodel-services), where better to start than the kitchen? Think about the amount of money you can save if you upgrade your fixtures and fitting to more modern, energy-saving ones. Think about the difference a fresh lighting layout can bring to your kitchen. It can transform even the dullest of kitchens into a luxurious venue. Think about your shabby old cabinets and countertops that simply cry for a makeover.
+When you think about [home remodeling in La Jolla](/service-locations/la-jolla-design-build-and-remodel-services/), where better to start than the kitchen? Think about the amount of money you can save if you upgrade your fixtures and fitting to more modern, energy-saving ones. Think about the difference a fresh lighting layout can bring to your kitchen. It can transform even the dullest of kitchens into a luxurious venue. Think about your shabby old cabinets and countertops that simply cry for a makeover.
 
 You can find all of this and more with **Murray Lampert Design, Build, Remodel**. Our team of experienced home renovation professionals bring over 40 years of dedication to each and every remodel we take on. We put our [customers' satisfaction](/reviews) first and in return are favored with their trust and loyalty.
 
@@ -34,4 +34,4 @@ Since we are a one-stop design, build, and remodel company, we are fully equippe
 
 Our designers and architects will take your ideas into account when creating your kitchen or [home design](/san-diego-home-design-services). The design will not only be done as per your specification, but also presented to you in 3D, so you can go on a virtual tour of your kitchen makeover. In that way, you won't have to imagine what the improvements will look like, you can actually see them. Only after you have approved the design will the work begin.
 
-Trust Murray Lampert professionals to do an excellent job that will soon prove to be an amazing return on your investment. Our experienced team will give you the kitchen you will be proud of! [Contact us today](#quick-contact) to get started.
+Homeowners in La Jolla trust Murray Lampert to do an excellent job that will soon prove to be an amazing return on your investment. Our experienced team will give you the kitchen you will be proud of! [Contact us today](#quick-contact) to get started.

@@ -3,14 +3,14 @@ title: Room Additions La Jolla
 permalink: "/room-additions-la-jolla"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in La
   Jolla, San Diego. Take your La Jolla home addition to the next level with us.
 ---
 
 La Jolla is a friendly San Diego community surrounded by ocean bluffs and beaches on three sides. It is very popular with the tourists because it has so much to offer – there are many cultural activities as well as possibilities for recreation and entertainment. It boasts the historic La Jolla Playhouse and the magnificent Museum of Contemporary Art San Diego.
 
-According to 2008 and 2009 surveys, La Jolla had the highest home prices in America, which is probably why homeowners tend to renovate their homes rather than acquire new ones. Moving to a new house can happen for a number of reasons, most common of which is the need for more space. Given the circumstances, La Jolla residents most often opt for [home and room additions](/san-diego-room-additions) to make their homes more functional and also to enhance their visual appeal.
+With La Jolla home prices among the highest in the country, many homeowners opt to [remodel their La Jolla homes](/service-locations/la-jolla-design-build-and-remodel-services/) rather than by new. When space is the primary issue, [home and room additions](/san-diego-room-additions) can make homes more functional, enhance visual appeal, and add value.
 
 ## La Jolla Home Additions Experts
 
