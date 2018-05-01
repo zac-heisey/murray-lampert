@@ -43,4 +43,4 @@ Each [home remodeling](/san-diego-home-remodel-services) project we take on in S
 
 Since 1975, Murray Lampert has built a [rock-solid reputation](https://www.youtube.com/watch?v=oRPb3--nimI) by making transparency, communication, and integrity the foundation of our business. We're proud to say that approach has been effective, and is reflected in our [client testimonials](/testimonials) and positive [reviews](/reviews).
 
-If you have questions about our home remodeling services in Scrips Ranch, or if you'd like to schedule your in-home consultation, please don't hesitate to [reach out to our team today](#quick-contact)!
+If you have questions about our home remodeling services in Scripps Ranch, or if you'd like to schedule your in-home consultation, please don't hesitate to [reach out to our team today](#quick-contact)!
