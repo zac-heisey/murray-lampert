@@ -30,7 +30,7 @@ Whether you’re looking for home remodeling services in Scripps Ranch or just w
 - **3D Project Modeling** - Using the latest [3D modeling technology](/3d-architectural-rendering-services), we’ll give you a preview of what your remodel will look like when it’s all finished.
 - **Kitchen Remodels** - A professionally-designed [kitchen remodel in Scripps Ranch](/kitchen-remodeling-scripps-ranch) can add style, function, and value to an outdated kitchen.
 - **Second Story Additions** - When lot sizes are limted, [second story additions](/san-diego-second-story-addition) provide a great option to increase square footage by building vertically.
-- **[Green Home Building]** – Our team is committed to following best practices when it comes to energy efficiency and [green home construction](/san-diego-green-home-construction) techniques that help preserve the plant, as well as your budget.
+- **Green Home Building** – Our team is committed to following best practices when it comes to energy efficiency and [green home construction](/san-diego-green-home-construction) techniques that help preserve the plant, as well as your budget.
 - **Room Additions** - Whether you need a new home office, expanded living room, or garage conversion, we specialize in [Scripps Ranch room additions](/room-additions-scripps-ranch).
 - **Bathroom Remodels** – Upgrade an outdated bathroom with stylish fixtures, new flooring, efficient plumbing, and more with a [bathroom remodel in San Diego](/san-diego-bathroom-remodeling-services).
 - **Custom Cabinets** – We offer our clients the option of [custom cabinets](/san-diego-custom-cabinet-construction-services), which provide storage and style to any remodeling project.
