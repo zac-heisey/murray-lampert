@@ -3,7 +3,7 @@ title: 5 Interior Design Ideas to Get You in the Swing of Spring
 date: 2018-03-14 00:20:00 Z
 categories:
 - Interior Design
-featured-image: "/uploads/pastels-c81791.png"
+featured-image: "/uploads/pastels.png"
 excerpt: Spring is in the air in San Diego! Now that the weather is warming up, we
   share 5 interior design ideas to try this Spring that can spruce up your space!
 author: Gregg Cantor
@@ -18,7 +18,7 @@ Furniture retailers like West Elm, Pottery Barn, and Anthropologie have been tea
 
 We’re seeing pastels everywhere! From bedding to pillows, shams, and throw blankets, pastels are taking over Spring. Think watery yellows, soft bubble-gum pinks, pistachio green, or lavender purples. Pastels are a color trend that will surely carry into Summer, so don’t shy away from incorporating more pastels into your home!
 
-![image of white nightstand with cactus plant](/uploads/pastels-f760d6.png?download "Nothing Says Spring Quite Like Pastels")
+![image of white nightstand with cactus plant](/uploads/pastels.png "Nothing Says Spring Quite Like Pastels")
 
 ### 2. Geometric Patterns and Textures
 
