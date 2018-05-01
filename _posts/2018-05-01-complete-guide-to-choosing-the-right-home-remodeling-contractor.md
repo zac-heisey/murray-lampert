@@ -5,8 +5,7 @@ categories:
 - Home Remodeling
 - Guides
 featured-image: "/uploads/q2-content-pillar-graphic.png"
-excerpt: This comprehensive guide will help homeowners find, vet, and work with the
-  right remodeling contractor for their renovation project. Check it out here!
+excerpt: This comprehensive guide will help homeowners find, vet, and work with the right remodeling contractor for their renovation project. Check it out here!
 author: Gregg Cantor
 layout: post
 ---
@@ -155,9 +154,10 @@ It’s important you ask your potential contractor the right questions in order 
 
 10. What is your involvement once a project has been completed? 
 
-Below is a printable version of these questions to have on hand as you interview potential remodeling contractors
+**Below is a printable version of these questions to have on hand as you interview potential remodeling contractors.
+_Right Click and Choose 'Save Image As'_**
 
-<a href="https://murraylampert.com/uploads/questions-to-ask-your-potential-contractor.pdf" download><img src="/uploads/questions-to-ask-your-potential-contractor.pdf" alt="PDF of questions to ask your contractor" title="Questions to Ask Your Potential Contractor"></a>
+<img src="/uploads/questions-to-ask-your-potential-contractor.png" alt="list of questions to ask your potential contractor" title="Questions to Ask Your Potential Contractor">
 
 ---
 
