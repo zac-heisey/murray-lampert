@@ -1,6 +1,7 @@
 ### BLOCKED COUNTRIES
 https://murraylampert.com*  https://murraylampert.com/sorry  301  Country=pk,pl,id,in,bd,cn,de,fr,bw,ph,rs,ru,si,sg,ua
 
+
 ### NETLIFY DEV DOMAIN REDIRECTS
 https://murray-lampert.netlify.com/*   https://murraylampert.com/:splat    301!
 http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
@@ -134,9 +135,13 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /fall-home-checklist*	/fall-home-maintenance-checklist/	301
 /faqs/h/san-diego-room-additions/	/san-diego-room-additions/	301
 /feed/hotwater.com/naeca	/new-water-heater-regulations-infographic/	301
-/final-check-before-your-hire-a-remodeling-company/	/final-check-before-hiring-remodeling-company-san-diego	301
-/find-the-best-general-contractor-san-diego/*	/how-to-find-the-best-general-contractor/	301
-/for-kitchen-remodeling-hire-a-general-contractor*	/for-kitchen-remodeling-hire-general-contractor/	301
+/final-check-before-your-hire-a-remodeling-company/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/final-check-before-hiring-remodeling-company-san-diego/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/find-the-best-general-contractor-san-diego/*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/how-to-find-the-best-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/more-on-choosing-a-remodeling-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/for-kitchen-remodeling-hire-a-general-contractor*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/for-kitchen-remodeling-hire-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /gallery/	/san-diego-remodel-project-gallery	301
 /gallery/before_after.php	/before-after-gallery	301
 /gallery/custom_bathrooms.php	/bathroom-remodel-gallery	301
@@ -156,14 +161,21 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /home-office-checklist-home-additions-la-jolla-project-for-telecommuters/	/home-office-pre-construction-checklist-home-additions-la-jolla-project-for-telecommuters/	301
 /Home-Remodel	/san-diego-home-remodel-services	301
 /home-remodeler-awards*	/awards-affiliations	301
-/home-remodeling-advice/	/home-remodeling-advice-and-contractors-review/	301
+/home-remodeling-advice/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/home-remodeling-advice-and-contractors-review/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/before-you-sign-the-contract/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/before-you-sigh-the-contract-part-2/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /home-remodeling-blog*	/blog/	301
 /home-remodeling-boot-camp*	/blog/	301
 /home-remodeling-in-mission-hills-san-diego/	/service-locations/mission-hills-design-build-and-remodel-services/	301
 /home-remodeling-on-budget/	/how-much-will-my-home-remodeling-project-cost/	301
 /home-remodeling-services/	/san-diego-home-remodel-services	301
 ‎/home%20additions/2017/10/18/second-story-addition.html‎	/top-tips-for-your-second-story-addition/	301
-/how-to-choose-a-contractor-for-sucessful-home-remodeling/	/how-to-choose-a-contractor-for-successful-home-remodeling-part-1/	301
+/how-to-choose-a-contractor-for-sucessful-home-remodeling/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/how-to-choose-a-contractor-for-successful-home-remodeling-part-1/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/how-to-choose-a-contractor-for-successful-home-remodeling-part-2/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/what-you-should-expect-in-a-home-remodeling-contractor-part-2/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /how-to-make-a-small-room-look-bigger*	/how-to-make-small-room-look-bigger/	301
 /images/ml.ico	/assets/images/favicon.png	301
 /interior-design-by-asid-accredited-professionals/	/san-diego-asid-professionals/	301
@@ -272,7 +284,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /testimonials/murray_lampert_testimonials.php	/testimonials/	301
 /thank-you-2/	/thank-you/	301
 /thank-you-3/	/thank-you/	301
-/the-importance-of-hiring-an-insured-contractor/click	/the-importance-of-hiring-an-insured-contractor/	301
+/the-importance-of-hiring-an-insured-contractor/click	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /the-lowest-bid-always-looks-good-bu/	/the-lowest-bid-always-looks-good-but/	301
 /the-pros-guide-to-deck-restora	/the-pros-guide-to-deck-restoration/	301
 /til-the-well-runs-dry-how-xeriscaping-helps-conserve-water-infographic/	/infographic-til-the-well-runs-dry-how-xeriscaping-helps-conserve-water/	301
@@ -281,7 +294,9 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /tips/home_remodeling_tips.php	/blog/	301
 /tips/index.html	/blog/	301
 /tips/remodeling_faqs.php	/faqs/	301
-/tips/trust_your_contractor.php	/trust-in-your-home-remodeling-contractor-choice/	301
+/tips/trust_your_contractor.php	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/trust-in-your-home-remodeling-contractor-choice/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/20-point-checklist-hiring-a-contractor-if-your-house-has-been-damaged-by-a-fire/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /tools/formfriend.html	/	301
 /tools/search.php	/	301
 /tools/site_map.php	/sitemap/	301
@@ -297,19 +312,23 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2010/04/windows-for-your-home-not-your-pc-aluminum-frame/	/windows-for-your-home-not-your-pc-aluminum-frame/	301
 /wordpress/2010/05/epa-lead-free-certification/	/epa-lead-free-certification/	301
 /wordpress/2010/05/second-story-addition-and-deck/	/second-story-addition-and-deck/	301
-/wordpress/2010/06/for-kitchen-remodeling-hire-a-general-contractor/	/for-kitchen-remodeling-hire-a-general-contractor/	301
+/wordpress/2010/06/for-kitchen-remodeling-hire-a-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/for-kitchen-remodeling-hire-a-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/06/home-remodeling-nightmares-are-avoidable/feed/	/home-remodeling-nightmares-are-avoidable/feed/	301
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/*	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2010/08/home-remodeling-definitions-part-1/comment-page-1/	/home-remodeling-definitions-part-1/	301
 /wordpress/2010/08/the-abcs-of-home-remodeling/	/the-abcs-of-home-remodeling/	301
 /wordpress/2010/09/home-remodeler-awards/trackback/	/home-remodeler-awards/	301
-/wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	301
-/wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/feed/	/what-you-should-expect-in-a-home-remodeling-contractor-part-3/	301
-/wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/trackback/	/what-you-should-expect-in-a-home-remodeling-contractor-part-3/	301
+/wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/feed/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/trackback/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/what-you-should-expect-in-a-home-remodeling-contractor-part-3/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/10/tips-on-saving-energy-during-the-winter-in-san-diego/	/tips-on-saving-energy-during-the-winter-in-san-diego/	301
 /wordpress/2010/10/understanding-energy-efficient-windows/	/understanding-energy-efficient-windows/	301
 /wordpress/2010/11/10-tips-for-buying-your-first-home/	/10-tips-for-buying-your-first-home/	301
-/wordpress/2010/11/8-home-renovation-scams-to-avoid/	/8-home-renovation-scams-to-avoid/	301
+/wordpress/2010/11/8-home-renovation-scams-to-avoid/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/8-home-renovation-scams-to-avoid/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-three-little-pigs-remodel/	/san-diego-design-build-contractors	301
 /wordpress/2010/11/designers-for-san-diego-home-remodeling-and-home-construction/trackback/	/designers-for-san-diego-home-remodeling-and-home-construction/	301
 /wordpress/2010/12/another-bbb-torch-award-for-murray-lampert-construction/trackback/	/another-bbb-torch-award-for-murray-lampert-construction/	301
 /wordpress/2010/12/timely-san-diego-home-remodeling/	/timely-san-diego-home-remodeling/	301
@@ -317,10 +336,11 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2011/01/overview-of-san-diego-building-permits/trackback/	/overview-of-san-diego-building-permits/	301
 /wordpress/2011/02/good-news-for-the-home-remodeling-industry	/good-news-for-the-home-remodeling-industry/	301
 /wordpress/2011/02/good-news-for-the-home-remodeling-industry/feed/	/good-news-for-the-home-remodeling-industry/feed/	301
-/wordpress/2011/02/san-diego-home-remodeler-screening-guide/	/san-diego-home-remodeler-screening-guide/	301
-/wordpress/2011/02/san-diego-home-remodeler-screening-guide/trackback/	/san-diego-home-remodeler-screening-guide/	301
-/wordpress/2011/02/what-to-look-for-in-a-san-diego-home-remodeling-company	/what-to-look-for-in-a-san-diego-home-remodeling-company/	301
-/wordpress/2011/02/what-to-look-for-in-a-san-diego-home-remodeling-company/	/what-to-look-for-in-a-san-diego-home-remodeling-company/	301
+/wordpress/2011/02/san-diego-home-remodeler-screening-guide/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/wordpress/2011/02/san-diego-home-remodeler-screening-guide/trackback/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/san-diego-home-remodeler-screening-guide/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/wordpress/2011/02/what-to-look-for-in-a-san-diego-home-remodeling-company*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/what-to-look-for-in-a-san-diego-home-remodeling-company/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2011/03/del-cerro-san-diego/	/service-locations/del-cerro-design-build-and-remodel-services/	301
 /wordpress/2011/03/pacific-beach-san-diego/	/pacific-beach-san-diego/	301
 /wordpress/2011/03/san-diego-kitchen-bath-remodeling/	/san-diego-kitchen-remodeling-services	301
@@ -344,7 +364,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2011/09/home-remodeling-in-ocean-beach-san-diego/trackback/	/home-remodeling-in-ocean-beach-san-diego/	301
 /wordpress/2011/10/american-housing-guild-san-diego-martin-gleich/	/american-housing-guild-san-diego-martin-gleich/	301
 /wordpress/2011/10/american-housing-guild-san-diego-martin-gleich/trackback/	/american-housing-guild-san-diego-martin-gleich/	301
-/wordpress/2011/10/choosing-a-home-remodeler/	/choosing-a-home-remodeler/	301
+/wordpress/2011/10/choosing-a-home-remodeler/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/choosing-a-home-remodeler/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2011/11/del-mar-home-remodeling-and-renovation/	/del-mar-home-remodeling-and-renovation/	301
 /wordpress/2011/11/encinitas-home-design-remodeling/	/service-locations/encinitas-design-build-and-remodel-services/	301
 /wordpress/2012/02/architectural-home-design-in-del-cerro-ca/	/service-locations/del-cerro-design-build-and-remodel-services/	301
@@ -358,7 +379,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2012/04/san-diego-6-interview-murray-lampert/	/san-diego-6-interview-murray-lampert/	301
 /wordpress/2012/04/san-diego-6-interview-on-4-11/	/san-diego-6-interview-on-4-11/	301
 /wordpress/2012/05/design-remodeling-big-50-winner/	/design-remodeling-big-50-winner/	301
-/wordpress/2012/06/choosing-a-company-renovation/	/choosing-a-company-renovation/	301
+/wordpress/2012/06/choosing-a-company-renovation/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/choosing-a-company-renovation/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2012/06/create-a-timeless-kitchen/	/create-a-timeless-kitchen/	301
 /wordpress/2012/06/four-recent-home-remodeling-trends	/four-recent-home-remodeling-trends/	301
 /wordpress/2012/06/four-recent-home-remodeling-trends/	/four-recent-home-remodeling-trends/	301
@@ -375,7 +397,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2013/02/3-steps-to-bbq-season/	/3-steps-to-bbq-season/	301
 /wordpress/2013/02/green-home-improvements-a-beginners-guide/	/green-home-improvements-a-beginners-guide/	301
 /wordpress/2013/02/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	301
-/wordpress/2013/02/the-importance-of-hiring-an-insured-contractor/	/the-importance-of-hiring-an-insured-contractor/	301
+/wordpress/2013/02/the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/	/5-ways-to-get-your-home-ready-for-summer/	301
 /wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/feed/	/5-ways-to-get-your-home-ready-for-summer/feed/	301
 /wordpress/2013/04/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	301
