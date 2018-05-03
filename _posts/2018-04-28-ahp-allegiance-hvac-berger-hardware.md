@@ -5,8 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/04-28-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we have Allegiance HVAC
-  and Berger Hardware. Check out the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we have Allegiance HVAC and
+  Berger Hardware. Check out the full audio here!
 author: Gregg Cantor
 layout: post
 ---
