@@ -16,16 +16,26 @@ There are different types of change orders, some due to unforeseen circumstances
 
 For owner-requested changes like adding more square footage or upgrading finishes, we always price them out before completing work and give our clients choices. The profit margin we use is consistent with our original contract.
 
-**Protect Yourself from Greedy Profit Margins***
+#### Protect Yourself from Greedy Profit Margins
 
-It is common for home improvement contractors to escalate their profit margins on change orders, sometimes doubling the cost. In my opinion, it is taking advantage of a client when they really may not have a choice.
+While they are a common component of any home improvement project, disreputable contractors will sometimes take advantage of homeowners with unmerited change orders. If you're presented with change orders for work not requested, **don't just sign off**. When I consult with homeowners, I advise them to push back if a contractor comes forward with change orders after the fact. Contract law states that it is illegal to complete additional work without a signed change order. That should be enough leverage to use against a contractor who treats you unfairly.
 
-I suggest asking the firms you are considering up front how they handle changes. This quote from a contractor in Maryland is what you should watch out for:
+Here are some typical situations where change orders can legitimately apply:
+
+1. Documentation of a pre-existing field conditions
+
+2. Deviations from the plans or specifications due to code requirements or measurement discrepancies
+
+3. Material, fixture, or finish upgrades requested by owner
+
+4. Plan changes
+
+5. Additional work requested by owner
+
+I suggest asking the firms you are considering up front how they handle change orders. This quote from a contractor in Maryland is exactly the mentality you should watch out for:
 
 > “Change orders are as much a part of our business as anything else we do. Mark-up needs to be much higher. Change orders can be a great way to increase profits!”
 
 As an reputable [San Diego design-build firm](/san-diego-design-build-contractors) that is known for accurate up-front pricing, being greedy with profit margins on additional work is something we never do.
-
-When I consult with homeowners, I advise them to push back if a contractor comes forward with change orders after the fact. Contract law states that it is illegal to complete additional work without a signed change order. That should be enough leverage to use against a contractor who treats you unfairly.
 
 A healthy relationship with your home improvement contractor requires a little give and take. Check out our [complete guide to choosing the right home remodeling contractor](/complete-guide-to-choosing-the-right-home-remodeling-contractor/) to learn more about starting off the client-contractor relationship on the right foot.
