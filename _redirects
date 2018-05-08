@@ -317,7 +317,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2010/06/home-remodeling-nightmares-are-avoidable/feed/	/home-remodeling-nightmares-are-avoidable/feed/	301
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/*	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2010/08/home-remodeling-definitions-part-1/comment-page-1/	/home-remodeling-definitions-part-1/	301
-/wordpress/2010/08/the-abcs-of-home-remodeling/	/the-abcs-of-home-remodeling/	301
+/wordpress/2010/08/the-abcs-of-home-remodeling/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-abcs-of-home-remodeling	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/09/home-remodeler-awards/trackback/	/home-remodeler-awards/	301
 /wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/feed/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
@@ -406,7 +407,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2013/04/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	301
 /wordpress/2013/05/kitchen-design-trends/	/kitchen-design-trends/	301
 /wordpress/2013/06/5-interior-design-styles/	/5-interior-design-styles/	301
-/wordpress/2013/06/home-improvement-contract-requirements/	/home-improvement-contract-requirements/	301
+/wordpress/2013/06/home-improvement-contract-requirements/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/home-improvement-contract-requirements/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2013/06/the-economics-of-solar-energy/	/the-economics-of-solar-energy/	301
 /wordpress/2013/07/how-much-will-my-home-remodeling-project-cost/	/how-much-will-my-home-remodeling-project-cost/	301
 /wordpress/2013/08/5-reasons-you-need-an-architect-for-home-remodeling-projects/	/5-reasons-you-need-an-architect-for-home-remodeling-projects/	301
@@ -430,3 +432,4 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wp-content/cache/page_enhanced/murraylampert.com/tag/home-improvement/_index.html_gzip	/	301
 /wp-content/gallery/*	/uploads/gallery/:splat	301
 /wp-content/uploads/*	/uploads/:splat	301
+/home-remodeling-2010/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
