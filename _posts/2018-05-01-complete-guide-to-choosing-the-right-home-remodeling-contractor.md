@@ -35,6 +35,7 @@ With our **Complete Guide to Choosing the Right Home Remodeling Contractor**, yo
 <h2 id="introduction">Introduction</h2>
 
 Homeowners who are planning a remodeling project typically take similar steps when searching for a contractor to work with. They ask friends and family for references, use search engines to find local firms, browse profiles and project photos on Houzz, Instagram, and Pinterest, check out customer reviews and testimonials on Yelp, Google, and BBB, and more.
+
 All of these are great when you’re in the early stages of searching for a home remodeling contractor to turn your renovation ideas into reality. The issue with all of this information gathering is that **it can be difficult to differentiate between the best remodeling contractor and the best remodeling contractor for _your specific_ project**.
 
 Make no mistake - the distinct between these two is important. Any remodeling contractor worth their salt should have a well-designed website that features high-quality project photos, industry awards and affiliations, client testimonials, and more. They’re also likely to have solid reviews, both online and from in-person references (if this is NOT the case, you can cross them off your list right away). If nearly ever contractor presents themselves as the best, how do you determine which one to ultimately work with?
@@ -174,9 +175,11 @@ Now that you have all of the information necessary to select the right contracto
 
 We’ve already touched on a few red flags to look out for, but we wanted to emphasize the following ones, as they tend to come up most often. Beware of any home remodeling contractor who demonstrates the following:
 
-#### Lack of License or Insurance
+#### Lack of License, Insurance, or Required Documents
 
 This is perhaps the ultimate red flag, and one that **should immediately disqualify any contractor from consideration**. Paying for work from an unpermitted contractor leaves you at risk of fines, legal fees, and without recourse to recoup any lost investment. Not to mention, the quality of the work is likely to be below the industry standard.
+
+Additionally, California law also requires contractors to provide documents such as a **Notice of Cancellation** (provides homeowners 3 business days to cancel a project), **Notice to Owner** (gives advice on how to protect against property liens), documents explaining commercial liability insurance, and forms outlining lead hazards, along with testing and removal requirements for homes built prior to 1978. Make sure your contractor provides you with _ALL_ of the required documentation before you begin your project.
 
 #### Extreme Bids
 
