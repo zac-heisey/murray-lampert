@@ -402,8 +402,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2013/02/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	301
 /wordpress/2013/02/the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
-/wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/	/5-ways-to-get-your-home-ready-for-summer/	301
-/wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/feed/	/5-ways-to-get-your-home-ready-for-summer/feed/	301
+/wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/*	/5-ways-to-get-your-home-ready-for-summer/	301
 /wordpress/2013/04/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	301
 /wordpress/2013/05/kitchen-design-trends/	/kitchen-design-trends/	301
 /wordpress/2013/06/5-interior-design-styles/	/5-interior-design-styles/	301
@@ -433,3 +432,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wp-content/gallery/*	/uploads/gallery/:splat	301
 /wp-content/uploads/*	/uploads/:splat	301
 /home-remodeling-2010/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-change-order/	/the-meaning-of-change-orders-in-home-remodeling/	301
+/contract-allowances/	/what-are-home-improvement-contract-allowances/	301
+/to-pay-up-front-design-fees-or-not-to-pay/	/	301
+/san-diego-home-remodeling-summer-special/	/	301
+/glitter-sizzle-pop/	/	301
