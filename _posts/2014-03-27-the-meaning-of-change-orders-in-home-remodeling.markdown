@@ -4,8 +4,10 @@ date: 2014-03-27 08:00:19 Z
 permalink: "/the-meaning-of-change-orders-in-home-remodeling/"
 categories:
 - Home Remodeling
-featured-images:
-excerpt: Remodeling change orders can cause major headaches for homeowners. While some change orders are necessary to cover unforeseen issues, they're often exploited by greedy contractors to enhance profit margins.
+featured-images: 
+excerpt: Remodeling change orders can cause major headaches for homeowners. While
+  some change orders are necessary to cover unforeseen issues, they're often exploited
+  by greedy contractors to enhance profit margins.
 author: Gregg Cantor
 layout: post
 ---

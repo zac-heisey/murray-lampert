@@ -5,7 +5,9 @@ permalink: "/what-are-home-improvement-contract-allowances/"
 categories:
 - Home Remodeling
 featured-image: "/uploads/find-best-contractor.jpg"
-excerpt: Allowances in home remodeling contracts allow you to get a feel for the price of your project with various materials, fixtures, and finishes. Unfortunately, allowances are often misunderstood and abused by bad contractors.
+excerpt: Allowances in home remodeling contracts allow you to get a feel for the price
+  of your project with various materials, fixtures, and finishes. Unfortunately, allowances
+  are often misunderstood and abused by bad contractors.
 author: Gregg Cantor
 layout: post
 ---
