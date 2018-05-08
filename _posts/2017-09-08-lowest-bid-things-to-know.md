@@ -14,7 +14,7 @@ author: Gregg Cantor
 
 ## The Lowest Bid Always Looks Good, But Here's What You Should Know
 
-When it comes to a remodeling project – contractors often bid low to lock in the job. Once contracted, firms find additional costs and changes that ultimately result in the overall project costing the same or more than the original competitors.
+When it comes to a remodeling project – contractors often bid low to lock in the job. Once contracted, firms find additional costs, [finish and fixture allowances](/what-are-home-improvement-contract-allowances/), and other changes that ultimately result in the overall project costing the same or more than the original competitors.
 
 Although low home remodeling bids are tempting, stay away! The lowest bid does not mean it is the highest quality bid. Ultimately, putting your remodeling project and wallet at risk for additional change orders and unforeseen costs. As you begin your search for the correct contractor, we offer a few suggestions to help you understand the problems behind low bids:
 
@@ -28,8 +28,6 @@ When attracting customers with extremely low bids, there is something the contra
 
 ## When You Know It's Too Good to Be True
 
-If the bid seems too good to be true – it probably is. Look into the contractor or contracting firms previous clients and ask for references. Ask about their experiences with the contractor, how the overall project went, and if it was done in a timely matter. Experienced contractors will include all details of materials and work needed. If you are given a home remodeling bid without a consultation or walk-through, you should consider other contractors.
+If the bid seems too good to be true – it probably is. Look into the contractor or contracting firms previous clients and ask for references. Ask about their experiences with the contractor, how the overall project went, and if it was done in a timely matter. Experienced contractors will include all details of materials and work needed to provide you with the most accurate [cost of your home remodeling project](/how-much-will-my-home-remodeling-project-cost/). If you are given a home remodeling bid without a consultation or walk-through, you should consider other contractors.
 
-At the end of the day, do your research. Many of us have heard the horror stories of fake contractors who operate without a license, take the deposit and leave, or spend an exasperating amount time to finish a project. Research the history and reviews of each contracting firm you are considering. Have the right questions prepared to ensure that you will be receiving a quality remodel in the time frame and price range you have in mind. Additionally, have all agreed upon terms written down in a contract to protect yourself from any issues that may arise in the future.
-
-[Murray Lampert](/) is an established and high-quality contracting firm with years of experience. We specialize in [home remodeling](/san-diego-home-remodel-services), design, and construction. Over these many years, we have continually built [trusting relationships](https://www.youtube.com/watch?v=XmwMaPooaEg) with each of our clients through our innovative design, quality craftsmanship, affordable prices and timely completion. Speak to us today about your next remodel!
+At the end of the day, do your research when [choosing a home remodeling contractor](/complete-guide-to-choosing-the-right-home-remodeling-contractor/). Many of us have heard the horror stories of fake contractors who operate without a license, take the deposit and leave, or spend an exasperating amount time to finish a project. Research the history and reviews of each contracting firm you are considering. Have the right questions prepared to ensure that you will be receiving a quality remodel in the time frame and price range you have in mind. Additionally, have all agreed upon terms written down in a contract to protect yourself from any issues that may arise in the future.

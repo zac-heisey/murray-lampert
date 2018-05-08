@@ -38,7 +38,7 @@ Besides structural, finishes and fixtures are the largest contributor to cost. L
 
 1. Establish what brand, type, and quality of plumbing fixtures, appliances and finishes you want. You can start by looking online and getting some approximate costs.  Then go out and kick the tires at your [local plumbing supplier](http://www.ferguson.com), home center, etc.
 
-2. Ask your home remodeling contractor to either define the allowances in the contract for fixtures and finishes, or exclude them entirely. Items like plumbing fixtures and allowances can just as well be left out to avoid contractor markup and the manufactures warranties will cover you. Cabinets, countertops, tile work, etc. should be part of your contractor’s scope of work (SOW), so it's under his/her warranty.
+2. Ask your home remodeling contractor to either [define the allowances](/what-are-home-improvement-contract-allowances/) in the contract for fixtures and finishes, or exclude them entirely. Items like plumbing fixtures and allowances can just as well be left out to avoid contractor markup and the manufactures warranties will cover you. Cabinets, countertops, tile work, etc. should be part of your contractor’s scope of work (SOW), so it's under his/her warranty.
 
 3. Make sure your contractor’s SOW includes installation of **all** finishes, fixtures, and appliances - whether you provide them or not. There might be special electrical wiring, plumbing, un-boxing, lifting/moving, etc. that requires the help of a professional.
 
