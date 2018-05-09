@@ -5,8 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/05-05-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we chat with Window World San Diego and
-  Black Mountain Plumbing. Check out the full audio here!
+excerpt: This week on The Approved Home Pro Radio Show we chat with Window World San
+  Diego and Black Mountain Plumbing. Check out the full audio here!
 author: Gregg Cantor
 layout: post
 ---
