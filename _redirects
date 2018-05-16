@@ -314,7 +314,9 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2010/05/second-story-addition-and-deck/	/second-story-addition-and-deck/	301
 /wordpress/2010/06/for-kitchen-remodeling-hire-a-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /for-kitchen-remodeling-hire-a-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
-/wordpress/2010/06/home-remodeling-nightmares-are-avoidable/feed/	/home-remodeling-nightmares-are-avoidable/feed/	301
+/wordpress/2010/06/home-remodeling-nightmares-are-avoidable/*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/home-remodeling-nightmares-are-avoidable/*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/how-to-avoid-remodeling-nightmares/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/*	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2010/08/home-remodeling-definitions-part-1/comment-page-1/	/home-remodeling-definitions-part-1/	301
 /wordpress/2010/08/the-abcs-of-home-remodeling/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
