@@ -1,12 +1,14 @@
 ---
-title: Approved Home Pro Show - A-1 Rain Gutters, Perkins Custom Coatings and We Care Plumbing, Heating & Air
+title: Approved Home Pro Show - A-1 Rain Gutters, Perkins Custom Coatings and We Care
+  Plumbing, Heating & Air
 date: 2018-05-12 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/05-12-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we have A-1 Rain Gutters, Perkins Custom Coatings
-  and We Care Plumbing, Heating & Air. Listen and learn how to protect your home from water damage!
+excerpt: This week on The Approved Home Pro Radio Show we have A-1 Rain Gutters, Perkins
+  Custom Coatings and We Care Plumbing, Heating & Air. Listen and learn how to protect
+  your home from water damage!
 author: Gregg Cantor
 layout: post
 ---
