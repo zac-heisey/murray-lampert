@@ -12,7 +12,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-If you're undertaking a [home remodeling](/san-diego-home-remodel-services) or construction project, you should have a clear understanding of what contract allowances mean, and how they can affect the overall [cost of your home remodeling project](how-much-will-my-home-remodeling-project-cost/).
+If you're undertaking a [home remodeling](/san-diego-home-remodel-services) or construction project, you should have a clear understanding of what contract allowances mean, and how they can affect the overall [cost of your home remodeling project](/how-much-will-my-home-remodeling-project-cost/).
 
 ## So What Are Home Improvement Allowances?
 
