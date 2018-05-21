@@ -21,4 +21,4 @@ Listen to the full audio of the radio broadcast below:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SGBUv_qOuXk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-> Tune in **Saturday's at 6AM on KOGO 600** for the latest [home remodeling](/san-diego-home-remodel-services) tips and advice from The Approved Home Pro team.
+> Tune in **Saturday's at 9AM on KOGO 600** for the latest [home remodeling](/san-diego-home-remodel-services) tips and advice from The Approved Home Pro team.

@@ -23,4 +23,4 @@ Listen to the full audio of the radio broadcast below:
 
 ![image of Approved Home Pro Show team and guests on 4/28/2018](https://www.sandiegoapprovedhomepros.com/wp-content/uploads/2018/05/27972-1024x768.jpeg "The Approved Home Pro Show team")
 
-> Tune in **Saturday's at 6AM on KOGO 600** for the latest home remodeling tips and advice from The Approved Home Pro team.
+> Tune in **Saturday's at 9AM on KOGO 600** for the latest home remodeling tips and advice from The Approved Home Pro team.

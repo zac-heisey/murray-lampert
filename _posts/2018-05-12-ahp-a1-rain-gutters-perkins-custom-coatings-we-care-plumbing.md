@@ -21,4 +21,4 @@ Check out the full audio of the broadcast below and learn how to avoid costly wa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8CPEkkgJMME?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-> Tune in **Saturday's at 6AM on KOGO 600** for the latest home remodeling tips and advice from The Approved Home Pro team.
+> Tune in **Saturday's at 9AM on KOGO 600** for the latest home remodeling tips and advice from The Approved Home Pro team.
