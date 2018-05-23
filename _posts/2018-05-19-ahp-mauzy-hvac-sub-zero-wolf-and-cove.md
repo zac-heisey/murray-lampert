@@ -5,7 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/05-19-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we catch up with Mauzy HVAC and Sub-Zero, Wolf, and Cove.
+excerpt: This week on The Approved Home Pro Radio Show we catch up with Mauzy HVAC
+  and Sub-Zero, Wolf, and Cove.
 author: Gregg Cantor
 layout: post
 ---
