@@ -1,7 +1,7 @@
 ---
 title: Home Remodeling Definitions
 date: 2010-08-14 16:05:37 Z
-permalink: "/home-remodeling-definitions-part-1/"
+permalink: "/home-remodeling-definitions/"
 layout: post
 ---
 
