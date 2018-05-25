@@ -308,8 +308,12 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/	/blog/	301
 /wordpress/?p=*	/blog/	301
 /wordpress/2009/08/home-remodeling-boot-camp/comment-page-1/	/home-remodeling-boot-camp/comment-page-1/	301
-/wordpress/2009/12/murray-lampert-constructions-staff-architect-frank-piermarini/	/murray-lampert-constructions-staff-architect-frank-piermarini/	301
-/wordpress/2010/04/windows-for-your-home-not-your-pc-aluminum-frame/	/windows-for-your-home-not-your-pc-aluminum-frame/	301
+/wordpress/2009/12/murray-lampert-constructions-staff-architect-frank-piermarini/	/about-murray-lampert-design-build-remodel#team-members	301
+/murray-lampert-constructions-staff-architect-frank-piermarini/	/about-murray-lampert-design-build-remodel#team-members	301
+/wordpress/2010/04/windows-for-your-home-not-your-pc-aluminum-frame/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
+/windows-for-your-home-not-your-pc-aluminum-frame/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
+/windows-for-your-home-not-your-pc/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
+/windows-for-your-home-not-your-pc-glass-types/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
 /wordpress/2010/05/epa-lead-free-certification/	/epa-lead-free-certification/	301
 /wordpress/2010/05/second-story-addition-and-deck/	/second-story-addition-and-deck/	301
 /wordpress/2010/06/for-kitchen-remodeling-hire-a-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
@@ -320,14 +324,15 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2010/07/european-vs-traditional-face-frame-cabinets-for-your-kitchen/*	/european-vs-traditional-face-frame-cabinets-for-your-kitchen/	301
 /wordpress/2010/08/home-remodeling-definitions-part-1/comment-page-1/	/home-remodeling-definitions-part-1/	301
 /wordpress/2010/08/the-abcs-of-home-remodeling/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
-/the-abcs-of-home-remodeling	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/the-abcs-of-home-remodeling/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/09/home-remodeler-awards/trackback/	/home-remodeler-awards/	301
 /wordpress/2010/09/what-should-you-expect-in-a-home-remodeling-contractor-part-1/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/feed/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/09/what-you-should-expect-in-a-home-remodeling-contractor-part-3/trackback/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /what-you-should-expect-in-a-home-remodeling-contractor-part-3/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2010/10/tips-on-saving-energy-during-the-winter-in-san-diego/	/tips-on-saving-energy-during-the-winter-in-san-diego/	301
-/wordpress/2010/10/understanding-energy-efficient-windows/	/understanding-energy-efficient-windows/	301
+/wordpress/2010/10/understanding-energy-efficient-windows/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
+/understanding-energy-efficient-windows/	/efficiency-sound-insulation-curb-appeal-with-new-windows/	301
 /wordpress/2010/11/10-tips-for-buying-your-first-home/	/10-tips-for-buying-your-first-home/	301
 /wordpress/2010/11/8-home-renovation-scams-to-avoid/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /8-home-renovation-scams-to-avoid/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
@@ -370,8 +375,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2011/10/choosing-a-home-remodeler/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /choosing-a-home-remodeler/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /choosing-a-remodeling-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
-/wordpress/2011/11/del-mar-home-remodeling-and-renovation/	/service-locations/del-mar-design-build-and-remodel-services/	301	Done
-/del-mar-home-remodeling-and-renovation/	/service-locations/del-mar-design-build-and-remodel-services/	301	Done
+/wordpress/2011/11/del-mar-home-remodeling-and-renovation/	/service-locations/del-mar-design-build-and-remodel-services/	301
+/del-mar-home-remodeling-and-renovation/	/service-locations/del-mar-design-build-and-remodel-services/	301
 /wordpress/2011/11/encinitas-home-design-remodeling/	/service-locations/encinitas-design-build-and-remodel-services/	301
 /wordpress/2012/02/architectural-home-design-in-del-cerro-ca/	/service-locations/del-cerro-design-build-and-remodel-services/	301
 /wordpress/2012/02/pacific-beach-architectural-home-design/	/pacific-beach-architectural-home-design/	301
@@ -405,10 +410,10 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /wordpress/2013/02/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	/make-it-happen-a-practical-guide-to-turning-your-remodeling-dream-into-reality/	301
 /wordpress/2013/02/the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /the-importance-of-hiring-an-insured-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
-/wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/*	/5-ways-to-get-your-home-ready-for-summer/	301
+/wordpress/2013/04/5-ways-to-get-your-home-ready-for-summer/	/5-ways-to-get-your-home-ready-for-summer/	301
 /wordpress/2013/04/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	/ideas-for-filling-out-empty-rooms-in-your-expanded-home/	301
 /wordpress/2013/05/kitchen-design-trends/	/kitchen-design-trends/	301
-/wordpress/2013/06/5-interior-design-styles/	/5-interior-design-styles/	301
+/wordpress/2013/06/5-interior-design-styles/*	/5-interior-design-styles/	301
 /wordpress/2013/06/home-improvement-contract-requirements/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /home-improvement-contract-requirements/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /wordpress/2013/06/the-economics-of-solar-energy/	/the-economics-of-solar-energy/	301
@@ -457,3 +462,5 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /kitchen-counters-soapstone-part-8/	/the-most-popular-materials-for-kitchen-countertops/	301
 /kitchen-countertops-marble-part-9/	/the-most-popular-materials-for-kitchen-countertops/	301
 /kitchen-countertops-concrete-part-10/	/the-most-popular-materials-for-kitchen-countertops/	301
+/live-remodeling-by-murray-lampert-construction/	/san-diego-remodel-project-gallery	301
+/home-remodeling-definitions-part-1/	/home-remodeling-definitions/	301
