@@ -5,7 +5,9 @@ permalink: "/efficiency-sound-insulation-curb-appeal-with-new-windows/"
 categories:
 - Home Remodeling
 - Green Construction
-excerpt: Windows come in a variety of shapes, sizes, and materials. Learn about the benefits of different window types, as well as which windows are hype and which are worth the price.
+excerpt: Windows come in a variety of shapes, sizes, and materials. Learn about the
+  benefits of different window types, as well as which windows are hype and which
+  are worth the price.
 author: Gregg Cantor
 layout: post
 ---
