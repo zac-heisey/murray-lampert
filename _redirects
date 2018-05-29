@@ -197,6 +197,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /news-and-tips/*	/blog/	301
 /page.xml	/sitemap.xml	301
 /pet-friendly-home-remodeling-escondido/	/pet-friendly-home-remodeling/	301
+/poway-architecture/	/service-locations/poway-design-build-and-remodel-services/	301
 /poway-california/	/service-locations/poway-design-build-and-remodel-services/	301
 /poway-home-design-build-and-remodel-services/	/service-locations/poway-design-build-and-remodel-services/	301
 /quote/	/contact/	301
