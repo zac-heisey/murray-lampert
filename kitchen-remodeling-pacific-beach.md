@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Pacific Beach
 permalink: "/kitchen-remodeling-pacific-beach"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Pacific Beach, San Diego. Take your Pacific Beach kitchen remodel to the next level
   with us.
@@ -11,13 +11,13 @@ layout: default
 
 Pacific Beach used to be a real surf haven for young people, while it is now seeing a transition to a more professional, affluent community. Its residents, as well as visitors, enjoy its exciting nightlife, deemed one of the best in San Diego.
 
-It's no wonder Pacific Beach citizens strive to make the most of what the area has to offer. As younger PB residents look to become homeowners, the desire to remain in the area leads some residents to upgrade smaller, outdated single-family homes through [expert home remodeling services](/san-diego-home-remodel-services).
+It's no wonder Pacific Beach citizens strive to make the most of what the area has to offer. As younger PB residents look to become homeowners, the desire to remain in the area leads some residents to upgrade smaller, outdated single-family homes through [expert Pacific Beach home remodeling services](/service-locations/pacific-beach-design-build-and-remodel-services/).
 
 At [Murray Lampert Design, Build, Remodel](/), our aim is to make our clients' living spaces more comfortable, more modern, and more functional. One of the best places to start, especially in Pacific Beach, is with a [custom kitchen remodel](/san-diego-kitchen-remodeling-services).
 
 ## Murray Lampert Pacific Beach Kitchen Remodels
 
-![image of Pacific Beach, CA](https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pacific-Beach-Aerial-View-with-Pier-PB-San-Diego-CA-E1-Large-e1509516135898-1000x592.jpg "Aerial View of Pacific Beach from the Pier")
+![image of custom kitchen remodel](/uploads/barthel-kitchen.jpg "Kitchen Remodeling in Pacific Beach")
 
 ### The Murray Lampert Difference for Your Kitchen Remodel
 
