@@ -2,7 +2,7 @@
 title: Pacific Beach Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image:
+featured-image: 
 excerpt: Murray Lampert home remodeling in Pacific Beach. We have over 40 years experience
   providing design, build, and remodel services in Pacific Beach.
 ---

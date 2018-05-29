@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Pacific Beach
 permalink: "/kitchen-remodeling-pacific-beach"
 section_id: kitchen-remodels
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Pacific Beach, San Diego. Take your Pacific Beach kitchen remodel to the next level
   with us.

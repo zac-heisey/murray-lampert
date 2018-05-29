@@ -3,7 +3,7 @@ title: Room Additions Pacific Beach
 permalink: "/room-additions-pacific-beach"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Pacific
   Beach, San Diego. Take your Pacific Beach home addition to the next level with us.
 ---
