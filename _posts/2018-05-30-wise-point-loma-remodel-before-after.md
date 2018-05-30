@@ -5,7 +5,8 @@ categories:
 - Major Renovation
 - Home Remodeling
 featured-image: "/uploads/wise-kitchen-in-progress-3.jpg"
-excerpt: Our featured project in Point Loma has been completed and sold! Check out a few before and after photos of this total renovation project.
+excerpt: Our featured project in Point Loma has been completed and sold! Check out
+  a few before and after photos of this total renovation project.
 author: Gregg Cantor
 layout: post
 ---
