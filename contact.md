@@ -63,7 +63,7 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
               <option value="Other">Other</option>
             </select>
             <textarea name='message' placeholder='HOW CAN WE HELP?' required></textarea>
-            <div netlify-recaptcha></div>
+            <div netlify-recaptcha style="margin-bottom:1.875rem;"></div>
             <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn" disabled>
             <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch (619) 285-9222</p>
           </div>
