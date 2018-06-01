@@ -30,7 +30,7 @@ While a key takeaway from [last year's Houzz Kitchen Trends Study](https://www.h
 The battle for kitchen style supremacy continues, as transitional overtook contemporary after losing the top spot last year. This marks the third year in a year that these styles have swamped places as the preferred kitchen style in Houzz's survey.
 
 ![image of transitional kitchen](http://benvenutiandstein.com/wp-content/uploads/2018/02/Transitional-Kitchen-Kenilworth-1024x634.jpg "Transitional Kitchens Top the Style List in 2018")
-_Image Source: safetylightapp.com_
+_Image Source: benvenutiandstein.com_
 
 #### More Technology and Smarter Appliances
 
