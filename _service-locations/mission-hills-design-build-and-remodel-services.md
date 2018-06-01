@@ -1,10 +1,10 @@
 ---
 title: Mission Hills Design, Build, and Remodel Services
-layout: default
 section_id: service-locations
 featured-image: "/uploads/mission-hills-sign.jpg"
 excerpt: Murray Lampert home remodeling in Mission Hills. We have over 40 years experience
   providing design, build, and remodel services in Mission Hills.
+layout: default
 ---
 
 One of the most quaint neighborhoods in San Diego County is Mission Hills. Perfectly situated south of the San Diego River, north of downtown, and overlooking the scenic old town and San Diego Bay, residents of Mission Hills have easy access to everything Southern California has to offer. It is easily one of the most desirable places to live in San Diego County for its location, architectural design, and strong community. There are several public and private schools in the area and multiple universities within a 10 minute drive. Residents in the area have access to mass transportation just down the hill in Old Town on the Coaster, Amtrak, and Trolley lines. From Mission Hills, you can quickly get to the 5 freeway, downtown, North County and multiple beaches. Next door, Old Town offers fine Mexican cuisine and shopping.
@@ -32,9 +32,9 @@ Whether you’re looking for home remodeling services in Mission Hills or just w
 - **3D Project Modeling** - Our team uses the latest [3D modeling technology](/3d-architectural-rendering-services) to provide a preview of what your remodel will look like before we ever break ground.
 - **Kitchen Remodels** - Custom kitchen renovations can add style, functionality, and value to you Mission Hills home.
 - **Second Story Additions** - [Second story additions](/san-diego-second-story-addition) are a great option to increase square footage when lot sizes are limited.
-- **Green Home Building** – Murray Lampert follows [green construction]((/san-diego-green-home-construction)) best practices when it comes to energy efficiency and building techniques that help preserve the plant, as well as your budget.
+- **Green Home Building** – Murray Lampert follows [green construction](/san-diego-green-home-construction) best practices when it comes to energy efficiency and building techniques that help preserve the plant, as well as your budget.
 - **Custom Cabinets** – We offer our clients the option of [custom cabinets](/san-diego-custom-cabinet-construction-services), which provide storage and style to any remodeling project.
-- **Architectural Design** - You'll work directly with our staff architect to create an [architectural design]((/san-diego-architectural-design-services)) to fit your project needs perfectly.
+- **Architectural Design** - You'll work directly with our staff architect to create an [architectural design](/san-diego-architectural-design-services) to fit your project needs perfectly.
 - **Outdoor Living Spaces** – Take full advantage of the amazing Mission Hills weather with a functional, stylish [outdoor living space](/san-diego-outdoor-living-space-design/) that is perfect for hosting parties, BBQs, and enjoying the sunshine.
 
 ### Our Mission Hills Design-Build-Remodel Process
