@@ -1,7 +1,10 @@
 ---
 title: INFOGRAPHIC - Building the Ultimate Sustainable Kitchen
-date: 2015-03-13 11:48:02 Z
+date: 2015-03-13 11:48:00 Z
 permalink: "/building-the-ultimate-sustainable-kitchen/"
+excerpt: Living green doesn't have to end with LED bulbs and efficient kitchen appliances.
+  Check out our infographic on building the ultimate sustainable kitchen.
+author: Gregg Cantor
 layout: post
 ---
 
