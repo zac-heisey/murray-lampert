@@ -11,7 +11,7 @@ author: Rachel Cantor
 layout: post
 ---
 
-2018 is just around the corner and we’ve forecasted some of the highly anticipated home design trends coming soon. When it comes to describing 2018, [Pantone suggests](http://www.remodeling.hw.net/business/design/pantone-forecasts-the-2018-home-design-trends_c) one word: **BRIGHT**.
+2018 is just around the corner and we’ve forecasted some of the highly anticipated home design trends coming soon. When it comes to describing 2018, [Pantone suggests](https://www.pantone.com/fashion-color-trend-report-london-spring-2018) one word: **BRIGHT**.
 
 2017 saw the rise and conquer of [Millennial Pink](https://www.theguardian.com/artanddesign/shortcuts/2017/mar/22/millennial-pink-is-the-colour-of-now-but-what-exactly-is-it) – that perfect mix of bubblegum and rose that’s been sweeping marketing campaigns, makeup lines and everything in between.
 
