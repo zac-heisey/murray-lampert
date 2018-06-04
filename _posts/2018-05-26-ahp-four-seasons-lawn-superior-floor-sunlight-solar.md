@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Four Seasons Lawn Aeration, Superior Floor and Cabinet Designs, and Sunlight Solar
+title: Approved Home Pro Show - Four Seasons Lawn Aeration, Superior Floor and Cabinet
+  Designs, and Sunlight Solar
 date: 2018-05-26 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/05-26-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we chat with Four Seasons Lawn Aeration, Superior Floor and Cabinet Designs, and Sunlight Solar.
+excerpt: This week on The Approved Home Pro Radio Show we chat with Four Seasons Lawn
+  Aeration, Superior Floor and Cabinet Designs, and Sunlight Solar.
 author: Gregg Cantor
 layout: post
 ---
