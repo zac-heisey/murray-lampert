@@ -3,16 +3,16 @@ title: San Diego Design Build Remodel
 layout: home
 section_id: home
 works:
-- image: uploads/Miller5_W.jpg
+- image: uploads/wise-bathroom-1.jpg
   class: bathroom-remodels
   title: Custom Bathrooms
   desc: From Soaker Tubs to Universal Design
   url: san-diego-bathroom-remodeling-services
-- image: uploads/q2-content-pillar-graphic.png
-  class: 
-  title: Choose the Right Remodeler<br> for Your Project
-  desc: Check Out the Free Guide
-  url: complete-guide-to-choosing-the-right-home-remodeling-contractor/
+- image: uploads/wise-kitchen-1.jpg
+  class: kitchen-remodels
+  title: Functional, Fashionable Kitchens
+  desc: Entertain Family & Friends in Style
+  url: san-diego-kitchen-remodeling-services
 - image: uploads/cava-621-i-ave-KD-36.jpg
   class: bathroom-remodels major-renovations featured-projects wide
   title: Featured Project
@@ -20,14 +20,14 @@ works:
   url: featured-projects/621-i-ave-coronado/
 - image: uploads/gallery/kitchens/Dang-Tran-Kitchen2a.jpg
   class: kitchen-remodels
-  title: Contemporary Kitchen
-  desc: Del Mar
+  title: Contemporary Kitchen Remodel
+  desc: Del Mar, CA
   url: san-diego-kitchen-remodeling-services
-- image: uploads/wise-framing-drone.jpg
-  class: under-construction
+- image: uploads/wise-family-room-1.jpg
+  class: major-renovations
   title: Full-Service Home Remodeling
   desc: We Lead Your Project From Start to Finish
-  url: under-construction-gallery
+  url: san-diego-home-remodel-services
 - image: uploads/berry-historical-exterior-1.jpg
   class: major-renovations featured-projects wide
   title: Featured Project
@@ -95,4 +95,3 @@ feat_testimonials:
     I recommend him and the team at Murray Lampert to anyone in need of quality construction
     services.
 ---
-
