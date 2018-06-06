@@ -80,7 +80,7 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
         <iframe src="https://www.google.com/maps/embed?pb=!4v1527768435954!6m8!1m7!1sPnjsf6DAq6QAAAQvPIPAbA!2m2!1d32.77134674119494!2d-117.1302992294989!3f327.7689707024294!4f-1.6314316436287157!5f0.7820865974627469" width="436.66" height="306" frameborder="0" style="border:0;margin-bottom:1rem;" allowfullscreen></iframe>
       </div>
       <h4>Address:</h4>
-      <p>{{ page.address1 }}<br>{{ page.address2 }}<br><a href="tel:+6192859222">{{ page.phone }}</a></p>
+      <p>{{ page.address1 }}<br>{{ page.address2 }}<br><a href="tel:+16192859222">{{ page.phone }}</a></p>
       <h4>Map:</h4>
       <div id='google-map'>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d53676.110066872054!2d-117.13469700000002!3d32.772185!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x409268b5dbfcff56!2sMurray+Lampert+Design%2C+Build%2C+Remodel!5e0!3m2!1sen!2sus!4v1497635068979" width="436.66" height="306" frameborder="0" style="border:0;margin-bottom:1rem;" allowfullscreen></iframe>
