@@ -4,7 +4,8 @@ date: 2018-06-13 00:00:01 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/tools.jpg"
-excerpt: With June being National Safety Month, we wanted to share a few ways you can stay safe during your home renovation DIY projects.
+excerpt: With June being National Safety Month, we wanted to share a few ways you
+  can stay safe during your home renovation DIY projects.
 author: Gregg Cantor
 layout: post
 ---
