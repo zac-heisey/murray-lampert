@@ -4,7 +4,8 @@ date: 2014-01-08 08:00:30 Z
 categories:
 - Real Estate
 - Home DIY Tips
-excerpt: Buying a home is a big commitment and it's important to start off on the right foot. Here are 10 ways to be a healthy homeowner.
+excerpt: Buying a home is a big commitment and it's important to start off on the
+  right foot. Here are 10 ways to be a healthy homeowner.
 author: Gregg Cantor
 layout: post
 ---
