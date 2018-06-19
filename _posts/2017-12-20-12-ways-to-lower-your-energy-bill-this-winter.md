@@ -56,7 +56,7 @@ A careful investigation of your home may reveal pockets where warm air can escap
 
 #### 10. Reverse House Fans
 
-Believe it or not, the direction the [ceiling fan](https://murraylampert.com/save-on-your-energy-cost-with-ceiling-fans/) spins can affect the temperature of the room. In the winter the fan should be set to turn counter-clockwise to push the warm air from the ceiling down. In the summer, set the fan to a clockwise direction.
+Believe it or not, the direction the [ceiling fan](https://murraylampert.com/save-on-your-energy-cost-with-ceiling-fans/) spins can affect the temperature of the room. In the winter the fan should be set to turn counter-clockwise to push the warm air from the ceiling down. In the summer, set the fan to a clockwise direction. If used properly, you can realize **up to 45% energy savings** by installing ceiling fans in your home. Many homeowners are unaware of how practical and affordable ceiling fans can be.
 
 #### 11. Maintain Your Utilities
 
