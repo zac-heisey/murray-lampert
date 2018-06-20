@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Rockler Woodworking, Best Value Glass, and Top Line Roofing
+title: Approved Home Pro Show - Rockler Woodworking, Best Value Glass, and Top Line
+  Roofing
 date: 2018-06-02 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/06-02-KOGO-600.png"
-excerpt: This week on The Approved Home Pro Radio Show we have Rockler Woodworking, Best Value Glass, and Top Line Roofing.
+excerpt: This week on The Approved Home Pro Radio Show we have Rockler Woodworking,
+  Best Value Glass, and Top Line Roofing.
 author: Gregg Cantor
 layout: post
 ---

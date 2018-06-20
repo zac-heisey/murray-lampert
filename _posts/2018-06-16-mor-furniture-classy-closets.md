@@ -5,7 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/06-16-KOGO-600.png"
-excerpt: This week's Approved Home Pro Radio Show features Mor Furniture for Less and Classy Closets.
+excerpt: This week's Approved Home Pro Radio Show features Mor Furniture for Less
+  and Classy Closets.
 author: Gregg Cantor
 layout: post
 ---
