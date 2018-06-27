@@ -5,7 +5,9 @@ categories:
 - Home DIY Tips
 - Green Construction
 featured-image: "/uploads/diy-home-efficiency-projects.jpg"
-excerpt: Going green in your home doesn't have to break the bank or take weeks of work. Here are a handful of DIY home efficiency projects that you can complete in a weekend!
+excerpt: Going green in your home doesn't have to break the bank or take weeks of
+  work. Here are a handful of DIY home efficiency projects that you can complete in
+  a weekend!
 author: Gregg Cantor
 layout: post
 ---
