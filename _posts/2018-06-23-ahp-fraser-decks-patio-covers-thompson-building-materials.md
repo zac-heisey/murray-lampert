@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Fraser Decks & Patio Covers and Thompson Building Materials
+title: Approved Home Pro Show - Fraser Decks & Patio Covers and Thompson Building
+  Materials
 date: 2018-06-23 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/06-23-KOGO-600.png"
-excerpt: This week's on the Approved Home Pro Radio Show we have Fraser Decks & Patio Covers and Thomson Building Materials.
+excerpt: This week's on the Approved Home Pro Radio Show we have Fraser Decks & Patio
+  Covers and Thomson Building Materials.
 author: Gregg Cantor
 layout: post
 ---
