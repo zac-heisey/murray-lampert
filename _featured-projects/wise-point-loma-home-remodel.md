@@ -5,7 +5,7 @@ section_id: projects
 client: Wise
 location: Point Loma
 project-date: May 2018
-featured-video:
+featured-video: 
 featured-images:
 - uploads/wise-floorplan-1.png
 - uploads/wise-floorplan-2.png
