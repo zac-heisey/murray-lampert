@@ -16,7 +16,7 @@ gallery-images:
 - uploads/mehdizadeh-rendering4.png
 - uploads/mehdizadeh-rendering5.png
 - uploads/wise-front-render.jpg
-- uploads/wise-family-room-render.jpg
+- uploads/wise-living-room-render-1.jpg
 - uploads/wise-kitchen-render.jpg
 - uploads/wise-kitchen-render-2.jpg
 - uploads/wise-kitchen-outdoor-render.jpg

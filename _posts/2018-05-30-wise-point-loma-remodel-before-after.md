@@ -19,9 +19,9 @@ This [Point Loma featured project](/featured-projects/wise-point-loma-home-remod
 
 > Beautiful brand new home in the Wooded area of Point Loma. 3,000 square feet with a detached garage. Taken down to one wall as a remodel with new EVERYTHING - electrical, plumbing, walls, and much more. The kitchen is incredible, along with an outstanding master suite. A nice office area and a mud room alongside the laundry room.
 
-![before image of wise living room](/uploads/wise-livingroom-before.png "Wise Project: Living Room - Before")
+![before image of wise living room](/uploads/wise-living-room-before.png "Wise Project: Living Room - Before")
 
-![after image of wise living room](/uploads/wise-livingroom-after.png "Wise Project: Living Room - After")
+![after image of wise living room](/uploads/wise-living-room-after.png "Wise Project: Living Room - After")
 
 ![before image of wise kitchen](/uploads/wise-kitchen-before.png "Wise Project: Kitchen - Before")
 
