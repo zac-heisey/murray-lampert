@@ -5,8 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/06-30-KOGO-600.png"
-excerpt: This week's Approved Home Pro Radio Show features Best Rate Repair & Termite Company
-  and Knight Security.
+excerpt: This week's Approved Home Pro Radio Show features Best Rate Repair & Termite
+  Company and Knight Security.
 author: Gregg Cantor
 layout: post
 ---
