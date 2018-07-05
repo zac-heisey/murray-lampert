@@ -5,7 +5,9 @@ categories:
 - Home Remodeling
 - Home DIY Tips
 featured-image: "/uploads/pastels.png"
-excerpt: Houzz is the go-to resource for homeowners looking for ideas, inspiration, and experts to bring their dream home to life. Here's what most popular images on Houzz tell us about home design trends.
+excerpt: Houzz is the go-to resource for homeowners looking for ideas, inspiration,
+  and experts to bring their dream home to life. Here's what most popular images on
+  Houzz tell us about home design trends.
 author: Gregg Cantor
 layout: post
 ---
