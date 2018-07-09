@@ -1,6 +1,6 @@
 ---
 title: 6 Ways to Stay Safe During Your Home DIY Projects
-date: 2018-06-13 00:00:01 Z
+date: 2018-06-13 00:00:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/tools.jpg"
@@ -20,7 +20,7 @@ Start your project off by covering any furniture or valuables you plan to keep i
 
 **2. Open Up Your Windows**
 
-Creating good air flow is a must when working indoors with strong fumes like paint. Open all the windows in proximity to the project. Standing fans can be set up in rooms that don’t typically have a window, like small bathrooms. Other harmful particles like dust can get trapped in the mesh lining of windows and have been known to cause [allergic asthma](www.aafa.org/page/allergic-asthma.aspx) and other types of respiratory issues.
+Creating good air flow is a must when working indoors with strong fumes like paint. Open all the windows in proximity to the project. Standing fans can be set up in rooms that don’t typically have a window, like small bathrooms. Other harmful particles like dust can get trapped in the mesh lining of windows and have been known to cause [allergic asthma](http://www.aafa.org/page/allergic-asthma.aspx) and other types of respiratory issues.
 
 ![image of open window](https://images.unsplash.com/photo-1468924615475-d7419ef7f247?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4613c0d7a601b7b6b7952eb944a1d09c&auto=format&fit=crop&w=1041&q=80 "Keep Windows Open to Allow for Good Air Flow")
 
