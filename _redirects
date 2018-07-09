@@ -143,6 +143,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /for-kitchen-remodeling-hire-a-general-contractor*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /for-kitchen-remodeling-hire-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /gallery/	/san-diego-remodel-project-gallery	301
+/gallery/index.html	/san-diego-remodel-project-gallery	301
 /gallery/before_after.php	/before-after-gallery	301
 /gallery/custom_bathrooms.php	/bathroom-remodel-gallery	301
 /gallery/custom_kitchens.php	/kitchen-remodel-gallery	301
@@ -152,6 +153,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /gallery/outdoor-spaces.php	/san-diego-remodel-project-gallery	301
 /gallery/room_additions.php	/room-additions-gallery	301
 /gallery/second_stories.php	/second-stories-gallery	301
+/gallery/second-stories/	/second-stories-gallery	301
 /get-a-quote/	/contact/	301
 /home-additions-bonita-101-basic-types-and-concrete-design-build-examples/	/service-locations/bonita-design-build-and-remodel-services/	301
 /home-additions-bonita-basic-types-and-concrete-examples/	/service-locations/bonita-design-build-and-remodel-services/	301
@@ -186,8 +188,8 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /la-jolla-architecture/	/service-locations/la-jolla-design-build-and-remodel-services/	301
 /la-jolla-home-remodeling-projects-to-plan-this-spring/	/service-locations/la-jolla-design-build-and-remodel-services/	301
 /la-jolla-home-renovations/	/service-locations/la-jolla-design-build-and-remodel-services/	301
-/la-mesa/	/service-locations/la-mesa-design-build-and-remodel-services/	301
 /home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remodel-services/	301
+home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remodel-services/	301
 /landing/san-diego-home-remodeling-trends-2018/	/2018-home-remodeling-trends/	301
 /locations.kml	/service-locations/	301
 /low-bidders-a-bad-idea-for-san-diego-home-remodeling-part-2/	/the-lowest-bid-always-looks-good-but/	301
@@ -472,3 +474,4 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /cutting-down-on-your-energy-bills/	/12-ways-to-lower-your-energy-bill-this-winter/	301
 /save-on-your-energy-cost-with-ceiling-fans/	/12-ways-to-lower-your-energy-bill-this-winter/	301
 /energy-effecient-features/	/12-ways-to-lower-your-energy-bill-this-winter/	301
+/kitchen-island-trends	/kitchen-island-trends-making-a-splash-in-2018/	301
