@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Reborn Cabinets, We Care Plumbing, Heating & Air, and Legacy Shading
+title: Approved Home Pro Show - Reborn Cabinets, We Care Plumbing, Heating & Air,
+  and Legacy Shading
 date: 2018-07-07 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/07-07-KOGO-600.png"
-excerpt: This week's Approved Home Pro Radio Show features Reborn Cabinets, We Care Plumbing, Heating & Air, and Legacy Shading.
+excerpt: This week's Approved Home Pro Radio Show features Reborn Cabinets, We Care
+  Plumbing, Heating & Air, and Legacy Shading.
 author: Gregg Cantor
 layout: post
 ---
