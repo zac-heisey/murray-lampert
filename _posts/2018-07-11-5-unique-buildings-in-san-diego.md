@@ -5,7 +5,8 @@ categories:
 - Community
 - Design-Build
 featured-image: "/uploads/balboa-park-san-diego.jpg"
-excerpt: San Diego has a long, rich history of architectural trendsetting and unique designs. We've highlighted 5 of the most iconic buildings in San Diego.
+excerpt: San Diego has a long, rich history of architectural trendsetting and unique
+  designs. We've highlighted 5 of the most iconic buildings in San Diego.
 author: Gregg Cantor
 layout: post
 ---
