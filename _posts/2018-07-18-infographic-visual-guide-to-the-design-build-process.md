@@ -5,7 +5,9 @@ categories:
 - Design-Build
 - Infographics
 featured-image: "/uploads/visual-guide-to-design-build-header.png"
-excerpt: Murray Lampert specializes in the design-build process for home remodeling projects. Design-build helps control costs, maintain timelines, and streamline remodeling projects.
+excerpt: Murray Lampert specializes in the design-build process for home remodeling
+  projects. Design-build helps control costs, maintain timelines, and streamline remodeling
+  projects.
 author: Gregg Cantor
 layout: post
 ---
