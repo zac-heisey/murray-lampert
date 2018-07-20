@@ -4,7 +4,9 @@ date: 2018-07-20 00:00:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/san-diego-home-remodeling-cost-calculator.jpg"
-excerpt: Cost is always an important factor in any home remodeling project. That's why we've created this super-simple San Diego home remodeling cost calculator for local homeowners.
+excerpt: Cost is always an important factor in any home remodeling project. That's
+  why we've created this super-simple San Diego home remodeling cost calculator for
+  local homeowners.
 author: Gregg Cantor
 layout: post
 ---
