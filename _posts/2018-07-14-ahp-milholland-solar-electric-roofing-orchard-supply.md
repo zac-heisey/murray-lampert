@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Milholland Solar, Electric & Roofing and Orchard Supply Hardware
+title: Approved Home Pro Show - Milholland Solar, Electric & Roofing and Orchard Supply
+  Hardware
 date: 2018-07-14 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/07-14-KOGO-600.png"
-excerpt: On the latest Approved Home Pro Radio Show we have Milholland Solar, Electric & Roofing and Orchard Supply Hardware.
+excerpt: On the latest Approved Home Pro Radio Show we have Milholland Solar, Electric
+  & Roofing and Orchard Supply Hardware.
 author: Gregg Cantor
 layout: post
 ---
