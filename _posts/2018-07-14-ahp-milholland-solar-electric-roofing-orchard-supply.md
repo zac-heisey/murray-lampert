@@ -10,7 +10,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-This week's [Approved Home Pro Show](https://www.sandiegoapprovedhomepros.com/blog/the-approved-home-pro-radio-show-reborn-cabinets-we-care-plumbing-heating-air-and-legacy-shading/) features Brian Milholland from [Milholland Solar, Electric & Roofing](https://milhollandelectric.com/) talking about the importance of working with a solar installation partner who also is _also_ a licensed roofing contractor. We also chat with Orchard Supply Hardware about their participation in the San Diego community and the value they bring to local neighborhoods.
+This week's [Approved Home Pro Show](https://www.sandiegoapprovedhomepros.com/blog/the-approved-home-pro-radio-show-milholland-solar-electric-roofing-and-orchard-supply-hardware/) features Brian Milholland from [Milholland Solar, Electric & Roofing](https://milhollandelectric.com/) talking about the importance of working with a solar installation partner who also is _also_ a licensed roofing contractor. We also chat with Orchard Supply Hardware about their participation in the San Diego community and the value they bring to local neighborhoods.
 
 Check out the full audio of the show here:
 
