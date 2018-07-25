@@ -6,6 +6,7 @@ categories:
 - Kitchen Remodeling
 - Green Construction
 - Infographics
+featured-image: "/uploads/ultimate-sustainable-kitchen-header.png"
 excerpt: Living green doesn't have to end with LED bulbs and efficient kitchen appliances.
   Check out our infographic on building the ultimate sustainable kitchen.
 author: Gregg Cantor
