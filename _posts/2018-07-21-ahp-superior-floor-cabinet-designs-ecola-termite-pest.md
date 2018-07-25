@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Superior Floor & Cabinet Designs and Ecola Termite & Pest
+title: Approved Home Pro Show - Superior Floor & Cabinet Designs and Ecola Termite
+  & Pest
 date: 2018-07-21 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/07-21-KOGO-600.png"
-excerpt: The latest Approved Home Pro Radio Show features Ecola Termite & Pest Control and Superior Floor & Cabinet Designs.
+excerpt: The latest Approved Home Pro Radio Show features Ecola Termite & Pest Control
+  and Superior Floor & Cabinet Designs.
 author: Gregg Cantor
 layout: post
 ---
