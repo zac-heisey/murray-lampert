@@ -5,7 +5,7 @@ section_id: projects
 client: Wagner
 location: Encinitas
 project-date: In Progress
-featured-video:
+featured-video: 
 featured-images:
 - uploads/wagner-before-1.jpg
 - uploads/wagner-rendering-1.jpg
