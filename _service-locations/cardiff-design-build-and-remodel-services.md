@@ -2,7 +2,7 @@
 title: Cardiff Design, Build, and Remodel Services
 layout: default
 section_id: service-locations
-featured-image:
+featured-image: 
 excerpt: Cardiff home remodeling by Murray Lampert. Providing superior design, build,
   and remodel services in Cardiff for over 40 years. Visit us today!
 ---

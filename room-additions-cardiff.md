@@ -3,7 +3,7 @@ title: Room Additions Cardiff
 permalink: "/room-additions-cardiff"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Cardiff,
   San Diego. Take your Cardiff home addition to the next level with us.
 ---
