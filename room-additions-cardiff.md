@@ -3,7 +3,7 @@ title: Room Additions Cardiff
 permalink: "/room-additions-cardiff"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Cardiff,
   San Diego. Take your Cardiff home addition to the next level with us.
 ---
@@ -16,7 +16,7 @@ For this any many other reasons to visit Cardiff, homeowners are trying to make 
 
 Perhaps you bought a new home, but you'd like to improve its appearance. Or maybe you need additional space for storage, guests, or entertainment. Whatever the reasons for your room addition in Cardiff, it's important to select a [home addition contractor](/san-diego-room-additions) wisely. Not all contractors can ensure a successful and satisfying outcome.
 
-This is where Murray Lampert’s 40+ years of experience and success stand out. We are dedicated home remodeling and improvement professionals who have proudly served San Diego county since 1975. Our end-to-end design-build process ensures that your home or room addition project will go as smoothly as possible.
+This is where Murray Lampert’s 40+ years of experience and success stand out. We are dedicated [Cardiff home remodeling](/service-locations/cardiff-design-build-and-remodel-services/) and improvement professionals who have proudly served San Diego county since 1975. Our end-to-end design-build process ensures that your home or room addition project will go as smoothly as possible.
 
 ## We Can Save You Time...and Money
 
