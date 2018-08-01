@@ -1,6 +1,6 @@
 ---
 title: The Most Popular Materials for Kitchen Countertops
-date: 2018-05-21 00:00:01 Z
+date: 2018-05-21 00:00:00 Z
 categories:
 - Kitchen Remodeling
 featured-image: "/uploads/cava-621-i-ave-kd-35.jpg"
@@ -54,7 +54,7 @@ Granite slab counters are an excellent choice for just about any application if 
 
 A great mid-range option for homeowners looking for something more cost-effective than granite or engineered quartz, but higher quality than laminate, solid surface countertops are non-porous, stable, and easy to repair. Solid surface materials are manufactured by [Dupont Corian](http://www.corian.com/), [Formica Signature](http://www.formica.com/en/us/products/formica-solid-surfacing-home#swatchesTab), [LG Hi-Macs](http://www.lghimacsusa.com/), [Samsung Staron](https://www.staron.com/staron/us/main/main.do), [Wilsonart Gibraltar](https://www.wilsonart.com/solid-surfaces), and several others.
 
-![image of solid surface kitchen countertops](https://www.capitolgranite.net/wp-content/uploads/2011/09/IceStone-Blue-Sky-Kitchen-Countertops.jpg "Solid Surface Kitchen Countertops")
+![image of solid surface kitchen countertops](https://evafurniture.com/wp-content/uploads/2016/09/Solid-Surface-Kitchen-Countertops-Alternatives.jpg "Solid Surface Kitchen Countertops")
 
 **Pros**  
 Solid surface countertops come in hundreds of colors and patterns. The material is extremely durable, can withstand heat, the seams are nearly invisible, it can easily be repaired, and is easy to clean. It's a great as an alternative to ceramic tile.
