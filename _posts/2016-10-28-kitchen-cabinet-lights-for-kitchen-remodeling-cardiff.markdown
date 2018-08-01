@@ -1,7 +1,9 @@
 ---
 title: Kitchen Cabinet Lights for Kitchen Remodeling Cardiff
-date: 2016-10-28 02:59:12 Z
+date: 2016-10-28 02:59:00 Z
 permalink: "/kitchen-cabinet-lights-for-kitchen-remodeling-cardiff/"
+excerpt: Tips and information related to kitchen cabinet lighting for your next kitchen
+  remodeling project in Cardiff, CA.
 layout: post
 ---
 
