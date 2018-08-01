@@ -1,18 +1,18 @@
 ---
 title: Room Additions Point Loma
 permalink: "/room-additions-point-loma"
-layout: default
 section_id: room-additions
 featured-image: 
 excerpt: Room additions in Point Loma, San Diego by Murray Lampert Design, Build,
   Remodel. Point Loma home addition experts since 1975. Visit Murray Lampert today!
+layout: default
 ---
 
 Point Loma is one of the pre-eminent places in San Diego where you can explore tide pools in the rocky reefs that are full of marine life. It is a beautiful seaside community and is paradise to both fishermen and nature explorers. Point Loma is also home to the 3rd most visited national monument in the US, the [Cabrillo National Monument](https://www.nps.gov/cabr/index.htm). In 2013, this community had a total population of 20,087 with 8,147 houses and condos.
 
 With limited land for new home construction, Point Loma residents are often faced with limited living space or small homes they've outgrown. This is where Murray Lampert's expertise in [San Diego home additions](/san-diego-room-additions) comes into play. From complete second story additions, to expanded master suites and new home offices, Murray Lampert is the preferred [design-build contractor](/san-diego-design-build-contractors) for homeowners in Point Loma.
 
-![image of Point Loma lighthouse](http://static.panoramio.com/photos/large/44667835.jpg "Point Loma, San Diego")
+![image of Point Loma lighthouse](https://c1.staticflickr.com/8/7049/6980651289_cdf80af829_b.jpg "Point Loma, San Diego")
 
 ## Custom Point Loma Home Additions
 
