@@ -1,18 +1,18 @@
 ---
 title: Kitchen Remodeling Solana Beach
 permalink: "/kitchen-remodeling-solana-beach"
-layout: default
 section_id: kitchen-remodels
 featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with kitchen remodeling in
   Solana Beach, San Diego. Take your Solana Beach remodel to the next level with us.
+layout: default
 ---
 
 Solana Beach is one of the cities in San Diego County, California. This is a small beach city of about 12,800 residents. This city is popular for its mild winters and warm summers. Solana Beach boasts 1.7 miles of coastline with amazing beaches for surfing and swimming. Residents enjoy watching the sun set across the Pacific every evening.
 
 Solana Beach also enjoys the services of one of the best [home remodeling companies in San Diego](/san-diego-home-remodel-services). Murray Lampert Design, Build, Remodel provides home makeover services throughout San Diego. We're the #1 choice for residents needing top-tier kitchen remodeling and [Solana Beach room addition](/room-additions-solana-beach) services.
 
-![image of surfer walking toward ocean wiht Solana Beach homes on cliffs in background](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimg1.coastalliving.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_inbody_900x506%2Fpublic%2Fimage%2F2016%2F11%2Fmain%2Fdt_0414_01_0.jpg%3Fitok%3Db0B5XFOH&w=700&q=85 "Solana Beach is a Picturesque Beach Town in San Diego")
+![image of surfer walking toward ocean wiht Solana Beach homes on cliffs in background](https://img1.coastalliving.timeinc.net/sites/default/files/styles/4_3_horizontal_inbody_900x506/public/image/2016/11/main/dt_0414_01_0.jpg?itok=0fceAsac "Solana Beach is a Picturesque Beach Town in San Diego")
 
 ## Custom Kitchen Remodeling in Solana Beach
 
