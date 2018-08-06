@@ -3,7 +3,7 @@ title: Room Additions Mission Valley
 permalink: "/room-additions-mission-valley"
 layout: default
 section_id: room-additions
-featured-image:
+featured-image: 
 excerpt: Murray Lampert has over 40 years of experience with room additions in Mission
   Valley, San Diego. Take your Mission Valley home addition to the next level with
   us.

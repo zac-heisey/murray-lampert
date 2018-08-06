@@ -1,8 +1,9 @@
 ---
 title: Mission Valley Design, Build, and Remodel Services
 section_id: service-locations
-featured-image:
-excerpt: Mission Valley home remodeling by Murray Lampert. Brining over 40 years of design, build, and remodel experience to Mission Valley homeowners.
+featured-image: 
+excerpt: Mission Valley home remodeling by Murray Lampert. Brining over 40 years of
+  design, build, and remodel experience to Mission Valley homeowners.
 layout: default
 ---
 
