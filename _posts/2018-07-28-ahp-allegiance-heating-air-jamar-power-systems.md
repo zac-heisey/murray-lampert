@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Allegiance Heating & Air Conditioning and Jamar Power Systems
+title: Approved Home Pro Show - Allegiance Heating & Air Conditioning and Jamar Power
+  Systems
 date: 2018-07-28 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/07-28-KOGO-600.png"
-excerpt: This week's Approved Home Pro Radio Show features Allegiance Heating & Air Conditioning and Jamar Power Systems.
+excerpt: This week's Approved Home Pro Radio Show features Allegiance Heating & Air
+  Conditioning and Jamar Power Systems.
 author: Gregg Cantor
 layout: post
 ---
