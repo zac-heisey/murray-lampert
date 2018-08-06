@@ -3,7 +3,7 @@ title: Room Additions Mission Valley
 permalink: "/room-additions-mission-valley"
 layout: default
 section_id: room-additions
-featured-image: 
+featured-image:
 excerpt: Murray Lampert has over 40 years of experience with room additions in Mission
   Valley, San Diego. Take your Mission Valley home addition to the next level with
   us.
@@ -17,7 +17,7 @@ Do you feel like you have grown too big for your home? You do know there’s no 
 
 ## Why Choose Murray Lampert for Your Home or Room Addition in Mission Valley
 
-Murray Lampert is a [recognized leader in home remodeling](/murray-lampert-recognized-among-north-americas-best) and [room addition services in San Diego](/san-diego-room-additions). With over 40 years of experience, Murray Lampert has proudly served the San Diego community since 1975. Our team has worked on thousands of home addition projects and our [customer reviews and acclaims](/testimonials) speak the quality of our work. The first step is also the easiest: [contact our team](#quick-contact) to book your free consultation and get a free quote for your home addition project.
+Murray Lampert is a recognized leader in [Mission Valley home remodeling](/service-locations/mission-valley-design-build-and-remodel-services/) and [room addition services in San Diego](/san-diego-room-additions). With over 40 years of experience, Murray Lampert has proudly served the San Diego community since 1975. Our team has worked on thousands of home addition projects and our [customer reviews and acclaims](/testimonials) speak the quality of our work. The first step is also the easiest: [contact our team](#quick-contact) to book your free consultation and get a free quote for your home addition project.
 
 When you hire Murray Lampert be sure that you won’t have to worry about keeping in touch with a dozen different agencies and coordinating your room addition project. Our [experienced team](/about-murray-lampert-design-build-remodel#team-members) handles everything for you: from dealing with any additional contractors, to making sure your project is on schedule, to quality control. With Murray Lampert you can be sure that only the high quality materials are being used, that all the necessary licenses are obtained and that there will be no shortcuts taken. After we’ve established that no zoning and land laws are being violated, our next Mission Valley room addition project is ready to break ground!
 

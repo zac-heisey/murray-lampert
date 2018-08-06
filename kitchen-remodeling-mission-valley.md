@@ -2,7 +2,7 @@
 title: Kitchen Remodeling Mission Valley
 permalink: "/kitchen-remodeling-mission-valley"
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: Kitchen remodeling in Mission Valley, San Diego by Murray Lampert Design,
   Build, Remodel. Mission Valley kitchen remodel experts since 1975. Visit us today!
 layout: default
@@ -10,7 +10,7 @@ layout: default
 
 Mission Valley offers something for everyone. If you are looking for fun or shopping, or you simply want to enjoy a long relaxing walk along the Presidio or the Historic Park, Mission Valley is the place to be. It's ideal for families with small children, but young professionals also find this area entertaining, peaceful, and welcoming.
 
-Like many other communities in San Diego, Mission Valley is experiencing a transition from traditional homes to the more modern and more comfortable ones. What's more, enhancing a home’s functionality goes hand in hand with enhancing its design and appeal. The one doesn’t go without the other anymore. That is why more and more Mission Valley residents go for home improvement, [remodeling and renovation services](/san-diego-home-remodel-services) over new home construction.
+Like many other communities in San Diego, Mission Valley is experiencing a transition from traditional homes to the more modern and more comfortable ones. What's more, enhancing a home’s functionality goes hand in hand with upgrading its design and appeal. This is why more and more homeowners are opting for [home remodeling and renovation in Mission Valley](/service-locations/mission-valley-design-build-and-remodel-services/) over new home construction.
 
 ## Mission Valley Kitchen Remodeling Experts
 
