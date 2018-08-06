@@ -14,7 +14,7 @@ excerpt: Murray Lampert specializes in home design, build, and remodel projects 
 <div class="flex-section">
   <!-- Service Locations Column 1 -->
   <div class="categories-section">
-  {% for location in site.service-locations limit: 9 %}
+  {% for location in site.service-locations limit: 10 %}
     {% if location.path contains ".md" %}
     <h2><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodel" }}</a></h2>
     {% endif %}
@@ -22,7 +22,7 @@ excerpt: Murray Lampert specializes in home design, build, and remodel projects 
   </div>
   <!-- Service Locations Column 2 -->
   <div class="categories-section">
-  {% for location in site.service-locations offset: 9 %}
+  {% for location in site.service-locations offset: 10 %}
     {% if location.path contains ".md" %}
     <h2><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodel" }}</a></h2>
     {% endif %}
