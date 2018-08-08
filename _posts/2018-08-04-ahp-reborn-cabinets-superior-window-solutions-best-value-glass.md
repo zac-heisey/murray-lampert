@@ -1,11 +1,13 @@
 ---
-title: Approved Home Pro Show - Reborn Cabinets, Superior Window Solutions, and Best Value Glass
+title: Approved Home Pro Show - Reborn Cabinets, Superior Window Solutions, and Best
+  Value Glass
 date: 2018-08-04 00:00:00 Z
 categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/08-04-KOGO-600.png"
-excerpt: This week on the Approved Home Pro Radio Show we have Reborn Cabinets, Superior Window Solutions, and Best Value Glass.
+excerpt: This week on the Approved Home Pro Radio Show we have Reborn Cabinets, Superior
+  Window Solutions, and Best Value Glass.
 author: Gregg Cantor
 layout: post
 ---
