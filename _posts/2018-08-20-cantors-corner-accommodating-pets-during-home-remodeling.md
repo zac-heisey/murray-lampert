@@ -5,7 +5,9 @@ categories:
 - Cantor's Corner
 - Home Remodeling
 featured-image: "/uploads/cantors-corner.png"
-excerpt: Safety during home improvement or construction projects should apply to humans and animals alike. In this edition of Cantor's Corner, we discuss the importance of keeping your pets safe and secure during home remodeling projects.
+excerpt: Safety during home improvement or construction projects should apply to humans
+  and animals alike. In this edition of Cantor's Corner, we discuss the importance
+  of keeping your pets safe and secure during home remodeling projects.
 author: Gregg Cantor
 layout: post
 ---
