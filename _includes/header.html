@@ -1,43 +1,52 @@
-<div class='contain-to-grid fullwidth alt'>
-  <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
+<div class='transparent fullwidth white fixed contain-to-grid fixed'>
+  <nav class='top-bar onepage' data-options='' data-topbar=''>
     <ul class='title-area'>
-      <li id='header-logo'>
-        <a href='{{ site.url }}'><img src="{{ site.logo }}"></a>
-      </li>
       <li class='name'>
-        <h1 id='header-phone'><a href="tel:+16192859222"><p>Call Murray Lampert</p><strong>619-285-9222</strong></a></h1>
-      </li>
-      <li class='toggle-topbar menu-icon'>
-        <a href='#'>Menu</a>
+        <h1 id='header-phone'><a href="tel:+6192859222"><strong>619-285-9222</strong></a></h1>
       </li>
     </ul>
-    <section class='top-bar-section'>
+    {% if page.layout != "home" %}
+    <div id="menu-toggler" class="right">
+      <a href='#' style='color:#2082AF'>
+        <i class="fa fa-bars"></i>
+        Menu
+      </a>
+    </div>
+    <section class='top-bar-section closed'>
       <ul class='right'>
-        {% for item in site.data.nav %}
-          {% if item.section_id == page.section_id %}
-            {% assign active_class = "active" %}
-          {% else %}
-            {% assign active_class = "" %}
-          {% endif %}
-
-          {% if item.children %}
-            <li class="has-dropdown {{active_class}}">
-              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
-              <ul class='dropdown'>
-                {% for child in item.children %}
-                  <li>
-                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
-          {% else %}
-            <li class="{{active_class}}">
-              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
-            </li>
-          {% endif %}
+        {% for item in site.data.internal-nav %}
+          <li>
+            <a style='color:#2082AF' href="{{ site.url }}/{{ item.path }}">{{ item.name }}</a>
+          </li>
         {% endfor %}
       </ul>
     </section>
+    {% else %}
+    <div id="menu-toggler" class="right">
+      <a href='#'>
+        <i class="fa fa-bars"></i>
+        Menu
+      </a>
+    </div>
+    <section class='top-bar-section closed'>
+      <ul class='right'>
+        {% for item in site.data.home-nav %}
+          <li>
+            {% assign first = item.path | truncate:1,'' %}
+
+            {% if first != '#' %}
+              {% assign href = item.path | relative_url %}
+            {% elsif page.onepage %}
+              {% assign href = item.path %}
+            {% else %}
+              {% assign href = 'index.html' | append:item.path | relative_url %}
+            {% endif %}
+
+            <a href="{{ href }}">{{ item.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
   </nav>
 </div>
