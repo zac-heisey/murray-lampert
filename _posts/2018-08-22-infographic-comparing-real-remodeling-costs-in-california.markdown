@@ -20,7 +20,7 @@ Below we compare a variety of common home remodeling projects in 3 key Californi
 
 **Share this infographic on your site**
 <textarea>
-  <p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://www.murraylampert.com/infographic-comparing-real-remodeling-costs-in-california/"><img src="http://www.murraylampert.com/uploads/infographic-comparing-real-remodeling-costs-in-california.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
+  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-comparing-real-remodeling-costs-in-california/"><img src="https://www.murraylampert.com/uploads/infographic-comparing-real-remodeling-costs-in-california.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
 </textarea>
 
 ## Comparing Real Remodeling Costs in California
@@ -28,34 +28,34 @@ Below we compare a variety of common home remodeling projects in 3 key Californi
 #### We Take a Look at the Cost of Various Remodeling Projects in 3 Major Real Estate Markets: San Francisco, Los Angeles, and San Diego
 
 **Market: San Francisco, CA**
-Avg. Cost - Full Home Remodel: $317,346
-Avg. Cost - Kitchen Remodel: $42,822
-Avg. Cost - Bathroom Remodel: $17,643
-Avg. Cost - Bedroom Remodel: $11,489
-Avg. Cost - Living Room Remodel: $12,761
-Avg. Cost - Deck & Porch Remodel: $14,287
-Avg. Cost - Patio & Landscape Remodel: $22,803
-Avg. Cost - Windows & Doors: $9,854
+- Full Home Remodel: $317,346
+- Kitchen Remodel: $42,822
+- Bathroom Remodel: $17,643
+- Bedroom Remodel: $11,489
+- Living Room Remodel: $12,761
+- Deck & Porch Remodel: $14,287
+- Patio & Landscape Remodel: $22,803
+- Windows & Doors: $9,854
 
 **Market: Los Angeles, CA**
-Avg. Cost - Full Home Remodel: $238,328
-Avg. Cost - Kitchen Remodel: $35,531
-Avg. Cost - Bathroom Remodel: $16,314
-Avg. Cost - Bedroom Remodel: $10,245
-Avg. Cost - Living Room Remodel: $9,119
-Avg. Cost - Deck & Porch Remodel: $9,162
-Avg. Cost - Patio & Landscape Remodel: $16,537
-Avg. Cost - Windows & Doors: $9,055
+- Full Home Remodel: $238,328
+- Kitchen Remodel: $35,531
+- Bathroom Remodel: $16,314
+- Bedroom Remodel: $10,245
+- Living Room Remodel: $9,119
+- Deck & Porch Remodel: $9,162
+- Patio & Landscape Remodel: $16,537
+- Windows & Doors: $9,055
 
 **Market: San Diego, CA**
-Avg. Cost - Full Home Remodel: $284,298
-Avg. Cost - Kitchen Remodel: $35,585
-Avg. Cost - Bathroom Remodel: $12,134
-Avg. Cost - Bedroom Remodel: $10,209
-Avg. Cost - Living Room Remodel: $7,242
-Avg. Cost - Deck & Porch Remodel: $10,640
-Avg. Cost - Patio & Landscape Remodel: $13,351
-Avg. Cost - Windows & Doors: $7,589
+- Full Home Remodel: $284,298
+- Kitchen Remodel: $35,585
+- Bathroom Remodel: $12,134
+- Bedroom Remodel: $10,209
+- Living Room Remodel: $7,242
+- Deck & Porch Remodel: $10,640
+- Patio & Landscape Remodel: $13,351
+- Windows & Doors: $7,589
 
 ---
 
