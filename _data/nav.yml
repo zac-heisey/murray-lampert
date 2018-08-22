@@ -1,24 +1,21 @@
-- name: Contact Us
-  path: contact
-  section_id: contact
+- name: Home
+  path: "#top"
+  section_id: home
 - name: About
-  path: about-murray-lampert-design-build-remodel
+  path: "#about"
   section_id: about
-- name: Design
-  path: san-diego-home-design-services
-  section_id: design
-- name: Build
-  path: san-diego-design-build-contractors
-  section_id: build
-- name: Remodel
-  path: san-diego-home-remodel-services
-  section_id: remodel
 - name: Services
-  path: design-build-services-san-diego
+  path: "#services"
   section_id: services
 - name: Projects
-  path: san-diego-remodel-project-gallery
-  section_id: projects
+  path: "#works"
+  section_id: works
+- name: Team
+  path: "#team"
+  section_id: team
 - name: Blog
   path: blog
   section_id: blog
+- name: Contact
+  path: contact
+  section_id: contact
