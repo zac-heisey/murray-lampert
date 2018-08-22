@@ -6,12 +6,15 @@ services:
   - title: Design
     icon: fa fa-pencil-square-o
     desc: Our in-house designers and architect work hand-in-hand with you to create the perfect design to make your dream home a reality.
+    url: /san-diego-home-design-services
   - title: Build
     icon: fa fa-wrench
     desc: Murray Lampert has been developing relationships with craftsman, material suppliers, and building officials in San Diego for over 40 years.
+    url: /san-diego-design-build-contractors
   - title: Remodel
     icon: fa fa-home
     desc: We're proud to be one of San Diego's top-rated home remodeling contractor. We specialize in design-build packages, along with a host of other remodeling services.
+    url: /san-diego-home-remodel-services
 
 works:
 - image: /uploads/wise-bathroom-after-1.jpg

@@ -20,7 +20,7 @@
     {% endif %}
 
     <div id="main" class="{{ classname }}">
-      <!-- HTML for Homepage V2 Layout; Previously was just {{ content }} liquid tag here -->
+      <!-- HTML for Homepage V2 Layout; Previously just {{ content }} liquid tag here -->
       <div class='full no-padding parallax home-video-wrapper'>
         <div class='fullscreen'>
           <video autoplay muted loop id='fullscreen-video'>
@@ -92,7 +92,7 @@
                       <i class='{{ service.icon }}'></i>
                     </div>
                   </div>
-                  <h3>{{ service.title | escape }}</h3>
+                  <h3><a href="{{ service.url }}" >{{ service.title | escape }}</a></h3>
                   <p>{{ service.desc | escape }}</p>
                   <div class="spacing"></div>
                 </div>
