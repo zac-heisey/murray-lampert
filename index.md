@@ -14,12 +14,12 @@ services:
     desc: We're proud to be one of San Diego's top-rated home remodeling contractor. We specialize in design-build packages, along with a host of other remodeling services.
 
 works:
-- image: /uploads/wise-bathroom-1.jpg
+- image: /uploads/wise-bathroom-after-1.jpg
   class: bathroom-remodels
   title: Custom Bathrooms
   desc: From Soaker Tubs to Universal Design
   url: /san-diego-bathroom-remodeling-services
-- image: /uploads/wise-kitchen-1.jpg
+- image: /uploads/wise-kitchen-after-1.jpg
   class: kitchen-remodels
   title: Functional, Fashionable Kitchens
   desc: Entertain Family & Friends in Style
@@ -34,7 +34,7 @@ works:
   title: Contemporary Kitchen Remodel
   desc: Del Mar, CA
   url: /san-diego-kitchen-remodeling-services
-- image: /uploads/wise-family-room-1.jpg
+- image: /uploads/wise-living-room-after-1.jpg
   class: major-renovations
   title: Full-Service Home Remodeling
   desc: We Lead Your Project From Start to Finish
