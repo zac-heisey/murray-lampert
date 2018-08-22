@@ -46,6 +46,10 @@ jQuery(document).foundation();
       this.muted = false; // Volume is ON by default
     });
 
+    $('#menu-toggler').click(function() { // Video Homepage menu toggler
+      $('.top-bar-section').toggle();
+    });
+
     $('.fadeinleft, .fadeinright, .fadein, .popin').appear(function() {
       var delay = $(this).data('delay');
       var that = this;
