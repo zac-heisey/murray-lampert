@@ -5,7 +5,8 @@ categories:
 - Approved Home Pros
 - Home Remodeling
 featured-image: "/uploads/08-18-KOGO-600.png"
-excerpt: This week on the Approved Home Pro Radio Show we chat with System Pavers, Window World, and Reborn Cabinets
+excerpt: This week on the Approved Home Pro Radio Show we chat with System Pavers,
+  Window World, and Reborn Cabinets
 author: Gregg Cantor
 layout: post
 ---
