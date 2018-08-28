@@ -2,7 +2,11 @@
   <nav class='top-bar onepage' data-options='' data-topbar=''>
     <ul class='title-area'>
       <li class='name'>
+        {% if page.layout != "home" %}
+        <h1 id='header-phone'><a href="tel:+6192859222" style="color:#2082AF;text-shadow:1px 1px #fff;"><strong>619-285-9222</strong></a></h1>
+        {% else %}
         <h1 id='header-phone'><a href="tel:+6192859222"><strong>619-285-9222</strong></a></h1>
+        {% endif %}
       </li>
     </ul>
     {% if page.layout != "home" %}
