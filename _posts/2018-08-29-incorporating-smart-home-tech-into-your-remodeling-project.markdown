@@ -28,7 +28,7 @@ A smart thermostat will do the same thing for your heat and cooling needs. They 
 
 When your hot water heater bursts it can be a costly mess, destroying a large area of your home. However, these days you can be alerted instantly. This means that you can shut off the water source and save yourself a lot of mess and money.
 
-### These Products Make Your homeowners Safer
+### These Products Make Your Home Safer
 
 #### Video Doorbells
 
@@ -40,7 +40,7 @@ Your old door lock is nothing compared to the home security that a smart lock pr
 
 #### A Full-Fledged Security System
 
-You need a security system. The [best home security system](http://www.gadgetreview.com/best-home-security-system) that you can buy. It not only protects your family but gives you valuable peace of mind. A security system can notify you about a number of emergencies. Glass break sensors will cause an alarm if a burglar breaks a window. Motion sensors will detect intruders, and smoke and carbon monoxide detectors can save your life as well.
+Opting for the [best home security system](http://www.gadgetreview.com/best-home-security-system) you can buy is always a good investment. It not only protects your family but gives you valuable peace of mind. A security system can notify you about a number of emergencies. Glass break sensors will cause an alarm if a burglar breaks a window. Motion sensors will detect intruders, and smoke and carbon monoxide detectors can save your life as well.
 
 #### Smart Garage Door Opener
 
