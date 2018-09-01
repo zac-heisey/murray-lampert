@@ -1,11 +1,11 @@
 ---
 title: 3 Steps to BBQ Season
-date: 2013-02-19 16:00:47 Z
+date: 2013-02-19 16:00:00 Z
 permalink: "/3-steps-to-bbq-season/"
 layout: post
 ---
 
-BBQ season is finally almost here. When we finally escape the doldrums of winter for the more favorable temperatures that accompany spring, we also escape the restrictions of indoor cooking. <img class="alignright" style="margin: 5px;" alt="" src="/images/gallery/outdoor/outdoorkitchens6.jpg" width="300" height="224" />
+BBQ season is finally almost here. When we finally escape the doldrums of winter for the more favorable temperatures that accompany spring, we also escape the restrictions of indoor cooking.
 
 Who wants to spend a beautiful spring day inside hunched over the oven cooking a casserole? Trade in the oven mitts for a grilling apron—it’s time to barbeque.
 
