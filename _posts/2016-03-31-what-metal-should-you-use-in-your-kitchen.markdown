@@ -5,7 +5,7 @@ permalink: "/what-metal-should-you-use-in-your-kitchen/"
 layout: post
 ---
 
-<img class="alignnone size-large wp-image-2741" src="http://murraylampert.com/wp-content/uploads/20141231_131123-1024x768.jpg" alt="5 Reasons to Remodel Your Home Now" width="940" height="705" />
+
 
 Picture your ideal kitchen. Do you want a comfortable, cozy, farmhouse-style kitchen? Or do you envision a
 sleek, modern kitchen with minimalist appliances?

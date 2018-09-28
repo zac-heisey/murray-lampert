@@ -29,7 +29,7 @@ Many people are still unwilling to embrace the concept of reused water because t
 <h3>Look Out for These Rebates in 2017</h3>
 The City of San Diego also offers Grass Replacement and Micro-Irrigation, but applications for 2016 are already over. The former provides cash-back rebates for water-wise plant material used to replace grass from the lawns, while the latter is concerned with transforming the overhead spray sprinkler system into low-application rate micro-irrigation.
 
-<img class="aligncenter size-large wp-image-3187" src="http://murraylampert.com/wp-content/uploads/Garage-View-Remodeling-Company-San-Diego-1024x683.jpg" alt="Garage View - Remodeling Company San Diego" width="940" height="627" />
+
 <h3>Other Rebates in San Diego</h3>
 <strong>Sustainable Landscapes Program</strong> was created as a joint effort of Water Authority, the City of San Diego, the County of San Diego, the Surfrider Foundation, the California American Water Company and the Association of Compost Producers. It offers $1.75 per square foot for the replacement of water-intensive turf grass with water-efficient landscaping.
 

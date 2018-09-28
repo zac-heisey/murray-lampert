@@ -5,7 +5,7 @@ permalink: "/timely-san-diego-home-remodeling/"
 layout: post
 ---
 
-<a href="http://murraylampert.com/wp-content/uploads/2010/12/imagesCAKQGFC5.jpg"><img class="size-full wp-image-675 alignleft" style="margin-bottom: 10px; margin-right: 10px;" title="imagesCAKQGFC5" src="http://murraylampert.com/wp-content/uploads/2010/12/imagesCAKQGFC5.jpg" alt="" width="207" height="155" /></a>As a <a href="http://www.murraylampert.com/remodel/">San Diego Home Remodeling firm</a>, one of the most frequently asked questions we are asked is, "how long will my home remodeling project take?"
+, one of the most frequently asked questions we are asked is, "how long will my home remodeling project take?"
 
 We are known for being a Timely San Diego Home Remodeling contractor, and have a track record for finishing our projects ahead of schedule.
 <h2>Why are we different than most home remodeling contractors?</h2>

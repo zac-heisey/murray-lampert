@@ -5,7 +5,7 @@ permalink: "/overview-of-san-diego-building-permits/"
 layout: post
 ---
 
-<a href="http://www.flickr.com/photos/wscullin/"><img class="size-full wp-image-689 alignright" style="margin: 5px;" title="blueprint-will-scullin" src="http://murraylampert.com/wp-content/uploads/2011/01/blueprint-will-scullin.jpg" alt="" width="240" height="160" /></a>Whenever beginning a <a href="http://www.murraylampert.com/">construction project in  San Diego</a>, a number of permits must be required. Many homeowners are unsure as  to when the permits are necessary, and what they are actually for. Here is a  quick guide to <a href="http://www.sandiego.gov/development-services/homeownr/hometips.shtml">San Diego Building Permits</a>. (<a href="http://www.flickr.com/photos/wscullin/">Image Source</a>)
+)
 <h2>What  are San Diego Building Permits?</h2>
 Building permits are merely measures put in  place to ensure the safety of residents. These permits are able to regulate  construction, and make certain that homes and buildings will not cause harm to  the residents. Due to the differences in climate and geography across the  country, state and local governments are responsible for establishing the  appropriate codes and guidelines for any construction project.  Some areas also enforce certain laws and  permits in reference to energy conservation requirements.
 

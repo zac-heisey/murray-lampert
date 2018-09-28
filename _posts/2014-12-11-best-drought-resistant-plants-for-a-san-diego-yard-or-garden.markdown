@@ -7,7 +7,7 @@ layout: post
 
 Over the past few years, California has been dealt its share of drought. With scarce water and the beautiful sun beaming down during daylight hours, yards and gardens have been at a bit of a disadvantage. To keep your yard from looking like Death Valley, drought tolerant plants are an ideal alternative to those testy patches of grass and wilting water-sensitive plants. But that doesn’t mean you’re limited to a few brambly bushes and various cacti. Here we’ll take a quick nature walk through many drought-tolerant plants that you can use to grow a beautiful, water-wise garden that will hold up under the San Diego sun.
 
-[caption id="attachment_2704" align="alignright" width="380"]<img class="size-full wp-image-2704" src="http://murraylampert.com/wp-content/uploads/outdoorlandscape.jpg" alt="Using water wise plants can help you save money and make your outdoor space more aesthetically pleasing." width="380" height="206" /> Using water wise plants can help you save money and make your outdoor space more aesthetically pleasing.[/caption]
+[caption id="attachment_2704" align="alignright" width="380"] Using water wise plants can help you save money and make your outdoor space more aesthetically pleasing.[/caption]
 <h2>Shrubs</h2>
 <strong>Rockrose</strong> – This special shrub has yellow, pink, or white flowers that open up in the morning, and then lose their petals throughout the day, only to replenish them on the next.
 
@@ -43,4 +43,4 @@ Over the past few years, California has been dealt its share of drought. With sc
 
 <strong>Fruitless Olive</strong> – This gorgeous and resilient ornamental tree does not produce flowers, and therefore does not contribute to pollen allergies.
 
-This is only a small sampling of water-wise plants you can use in your yard and garden. Check out this <a href="http://murraylampert.com/wp-content/uploads/nifty50_4_14final_1.pdf" target="_blank">handy guide from the San Diego County Water Authority</a> for more information.
+This is only a small sampling of water-wise plants you can use in your yard and garden. Check out this  for more information.

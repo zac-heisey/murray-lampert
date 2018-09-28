@@ -5,7 +5,7 @@ permalink: "/home-remodeling-and-lead-paint/"
 layout: post
 ---
 
-<a href="http://murraylampert.com/wp-content/uploads/2010/05/NAT-29880-13.jpg"><img class="alignright size-medium wp-image-260" title="EPA_LeadSafeCertFirm_TEMPLATE" src="http://murraylampert.com/wp-content/uploads/2010/05/NAT-29880-13-300x231.jpg" alt="" width="300" height="231" /></a>
+
 
 <strong>EPA Requirements</strong>
 

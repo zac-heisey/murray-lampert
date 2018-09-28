@@ -5,7 +5,7 @@ permalink: "/remodel-your-kitchen-with-these-6-must-have-features-2/"
 layout: post
 ---
 
-<strong><a href="http://murraylampert.com/wp-content/uploads/ML-Dang-Tran-Kitchen-blob.jpg"><img class="wp-image-2844 alignleft" src="http://murraylampert.com/wp-content/uploads/ML-Dang-Tran-Kitchen-blob.jpg" alt="ML-Dang-Tran Kitchen-blob" width="474" height="330" /></a></strong>You've worked hard to turn your home into something special. You love what you've accomplished, and you want to share that success with your family and friends. So, you often throw dinner parties or host holidays in your home.
+You've worked hard to turn your home into something special. You love what you've accomplished, and you want to share that success with your family and friends. So, you often throw dinner parties or host holidays in your home.
 
 But recently, you've realized that your kitchen doesn't exactly feel welcoming. In fact, it looks well-worn and shabbier than you'd like.
 
@@ -42,7 +42,7 @@ If you'd prefer a trendier material, ask your renovator about Silestone or Caesa
 
 Remember that some materials are more permeable than others.  With children, you may want to avoid marble or soapstone.
 <ol start="4">
-	<li><strong><img class="wp-image-2845 alignright" src="http://murraylampert.com/wp-content/uploads/ML-Barthel-Kitchen-Blog-1024x788.jpg" alt="ML-Barthel Kitchen-Blog" width="453" height="349" />Improved Plumbing Fixtures</strong></li>
+	
 </ol>
 Don't forget to install a sink that matches your appliances. To make your space more functional, look for a farmhouse sink. These large basins rest under your counter instead of inside it, and they protrude slightly. Depending on your taste and needs, select a large, open sink or one with two divided sections.
 

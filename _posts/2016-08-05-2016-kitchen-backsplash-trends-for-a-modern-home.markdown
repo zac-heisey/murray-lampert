@@ -17,7 +17,7 @@ It’s common knowledge know that white kitchens are in vogue, but many home own
 <h3>Nautical Blue</h3>
 A mosaic of glass tiles reminiscent of the sea blends in perfectly with off-white cabinets, stainless steel counter tops and a grey kitchen island. In contrast with the predominant black and white combo, blue always inspires a sense of freshness.
 
-<img class="aligncenter size-large wp-image-3154" src="http://murraylampert.com/wp-content/uploads/Kitchen-Backsplash-Trends-1024x711.jpg" alt="Kitchen Backsplash Trends" width="940" height="653" />
+
 <h3>Chalkboard Turns Backsplash</h3>
 Once reserved for chic cafes and restaurants, chalkboard has weaved its way into the kitchens of many enthusiastic American home owners. For starters, it’s incredibly easy to clean and so much fun to have around. The children are sure to go crazy about a part of the wall they can write on. What’s more, you can have your share of fun and write recipes or witty notes. When you are done with it, just take the sponge and remove the chalk. For this purpose, the preferred color for chalkboard backsplash is matte black, because it adds a touch of refinement when it’s clean, and looks so cool with the doodles on!
 <h3>Mirrored Backsplash</h3>

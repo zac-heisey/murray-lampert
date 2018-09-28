@@ -7,7 +7,7 @@ layout: post
 
 <div>
 
-[caption id="attachment_1123" align="alignleft" width="136" caption="True Power U-Socket"]<a href="http://murraylampert.com/wp-content/uploads/2012/07/Usocket.jpg"><img class="size-full wp-image-1123 " title="Modernize Your Home Office" src="http://murraylampert.com/wp-content/uploads/2012/07/Usocket.jpg" alt="USB Outlet for cellphone and iPad charging" width="136" height="206" /></a>[/caption]
+[caption id="attachment_1123" align="alignleft" width="136" caption="True Power U-Socket"][/caption]
 
 I attended the Pacific Coast Building Conference is San Francisco last month to tour the exhibits and see the latest products.
 

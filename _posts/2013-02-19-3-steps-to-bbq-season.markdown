@@ -29,7 +29,7 @@ Now that you can look out at your outdoors space without any obstructions, think
 	<li>If you want to chill outside and watch the game on TV while you grill, go for an outdoors entertainment center with an all-weather cover for safe storage.</li>
 	<li>Whether you grill late at night or not, install a fire pit. There’s nothing like fireside grilling, especially when your pit is built right into your patio.</li>
 </ul>
-But the coup de gras of outdoor cooking is, of course, the<a href="/gallery/"> outdoor kitchen</a>. <a href="http://murraylampert.com/wp-content/uploads/2012/08/Trex-Composite-Deck.gif"><img class="alignright size-medium wp-image-1153" style="margin: 5px;" title="Trex-Composite-Deck" alt="" src="http://murraylampert.com/wp-content/uploads/2012/08/Trex-Composite-Deck-300x166.gif" width="300" height="166" /></a>
+But the coup de gras of outdoor cooking is, of course, the
 
 An outdoor kitchen is a scaled-down version of your indoor kitchen and includes whatever utilities you want. A popular strategy is to knock out the top half of the kitchen’s exterior wall. By making a peninsula out of the wall’s bottom half, you can make a double-sided counter that gives you access to utilities and food from both the inside and outside. Doors or windows can be installed where the wall used to be so you can close off the room to the elements.
 

@@ -11,7 +11,7 @@ Making the decision to <a href="http://www.murraylampert.com/remodel/">remodel y
 
 First, simply ask yourself why you want to remodel your home. Do you think upgrades will make it sell better? Are you uncomfortable in your current kitchen or bedroom? Do you often wish that you had more space for entertaining? Determining your goals will help you define the scope of your remodel. Some homeowners have a single goal when it comes to remodeling their homes, but many don't make the decision to remodel their home unless they have several goals in mind. You may also have different goals than your spouse, so talk to them about the remodeling process and make sure you have the same goals before the project begins.
 
-[caption id="attachment_282" align="alignright" width="300" caption="Custom Cherry Wood Kitchen with Granite Counters"]<a href="http://murraylampert.com/wp-content/uploads/2010/06/Pugh-1.jpg"><img class="size-medium wp-image-282" title="Custom Kitchen" src="http://murraylampert.com/wp-content/uploads/2010/06/Pugh-1-300x211.jpg" alt="" width="300" height="211" /></a>[/caption]
+[caption id="attachment_282" align="alignright" width="300" caption="Custom Cherry Wood Kitchen with Granite Counters"][/caption]
 
 Having pictures of what you would like your room or rooms to look like at the end of the project is great because it ensures that you and the contractor you hire to complete the project have the same vision of the changes that will be made and what the completed project will look like.
 

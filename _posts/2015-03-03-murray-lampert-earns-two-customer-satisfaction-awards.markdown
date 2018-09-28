@@ -35,4 +35,4 @@ As always, Murray Lampert looks to lead the industry with innovation that impact
 </ul>
 Thanks to our happy customers who spread the word and recommend us to friends and family. We couldn’t do it without you!
 
-<img class="aligncenter size-medium wp-image-2760" src="http://murraylampert.com/wp-content/uploads/BBBTorch-65x114.jpg" alt="Murray Lampert BBB Torch Award" width="65" height="114" /><img class="aligncenter size-medium wp-image-2758" src="http://murraylampert.com/wp-content/uploads/40years-125x114.jpg" alt="Murray Lampert Has Served Since 1975" width="125" height="114" /><img class="aligncenter size-medium wp-image-2759" src="http://murraylampert.com/wp-content/uploads/HouzzBest2015-114x114.jpg" alt="Houzz Best of 2015 for stellar service" width="114" height="114" />
+

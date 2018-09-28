@@ -7,7 +7,7 @@ layout: post
 
 I recently attended a Lutron product knowledge seminar and learned about some innovative products for <a href="http://www.murraylampert.com/san-diego-architectural-design-services/">custom home improvements</a>.
 
-[caption id="attachment_1163" align="alignright" width="360"]<a href="http://murraylampert.com/wp-content/uploads/2012/09/LutronControler1.jpg"><img class="size-large wp-image-1163 " title="Custom Home Improvement Feautures" src="http://murraylampert.com/wp-content/uploads/2012/09/LutronControler1-1024x797.jpg" alt="Lutron Switch &amp; Controller" width="360" height="280" /></a> Lutron Remote Controlled Switch[/caption]
+[caption id="attachment_1163" align="alignright" width="360"] Lutron Remote Controlled Switch[/caption]
 
 Lutron is known for their electrical switches, dimmers, receptacles and lighting.  What you might not know is they also manufacture electronically operated shades, blinds, curtains and drapes. Their <a href="http://www.lutron.com/Products/StandAloneControls/Dimmers-Switches/Pages/DimmersSwitches.aspx">integrated controller</a> is design to work with Lutron lighting and window covering systems for a custom home improvement.
 

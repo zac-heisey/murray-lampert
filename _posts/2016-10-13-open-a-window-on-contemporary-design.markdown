@@ -11,7 +11,7 @@ Known among architects as “contemporary,” this style places the highest impo
 <ol>
  	<li><strong>Deliver light as far into the space as possible:</strong> when utilized correctly, the constantly changing light that flows through windows can transform an interior. Balancing the placement of windows to deliver natural light as far into a built structure accomplishes one of the primary principles of contemporary design: serve a utilitarian purpose, not a decorative one.</li>
 </ol>
-[caption id="attachment_3170" align="aligncenter" width="850"]<img class="wp-image-3170 size-full" src="http://murraylampert.com/wp-content/uploads/AW13-11751_R1.tif-4.jpg" alt="AW13-11751_R1.tif-4" width="850" height="567" /> Andersen Windows[/caption]
+[caption id="attachment_3170" align="aligncenter" width="850"] Andersen Windows[/caption]
 <ol start="2">
  	<li><strong>Promote indoor air quality:</strong> Proper ventilation for a home goes beyond opening a window or two. Stacked ventilation, for example, utilizes roof windows in combination with wall windows, creating updrafts that funnel warm air outdoors and away from living areas. Interior window openings can help channel fresh air to a home’s more remote locations.</li>
 </ol>
@@ -20,13 +20,13 @@ Known among architects as “contemporary,” this style places the highest impo
 </ol>
 &nbsp;
 
-[caption id="attachment_3176" align="aligncenter" width="850"]<img class="wp-image-3176 size-full" src="http://murraylampert.com/wp-content/uploads/AW13-11702_R3.tif-3-1.jpg" width="850" height="638" /> Andersen Windows[/caption]
+[caption id="attachment_3176" align="aligncenter" width="850"] Andersen Windows[/caption]
 <ol start="4">
  	<li><strong>Erase the divide between interior and exterior:</strong> Walls of windows or patio doors can help connect the interior of a home with the immediate surroundings. Thresholds are minimized, rooflines blend into tree lines, and outdoor spaces become your expanded living space.</li>
 </ol>
 &nbsp;
 
-[caption id="attachment_3177" align="aligncenter" width="850"]<img class="wp-image-3177 size-full" src="http://murraylampert.com/wp-content/uploads/AW13-11887-R2.tif-4-1.jpg" width="841" height="850" /> Andersen Windows[/caption]
+[caption id="attachment_3177" align="aligncenter" width="850"] Andersen Windows[/caption]
 
 Knowing which windows match a contemporary style is key to achieving that contemporary look. To that end, this <a href="https://www.andersenwindows.com/home-styles/#industrial-modern">free site</a> connects home styles and the proper windows based on architectural need.
 

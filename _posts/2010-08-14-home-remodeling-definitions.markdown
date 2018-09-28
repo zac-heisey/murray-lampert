@@ -5,7 +5,7 @@ permalink: "/home-remodeling-definitions/"
 layout: post
 ---
 
-<strong><a href="http://www.murraylampert.com"><img class="aligncenter size-full wp-image-487" title="Home Remodeling" src="http://murraylampert.com/wp-content/uploads/2010/08/Home-Remodeling.jpg" alt="" width="409" height="254" /></a></strong>
+
 
 <strong>Remodeling Contractor</strong>
 

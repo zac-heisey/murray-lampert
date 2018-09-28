@@ -5,7 +5,7 @@ permalink: "/10-tips-for-buying-your-first-home/"
 layout: post
 ---
 
-<a href="http://murraylampert.com/wp-content/uploads/2010/11/choosing-a-new-home-checklist.jpg"><img class="size-full wp-image-645 alignright" style="margin: 5px;" title="choosing-a-new-home-checklist" src="http://murraylampert.com/wp-content/uploads/2010/11/choosing-a-new-home-checklist.jpg" alt="" width="241" height="280" /></a>Buying your first home is an exciting and complicated  process. New home buyers are usually the ones that make the biggest mistakes  and get in over their heads. But, with good research and trustworthy advice,  you can be confident during this life changing decision. Here are 10 tips that  you can use when buying your first home. (<a href="http://www.flickr.com/photos/alancleaver/">Image Source</a>)
+)
 <ol>
 	<li><strong>Learn  From Experience</strong>: Go out and talk to other people who recently purchased a  home for the first time. They now have hindsight on what they did right, could  have done better, and shouldn’t have done. They might not be a professional,  but at least they went through a very similar experience recently, which is  especially important during these difficult economic times.</li>
 	<li><strong>Attend a  Home Buyer Seminar</strong>: There is a seminar for everything in today’s world,  including a first time home buying seminar, probably close to where you live.  You can normally find a free seminar put on by a local non-profit or your city  that will help you learn what is involved in buying a home and what mistakes to  watch out for. You are much more likely to find that perfect home if you are an  educated buyer, so study hard.</li>

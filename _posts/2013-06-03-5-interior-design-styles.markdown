@@ -7,7 +7,7 @@ layout: post
 
 When was the last time you gave your home a decorating update? A HomeGoods survey found that 47 percent of Americans haven’t changed home décor in the past five years. If you are among the near-majority, a better understanding of interior design may help you know where to start when it comes to updating your home.
 
-While interior design styles are as varied as the people who create them in their homes, there are some basic elements that can help determine the feel of a particular space. Take a look at these five common types of interior design: <a href="http://murraylampert.com/wp-content/uploads/2013/05/bathroom.jpg"><img class="alignright size-full wp-image-1278" title="bathroom" alt="" src="http://murraylampert.com/wp-content/uploads/2013/05/bathroom.jpg" width="300" height="169" /></a>
+While interior design styles are as varied as the people who create them in their homes, there are some basic elements that can help determine the feel of a particular space. Take a look at these five common types of interior design: 
 
 <strong>Traditional:</strong> This style of design actually incorporates many more specific ones. French country, British Colonial revival, and 18th century English styles are all housed under the traditional umbrella. What draws many people to traditional design style is the warm, inviting feel that is evoked through wood tones and bronze accents. Patterns are often mixed between pieces of furniture and accessories like pillows. Art often includes still life prints and crystal items.
 

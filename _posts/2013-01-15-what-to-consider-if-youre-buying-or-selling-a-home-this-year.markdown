@@ -5,7 +5,7 @@ permalink: "/what-to-consider-if-youre-buying-or-selling-a-home-this-year/"
 layout: post
 ---
 
-<p style="text-align: center;"><a href="http://murraylampert.com/wp-content/uploads/2013/01/For-Sale-Sign1.jpg"><img class="size-full wp-image-1231 aligncenter" title="For-Sale-Sign" src="http://murraylampert.com/wp-content/uploads/2013/01/For-Sale-Sign1.jpg" alt="" width="507" height="341" /></a></p>
+
 Real estate seems to be gaining momentum in most areas of the United States, which is a good thing for both buyers and sellers. In fact, a five percent rise in the median price of existing homes is being predicted by the <a href="http://www.realtor.org/">National Association of Realtors</a> by the end of 2013. Read on for some things to remember if you’re buying or selling this year.
 
 <strong>Home Prices are Going Up</strong>

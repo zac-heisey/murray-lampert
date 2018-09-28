@@ -12,7 +12,7 @@ If you have never really been into the off-white kitchen design movement, you wi
 Opting for different colors and materials for upper and lower cabinets has definitely been the biggest trend so far into 2016. This leaves room for a more flexible budget planning, since you can have <a href="http://murraylampert.com/san-diego-custom-cabinet-construction-services/">custom upper cabinets</a> made to go with the existing lower ones, or vice versa. As a rule of thumb, lower cabinets should be darker.
 <h3>Off-White is the New Gray</h3>
 While grey kitchen were really in vogue in 2015, kitchen designers have started gravitating towards off-white and beige kitchens. As far as cabinets go, wooden upper cabinets with an off-white finish are a perfect complement to whatever lower cabinets you already have. Besides being very stylish, they lighten up the space and can be contrasted with <a href="http://murraylampert.com/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/">exciting backsplash designs</a>.
-<h3><img class="aligncenter size-large wp-image-3121" src="http://murraylampert.com/wp-content/uploads/2.-Dang-Tran-Kitchen-Rendering-1-1024x691.jpg" alt="2016 kitchen cabinet trends" width="940" height="634" /></h3>
+
 <h3>Clean and Simple Lines</h3>
 Whatever style you envisioned for your kitchen, kitchen cabinets shouldn’t stand out with a flamboyant design – simplicity is the key. You can call it minimalist, but simple doors and straight lines give cabinets the flexibility to blend in with almost any kitchen style. Moreover, simplicity will always be in vogue.
 <h3>Shaker Style Simplicity</h3>

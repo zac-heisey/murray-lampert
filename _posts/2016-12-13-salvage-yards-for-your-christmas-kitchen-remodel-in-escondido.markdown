@@ -19,7 +19,7 @@ The shop specializes in custom door production; if you happen to find a vintage 
 <h3>Heritage Salvage</h3>
 If you are looking for a unique block of wood for your kitchen island or countertop, Heritage Salvage is definitely one of the places to look. The shop boasts an incredible offer of repurposed lumber and barn boards. A number of designers work to add a touch of sophistication to the pieces, so customers can choose a lovely and <a href="http://murraylampert.com/2016-eco-friendly-kitchen-remodeling-ideas/">eco-friendly solution for their kitchen table, cabinets, countertops, and flooring</a>.
 
-<img class="aligncenter size-large wp-image-3194" src="http://murraylampert.com/wp-content/uploads/Kitchen-Remodel-Escondido-1024x805.jpg" alt="Kitchen Remodel Escondido" width="940" height="739" />
+
 <h2>This Christmas, Have a Custom Design for Your Escondido Kitchen Remodel</h2>
 At <em>Murray Lampert</em>, we boast an innovative team of designers, architects, and builders, dedicated to bringing your vision to life. Whether it’s custom cabinet building, green building or architectural design, we have what it needs to <a href="http://murraylampert.com/san-diego-kitchen-remodeling-services/">give your kitchen a special holiday makeover</a>. Come and talk to us about your ideas and wishes, and our team will advise you on the most viable options you will love!
 

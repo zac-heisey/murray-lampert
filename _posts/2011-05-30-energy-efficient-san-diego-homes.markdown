@@ -8,7 +8,7 @@ layout: post
 <p style="text-align: center;">&nbsp;</p>
 
 
-[caption id="attachment_845" align="aligncenter" width="781" caption="Energy Efficient San Diego Homes"]<a href="http://www.murraylampert.com/san-diego-green-home-construction/"><img class="size-full wp-image-845" title="Energy Efficient San Diego Homes" src="http://murraylampert.com/wp-content/uploads/2011/05/AC-Time2.jpg" alt="" width="781" height="144" /></a>[/caption]
+[caption id="attachment_845" align="aligncenter" width="781" caption="Energy Efficient San Diego Homes"][/caption]
 
 Here is access to a FREE service offered through SDG&amp;E to check the efficiency of your heating/air conditioning and get a tune up including freon re-charge:
 

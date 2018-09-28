@@ -13,9 +13,9 @@ Not only will homeowners get years of personal enjoyment out of the additional s
 
 &nbsp;
 
-[caption id="attachment_1063" align="alignright" width="270" caption="After Room Addition"]<a href="http://murraylampert.com/wp-content/uploads/2012/05/LeungAfter2.jpg"><img class="size-medium wp-image-1063" title="After Room Addition- Murray Lampert" src="http://murraylampert.com/wp-content/uploads/2012/05/LeungAfter2-272x300.jpg" alt="Murray Lampert- After Room Addition" width="270" height="208" /></a>[/caption]
+[caption id="attachment_1063" align="alignright" width="270" caption="After Room Addition"][/caption]
 
-[caption id="attachment_1058" align="alignleft" width="270" caption="Before Room Addition"]<a href="http://murraylampert.com/wp-content/uploads/2012/05/IMG_0515.jpg"><img class="size-medium wp-image-1058 " title="Murray Lampert- Before Room Addition" src="http://murraylampert.com/wp-content/uploads/2012/05/IMG_0515-300x225.jpg" alt="Murray Lampert- Room Addition" width="270" height="203" /></a>[/caption]
+[caption id="attachment_1058" align="alignleft" width="270" caption="Before Room Addition"][/caption]
 
 &nbsp;
 

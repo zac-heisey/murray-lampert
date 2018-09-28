@@ -11,7 +11,7 @@ A recent study completed by Harvard University’s Joint Center for Housing Stud
 
 Despite the forcasted growth, the remodeling industry is going through some changes. Instead of the large and luxurious home additions and remodels during the previous housing boom, people will be more cautious about spending their money. There will be a transition from the excessive house additions of the late 90’s to necessary remodels that will create a home that can accommodate the family for many years to come. When someone will be looking to make an investment in improving their home, it will not be directly related to increasing the resale value.
 
-<img class="alignleft wp-image-2755 " src="http://murraylampert.com/wp-content/uploads/home-remodeling-1024x683.jpg" alt="Home Remodeling" width="476" height="317" />
+
 
 Trends show that people will be planting some roots over the next decade. There will be fewer new home purchases and frequent moving. Homeowners will still want to increase their quality of life, as they may have in the past by moving to a bigger and better home in a nicer neighborhood. The weaker economy has instilled a new mindset of saving as much money as possible and only spending it on necessary items and amenities. Typical projects for families with reduced household mobility will include roof replacements, HVAC system upgrades, energy efficient window replacements, and <a href="http://www.murraylampert.com/san-diego-room-additions/">room expansions</a>.
 

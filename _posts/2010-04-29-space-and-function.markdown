@@ -5,9 +5,9 @@ permalink: "/space-and-function/"
 layout: post
 ---
 
-<a href="http://murraylampert.com/wp-content/uploads/2010/04/Dang3.jpg"><img class="alignright" title="Dang" src="http://murraylampert.com/wp-content/uploads/2010/04/Dang3-259x300.jpg" alt="" width="259" height="300" /></a>
 
-Mr. &amp; Mrs. D in San Diego recently had a closet and home office added.  Their daughter has decided to make it her new play area.<a href="http://murraylampert.com/wp-content/uploads/2010/04/Dang3.jpg"></a>
+
+Mr. &amp; Mrs. D in San Diego recently had a closet and home office added.  Their daughter has decided to make it her new play area.
 
 Many of our clients have the need for extensions to existing rooms, bedroom additions, home offices, or even private space for parents of children moving back in.  
 

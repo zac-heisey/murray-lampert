@@ -33,7 +33,7 @@ Want to know the best thing about these lights? As they are mostly concealed, th
 
 <strong>Lights Strips/Bars</strong> – they are brighter and distribute the light to a larger area than pluck fixtures. They also the ones that make the cabinets look contemporary. LED strips are especially popular because they bounce the light off walls and countertops and thus reduce glare.
 
-<img class="aligncenter size-large wp-image-3184" src="http://murraylampert.com/wp-content/uploads/Cabinet-Lights-Kitchen-Remodeling-Cardiff-1024x765.jpg" alt="Cabinet Lights - Kitchen Remodeling Cardif" width="940" height="702" />
+
 <h3>Move on up</h3>
 <strong>Purpose: Ambient</strong>
 

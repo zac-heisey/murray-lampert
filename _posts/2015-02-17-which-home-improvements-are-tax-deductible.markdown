@@ -26,7 +26,7 @@ Homeowners can get a one-time tax credit for 30% of the cost of qualifying wind 
 
 When a property that you own is lost/destroyed through theft, an accident, or natural disaster, you may qualify for a tax deduction for whatever insurance does not cover on the item (or items). Some examples of casualty loss deductions include fire, vandalism, car accidents, and flooding. Personal belongings, like a necklace that is accidentally thrown in the trash, are not included in this type of tax deduction. Progressive property deterioration, like moth or termite damage, is also not included in this type of deduction.  You can read more of the specifics of casualty loss deductions by checking out the official position from <a href="http://www.irs.gov/taxtopics/tc515.html">the IRS on Casualty, Disaster and Theft Losses</a>.
 
-<strong>Major Improvements <img class="alignright size-full wp-image-2747" src="http://murraylampert.com/wp-content/uploads/roof.jpg" alt="Home Improvement San Diego roof" width="500" height="300" /></strong>
+
 
 The IRS does not generally recognize home improvements for tax purposes unless they substantially increase the value of your home from its purchase price.  A “major” home improvement will adapt your home to new uses, prolong the life of your home or add material value to it. Some specific of examples of what the IRS considers a major home improvement include:
 <ul>

@@ -24,7 +24,7 @@ The main problem with kitchen space is actually the lack of storage space. When 
 </ul>
 Don’t forget the corners – consider the incredible <strong>corner drawers</strong>! In combination with a Lazy Susan, you can get an unbelievably practical corner cabinet that will provide ample storage, while staying hidden from sight and easily accessible.
 
-<img class="aligncenter size-large wp-image-3156" src="http://murraylampert.com/wp-content/uploads/How-To-Make-A-Small-Room-Look-Bigger-1024x675.jpg" alt="How To Make A Small Room Look Bigger" width="940" height="620" />
+
 <h3>How to make your bedroom look bigger</h3>
 As your family grows bigger, your home is bound to get smaller. Beds take up the biggest amount of space, so it’s natural that designers have come up with lots of practical solutions. For example, a <strong>pull-out bed </strong>is excellent for your children’s bedroom.
 

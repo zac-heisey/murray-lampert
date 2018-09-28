@@ -9,7 +9,7 @@ What makes a remodeling project eco-friendly? There’s no set list of criteria 
 
 There are three main things to keep in mind as you plan a remodel with green intentions: materials, resource consumption, and design sustainability. These three elements work together to create a sustainable, eco-friendly remodeling project.
 
-[caption id="attachment_2284" align="alignright" width="320"]<a href="http://murraylampert.com/wp-content/uploads/paint.jpeg"><img class="wp-image-2284 size-full" src="http://murraylampert.com/wp-content/uploads/paint.jpeg" alt="Low-VOC Paint" width="320" height="240" /></a> Eco Friendly Home Remodeling[/caption]
+[caption id="attachment_2284" align="alignright" width="320"] Eco Friendly Home Remodeling[/caption]
 
 <strong>Materials</strong>
 

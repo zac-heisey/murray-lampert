@@ -11,7 +11,7 @@ However, even if your budget can't accommodate an entire Victorian manor house, 
 
 To build a ballroom or dance studio, you'll need help from a few expert contractors. You'll also need a little ingenuity on your part. To get started, have a look at the steps outlined below.
 
-<strong>1. Decide If You Want an Addition, a Renovation, or a Separate Structure<img class=" wp-image-2883 alignright" src="http://murraylampert.com/wp-content/uploads/cintron-floor-1024x685.jpg" alt="cintron floor" width="505" height="338" /></strong>
+
 
 Before you do anything else, you have to decide what kind of studio you want to add to your property. You have three options.
 

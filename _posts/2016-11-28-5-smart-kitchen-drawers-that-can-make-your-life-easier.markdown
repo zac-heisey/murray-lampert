@@ -15,7 +15,7 @@ It’s amazing how much time, space and energy you can save simply by having a d
 
 What’s more, think about all the plastic containers that somehow always get separated from their lids. Not only is this annoying, but completely unnecessary. Consider having one of these drawers built inside the lower kitchen cabinet and save yourself a remarkable amount of time!
 
-<img class="aligncenter size-large wp-image-3190" src="http://murraylampert.com/wp-content/uploads/Smart-Kitchen-Cabinets-Drawers-Kitchen-remodeling-san-diego-1024x790.jpg" alt="Smart Kitchen Cabinets &amp; Drawers - Kitchen remodeling san diego" width="940" height="725" />
+
 <h3>Clear-Cut Cutlery Drawers</h3>
 There is nothing quite as irritating as the sight of a messy cutlery drawer, with the forks, knives, and spoons all crammed together. Besides, whenever you reach to grab a piece of cutlery, you are basically in the dark – it surely aggravates me to always reach for a fork and end up with a spoon. Instead, install a shallow drawer with knife cavities and horizontal slots for other cutlery. The knives will stay sharp and you will avoid getting your fingers cut.
 <h3>Pullout Chopping Boards</h3>

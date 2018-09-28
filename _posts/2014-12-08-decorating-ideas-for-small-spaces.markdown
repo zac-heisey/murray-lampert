@@ -7,7 +7,7 @@ layout: post
 
 If you’re feeling a little cramped, sometimes all it takes is a little bit of <a href="http://www.murraylampert.com/remodel/" target="_blank">remodeling </a>and some <em>feng shui</em> to open your space. Here we’ll take a look at ways you can make the most out of your small space with storage tips, visual tricks, and more.
 
-[caption id="attachment_2057" align="alignright" width="192"]<a href="http://murraylampert.com/wp-content/uploads/CoteGuestBath1_M-533x800.jpg"><img class="wp-image-2057" src="http://murraylampert.com/wp-content/uploads/CoteGuestBath1_M-533x800.jpg" alt="custom bathroom remodel with 1.5 gallon toilet" width="192" height="288" /></a> Custom bathroom remodel[/caption]
+[caption id="attachment_2057" align="alignright" width="192"] Custom bathroom remodel[/caption]
 <h2>Small Spaces Crave Smart Storage</h2>
 Opt for furniture that has hidden storage (such as a hollow ottoman or under-the-bed storage bins). Use walls whenever possible to keep items off of the floor. When purchasing furniture, opt for tall pieces that illuminate the height of the room and also take up less floor space.
 <h2>Open up Your Space with Paint</h2>

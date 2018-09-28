@@ -11,7 +11,7 @@ Modern conveniences and high-tech updates can make your bathroom the at-home-spa
 
 Take a glance through next year's most popular remodeling designs below. You'll love what 2016 has to offer.
 
-<strong><a href="http://murraylampert.com/wp-content/uploads/4.-Smith-Santos-Master-Bath-2-After.jpg"><img class="alignleft wp-image-2874 " src="http://murraylampert.com/wp-content/uploads/4.-Smith-Santos-Master-Bath-2-After-698x1024.jpg" alt="4. Smith-Santos Master Bath 2 After" width="200" height="293" /></a>A Spa Room</strong>
+
 
 Sometimes called a wet room, this combination bathtub/shower/steam room is lavish, spacious, and modern. Floor-to-ceiling glass panels keep the steam and water inside, and the walk-in area gives you room for benches, stools, and shelves. Love your evening bath? Install a zen-like enclosed bath for soothing luxury.
 
@@ -41,7 +41,7 @@ Because heated floors generally use your home's heating system, the renovation i
 
 Even if you decide not to invest in a heated floor, be sure to install inexpensive towel heaters. These handy devices will transform chilly, hurried mornings and give you a luxury that makes all the difference.
 
-<strong><a href="http://murraylampert.com/wp-content/uploads/3.-Zurich-Master-Bath-1-After.jpg"><img class="alignright wp-image-2876 " src="http://murraylampert.com/wp-content/uploads/3.-Zurich-Master-Bath-1-After-1024x819.jpg" alt="3. Zurich Master Bath 1 After" width="344" height="275" /></a></strong>
+
 
 &nbsp;
 
@@ -55,7 +55,7 @@ At the very least, give your hardware a makeover. Outdated, rusty, or broken han
 
 &nbsp;
 
-<strong><img class="alignleft wp-image-2875 " src="http://murraylampert.com/wp-content/uploads/6.-Miller-Master-Bath-2-After-1024x794.jpg" alt="6. Miller Master Bath 2 After" width="329" height="255" />Accent Pieces</strong>
+
 
 Last year's classic white color palette still holds sway, but accent pieces can give your white subway tiles a modern feel. Bright tiles with floral designs and bold colors lend your bathroom a fun or glamorous aura. Many homeowners love three-dimensional tiles, which add texture to the aesthetic appeal of the room. Accent lamps and daring light fixtures can complete your style.
 

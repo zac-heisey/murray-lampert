@@ -5,7 +5,7 @@ permalink: "/green-windows-by-anderson/"
 layout: post
 ---
 
-<a rel="www.andersonwindows.com" href="http://www.andersonwindows.com" target="_blank"><img class="alignright size-full wp-image-306" title="Anderson Windows and Doors" src="http://murraylampert.com/wp-content/uploads/2010/06/logo2.gif" alt="" width="158" height="39" /></a><a href="http://murraylampert.com/wp-content/uploads/2010/06/logo.gif"></a>
+
 
 Recently I had the privilege of visiting the Andersen Door and Window plant in Minnesota.  Not only was I impressed with the pride in workmanship that was evident, and the spotless state of the art facility,  but the fact that less then 1% of the construction waste goes into landfills makes me feel good about selling Andersen products.
 

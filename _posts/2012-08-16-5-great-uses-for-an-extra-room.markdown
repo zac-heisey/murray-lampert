@@ -15,7 +15,7 @@ Many homeowners avoid going to the gym because they don't have time or they are 
 
 Many living rooms are dominated by the television and are not comfortable places to read. Turning a room in your home into a library is a great option because most people find reading to be very relaxing and comforting. All you need is a couple of bookshelves and a few comfortable chairs. To make the space extra special, create a small coffee nook with a coffee and/or espresso machine and cups so that you can have hot coffee with your book or newspaper right there in the library. Plus, the smell of coffee mixed with the smell of books is a bibliophile’s dream!
 
-<a href="http://murraylampert.com/wp-content/uploads/2012/08/Cepak-Rendering-5.gif"><img class="alignleft size-medium wp-image-1137" style="margin-left: 5px; margin-right: 5px;" title="Great uses for an extra room" src="http://murraylampert.com/wp-content/uploads/2012/08/Cepak-Rendering-5-300x215.gif" alt="" width="300" height="215" /></a>
+
 
 <strong>3. Art Studio</strong>
 
@@ -30,5 +30,5 @@ Turning an extra room in y<strong> </strong>our home into a storage room can sav
 The most common use for an extra bedroom is a guest bedroom. Having a dedicated space in your home for guests means that you won't have to rearrange your home when someone comes to visit for a few days. Set up your guests with a comfortable bed, extra blankets, storage space for their luggage, a few books or magazines, and a comfortable chair.
 An extra room is a great place for you to spread out and entertain new ideas on increasing the comfort and creative space that your home can offer—what other possibilities can you think of?
 
-<a href="http://murraylampert.com/wp-content/uploads/2012/08/barron3.gif"><img class="aligncenter size-medium wp-image-1136" title="barron" src="http://murraylampert.com/wp-content/uploads/2012/08/barron3-300x205.gif" alt="" width="300" height="205" /></a>
+
 <strong></strong><strong></strong><strong></strong>

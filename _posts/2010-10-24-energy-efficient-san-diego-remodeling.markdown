@@ -5,7 +5,7 @@ permalink: "/energy-efficient-san-diego-remodeling/"
 layout: post
 ---
 
-<p style="text-align: center;"><a href="http://www.visionhomesinc.net/energystar.php"><img class="aligncenter size-full wp-image-587" title="ventil2" src="http://murraylampert.com/wp-content/uploads/2010/10/ventil2.jpg" alt="" width="580" height="441" /></a></p>
+
 <span style="font-size: 12.8601px;">As a quality contractor with over 27 years of home remodeling and construction experience, I believe in building better and tighter.  Not only to deliver more value and longer lasting homes, but also more comfortable and energy efficient San Diego Remodeling.</span>
 
 Too many companies of all types are jumping on the “Green” bandwagon.   Often it is just marketing hype and a means to charge more with no real return other than some small tax credits.

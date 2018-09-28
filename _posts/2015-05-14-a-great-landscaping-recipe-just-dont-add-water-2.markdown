@@ -14,7 +14,7 @@ In this article, we will look at the ingredients for a water-friendly landscape 
 &nbsp;
 <h1>6 Ingredients For a Low-Water Landscape</h1>
 <h3>Drought tolerant plantings: trees, shrubs, and ground cover</h3>
-<h6 style="text-align: right;"><a href="http://murraylampert.com/wp-content/uploads/LandscapeLogic3.jpg"><img class=" wp-image-2815  aligncenter" src="http://murraylampert.com/wp-content/uploads/LandscapeLogic3.jpg" alt="" width="923" height="545" /></a><em>Image by: <a href="http://www.mylandscapelogic.com/">www.mylandscapelogic.com</a></em></h6>
+
 Some plant species do better in drier conditions and therefore are the perfect choices for a low-water landscape project. Choose drought-tolerant or native plants that don’t get thirsty too often. Try:
 <ul>
 	<li><b>Angelina sedum</b>, a ground covering that blooms. It spreads out quickly, making it a quick-results plant.</li>
@@ -33,7 +33,7 @@ It’s never wise to skimp on soil quality. Pick a soil that allows for the best
 Why not save money on landscaping by collecting water and repurposing it on your lawn? You can purchase inexpensive rain barrels at most home improvement stores with spouts to easily drain the water into watering cans that you can then distribute throughout your landscaping.
 <h1></h1>
 <h1>Ways to Save on Low-Water Landscaping</h1>
-<img class=" wp-image-2814  alignright" src="http://murraylampert.com/wp-content/uploads/LandscapeLogic2.jpg" alt="LandscapeLogic2" width="407" height="269" />When you go with water-wise landscaping, there are many rewards offered in addition to saving water and money. Check out some of the rebates you can take advantage of:
+When you go with water-wise landscaping, there are many rewards offered in addition to saving water and money. Check out some of the rebates you can take advantage of:
 <ul>
 	<li>Smart Controller: $400</li>
 </ul>

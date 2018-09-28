@@ -7,7 +7,7 @@ layout: post
 
 Remodeling or redecorating your kitchen can change the entire dynamic of your home. Kitchens are no longer just a space for preparing meals and food storage; they are now hybrid spots for family gatherings, wireless work spaces and entertaining guests. Design experts say that the trends reflect this transformation. Clean, modern style complete with warm touches is a great approach to a functional and inviting kitchen.
 
-If you are considering an <a href="/san-diego-kitchen-remodeling-services/">upgrade to your kitchen</a> or if you’re building a new home, keep the following trends in mind.<img class="alignright wp-image-2753 " src="http://murraylampert.com/wp-content/uploads/kitchen-trends-1024x576.jpg" alt="Kitchen Trends" width="468" height="263" />
+If you are considering an 
 
 <strong>Cabinets:</strong> When it comes to cabinets, classic white is really trending. Since kitchens are becoming the hub of the home, bright and airy elements make them even more friendly and inviting, while the richer, darker tones are starting to feel stuffy and heavy. Selecting a few glass fronts for cabinet doors extends the feeling of light and also provides a way to showcase some of your upscale dinnerware. There are also many more storage options available in today’s kitchen cabinetry. Pullout doors, storage inserts and racks for canned goods are all common sites in redesigned kitchens.
 
