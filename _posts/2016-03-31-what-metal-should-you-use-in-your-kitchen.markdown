@@ -5,8 +5,6 @@ permalink: "/what-metal-should-you-use-in-your-kitchen/"
 layout: post
 ---
 
-
-
 Picture your ideal kitchen. Do you want a comfortable, cozy, farmhouse-style kitchen? Or do you envision a
 sleek, modern kitchen with minimalist appliances?
 

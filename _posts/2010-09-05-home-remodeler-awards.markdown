@@ -5,8 +5,6 @@ permalink: "/home-remodeler-awards/"
 layout: post
 ---
 
-
-
 When you evaluate contractors, what attributes are important?
 
 Consider these questions:

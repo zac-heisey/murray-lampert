@@ -5,8 +5,6 @@ permalink: "/space-and-function/"
 layout: post
 ---
 
-
-
 Mr. &amp; Mrs. D in San Diego recently had a closet and home office added.  Their daughter has decided to make it her new play area.
 
 Many of our clients have the need for extensions to existing rooms, bedroom additions, home offices, or even private space for parents of children moving back in.  

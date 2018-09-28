@@ -5,7 +5,9 @@ categories:
 - In-Law Suites
 - Infographics
 featured-image: "/uploads/ADU-sketch-hausable.png"
-excerpt: Accessory Dwelling Units are a hot topic in California right now, and for good reason. But which type of ADU is right for you, and which is your property even permitted for? Find out here!
+excerpt: Accessory Dwelling Units are a hot topic in California right now, and for
+  good reason. But which type of ADU is right for you, and which is your property
+  even permitted for? Find out here!
 author: Gregg Cantor
 layout: post
 ---

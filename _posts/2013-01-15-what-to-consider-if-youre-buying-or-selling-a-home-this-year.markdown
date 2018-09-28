@@ -5,7 +5,6 @@ permalink: "/what-to-consider-if-youre-buying-or-selling-a-home-this-year/"
 layout: post
 ---
 
-
 Real estate seems to be gaining momentum in most areas of the United States, which is a good thing for both buyers and sellers. In fact, a five percent rise in the median price of existing homes is being predicted by the <a href="http://www.realtor.org/">National Association of Realtors</a> by the end of 2013. Read on for some things to remember if you’re buying or selling this year.
 
 <strong>Home Prices are Going Up</strong>

@@ -5,7 +5,6 @@ permalink: "/energy-efficient-san-diego-remodeling/"
 layout: post
 ---
 
-
 <span style="font-size: 12.8601px;">As a quality contractor with over 27 years of home remodeling and construction experience, I believe in building better and tighter.  Not only to deliver more value and longer lasting homes, but also more comfortable and energy efficient San Diego Remodeling.</span>
 
 Too many companies of all types are jumping on the “Green” bandwagon.   Often it is just marketing hype and a means to charge more with no real return other than some small tax credits.

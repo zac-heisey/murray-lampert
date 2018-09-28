@@ -5,8 +5,6 @@ permalink: "/taking-the-green-out-of-green-building/"
 layout: post
 ---
 
-
-
 By now, most Amercians are familiar with "Going Green".  Green practices include everything from paperless offices, turning off lights to consvere energy, alternative energy, and Green Building.
 
 Some people believe Green is entirely politicaly driven.  As a builder, I believe Green practices are worthy of consideration but I am not a Green "pusher".

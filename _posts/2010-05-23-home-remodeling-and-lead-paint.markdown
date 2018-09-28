@@ -5,8 +5,6 @@ permalink: "/home-remodeling-and-lead-paint/"
 layout: post
 ---
 
-
-
 <strong>EPA Requirements</strong>
 
 Common renovation activities like sanding, cutting, and demolition can create hazardous lead dust and chips by disturbing lead-based paint, which can be harmful to adults and children.

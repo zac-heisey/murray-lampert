@@ -5,7 +5,6 @@ permalink: "/san-diego-kitchen-bath-remodeling/"
 layout: post
 ---
 
-
 <p style="text-align: center;">There have been many recent articles predicting that 2011 will be a big year for San Diego Kitchen and Bath remodeling.  Here are some recommendations to help you start the process:</p>
 1.  Take into consideration how long you plan to stay in your home and establish a budget.  If you anticipate moving in less than 5 years, your budget should be more modest, choosing conservative finishes and mid range fixtures.  Otherwise, it is worth spending more for your own long term enjoyment.
 

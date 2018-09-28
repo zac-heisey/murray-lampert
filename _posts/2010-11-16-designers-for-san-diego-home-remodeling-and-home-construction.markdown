@@ -5,7 +5,6 @@ permalink: "/designers-for-san-diego-home-remodeling-and-home-construction/"
 layout: post
 ---
 
-
 <span style="font-size: 13.2px;">For <a href="http://www.murraylampert.com/tips/remodeling_faqs.php">home remodeling</a> or home construction projects, are you better off hiring an <a href="http://www.murraylampert.com/san-diego-home-design-services/">architect</a>, designer or design build contractor?</span>
 
 <span style="font-size: 13.2px;">Frequently homeowners who already have plans for home remodeling or home construction have unrealistic budget expectations because they relied on the designer or architect's estimate.  My advice is to consult with contractors before entering into a design agreement.  You are making a substantial non-refundable investment for design, so you need to know what the construction will cost before making that commitment. </span>

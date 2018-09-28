@@ -5,8 +5,6 @@ permalink: "/home-remodeling-definitions/"
 layout: post
 ---
 
-
-
 <strong>Remodeling Contractor</strong>
 
 Individual or firm licensed, bonded and insured to engage in Home Remodeling including Room Additions, Second Stories, Custom Kitchen and Major Renovations.

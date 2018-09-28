@@ -5,8 +5,6 @@ permalink: "/american-housing-guild-san-diego-martin-gleich/"
 layout: post
 ---
 
-
-
 I am dedicating this post to the memory of <a title="Martin Gleich" href="http://signonsandiego.com/news/2011/oct/07/martin-gleich-major-san-diego-home-builder-and-phi/">Martin "Marty" Gleich</a>, a San Diego icon who founded American Housing Guild and <a title="Guild Mortgage" href="http://guildmortgage.com/">Guild Mortgage</a>.  Mr. Gleich passed away on September 25, 2011 at the age of 87.
 
 Besides being know as a home builder and mortgage broker, Mr. Gleich was a generous philanthropist, giving anonymously to many causes including education, libraries, the environment and the arts.

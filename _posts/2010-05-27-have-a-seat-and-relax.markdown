@@ -5,8 +5,6 @@ permalink: "/have-a-seat-and-relax/"
 layout: post
 ---
 
-
-
 A simple and great feature is a bay window seat. .
 
             
