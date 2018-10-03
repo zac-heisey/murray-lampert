@@ -5,7 +5,10 @@ categories:
 - In-Law Suites
 - Home Additions
 featured-image: "/uploads/garage-conversion-considerations.jpg"
-excerpt: If you're looking to expand your home, but you're tight on space, a garage conversion could be the perfect solution. This type of ADU (accessory dwelling unit) is becoming increasingly popular in San Diego, but there are some important considerations before getting started. 
+excerpt: If you're looking to expand your home, but you're tight on space, a garage
+  conversion could be the perfect solution. This type of ADU (accessory dwelling unit)
+  is becoming increasingly popular in San Diego, but there are some important considerations
+  before getting started.
 author: Gregg Cantor
 layout: post
 ---
