@@ -50,6 +50,11 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
               <option value="$300k - $500k">$300,000 - $500,000</option>
               <option value="$500k+">$500,000+</option>
             </select>
+            <select name='financing' placeholder='WILL YOU NEED FINANCING?'>
+              <option value="" disabled selected>WILL YOU NEED FINANCING?</option>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
+            </select>  
             <select name='referral-source' placeholder='HOW DID YOU FIND US?'>
               <option value="" disabled selected>HOW DID YOU FIND US?</option>
               <option value="Online Search">Online Search (Google, Bing, Yahoo, etc.)</option>
