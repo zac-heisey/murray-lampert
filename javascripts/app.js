@@ -828,3 +828,16 @@ function validateZip() {
     document.getElementById('contact-btn').disabled = false;
   }
 }
+
+// Disable lowest budget range when ADU is selected as Area of Interest
+function aduBudget() {
+  var areaOfInterest = document.querySelector('[name=area-of-interest]');
+
+  var lowestRange = document.querySelector('[value="$50k - $100k"]');
+
+  if (areaOfInterest.value === 'ADU') {
+    lowestRange.disabled = true;
+  } else {
+    lowestRange.disabled = false;
+  }
+}

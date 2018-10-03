@@ -24,13 +24,15 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
             <input name='phone' placeholder='PHONE' type='tel' required>
             <input name='address' placeholder='YOUR ADDRESS' type='text' required>
             <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' onfocusout="validateZip()" required>
-            <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
+            <select name='area-of-interest' placeholder='AREA OF INTEREST' onfocusout="aduBudget()" required>
               <option value="" disabled selected>AREA OF INTEREST</option>
               <option value="Total Renovation">Total Renovation</option>
               <option value="Room Addition">Room Addition</option>
               <option value="Second Story">Second Story</option>
               <option value="Kitchen Remodel">Kitchen Remodel</option>
               <option value="Bathroom Remodel">Bathroom Remodel</option>
+              <option value="ADU">ADU / Granny Flat / In-Law Suite</option>
+              <option value="Indoor Outdoor">Indoor / Outdoor</option>
               <option value="Other">Other</option>
             </select>
             <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>

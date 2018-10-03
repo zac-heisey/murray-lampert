@@ -19,13 +19,15 @@
       <div class='medium-4 columns'>
         <h2>Project Details</h2>
         <h3>For Your In-Home Consultation</h3>
-        <select name='area-of-interest' placeholder='AREA OF INTEREST' required>
+        <select name='area-of-interest' placeholder='AREA OF INTEREST' onfocusout="aduBudget()" required>
           <option value="" disabled selected>AREA OF INTEREST</option>
           <option value="Total Renovation">Total Renovation</option>
           <option value="Room Addition">Room Addition</option>
           <option value="Second Story">Second Story</option>
           <option value="Kitchen Remodel">Kitchen Remodel</option>
           <option value="Bathroom Remodel">Bathroom Remodel</option>
+          <option value="ADU">ADU / Granny Flat / In-Law Suite</option>
+          <option value="Indoor Outdoor">Indoor / Outdoor</option>
           <option value="Other">Other</option>
         </select>
         <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
