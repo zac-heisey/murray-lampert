@@ -2,8 +2,8 @@
 title: 10 Things You Should Consider When Converting Your Garage
 date: 2018-10-03 00:00:00 Z
 categories:
-- In-Law Suites
 - Home Additions
+- In-law Suites
 featured-image: "/uploads/garage-conversion-considerations.jpg"
 excerpt: If you're looking to expand your home, but you're tight on space, a garage
   conversion could be the perfect solution. This type of ADU (accessory dwelling unit)
