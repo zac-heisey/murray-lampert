@@ -2,8 +2,8 @@
 title: INFOGRAPHIC - Pros and Cons of Different ADU Types
 date: 2018-09-28 00:08:00 Z
 categories:
-- In-Law Suites
 - Infographics
+- In-law Suites
 featured-image: "/uploads/ADU-sketch-hausable.png"
 excerpt: Accessory Dwelling Units are a hot topic in California right now, and for
   good reason. But which type of ADU is right for you, and which is your property
