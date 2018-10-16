@@ -12,7 +12,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-This week on the [Approved Home Pro Show](https://www.sandiegoapprovedhomepros.com/blog/approved-home-pros-on-radio-reborn-cabinets-matrix-plumbing-and-all-seasons-windows-patios/) [Reborn Cabinets](https://www.reborncabinets.com/) discusses their Free Learn from the Pros Remodeling Seminar on Saturday, Oct. 20th. Ricky from [Matrix Plumbing](https://www.matrix-plumbing.com/) also joins us to chat about providing customers with _all_ options to allow people to choose what's best for them. We also talk planning your perfect outdoor space and incorporating multiple elements with [All Seasons Windows & Patios](https://allseasonswindowsandpatios.com/).
+This week on the [Approved Home Pro Show](https://www.sandiegoapprovedhomepros.com/blog/approved-home-pros-on-radio-reborn-cabinets-matrix-plumbing-and-all-seasons-windows-patios/), [Reborn Cabinets](https://www.reborncabinets.com/) discusses their Free Learn from the Pros Remodeling Seminar on Saturday, Oct. 20th. Ricky from [Matrix Plumbing](https://www.matrix-plumbing.com/) also joins us to chat about providing customers with _all_ options to allow people to choose what's best for them. We also talk planning your perfect outdoor space and incorporating multiple elements with [All Seasons Windows & Patios](https://allseasonswindowsandpatios.com/).
 
 On Cantor's Corner this week, we discuss working with [Mr. Handyman](https://www.mrhandyman.com/) on a current multi-generational accessory dwelling unit project in Point Loma, CA.
 
