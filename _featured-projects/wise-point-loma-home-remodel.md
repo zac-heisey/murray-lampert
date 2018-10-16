@@ -1,11 +1,9 @@
 ---
 title: Point Loma Home Remodel
-layout: featured-project
-section_id: projects
 client: Wise
 location: Point Loma
-project-date: May 2018
-featured-video: 
+project-date: 2018-05-01 00:00:00 Z
+featured-video: 8ENPyLAjUP0
 featured-images:
 - uploads/wise-floorplan-1.png
 - uploads/wise-floorplan-2.png
@@ -42,10 +40,12 @@ featured-images:
 - uploads/wise-fireplace-after-1.jpg
 excerpt: Featured total home renovation in Point Loma, CA by Murray Lampert. Check
   out images, videos, and more of this and other home remodeling projects in San Diego.
+section_id: projects
+layout: featured-project
 ---
 
-Our most recent project is underway in Point Loma. This is a total home renovation featuring a [Point Loma kitchen remodel](/kitchen-remodeling-point-loma), [room addition](/room-additions-point-loma), complete overhaul of both the exterior and interior, and more.
+This total home renovation in Point Loma featured a [kitchen remodel](/kitchen-remodeling-point-loma), [room addition](/room-additions-point-loma), complete overhaul of both the exterior and interior, and more.
 
-The homeowner, Michael Wise, is investing in this [major home renovation](/major-renovations) in preparation to sell the property. If you're interested in learning more about purchasing this fully upgraded home, you can contact Michael directly by phone (**805-368-4602**) or email (**mike@capstonedirect.com**).
+Michael Wise of Capstone Direct invested in this [major home renovation](/major-renovations) in preparation to sell the property, which he was able to do in a matter of days!
 
-Check back for more images, videos, and other updates as this project comes together!
+Check out project renderings, blueprints, and before & after photos below.
