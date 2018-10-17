@@ -2,7 +2,7 @@
 title: Point Loma Home Remodel
 client: Wise
 location: Point Loma
-project-date: 2018-05-01 00:00:00 Z
+project-date: May 2018
 featured-video: 8ENPyLAjUP0
 featured-images:
 - uploads/wise-floorplan-1.png
