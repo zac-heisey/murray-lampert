@@ -15,6 +15,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /%22	/blog/	301
 /15-ways-to-apply-universal-design-in-your-home-2/	/15-ways-to-apply-universal-design-in-your-home/	301
 /2016-kitchen-cabinet-trends/	/2016-kitchen-cabinet-trends-something-for-everyone/	301
+2016-kitchen-cabinets-kitchen-remodel-san-diego	/2016-kitchen-cabinet-trends-something-for-everyone/	301
 /5-Quick-Tips-for-First-Time-HomeBuyers/	/5-quick-tips-for-first-time-home-buyers/	301
 /5-simple-ways-to-improve-your-home*	/5-good-reasons-to-remodel-now/	301
 /6-high-tech-gadgets-for-your-n	/6-high-tech-gadgets-for-your-next-kitchen-remodel/	301
@@ -142,6 +143,7 @@ http://murray-lampert.netlify.com/*    https://murraylampert.com/:splat    301!
 /more-on-choosing-a-remodeling-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /for-kitchen-remodeling-hire-a-general-contractor*	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /for-kitchen-remodeling-hire-general-contractor/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
+/feed*	/feed.xml	301
 /gallery/	/san-diego-remodel-project-gallery	301
 /gallery/index.html	/san-diego-remodel-project-gallery	301
 /gallery/before_after.php	/before-after-gallery	301
@@ -276,12 +278,15 @@ home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remod
 /smart-drawers-kitchen-remodeling-san-diego/	/5-smart-kitchen-drawers-that-can-make-your-life-easier/	301
 /tag/*	/blog/categories	301
 /take-a-glance-through-2016-mos	/take-a-glance-through-2016-most-popular-bathroom-remodeling-designs/	301
+/author*	/blog/	301
 /team_member_position*	/about-murray-lampert-design-build-remodel#team-members	301
 /team-member/	/about-murray-lampert-design-build-remodel#team-members	301
 /team-member/bob-norstrand/	/about-murray-lampert-design-build-remodel#team-members	301
 /team-member/hope-wortham/	/about-murray-lampert-design-build-remodel#team-members	301
 /team-member/jon-saltz-senior/	/about-murray-lampert-design-build-remodel#team-members	301
 /team-member/michael-massa/	/about-murray-lampert-design-build-remodel#team-members	301
+/team-member/michaela-keilty/	/about-murray-lampert-design-build-remodel#team-members	301
+/team-member/gary-ramona/		301
 /team-members*	/about-murray-lampert-design-build-remodel#team-members	301
 /team/meet-the-owners/	/team-members/	301
 /testimonials/index.html	/testimonials/	301
@@ -361,8 +366,12 @@ home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remod
 /wordpress/2011/03/san-diego-kitchen-bath-remodeling/trackback/	/san-diego-kitchen-remodeling-services	301
 /wordpress/2011/04/point-loma-california/	/point-loma-california/	301
 /wordpress/2011/04/point-loma-california/comment-page-1/	/point-loma-california/comment-page-1/	301
-/wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	301
-/wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/trackback/	/adding-value-to-san-diego-homes-with-home-remodeling/	301
+/wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	/what-are-the-best-improvements-to-increase-home-value/	301
+/wordpress/2011/05/adding-value-to-san-diego-homes-with-home-remodeling/trackback/	/what-are-the-best-improvements-to-increase-home-value/	301
+/adding-value-to-san-diego-homes-with-home-remodeling/comment-page-1/	/what-are-the-best-improvements-to-increase-home-value/	301
+/adding-value-to-san-diego-homes-with-home-remodeling/	/what-are-the-best-improvements-to-increase-home-value/	301
+/best-improvements-increase-home-value	/what-are-the-best-improvements-to-increase-home-value/	301
+/the-value-of-home-remodeling-info	/what-are-the-best-improvements-to-increase-home-value/	301
 /wordpress/2011/05/energy-efficient-san-diego-homes/	/energy-efficient-san-diego-homes/	301
 /wordpress/2011/05/home-remodeling-in-mission-hills-san-diego/	/service-locations/mission-hills-design-build-and-remodel-services/	301
 /wordpress/2011/05/poway-california/	/service-locations/poway-design-build-and-remodel-services/	301
@@ -374,6 +383,7 @@ home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remod
 /wordpress/2011/07/san-diego-designbuild-remodeling*	/san-diego-design-build-contractors	301
 /wordpress/2011/07/san-diego-designbuild-remodeling/trackback/	/san-diego-designbuild-remodeling/	301
 /wordpress/2011/09/bay-park-san-diego-home-design/	/bay-park-san-diego-home-design/	301
+/wordpress/2011/09/bay-park-home-remodeling/	/bay-park-san-diego-home-design/	301
 /bay-park-home-remodeling/	/bay-park-san-diego-home-design/	301
 /wordpress/2011/09/carmel-valley-home-renovation-projects/	/service-locations/carmel-valley-design-build-and-remodel-services/	301
 /wordpress/2011/09/home-remodeling-in-ocean-beach-san-diego/trackback/	/home-remodeling-in-ocean-beach-san-diego/	301
@@ -447,6 +457,8 @@ home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remod
 /wp-content/cache/page_enhanced/murraylampert.com/tag/home-improvement/_index.html_gzip	/	301
 /wp-content/gallery/*	/uploads/gallery/:splat	301
 /wp-content/uploads/*	/uploads/:splat	301
+/wp-admin*	/	301
+/wp-json*	/	301
 /home-remodeling-2010/	/complete-guide-to-choosing-the-right-home-remodeling-contractor/	301
 /the-change-order/	/the-meaning-of-change-orders-in-home-remodeling/	301
 /contract-allowances/	/what-are-home-improvement-contract-allowances/	301
@@ -483,3 +495,9 @@ home-remodeling-in-la-mesa-ca/	/service-locations/la-mesa-design-build-and-remod
 /murray-lampert-on-my-home-improvement/	/	301
 /san-diego-6-interview-on-4-11/	/	301
 /san-diego-living-interview/	/	301
+/home-spa-general-contractor-san-diego-ca*	/san-diego-home-remodel-services	301
+/subscribe*	/blog/	301
+/cabinet-lighting-kitchen-remodeling-cardiff/	/kitchen-cabinet-lights-for-kitchen-remodeling-cardiff/	301
+/salvage-yards-kitchen-remodel-escondido	/salvage-yards-for-your-christmas-kitchen-remodel-in-escondido/	301
+/home-remodel-san-diego-tearing-walls-down	/things-to-know-before-tearing-walls-down-in-your-home/	301
+/kitchen-remodeling-carmel-mountain	/kitchen-remodel-carmel-mountain	301
