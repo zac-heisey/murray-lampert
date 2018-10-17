@@ -46,7 +46,7 @@ section_id: projects
   <div class='slides'>
     {% for image in page.featured-images %}
       <div class='slide'>
-        <img title ="{{ page.title }}" alt="{{ page.title }} featured project images" src="/{{image}}" />
+        <img title ="{{ page.title }}" alt="{{ page.title }} featured project images" src="{% if image contains 'cloudinary' %}{{ image }}{% else %}/{{ image }}{% endif %}" />
       </div>
     {% endfor %}
   </div>
