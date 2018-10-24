@@ -10,7 +10,7 @@ section_id: blog
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
         <div class='images'>
           {% if post.featured-image and post.featured-image != "" %}
-            <div class='image'><img title="{{ post.title }}" alt="Murray Lampert {{ post.title }}" src="{{site.url}}/{{post.featured-image}}" /></div>
+            <div class='image'><img title="{{ post.title }}" alt="Murray Lampert {{ post.title }}" src="{% if post.featured-image contains 'cloudinary' %}{{ post.featured-image }}{% else %}{{ site.url }}{{ post.featured-image }}{% endif %}" /></div>
           {% endif %}
         </div>
         <div class='content'>
