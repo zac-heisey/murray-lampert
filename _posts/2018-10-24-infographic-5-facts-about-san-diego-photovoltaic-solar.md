@@ -4,8 +4,10 @@ date: 2018-10-24 00:00:00 Z
 categories:
 - Infographics
 - Green Construction
-featured-image: "https://res.cloudinary.com/zheisey/image/upload/v1540400491/murray-lampert/misc/san-diego-pv-solar-facts.png"
-excerpt: Solar energy is a popular way for San Diego homeowners to take advantage of the region's sunny weather to help lower their utility costs. We look at 5 key facts about photovoltaic solar in San Diego.
+featured-image: https://res.cloudinary.com/zheisey/image/upload/v1540400491/murray-lampert/misc/san-diego-pv-solar-facts.png
+excerpt: Solar energy is a popular way for San Diego homeowners to take advantage
+  of the region's sunny weather to help lower their utility costs. We look at 5 key
+  facts about photovoltaic solar in San Diego.
 author: Gregg Cantor
 layout: post
 ---
