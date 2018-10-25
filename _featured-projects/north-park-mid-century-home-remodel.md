@@ -6,6 +6,11 @@ project-date: August 2018
 featured-video: YSPJczRha0s
 featured-images:
 - https://res.cloudinary.com/zheisey/image/upload/v1540236936/murray-lampert/mceachern/mceachern-kitchen-rendering-1.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-7.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-1.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-5.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-4.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-6.jpg
 excerpt: Featured mid-century home remodel in North Park, CA by Murray Lampert. Check
   out images, videos, and more of this and other home remodeling projects in San Diego.
 section_id: projects
