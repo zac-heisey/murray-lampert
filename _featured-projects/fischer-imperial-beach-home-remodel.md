@@ -1,5 +1,5 @@
 ---
-title: Two-Story Imperial Beach Home Remodel
+title: Tri-Level Imperial Beach Home Remodel
 layout: featured-project
 section_id: projects
 client: Fischer
@@ -15,8 +15,20 @@ featured-images:
 - https://res.cloudinary.com/zheisey/image/upload/v1539808688/murray-lampert/fischer/fischer-1278-seacoast-dr-kitchen-16.jpg
 - https://res.cloudinary.com/zheisey/image/upload/v1539808688/murray-lampert/fischer/fischer-1278-seacoast-dr-livingroom-19.jpg
 - https://res.cloudinary.com/zheisey/image/upload/v1539808688/murray-lampert/fischer/fischer-1278-seacoast-dr-bathroom-10.jpg
-excerpt: Two-story home remodel in Imperial Beach, CA by Murray Lampert. Check out
+excerpt: Tri-level home remodel in Imperial Beach, CA by Murray Lampert. Check out
   images, videos, and more of this and other home remodeling projects in San Diego.
 ---
 
-Our latest [featured remodeling project](/featured-projects) is a two-story renovation project in Imperial Beach. Check back for more images, videos, and other updates as this project comes together!
+This [featured remodeling project](/featured-projects) was located in Imperial Beach and included a tri-level [addition](/san-diego-room-additions) to the front of the house with bedrooms, baths, a kitchenette as well as a deck with ocean views. The client often rents out the main house and wanted a private space for his family to enjoy.
+
+Their elegant yet modern design was incorporated by combining simplistic materials with more detailed accessories and lighting. Overall, it created a high-end beachy feel.
+
+Some of the fixtures and finishes include:
+
+1. Daltile EL40 6x18” tile in Lunar White
+
+2. Stonemark Granite
+
+3. Crystal Chandelier by Home Decorator’s Collections
+
+Take a look at renderings, plans and before & after photos to see how the process was executed from start to end.
