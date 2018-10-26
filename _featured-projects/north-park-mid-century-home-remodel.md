@@ -12,7 +12,7 @@ featured-images:
 - https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-4.jpg
 - https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-6.jpg
 - https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-master-after-1.jpg
-- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-master-after-6.jpg
+- https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-bathroom-after-6.jpg
 - https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-bathroom-after-3.jpg
 - https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-bathroom-after-1.jpg
 excerpt: Featured mid-century home remodel in North Park, CA by Murray Lampert. Check
