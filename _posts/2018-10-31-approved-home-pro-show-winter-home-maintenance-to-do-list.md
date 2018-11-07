@@ -5,7 +5,8 @@ categories:
 - Approved Home Pros
 - Home DIY Tips
 featured-image: "/uploads/ahp-segment-winter-maintenance.png"
-excerpt: In our recent 'Ask An Expert' segment, I discuss what should be on your home maintenance to-do list this winter.
+excerpt: In our recent 'Ask An Expert' segment, I discuss what should be on your home
+  maintenance to-do list this winter.
 author: Gregg Cantor
 layout: post
 ---
