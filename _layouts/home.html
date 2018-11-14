@@ -23,7 +23,7 @@
       <!-- HTML for Homepage V2 Layout; Previously just {{ content }} liquid tag here -->
       <div class='full no-padding parallax home-video-wrapper'>
         <div class='fullscreen'>
-          <video autoplay muted loop id='fullscreen-video'>
+          <video autoplay muted loop id='fullscreen-video' oncanplay="this.muted=true">
             <source src='/uploads/assets/videos/mldbr-homepage-bg.mp4' type='video/mp4'>
           </video>
           <div class='overlay'></div>
