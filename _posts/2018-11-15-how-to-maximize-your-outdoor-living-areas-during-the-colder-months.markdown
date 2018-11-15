@@ -45,11 +45,11 @@ If your patio isn’t covered, you need to consider whether or not your outdoor 
 
 Once your patio is covered, you have many more options in regard to furniture. You can choose cozy, plush fabrics in warm tones of orange, red or brown. Consider investing in a basket where you can store blankets for your guests to snuggle up with. 
 
-**6. Add Roof Coverage **
+**6. Add Roof Coverage**
 
 A permanent or retractable roof over your patio or deck provides many benefits. During the colder months, you can sit outside and watch bad weather pass by, and you won’t have to clean off your furniture or your grill once it does. With a permanent roof, you can install lighting for additional ambience and warmth, and there’s no need to monitor the weather to make sure your patio is protected. However, a retractable roof allows you to take full advantage of the bright winter sun on days when it emerges from the clouds. 
 
-7. Install a Hot Tub
+**7. Install a Hot Tub**
 
 You may not have to pack away your bathing suits for the winter if you invest in a hot tub. On milder evenings, this provides you an opportunity to unwind and relax. Your guests will also enjoy the benefits of warming up in a hot bath under the stars. 
 
