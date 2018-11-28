@@ -26,7 +26,7 @@ Rather than fussing over temperamental flowers and shrubs, [landscape with nativ
 
 ## Install a Natural Swimming Pool
 
-Traditional swimming pools require lots of maintenance and chemicals to keep them clean and pleasant for your backyard enjoyment. As an alternative, consider installing a natural pool that utilizes shallow plants in the pool perimeter as filters for contaminants and bacteria, eliminating the need for chlorine and costly filters and pumps. Or if you already have a traditional pool, there are innovative eco-conscious pool upgrades you can make to save time and money on maintenance while being gentle on the environment, too. 
+Traditional swimming pools require lots of maintenance and chemicals to keep them clean and pleasant for your backyard enjoyment. As an alternative, [consider installing a natural pool](https://www.motherearthnews.com/diy/natural-swimming-pool-zmaz02aszgoe) that utilizes shallow plants in the pool perimeter as filters for contaminants and bacteria, eliminating the need for chlorine and costly filters and pumps. Or if you already have a traditional pool, there are [innovative eco-conscious pool upgrades](https://poolcareguy.com/eco-friendly-pools/) you can make to save time and money on maintenance while being gentle on the environment, too. 
 
 ## Create a Rain Garden
 
