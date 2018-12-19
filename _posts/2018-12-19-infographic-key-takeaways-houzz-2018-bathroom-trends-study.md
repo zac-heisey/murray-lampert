@@ -5,7 +5,9 @@ categories:
 - Infographics
 - Bathroom Remodeling
 featured-image: https://res.cloudinary.com/zheisey/image/upload/c_crop,g_north,h_800,w_900/v1545244547/murray-lampert/misc/Key-Takeaways-from-Houzz_s-2018-Bathroom-Trends-Study.png
-excerpt: The 2018 Houzz Bathroom Trends Study revealed some interesting facts about bathroom remodeling trends among homeowners. We examine a few of the key takeaways from this year's findings.
+excerpt: The 2018 Houzz Bathroom Trends Study revealed some interesting facts about
+  bathroom remodeling trends among homeowners. We examine a few of the key takeaways
+  from this year's findings.
 author: Gregg Cantor
 layout: post
 ---
