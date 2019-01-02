@@ -4,7 +4,10 @@ date: 2019-01-02 00:00:01 Z
 categories:
 - Home Remodeling
 featured-image: https://res.cloudinary.com/zheisey/image/upload/v1546439003/murray-lampert/misc/on-a-budget.jpg
-excerpt: Remodeling on a budget is tough, especially if your goal is to realize a significant return on your investment. If your budget is tight and you want to increase the value of your home, we have a few remodeling projects that you should look to first.
+excerpt: Remodeling on a budget is tough, especially if your goal is to realize a
+  significant return on your investment. If your budget is tight and you want to increase
+  the value of your home, we have a few remodeling projects that you should look to
+  first.
 author: Gregg Cantor
 layout: post
 ---
