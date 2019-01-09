@@ -5,7 +5,9 @@ categories:
 - Home Remodeling
 - Approved Home Pros
 featured-image: https://res.cloudinary.com/zheisey/image/upload/v1547049248/murray-lampert/misc/ahp-home-remodeling-trends-2019.png
-excerpt: From minimalist to traditional to contemporary to futuristic, there are many different home décor styles that will shine in 2019. Gregg shares 4 in particular that are sure to be popular.
+excerpt: From minimalist to traditional to contemporary to futuristic, there are many
+  different home décor styles that will shine in 2019. Gregg shares 4 in particular
+  that are sure to be popular.
 author: Gregg Cantor
 layout: post
 ---
