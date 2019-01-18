@@ -118,7 +118,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:info@murraylampert.com
 - name: Zach Hammell
-  position: Architectural Drafter
+  position: Project Designer
   desc: Zach grew up in New Jersey and graduated from Marywood University with a Bachelor
     of Architecture. Working under a general contractor for several years introduced
     him to the day-to-day details of the building industry.
