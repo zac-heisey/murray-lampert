@@ -5,7 +5,9 @@ categories:
 - Infographics
 - Kitchen Remodeling
 featured-image: "/uploads/wise-kitchen-after-5.jpg"
-excerpt: When it comes to San Diego kitchen remodels, it is possible to spend less while getting more from your investment. This infographic shows how to get the most value from your next kitchen remodel.
+excerpt: When it comes to San Diego kitchen remodels, it is possible to spend less
+  while getting more from your investment. This infographic shows how to get the most
+  value from your next kitchen remodel.
 author: Gregg Cantor
 layout: post
 ---
