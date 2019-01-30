@@ -1,10 +1,13 @@
 ---
-title: 'Home Improvement Pro''s We Love to Work With: Christian Brothers Emergency Building Services'
+title: 'Home Improvement Pro''s We Love to Work With: Christian Brothers Emergency
+  Building Services'
 date: 2019-01-30 00:00:00 Z
 categories:
 - Community
 featured-image: "/uploads/christian-brothers.jpg"
-excerpt: Christian Brothers is our preferred partner when it comes to helping clients with fire, flood, mold, or any other type of emergency building service. Check out our recent discussion with CEO Gabe Matthews.
+excerpt: Christian Brothers is our preferred partner when it comes to helping clients
+  with fire, flood, mold, or any other type of emergency building service. Check out
+  our recent discussion with CEO Gabe Matthews.
 author: Gregg Cantor
 layout: post
 ---
