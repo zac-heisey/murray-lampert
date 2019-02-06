@@ -4,7 +4,9 @@ date: 2019-02-06 00:00:00 Z
 categories:
 - Infographics
 featured-image: "/uploads/technology-reshaping-home-design-header.png"
-excerpt: Technology of all types is changing how homeowners and remodeling contractors approach home design. Our latest infographic explores four ways technology is reshaping home design and remodeling.
+excerpt: Technology of all types is changing how homeowners and remodeling contractors
+  approach home design. Our latest infographic explores four ways technology is reshaping
+  home design and remodeling.
 author: Gregg Cantor
 layout: post
 ---
