@@ -2949,6 +2949,11 @@ a#client-login-btn {
   max-height: 1500px;
   background-size: cover;
   overflow: hidden;
+
+  &.homepage-hero {
+    background-image: url('https://res.cloudinary.com/zheisey/image/upload/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg');
+  }
+
 }
 
 #fullscreen-video {
