@@ -17,7 +17,7 @@ The rise of the "Smart Home" is becoming more prevalent with each new technologi
 
 **Share this infographic on your site**
 <textarea>
-  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-pros-cons-different-adu-types/"><img src="https://www.murraylampert.com/uploads/infographic-technology-reshaping-home-design-remodelings.png" alt="how technology is reshaping home design and remodeling infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
+  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-how-technology-is-reshaping-home-design-and-remodeling/"><img src="https://www.murraylampert.com/uploads/infographic-technology-reshaping-home-design-remodelings.png" alt="how technology is reshaping home design and remodeling infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
 </textarea>
 
 ## How Technology is Reshaping Home Design and Remodeling
