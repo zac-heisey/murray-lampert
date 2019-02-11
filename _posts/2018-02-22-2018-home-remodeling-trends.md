@@ -32,7 +32,7 @@ Enjoy!
 
 There are few things that can brighten up a home as much as a freshly remodeled kitchen. The kitchen is undoubtedly the major selling point of a home, as well as a focal point for valuable family time.
 
-2018 will see some popular ideas expanded upon to create entire kitchen themes. Best of all, many of these kitchen remodel trends can be adjusted to fit any budget and completed in a fairly fast timeframe. Without further ado, here are the top 6 [San Diego kitchen remodeling](/san-diego-kitchen-remodeling-services) trends we see on the horizon for 2018.
+2018 will see some [popular design ideas](http://mayaconstructioninc.com/blog/remarkable-kitchen-design-ideas) expanded upon to create entire kitchen themes. Best of all, many of these kitchen remodel trends can be adjusted to fit any budget and completed in a fairly fast timeframe. Without further ado, here are the top 6 [San Diego kitchen remodeling](/san-diego-kitchen-remodeling-services) trends we see on the horizon for 2018.
 
 ![image of remodeled kitchen in Coronado](https://d33wubrfki0l68.cloudfront.net/e0ef5bbd221921e1761675005f854ab18f37138a/a903f/uploads/cava-621-i-ave-kd-33.jpg "Hot Kitchen Trends in 2018")
 
