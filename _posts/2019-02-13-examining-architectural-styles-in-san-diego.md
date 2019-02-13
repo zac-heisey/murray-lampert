@@ -6,7 +6,9 @@ categories:
 - Design-Build
 - Real Estate
 featured-image: https://res.cloudinary.com/zheisey/image/upload/v1539808690/murray-lampert/fischer/fischer-1278-seacoast-dr-exterior-22.jpg
-excerpt: From Spanish to Mission, Victorian to Contemporary, San Diego offers up plenty of diversity when it comes to residential architecture. We outline some of the more popular home architecture styles in San Diego.
+excerpt: From Spanish to Mission, Victorian to Contemporary, San Diego offers up plenty
+  of diversity when it comes to residential architecture. We outline some of the more
+  popular home architecture styles in San Diego.
 author: Gregg Cantor
 layout: post
 ---
