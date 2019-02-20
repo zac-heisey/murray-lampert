@@ -11,7 +11,7 @@ author: Gregg Cantor
 layout: post
 ---
 
-_This post comes from the team Port Aggregates, Inc._
+_This post comes from the team at Port Aggregates, Inc._
 
 Plain old grey concrete is certainly no longer in style. From kitchen counters to backyard patios, lobbies and foyers, modern day concrete typically sports unique patterns and designs or bright colors to fit a certain aesthetic.
 
