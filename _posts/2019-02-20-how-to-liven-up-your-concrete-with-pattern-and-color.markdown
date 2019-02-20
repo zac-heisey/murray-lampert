@@ -15,7 +15,7 @@ _This post comes from the team at Port Aggregates, Inc._
 
 Plain old grey concrete is certainly no longer in style. From kitchen counters to backyard patios, lobbies and foyers, modern day concrete typically sports unique patterns and designs or bright colors to fit a certain aesthetic.
 
-Most decorative concrete techniques can be applied to concrete that’s already dried. Because of this, decorating your existing concrete is a good way to renovate your home in a cost-effective way. In addition, the price of patterned or colored concrete is much cheaper than paver tile or stone.
+Most decorative concrete techniques can be applied to concrete that’s already dried. Because of this, decorating your existing concrete is a good way to [renovate your home](/san-diego-home-remodel-services) in a cost-effective way. In addition, the price of patterned or colored concrete is much cheaper than paver tile or stone.
 
 ## Patterns
 
@@ -45,7 +45,7 @@ Over the years, concrete enhanced with color has become more and more common in 
 
 ## Dyes
 
-In order to do their job, dyes rely on the porous nature of concrete, and are either solvent-based or water-based. This technique is more efficient for indoor use due to the fact that over time, UV rays can change color. One downside to the dye method is its drying and absorption speed, leaving little room for error. Because of this, you should hire a concrete contractor instead of trying to do this yourself.
+In order to do their job, dyes rely on the porous nature of concrete, and are either solvent-based or water-based. This technique is more efficient for indoor use due to the fact that over time, UV rays can change color. One downside to the dye method is its drying and absorption speed, leaving little room for error. Because of this, you should [hire a concrete contractor](https://www.portaggregates.com/contact-port-aggregates/) instead of trying to do this yourself.
 
 ## Stains
 
