@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -11,7 +11,7 @@ members:
   desc: Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing
     job site clean up. After spending a year as a carpenter’s helper in 1978, Gregg
     concentrated on his education majoring in business.
-  avatar: uploads/gregg-1.jpg
+  avatar: uploads/gregg-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/gregg-cantor"
@@ -22,7 +22,7 @@ members:
   desc: Gregg met Lisa in November of 1988 and they were married in April 1990. In
     1994 Lisa started helping out in the office answering phones and within a couple
     of years she eventually took over the bookkeeping and finances.
-  avatar: uploads/lisa1000.jpg
+  avatar: uploads/lisa-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/lisa-cantor"
@@ -33,7 +33,7 @@ members:
   desc: Rachel Cantor is the director of the of the Murray Lampert design department
     and the fourth generation in our family business. Rachel graduated from Miami
     University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
-  avatar: uploads/rachel-1000.jpg
+  avatar: uploads/rachel-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-cantor"
@@ -45,7 +45,7 @@ members:
     team. Patti comes to Murray Lampert with an expertise in client services and project
     management, as well as various aspects of design build specializing in kitchen,
     bath and whole home remodeling.
-  avatar: uploads/patti-1.jpg
+  avatar: uploads/patti-atwell.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/patti-atwell"
@@ -56,7 +56,7 @@ members:
   desc: D’Ann joined Murray Lampert Design, Build, Remodel in 2009 working in Customer
     Service and Community Relations. She has worked in various fields supporting both
     client and employee development for the past 10 years.
-  avatar: uploads/dann-1.jpg
+  avatar: uploads/dann-good.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/dann-good"
@@ -67,7 +67,7 @@ members:
   desc: Cheri joined Murray Lampert Design Build Remodel in 2015. She works part time
     in our front office. She retired from her Real Estate career in 2013 so she could
     travel with her husband.
-  avatar: uploads/cheri-1.jpg
+  avatar: uploads/cheri-clark.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cheri-clark"
@@ -78,7 +78,7 @@ members:
   desc: Cameron is the son of a general contractor and grew up around construction.
     Not only does Cameron know his way around a job site, he is a great team player
     on the field with his experience as a college quarterback.
-  avatar: uploads/cameron.jpg
+  avatar: uploads/cameron-poeschel.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
@@ -89,7 +89,7 @@ members:
   desc: James is a San Diego Native, grew up in El Cajon and graduated from UC Irvine
     with a BA in Business Economics.  While attend UC Irvine, James was a 4 year starter
     on the lacrosse team.
-  avatar: uploads/james.jpg
+  avatar: uploads/james-meyer.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/james-meyer"
@@ -100,7 +100,7 @@ members:
   desc: Amy Mirtle grew up in Orange County and moved to San Diego to pursue design.
     Amy began with Murray Lampert Design Build Remodel as an intern while attending
     the Design Institute of San Diego and then joined our team.
-  avatar: uploads/amy.jpg
+  avatar: uploads/amy-mirtle.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/amy-mirtle"
@@ -111,7 +111,7 @@ members:
   desc: Rachel Bancroft is our lead Project & Interior Designer on the Murray Lampert
     Design Team. Rachel graduated from San Diego State University with a Bachelor’s
     of Arts degree in Interior Design.
-  avatar: uploads/rachel_b.jpg
+  avatar: uploads/rachel-bancroft.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-bancroft"
