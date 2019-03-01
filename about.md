@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -62,17 +62,6 @@ members:
     url: "/team-member/dann-good"
   - icon_class: fa fa-envelope
     url: mailto:dgood@murraylampert.com
-- name: Cheri Clark
-  position: Customer Care Specialist
-  desc: Cheri joined Murray Lampert Design Build Remodel in 2015. She works part time
-    in our front office. She retired from her Real Estate career in 2013 so she could
-    travel with her husband.
-  avatar: uploads/cheri-clark.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/cheri-clark"
-  - icon_class: fa fa-envelope
-    url: mailto:cheri@murraylampert.com
 - name: Cameron Poeschel
   position: Project Manager
   desc: Cameron is the son of a general contractor and grew up around construction.
