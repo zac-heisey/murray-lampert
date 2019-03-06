@@ -2,7 +2,7 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -72,7 +72,7 @@ members:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
   - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com
+    url: mailto:cpoeschel@murraylampert.com
 - name: James Meyer
   position: Assistant Project Manager
   desc: James is a San Diego Native, grew up in El Cajon and graduated from UC Irvine
@@ -94,7 +94,7 @@ members:
   - icon_class: fa fa-plus
     url: "/team-member/amy-mirtle"
   - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com
+    url: mailto:amirtle@murraylampert.com
 - name: Rachel Bancroft
   position: Project & Interior Designer
   desc: Rachel Bancroft is our lead Project & Interior Designer on the Murray Lampert
@@ -105,7 +105,7 @@ members:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-bancroft"
   - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com
+    url: mailto:rbancroft@murraylampert.com
 - name: Zach Hammell
   position: Project Designer
   desc: Zach grew up in New Jersey and graduated from Marywood University with a Bachelor
