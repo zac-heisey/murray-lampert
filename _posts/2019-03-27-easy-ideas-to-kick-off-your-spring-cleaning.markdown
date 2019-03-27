@@ -1,6 +1,8 @@
 ---
 title: Easy Ideas to Kick Off Your Spring Cleaning
 date: 2019-03-27 14:14:00 Z
+categories:
+- Home DIY Tips
 featured-image: "/uploads/shelving-creative.png"
 excerpt: Winter is nearly over, and that means spring cleaning before company comes
   by. Here are some easy and perhaps unlikely cleaning tips to kick off your spring
