@@ -1,6 +1,8 @@
 ---
 title: 2019 Is the Year of Contemporary Smart Homes
 date: 2019-04-10 14:49:00 Z
+categories:
+- Home Remodeling
 featured-image: "/uploads/smart-home.jpg"
 excerpt: We think 2019 will be the year when homes gain a few IQ points in the tech
   world. Check out our full list of home remodeling trends for the rest of 2019.
