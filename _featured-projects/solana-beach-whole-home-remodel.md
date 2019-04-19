@@ -3,7 +3,7 @@ title: Solana Beach Whole Home Remodel
 client: Aung/Twitty
 location: Solana Beach
 project-date: 2017
-featured-video:
+featured-video: 
 featured-images:
 - uploads/aung-twitty-solana-beach-exterior-2.jpg
 - uploads/aung-twitty-solana-beach-exterior-3.jpg
