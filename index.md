@@ -60,7 +60,7 @@ works:
   title: Full Color 3D Modeling & Renderings
   desc: Visualize Your Project<br> Before Getting Started
   url: "/3d-architectural-rendering-services"
-- image: "/uploads/SolanaBeachWholeHome.jpg"
+- image: "/uploads/aung-twitty-solana-beach-living-room-1.jpg"
   class: room-additions
   title: Space Planning for Your Lifestyle
   desc: Functional Style & Comfort
@@ -128,4 +128,3 @@ feat_testimonials:
     name: Lance
     location: San Diego
 ---
-
