@@ -4,7 +4,9 @@ date: 2019-04-24 00:00:01 Z
 categories:
 - In-law Suites
 featured-image: "/uploads/adu-segment-abc-10.png"
-excerpt: Murray Lampert was recently featured in an ABC 10 segment about how Accessory Dwelling Units (ADUs) are increasing housing options in San Diego. Check out the segment here.
+excerpt: Murray Lampert was recently featured in an ABC 10 segment about how Accessory
+  Dwelling Units (ADUs) are increasing housing options in San Diego. Check out the
+  segment here.
 author: Murray Lampert Team
 layout: post
 ---
