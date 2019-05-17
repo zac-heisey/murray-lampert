@@ -1,6 +1,6 @@
 ---
 title: INFOGRAPHIC - Getting the Most Value Out of Your Kitchen Remodel
-date: 2019-01-21 00:00:01 Z
+date: 2019-01-21 00:00:00 Z
 categories:
 - Infographics
 - Kitchen Remodeling
@@ -14,7 +14,7 @@ layout: post
 
 Kitchen remodels are one of the most popular and cost-effective places to invest your home remodeling dollar. For one, a remodeled kitchen is a major boon to your home’s value and curb appeal. It’s the home project with the greatest return-on-investment when the time comes to sell your home.
 
-Yet, for many homeowners, the upfront costs can be daunting. According to data from HomeAdvisor, the average kitchen renovation costs homeowners over $22,000. Remodeling just this one space of your home can quickly add up.
+Yet, for many homeowners, the upfront costs can be daunting. According to data from [HomeAdvisor](https://www.homeadvisor.com/r/kitchen-remodeling-costs/), the national average kitchen renovation costs homeowners over $22,000. In San Diego, that number can easily approach $100,000 for middle to high-end kitchen remodels. As you can see, renovating just this one space of in home can quickly add up.
 
 Here’s the good news: it is possible to spend less while still getting more out of your remodeling dollar. In this article, we review some of the ways homeowners can both save money and get an awesome [kitchen remodel in San Diego](/san-diego-kitchen-remodeling-services).
 
