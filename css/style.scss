@@ -2867,7 +2867,12 @@ a#client-login-btn {
 
 /* Video Homepage Custom Styles */
 .closed {
-  display: none;
+  display: block;
+
+  @media only screen and (max-width: 60em) {
+    display: none;
+  }
+
 }
 
 #menu-toggler {
