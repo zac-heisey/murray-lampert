@@ -4,7 +4,8 @@ date: 2019-06-12 00:00:01 Z
 categories:
 - Kitchen Remodeling
 featured-image: "/uploads/gallery/kitchens/dang-tran-kitchen2a.jpg"
-excerpt: Granite countertops are a tried and true material option for many kitchen remodeling projects. Get the lowdown on granite kitchen countertops right here!
+excerpt: Granite countertops are a tried and true material option for many kitchen
+  remodeling projects. Get the lowdown on granite kitchen countertops right here!
 author: Gregg Cantor
 layout: post
 ---
