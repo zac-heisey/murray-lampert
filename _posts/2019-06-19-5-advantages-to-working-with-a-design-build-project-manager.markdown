@@ -31,8 +31,8 @@ Not only are project managers important to you and to the business at large, the
 
 Project managers have seen it all. From the best case scenario to the worst case scenario, project managers have a great understanding of what works and what doesn’t. They’re able to work quickly and effectively for the project’s timeline. They know trends, they have elite sources for design styles, and they’re available to help flush out all of your ideas. Sometimes all you need as a homeowner is someone to bounce ideas off of; to hear opinions and to develop concepts. A project manager is a multi-talented human being that serves in nearly all avenues of the home remodeling process. Ask them a question regarding design or functionality, and nine times out of ten they will have a detailed response – or be able to point you to another professional in the company. 
 
-5. They’re Focused On Getting the Job Done
+## 5. They’re Focused On Getting the Job Done
  
 The beauty of a project manager is that they are laser-focused on one thing: executing your remodeling project. They’re detail oriented professionals that, when completely in the zone, are capable of overseeing every detail in the [design-build process](/infographic-visual-guide-to-the-design-build-process/). Their job is designed in a way that’s not intrusive of other areas of the business, and that keeps them fully [focused on their 20%](https://medium.com/swlh/to-get-real-stuff-done-focus-on-the-20-of-your-work-that-leads-to-80-of-your-results-e8d7ce9bc14e). When working with a general contracting business on a home remodel, the likelihood of dealing with a contractor that’s disorganized and can’t answer your questions (or just forgets them) is really high, because let’s face it: they’re pulled in so many different directions to keep their business running. Project managers keep it simple for you and for us.
 
-If you’d like to talk to a project manager about how they would personally benefit you and your home remodeling project, click here to get connected.
+If you’d like to talk to a design-build project manager about upcoming home remodel, [reach out to us today](/contact)!
