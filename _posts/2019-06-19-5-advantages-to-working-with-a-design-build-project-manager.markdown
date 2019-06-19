@@ -1,6 +1,8 @@
 ---
 title: 5 Advantages to Working with a Design-Build Project Manager
 date: 2019-06-19 15:27:00 Z
+categories:
+- Design-Build
 featured-image: "/uploads/design-build-project-manager.jpg"
 excerpt: The beauty of design-build home remodeling projects is they provide the homeowner
   with a single point of contact throughout the entirety of the project. Learn more
