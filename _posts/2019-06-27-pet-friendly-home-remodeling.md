@@ -5,7 +5,9 @@ permalink: "/pet-friendly-home-remodeling/"
 categories:
 - Home Remodeling
 featured-image: "/uploads/Open-Space-Kitchen-Home-Remodeling-Escondido.jpg"
-excerpt: Pet-friendly home remodeling features can help keep your furry friends safe during and after a renovation project. Here are a few ways our team accommodates your four-legged family members during your home remodel.
+excerpt: Pet-friendly home remodeling features can help keep your furry friends safe
+  during and after a renovation project. Here are a few ways our team accommodates
+  your four-legged family members during your home remodel.
 author: Gregg Cantor
 layout: post
 ---
