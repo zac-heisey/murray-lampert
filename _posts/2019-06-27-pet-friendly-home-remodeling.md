@@ -4,7 +4,7 @@ date: 2019-06-27 00:00:01 Z
 permalink: "/pet-friendly-home-remodeling/"
 categories:
 - Home Remodeling
-featured-image: "https://res.cloudinary.com/zheisey/image/upload/c_fill,w_1000,h_500/v1561667793/murray-lampert/misc/pet-home-remodeling.jpg"
+featured-image: https://res.cloudinary.com/zheisey/image/upload/c_fill,w_1000,h_500/v1561667793/murray-lampert/misc/pet-home-remodeling.jpg
 excerpt: Pet-friendly home remodeling features can help keep your furry friends safe
   during and after a renovation project. Here are a few ways our team accommodates
   your four-legged family members during your home remodel.
