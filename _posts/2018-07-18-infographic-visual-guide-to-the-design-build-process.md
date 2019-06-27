@@ -39,7 +39,9 @@ To further illustrate what makes design-build such a great process for executing
 #### Steps in the Design-Build Process
 
 **Design**  
-Every design-build project begins with an in-depth design discussion, where your design-build contractor will work with you to develop your ideas into blueprints, architectural designs, and other visual mock-ups.
+Every design-build project begins with an in-depth design discussion, where your design-build contractor will work with you to develop your ideas into blueprints, architectural designs, and other visual mock-ups. During the preliminary design phase, your design-build contractor will discuss your wants and needs, take necessary measurements, confirm property lines and setbacks, verify utilities, and check out overall site conditions.
+
+This process typically takes a few weeks, and requires a few meetings to develop final design drawings. With a final design ready to go, an accurate quote can be provided and pre-construction can begin.
 
 **Pre-Construction**  
 Before breaking ground on your approved design, your design-build contractor will work with you to finalize details such as colors, materials, finishes, fixtures, and more. Timelines will be laid out, trades coordinated, and financing will be secured.
