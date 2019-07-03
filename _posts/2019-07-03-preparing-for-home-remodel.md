@@ -4,7 +4,7 @@ date: 2019-07-03 00:00:01 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/buiding-materials-then-and-now.jpg"
-excerpt:
+excerpt: 
 author: Gregg Cantor
 layout: post
 ---
