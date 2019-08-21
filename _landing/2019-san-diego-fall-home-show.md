@@ -1,7 +1,9 @@
 ---
 title: Calling All San Diego Fall Home Show Attendees
-featured-image:
-excerpt: Murray Lampert Design Build Remodel is ready to help bring your newly-found inspiration to life! Let us turn your ideas from the 2019 San Diego Fall Home Show into reality today.
+featured-image: 
+excerpt: Murray Lampert Design Build Remodel is ready to help bring your newly-found
+  inspiration to life! Let us turn your ideas from the 2019 San Diego Fall Home Show
+  into reality today.
 layout: default
 ---
 
