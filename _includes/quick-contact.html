@@ -1,64 +1,5 @@
 <div class='full' id="quick-contact">
   <div class='row'>
-    {% if page.title == 'Calling All San Diego Fall Home Show Attendees' %}
-    <form name='Website Lead: SD Home Show Landing Page' netlify-honeypot='surname' action='/thank-you/' netlify>
-      <div class='medium-8 columns'>
-        <h2>Contact Murray Lampert</h2>
-        <h3>Get More Info About Home Design, Build, Remodel in San Diego</h3>
-          <!-- Netlify honeypot field -->
-          <p class='hidden'><label>Don’t fill this out: <input name='surname'></label></p>
-          <!-- Standard form fields -->
-          <input name='name' placeholder='NAME' type='text' required>
-          <input name='email' placeholder='EMAIL' type='email' required>
-          <input name='phone' placeholder='PHONE' type='tel' required>
-        <div class='spacing'></div>
-      </div>
-      <div class='medium-4 columns'>
-        <h2>Project Details</h2>
-        <h3>For Your In-Home Consultation</h3>
-        <select name='area-of-interest' placeholder='AREA OF INTEREST' onfocusout="aduBudget()" required>
-          <option value="" disabled selected>AREA OF INTEREST</option>
-          <option value="Total Renovation">Total Renovation</option>
-          <option value="Room Addition">Room Addition</option>
-          <option value="Second Story">Second Story</option>
-          <option value="Kitchen Remodel">Kitchen Remodel</option>
-          <option value="Bathroom Remodel">Bathroom Remodel</option>
-          <option value="ADU">ADU / Granny Flat / In-Law Suite</option>
-          <option value="Indoor Outdoor">Indoor / Outdoor</option>
-          <option value="Other">Other</option>
-        </select>
-        <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
-          <option value="" disabled selected>EXPECTED TIME FRAME</option>
-          <option value="ASAP">ASAP</option>
-          <option value="3 months">3 Months</option>
-          <option value="6 months">6 Months</option>
-          <option value="1 year">1 Year</option>
-          <option value="More than a year">More than a year</option>
-        </select>
-        <select name='project-budget' placeholder='WHAT IS YOUR BUDGET?' required>
-          <option value="" disabled selected>WHAT IS YOUR BUDGET?</option>
-          <!-- <option value="$30k - $50k">$30,000 - $50,000</option> -->
-          <option value="$50k - $100k">$50,000 - $100,000</option>
-          <option value="$100k - $200k">$100,000 - $200,000</option>
-          <option value="$200k - $300k">$200,000 - $300,000</option>
-          <option value="$300k - $500k">$300,000 - $500,000</option>
-          <option value="$500k+">$500,000+</option>
-        </select>
-        <select name='financing' placeholder='WILL YOU NEED FINANCING?'>
-          <option value="" disabled selected>WILL YOU NEED FINANCING?</option>
-          <option value="Yes">Yes</option>
-          <option value="No">No</option>
-        </select>
-        <select name='referral-source' placeholder='HOW DID YOU FIND US?'>
-          <option value="" disabled selected>HOW DID YOU FIND US?</option>
-          <option value="sd-home-show-ad">San Diego Fall Home Show Advertisement</option>
-        </select>
-        <div netlify-recaptcha style="margin-bottom:1.875rem;"></div>
-        <input class='button default' type='submit' value="GET IN TOUCH" id="contact-btn" disabled>
-        <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch (619) 285-9222</p>
-      </div>
-    </form>
-    {% else %}
     <!-- Removed id='contact_form' and method='POST' from original <form> -->
     <form name='Website Lead: Contact Form' netlify-honeypot='surname' action='/thank-you/' netlify>
       <div class='medium-8 columns'>
@@ -128,7 +69,6 @@
         <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch (619) 285-9222</p>
       </div>
     </form>
-    {% endif %}
     <div class='four spacing'></div>
   </div>
 </div>
