@@ -49,3 +49,40 @@ Black stainless steel made its graceful entrance into the market back in 2017 wh
 ![Black Stainless Steel Appliances](https://www.abcwarehouse.com/Content/Images/uploaded/BlackStainlessSteelGroup.jpg)
 
 If you’ve never heard of black stainless steel, it’s the same stainless steel you’re accustomed to with a special touch. Manufacturers have simply added an extra coat that creates a dark sheen. This small change can create a huge impact for customers looking for greater color contrast when remodeling kitchens and laundry rooms, especially as an alternative to true black.
+
+---
+
+### BONUS Trends!
+
+Here are a few more bonus trends to watch for in 2019 as homeowners look to change up their flooring, get better organized, find moments of relaxation, and conserve more energy.
+
+**Flooring**
+
+One of the most popular trends in home remodeling for 2012 is installing bare flooring rather than carpeting in all areas of the home. Some homeowners are choosing tile or hardwood, while others are choosing cork and bamboo because these options have less impact on the environment. Cork flooring is made from tree bark, which is far more renewable than the tree itself because it is naturally shed every 10 to 15 years. There is also a recycled paper tile that is becoming very popular this year. It looks and feels like slate, but is friendlier to the environment than its slate counterpart.
+
+**Mudrooms**
+
+More families are adding mud rooms to their home or converting their entryways into mudrooms. This gives them a space to store keys, backpacks, boots, coats, and other essential items. Homeowners with existing mudrooms are adding built-ins to make organization easier and decrease clutter in other areas of the home. Some homeowners add closets so that their belongings aren't stored out in the open, while others add hooks and open shelving for easy access to everything they need when they are heading out the door.
+
+**Steam Showers**
+
+Soaking tubs were popular in the [bathroom remodels](/san-diego-bathroom-remodeling-services/) of the last couple of years, but now homeowners are choosing to use their space for large steam showers, and most are foregoing the bathtub option altogether. Soaking tubs are very decorative, but many homeowners have found that they don't actually take the time for a relaxing bath most of the time. Steam showers are popular because they have therapeutic effects, and are also designed to conserve water. This helps the homeowner relax and de-stress while saving money and getting them in and out of the bathroom faster to fit into their on-the-go lifestyle.
+
+**Solar Thermal Systems**
+
+Solar is the new way to heat your home. Solar water heaters have become very popular in recent years, but entire solar thermal systems have been manufactured that can heat your entire home by converting sunlight into electricity. These systems help homeowners save large amounts of money on their electric bills and also greatly reduce the carbon emissions from their home. Some homeowners who install solar thermal systems are eligible for a Federal Tax Credit equal to 30 percent of the cost to install the system in their home. This tax credit covers some of the cost of installing the system and the rest of the cost is usually recovered quickly in the form of lower energy bills.
+Home trends of 2012 focus on [green energy](/san-diego-green-home-construction/), renewable resources, and the busy, active lifestyle of today’s homeowner. This can be seen in trends toward alternative flooring, therapeutic bathrooms, and solar powered systems in today’s modern home.
+
+**Home Again**
+
+Remodelers are seeing a huge demand for “companion units” (typically called granny flats or ADUs) as part of new additions or as a detached building. Some baby boomers are already reaching their golden years and families are remodeling their homes for [aging in place](/aging-in-place-10-concepts-of-universal-design/) a creative long term care solution. For many families, this is a lower-cost option than retirement homes or assisted-living.
+
+AARP is working with builders on a designation for [Certified Aging in Place Specialists](https://www.nahb.org/learn/designations/certified-aging-in-place-specialist.aspx). There are builders trained in designing and remodeling buildings for the elderly. Approximately 3,000 builders, contractors, remodelers and architects have already been certified.
+
+**Outdoor Spaces**
+
+In San Diego, increased property values led to the development of luxury outdoor living spaces like stone hardscapes, gourmet grilling kitchens, and elaborate patios with fireplaces. The recession may have slightly dinged the remodeling industry when it comes to outdoor spaces, but the concept survives. The investment in [outdoor living spaces](/san-diego-outdoor-living-space-design/) is a necessity even for homeowners that are budget minded. Consumers may be scaling back their wish list, but improving their outdoor living spaces for entertaining and family time is still popular. After all, families are traveling less, and staying home more.
+
+**Efficient Kitchens**
+
+Efficient means you can cook meals in a shorter period of time. At the peak of the real estate market in San Diego, you would hear words like “granite” and “high-end appliances”. Now, “cost effective” and “value” are key words for [kitchen remodeling](/san-diego-kitchen-remodeling-services/). Homeowners are willing to give up a little food preparation area in favor of larger eating areas and family rooms. Large islands with ample storage and eating areas are very popular and help make kitchens look less like a work space and more like an expansion of the family room.
