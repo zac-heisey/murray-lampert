@@ -3,7 +3,7 @@ title: Kitchen Remodeling in San Diego
 permalink: "/san-diego-kitchen-remodeling-services"
 layout: default
 section_id: kitchen-remodels
-featured-image: 
+featured-image:
 excerpt: San Diego custom kitchen remodel services by Murray Lampert. Providing kitchen
   remodeling in San Diego since 1975. View our kitchen remodel projects today.
 ---
@@ -40,7 +40,6 @@ We have established pricing with our trades so there is no bidding or risk to yo
   	<li><a href="/kitchen-remodel-clairemont-mesa">Clairemont Mesa</a></li>
   	<li><a href="/kitchen-remodeling-del-mar">Del Mar</a></li>
   	<li><a href="/kitchen-remodeling-encinitas">Encinitas</a></li>
-  	<li><a href="/kitchen-remodeling-escondido">Escondido</a></li>
   </ul>
   <ul class="city-list">
    	<li><a href="/kitchen-remodeling-hillcrest">Hillcrest</a></li>
@@ -49,17 +48,14 @@ We have established pricing with our trades so there is no bidding or risk to yo
    	<li><a href="/kitchen-remodeling-mission-valley">Mission Valley</a></li>
    	<li><a href="/kitchen-remodeling-north-park">North Park</a></li>
    	<li><a href="/kitchen-remodeling-ocean-beach">Ocean Beach</a></li>
-   	<li><a href="/kitchen-remodeling-oceanside">Oceanside</a></li>
    	<li><a href="/kitchen-remodeling-pacific-beach">Pacific Beach</a></li>
    	<li><a href="/kitchen-remodeling-point-loma">Point Loma</a></li>
   </ul>
   <ul class="city-list">
    	<li><a href="/kitchen-remodeling-poway">Poway</a></li>
-   	<li><a href="/kitchen-remodeling-ramona">Ramona</a></li>
    	<li><a href="/kitchen-remodel-rancho-bernardo">Rancho Bernardo</a></li>
    	<li><a href="/kitchen-remodeling-rancho-penasquitos">Rancho Penasquitos</a></li>
    	<li><a href="/kitchen-remodeling-rancho-santa-fe">Rancho Santa Fe</a></li>
-   	<li><a href="/kitchen-remodel-san-marcos">San Marcos</a></li>
    	<li><a href="/kitchen-remodeling-santee">Santee</a></li>
    	<li><a href="/kitchen-remodeling-scripps-ranch">Scripps Ranch</a></li>
    	<li><a href="/kitchen-remodeling-solana-beach">Solana Beach</a></li>
