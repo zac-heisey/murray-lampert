@@ -19,7 +19,8 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
             <!-- Netlify honeypot field -->
             <p class='hidden'><label>Don’t fill this out: <input name='surname'></label></p>
             <!-- Standard form fields -->
-            <input name='name' placeholder='NAME' type='text' required>
+            <input id="first-name" name='first name' placeholder='FIRST NAME' type='text' required>
+            <input id="last-name" name='last name' placeholder='LAST NAME' type='text' required>
             <input name='email' placeholder='EMAIL' type='email' required>
             <input name='phone' placeholder='PHONE' type='tel' required>
             <input name='address' placeholder='YOUR ADDRESS' type='text' required>
