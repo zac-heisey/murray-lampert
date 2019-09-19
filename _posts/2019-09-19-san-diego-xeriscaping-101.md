@@ -5,7 +5,9 @@ categories:
 - Outdoor Spaces
 - Infographic
 featured-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568909196/murray-lampert/misc/san-diego-xeriscaping-101.jpg
-excerpt: Xeriscaping in San Diego is a smart and effective means of keeping your lawn and garden looking great while keeping your water usage to a minimum. Remember that droughts don’t have to mean ugly landscaping.
+excerpt: Xeriscaping in San Diego is a smart and effective means of keeping your lawn
+  and garden looking great while keeping your water usage to a minimum. Remember that
+  droughts don’t have to mean ugly landscaping.
 author: Gregg Cantor
 layout: post
 ---
