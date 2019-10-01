@@ -1,6 +1,6 @@
 ---
 title: Calling All Fall Home & Garden Show Attendees
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design Build Remodel is ready to help bring your newly-found
   inspiration to life! Let us turn your ideas from the 2019 Fall Home & Garden Show
   into reality today.
