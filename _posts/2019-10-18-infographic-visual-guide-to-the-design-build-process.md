@@ -1,6 +1,6 @@
 ---
 title: INFOGRAPHIC - A Visual Guide to the Design-Build Process
-date: 2019-10-18 00:00:00 Z
+date: 2019-10-18 00:00:01 Z
 categories:
 - Design-Build
 - Infographics
