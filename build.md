@@ -62,4 +62,43 @@ The design-build approach has enabled us to design and build custom homes throug
 
 Additionally, given the increased concern for the environment, Murray Lampert has adopted and developed [green home construction](san-diego-green-home-construction) practices that gave our customers healthy and sustainable homes.
 
+## Design-Build vs. Hiring an Architect
+
+Design-build brings the profession of architectural design together with construction. Murray Lampert's full-service [design-build approach](/infographic-visual-guide-to-the-design-build-process/) engages you with our staff architect in the development of your design. The advantage of design-build remodeling with Murray Lampert is our ability to develop a plan within your budget that transitions smoothly through the permit process to construction so your project is completed on time and on budget.
+
+Combining the design and construction functions will save you time, provide more value, and deliver a better finished product tailored to your needs.
+
+### A Few Reasons to Consider Design-Build with Murray Lampert
+
+1. You will be able to establishing a preliminary design and get an accurate range of price range for a very small investment.
+
+2. We will work with you to develop a design that meets your budgetary and functional needs.
+
+3. With architectural design and construction under one roof, we avoid field issue which can cause delays. We carefully measure your exiting home and create detailed building plans that are engineered up front. Should an unexpected field condition occur, our project manager and staff architect work together to resolve it promptly.
+
+4. Finishes and fixture choices identified up front so that costly change orders and delivery delays are avoided.
+
+5. Over 38 years of experience hiring the finest craftsmen, providing the highest quality materials and the best warranty in the business.
+
+### Our In-House Architectural Process
+
+**Step 1: Gain an Understanding of Your Needs & Goals**  
+Our design-build the process begins with a meeting between you, our design specialist, and dedicated project manager. We'll learn about your lifestyle, space, and budget goals, all of which are used to help us put together the preliminary design for your remodeling project.
+
+**Step 2: Develop Preliminary Design Plans**  
+Based on our initial in-home consultation walk-through together, we'll produce a few different architectural and interior design plans.
+
+**Step 3: Help You Visualize Your Dream Space**  
+We'll share our preliminary designs and discuss the costs, timeline, and other details associated with each option. Together we'll review floor plans, elevations, 3D color renderings, and even virtual walk-throughs of your new space. This is a great way for us to show you exactly how your finished project will look _before_ we break ground.
+
+**Step 4: Hash Out the Final Design**  
+After some back and forth, we'll make the necessary adjustments in order to arrive at our final design. It's not uncommon for elements from all multiple options to come together in the final version of your project. Once you feel comfortable with the final design, our team will move into the **build** phase of the design-build process.
+
+**Why Do We Have This Process?**  
+The beauty of the architectural process as part of the larger design-build approach is that different design options and project scopes can be identified and vetted ahead of time. Adjustments in the design or scope can be made early on, which sets the stage for a successful relationship and happy homeowners.
+
+To learn more about the design-build process in general, and why you might choose this approach over a more traditional remodeling project delivery, check out our [visual guide to the design-build process](/infographic-visual-guide-to-the-design-build-process/).
+
+---
+
 ### [>> Recent Design-Build Blog Posts](/blog/categories/#design-build)
