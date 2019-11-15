@@ -4,7 +4,9 @@ date: 2019-11-15 00:00:01 Z
 categories:
 - Bathroom Remodeling
 featured-image: "/uploads/pelander-kitchen-2.jpg"
-excerpt: Looking for the latest trends in bathroom remodeling? Take a look at our comprehensive post on timeless San Diego bathroom remodeling trends to inspire your next bathroom remodeling project.
+excerpt: Looking for the latest trends in bathroom remodeling? Take a look at our
+  comprehensive post on timeless San Diego bathroom remodeling trends to inspire your
+  next bathroom remodeling project.
 author: Gregg Cantor
 layout: post
 ---
