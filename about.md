@@ -2,15 +2,12 @@
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
 - name: Gregg Cantor
   position: President/CEO
-  desc: Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing
-    job site clean up. After spending a year as a carpenter’s helper in 1978, Gregg
-    concentrated on his education majoring in business.
   avatar: uploads/gregg-cantor.jpg
   socials:
   - icon_class: fa fa-plus
@@ -19,9 +16,6 @@ members:
     url: mailto:gcantor@murraylampert.com
 - name: Lisa Cantor
   position: CFO
-  desc: Gregg met Lisa in November of 1988 and they were married in April 1990. In
-    1994 Lisa started helping out in the office answering phones and within a couple
-    of years she eventually took over the bookkeeping and finances.
   avatar: uploads/lisa-cantor.jpg
   socials:
   - icon_class: fa fa-plus
@@ -30,9 +24,6 @@ members:
     url: mailto:lcantor@murraylampert.com
 - name: Rachel Cantor
   position: Director of Design
-  desc: Rachel Cantor is the director of the of the Murray Lampert design department
-    and the fourth generation in our family business. Rachel graduated from Miami
-    University of Ohio with a Bachelor of Creative Arts Degree in Architecture.
   avatar: uploads/rachel-cantor.jpg
   socials:
   - icon_class: fa fa-plus
@@ -41,10 +32,6 @@ members:
     url: mailto:rachel@murraylampert.com
 - name: Patti Atwell
   position: Director of Production
-  desc: Patti Atwell is our senior project manager on the Murray Lampert production
-    team. Patti comes to Murray Lampert with an expertise in client services and project
-    management, as well as various aspects of design build specializing in kitchen,
-    bath and whole home remodeling.
   avatar: uploads/patti-atwell.jpg
   socials:
   - icon_class: fa fa-plus
@@ -53,9 +40,6 @@ members:
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
   position: Office Mgr. | Client Care
-  desc: D’Ann joined Murray Lampert Design, Build, Remodel in 2009 working in Customer
-    Service and Community Relations. She has worked in various fields supporting both
-    client and employee development for the past 10 years.
   avatar: uploads/dann-good.jpg
   socials:
   - icon_class: fa fa-plus
@@ -64,42 +48,14 @@ members:
     url: mailto:dgood@murraylampert.com
 - name: Cameron Poeschel
   position: Project Manager
-  desc: Cameron is the son of a general contractor and grew up around construction.
-    Not only does Cameron know his way around a job site, he is a great team player
-    on the field with his experience as a college quarterback.
   avatar: uploads/cameron-poeschel.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
   - icon_class: fa fa-envelope
     url: mailto:cpoeschel@murraylampert.com
-- name: James Meyer
-  position: Assistant Project Manager
-  desc: James is a San Diego Native, grew up in El Cajon and graduated from UC Irvine
-    with a BA in Business Economics.  While attend UC Irvine, James was a 4 year starter
-    on the lacrosse team.
-  avatar: uploads/james-meyer.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/james-meyer"
-  - icon_class: fa fa-envelope
-    url: mailto:info@murraylampert.com
-- name: Amy Mirtle
-  position: Project & Interior Designer
-  desc: Amy Mirtle grew up in Orange County and moved to San Diego to pursue design.
-    Amy began with Murray Lampert Design Build Remodel as an intern while attending
-    the Design Institute of San Diego and then joined our team.
-  avatar: uploads/amy-mirtle.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/amy-mirtle"
-  - icon_class: fa fa-envelope
-    url: mailto:amirtle@murraylampert.com
 - name: Rachel Bancroft
   position: Project & Interior Designer
-  desc: Rachel Bancroft is our lead Project & Interior Designer on the Murray Lampert
-    Design Team. Rachel graduated from San Diego State University with a Bachelor’s
-    of Arts degree in Interior Design.
   avatar: uploads/rachel-bancroft.jpg
   socials:
   - icon_class: fa fa-plus
@@ -160,7 +116,6 @@ layout: default
             </div>
             <h3>{{member.name}}</h3>
             <p class='position'>{{member.position}}</p>
-            <p>{{member.desc | truncate: 140}}</p>
             <div class='two spacing'></div>
           </div>
         </div>
