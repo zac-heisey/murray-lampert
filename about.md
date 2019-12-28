@@ -3,7 +3,7 @@ title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 layout: default
 section_id: about
-featured-image:
+featured-image: 
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -102,7 +102,7 @@ members:
   - icon_class: fa fa-plus
     url: "/team-member/hannah-wilson"
   - icon_class: fa fa-envelope
-    url: mailto:hwilson@murraylampert.com  
+    url: mailto:hwilson@murraylampert.com
 ---
 
   <div class='medium-6 columns'>
