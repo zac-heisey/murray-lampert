@@ -8,7 +8,7 @@ excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award wi
 members:
 - name: Gregg Cantor
   position: President/CEO
-  avatar: uploads/gregg-cantor.jpg
+  avatar: gregg-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/gregg-cantor"
@@ -16,7 +16,7 @@ members:
     url: mailto:gcantor@murraylampert.com
 - name: Lisa Cantor
   position: CFO
-  avatar: uploads/lisa-cantor.jpg
+  avatar: lisa-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/lisa-cantor"
@@ -24,7 +24,7 @@ members:
     url: mailto:lcantor@murraylampert.com
 - name: Rachel Cantor
   position: Director of Design
-  avatar: uploads/rachel-cantor.jpg
+  avatar: rachel-cantor.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-cantor"
@@ -32,7 +32,7 @@ members:
     url: mailto:rachel@murraylampert.com
 - name: Patti Atwell
   position: Director of Production
-  avatar: uploads/patti-atwell.jpg
+  avatar: patti-atwell.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/patti-atwell"
@@ -40,7 +40,7 @@ members:
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
   position: Office Mgr. | Client Care
-  avatar: uploads/dann-good.jpg
+  avatar: dann-good.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/dann-good"
@@ -48,7 +48,7 @@ members:
     url: mailto:dgood@murraylampert.com
 - name: Cameron Poeschel
   position: Project Manager
-  avatar: uploads/cameron-poeschel.jpg
+  avatar: cameron-poeschel.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
@@ -56,7 +56,7 @@ members:
     url: mailto:cpoeschel@murraylampert.com
 - name: Rachel Bancroft
   position: Project & Interior Designer
-  avatar: uploads/rachel-bancroft.jpg
+  avatar: rachel-bancroft.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-bancroft"
@@ -101,7 +101,7 @@ layout: default
         <div class='small-6 medium-3 large-3 columns'>
           <div class='mod modTeamMember style-2'>
             <div class='member'>
-              <img class="avatar" title="{{member.name}} at Murray Lampert Design, Build, Remodel" alt="{{member.name}} profile image" src="{{site.url}}/{{member.avatar}}" />
+              <img class="avatar" title="{{member.name}} at Murray Lampert Design, Build, Remodel" alt="{{member.name}} profile image" src="https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/head-shots/{{member.avatar}}" />
               <div class='overlay'>
                 <ul class='socials'>
                   {% for social in member.socials %}
