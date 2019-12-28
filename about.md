@@ -1,6 +1,7 @@
 ---
 title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
+layout: default
 section_id: about
 featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
@@ -31,7 +32,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:rachel@murraylampert.com
 - name: Patti Atwell
-  position: Director of Production
+  position: Production Manager
   avatar: patti-atwell.jpg
   socials:
   - icon_class: fa fa-plus
@@ -39,7 +40,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:patti@murraylampert.com
 - name: D'Ann Good
-  position: Office Mgr. | Client Care
+  position: Office Manager
   avatar: dann-good.jpg
   socials:
   - icon_class: fa fa-plus
@@ -47,22 +48,61 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:dgood@murraylampert.com
 - name: Cameron Poeschel
-  position: Project Manager
+  position: Project Director
   avatar: cameron-poeschel.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/cameron-poeschel"
   - icon_class: fa fa-envelope
     url: mailto:cpoeschel@murraylampert.com
+- name: Donald Thomas
+  position: Senior Project Manager
+  avatar: don-thomas.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/donald-thomas"
+  - icon_class: fa fa-envelope
+    url: mailto:dthomas@murraylampert.com
+- name: Daniel Battle
+  position: Assistant Project Manager
+  avatar: danny-battle.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/daniel-battle"
+  - icon_class: fa fa-envelope
+    url: mailto:dbattle@murraylampert.com
 - name: Rachel Bancroft
-  position: Project & Interior Designer
+  position: Senior Designer
   avatar: rachel-bancroft.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/rachel-bancroft"
   - icon_class: fa fa-envelope
     url: mailto:rbancroft@murraylampert.com
-layout: default
+- name: Nicole LaCroix
+  position: Designer
+  avatar: nicole-lacroix.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/nicole-lacroix"
+  - icon_class: fa fa-envelope
+    url: mailto:nlcroix@murraylampert.com
+- name: Alyson Meucci
+  position: Designer
+  avatar: alyson-meucci.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/alyson-meucci"
+  - icon_class: fa fa-envelope
+    url: mailto:ameucci@murraylampert.com
+- name: Hannah Wilson
+  position: Designer
+  avatar: hannah-wilson.jpg
+  socials:
+  - icon_class: fa fa-plus
+    url: "/team-member/hannah-wilson"
+  - icon_class: fa fa-envelope
+    url: mailto:hwilson@murraylampert.com  
 ---
 
   <div class='medium-6 columns'>
