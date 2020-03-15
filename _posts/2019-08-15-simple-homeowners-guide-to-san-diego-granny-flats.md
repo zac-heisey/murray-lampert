@@ -3,7 +3,7 @@ title: Simple Homeowner's Guide to San Diego Granny Flats
 date: 2019-08-15 00:00:01 Z
 categories:
 - In-law Suites
-featured-image: "https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/schade-adu-rendering.jpg"
+featured-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/schade-adu-rendering.jpg
 excerpt: San Diego ADU rules and regulations continue to evolve at a rapid pace, and
   can be different from neighborhood to neighborhood. Our Simple Homeowner's Guide
   to San Diego Granny Flats helps makes sense of the in-law suite landscape.
