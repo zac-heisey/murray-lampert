@@ -3,7 +3,7 @@ title: Simple Homeowner's Guide to San Diego Granny Flats
 date: 2019-08-15 00:00:01 Z
 categories:
 - In-law Suites
-featured-image: "/uploads/simple-homeowners-guide-san-diego-granny-flats.jpg"
+featured-image: "https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/schade-adu-rendering.jpg"
 excerpt: San Diego ADU rules and regulations continue to evolve at a rapid pace, and
   can be different from neighborhood to neighborhood. Our Simple Homeowner's Guide
   to San Diego Granny Flats helps makes sense of the in-law suite landscape.
@@ -41,8 +41,8 @@ Since the housing market is on fire in San Diego, adding an ADU to your existing
 
 While current regulations prevent homeowners from offering accessory dwelling units as vacation rentals (ADUs have a minimum 30-day lease), short and long-term renting is definitely an option. A 500-square-foot ADU in San Diego can generally earn around [$1,600/mo in rental income](https://www.hausable.com/city/san-diego-ca-562174). That’s money that can be used to pay down your mortgage, cover utilities and other household expenses, save for retirement, or spend on a vacation.
 
-![image of small single-story granny flat](http://kristaandrosie.com/wp-content/uploads/2016/02/5876-McBryde-14.jpg "A Small, Single-story Granny Flat")
-_Photo: Kristaandrosie.com_
+![image of primary home with casita in background](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/starks-casita-outside.jpg "Primary Home with Casita in the Back")
+_Photo: San Diego Magazine_
 
 **Recent Homeowner-friendly Updates**
 
@@ -85,6 +85,8 @@ The possible size of an attached granny flat is linked to the square footage of 
 
 For example, if the floor plan of your home is 2,000 square feet, your attached ADU cannot be larger than 1,000 square feet. You are able to design a smaller granny flat, of course, but that depends on your plans and the size of your lot. If your primary residence is 4,000 square feet, you are limited to an in-law suite of 1,200 square feet.
 
+![image of adu design plans](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/point-loma-adu-floorplan.jpg "ADU Design Plans and Blueprints")
+
 You must also provide an entrance distinct and separate from the main entrance to your house; ADUs are not considered additional rooms in your existing structure.
 
 _Detached ADUs_
@@ -103,8 +105,8 @@ As you do your research and learn about building your granny flat in San Diego, 
 
 The [design-build method](/infographic-visual-guide-to-the-design-build-process/) is rapidly becoming the primary model for construction projects in the United States, outpacing architecture-led projects due to the efficient cost model, single point of contact, and cohesive team mentality. [An architect can add thousands of dollars to a project](https://www.wisebread.com/architect-designer-or-contractor-who-should-you-hire-for-your-project), and they may require a percentage of the cost of the construction if you want them to oversee the work. Of course, the other option is to do the work yourself.
 
-![rendering of an accessory dwelling unit](https://images.squarespace-cdn.com/content/570a958bab48de7164536ffe/1462492038236-0R6Q4K4QTH48UFQDJXXA/Accessory-Dwelling-Unit-Section.jpg?content-type=image%2Fjpeg "Rendering of an Accessory Dwelling Unit")
-_Photo: Propelstudio.com_
+![image of casita adu kitchen](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/starks-casita-kitchen-1.jpg "Casita Kitchen with Plenty of Space")
+_Photo: San Diego Magazine_
 
 _DIY versus Hiring a Pro_
 
@@ -153,8 +155,8 @@ San Diego’s city government maintains a very easy-to-read and comprehensive we
 
 In any city, zoning regulations are often extensive and complex. [San Diego’s zoning ordinance](https://www.sandiegocounty.gov/content/sdc/pds/zoning.html) is published online, and it is recommended that you familiarize yourself with the sections most relevant to you. But if you don’t have time to peruse even the introductory section (at 102 pages of technical language, it’s not a casual read) you can contact the building division directly. Of course, you should contact your designer or builder for support as well.
 
-![image of modern ADU with wood siding and soffits](https://393ybmdupmd2zt2rb3v5kyg3-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/170605111106-britespace-avava-1024x731.jpg "A Modern ADU with Natural Wood Siding and Soffits")
-_Photo: Attomdata.com_
+![image of casita adu kitchen](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/starks-casita-kitchen-2.jpg "Casita Kitchen with Plenty of Space")
+_Photo: San Diego Magazine_
 
 ### ADU Costs, Fees, and Financing in San Diego
 
@@ -213,9 +215,6 @@ Install sound-dampening panels in the bedroom to control exterior noise so you c
 
 ### Building a Smart, Sustainable ADU
 
-![image of solar panels on an ADU](https://www.urdesignmag.com/wordpress/wp-content/uploads/2019/07/stone-solar-studio-wittman-estes-node-1.jpg "Solar Panels are a Clean, Sustainable Way to Power Your ADU")
-_Photo: Urdesignmag.com_
-
 **Go Solar**
 
 [San Diego is ranked second in the United States](https://environmentamerica.org/feature/ame/shining-cities-2019) for harnessing solar energy. With all this sunshine, why not take advantage of the long-term cost savings? And now that you have a granny flat in your backyard, you have even more roof capacity to accommodate photovoltaic cells (or PV cells), which are commonly called “solar panels.”
@@ -260,3 +259,7 @@ _Motion Sensors and LEDs_
 Finally, if you still use incandescent bulbs, it’s time to get on the LED bandwagon. This inexpensive technology will give you infinite interior design options, including mood lighting both in your home and in outdoor spaces like pools and ponds. But most importantly, when paired with motion sensors, [putting LEDs in your home and in your ADU will save you money](https://www.energy.gov/energysaver/save-electricity-and-fuel/lighting-choices-save-you-money/led-lighting).
 
 San Diego granny flats are a hot trend that many homeowners are taking advantage of. Changes in the ADU rules and regulations make maximizing your property an easier and faster process. If you need a trusted company for your ADU construction project, contact Murray Lampert Design, Build, Remodel. We’re ready to put our 40 plus years of experience to work for you.
+
+
+![image of family outside of casita](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/adu-guide/starks-casita-family.jpg "Small Spaces Help Bring Families Closer Together")
+_Photo: San Diego Magazine_
