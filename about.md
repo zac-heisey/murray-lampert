@@ -104,31 +104,31 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:hwilson@murraylampert.com
 - name: Chelsea Tyler
-  position: 
+  position: Project Administrator
   avatar: chelsea-tyler.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/chelsea-tyler"
 - name: Dan Emery
-  position: 
+  position: Senior Project Manager
   avatar: dan-emery.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/dan-emery"
 - name: Johnny Ibanez
-  position: 
+  position: Field Technician
   avatar: johnny-ibanez
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/johnny-ibanez"
 - name: Matthew Clark
-  position: 
+  position: Project Manager
   avatar: matthew-clark.jpg
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/matthew-clark"
 - name: Javier Villamar
-  position: 
+  position: Senior Field Technician
   avatar: javier-villamar
   socials:
   - icon_class: fa fa-plus
