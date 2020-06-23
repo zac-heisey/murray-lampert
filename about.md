@@ -115,12 +115,6 @@ members:
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/dan-emery"
-- name: Johnny Ibanez
-  position: Field Technician
-  avatar: johnny-ibanez
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/johnny-ibanez"
 - name: Matthew Clark
   position: Project Manager
   avatar: matthew-clark.jpg
