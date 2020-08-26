@@ -3,8 +3,8 @@ title: Privacy Policy
 permalink: "/privacy-policy/"
 layout: default
 section_id: privacy-policy
-featured-image: 
-excerpt: Murray Lampert takes our website visitor's and client's privacy very seriously.
+featured-image:
+description: Murray Lampert takes our website visitor's and client's privacy very seriously.
   Please review our privacy policy and let us know if you have any questions.
 ---
 
