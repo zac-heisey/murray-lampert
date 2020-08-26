@@ -1,0 +1,28 @@
+---
+title: Tips on Saving Energy During the Winter in San Diego
+date: 2010-10-28 11:51:00 Z
+permalink: "/tips-on-saving-energy-during-the-winter-in-san-diego/"
+categories:
+- Green Construction
+- Home DIY Tips
+excerpt: Improving insulation, installing weather stripping, and gaps in pipes, vents
+  and fans are all ways San Diego homeowners can save energy this winter.
+author: Gregg Cantor
+layout: post
+---
+
+Wintertime is often associated with rising heating bills, as homeowners do their best to keep out the cold. However, there are a number of tricks that may help you beat both the winter chill and leave your pocketbook intact. San Diego residents can rely on various methods to keep themselves and their families comfortable, with many of them requiring just some simple home maintenance and materials. Once you have taken these steps, you will be amazed at the difference they can make in driving energy costs down.
+
+Improving home insulation is one idea you may want to consider, as it is likely to cut your energy bills in half or perhaps even more. Extra insulation can be applied to many areas of a home, such as outside walls, attics, basement walls and more. The material one chooses is up to them, though the most popular among builders are cellulose and fiberglass. Professionals can be hired for this project, which will, of course, add to the expense but eventually save money, time, and hassles in the long run. Home insulation is one of the smartest ways to both keep home temperatures up and bills down.
+
+Weather stripping is yet another means of keeping your San Diego home properly secured against chilly weather. Making sure windows and doors are properly sealed will help your home stay warm no matter what conditions you are up against. The most commonly used seals are the wrapped foam type. You should use a box cutter when installing the seal to guarantee a snug fit. When cutting, always make sure to leave more than you think you need, in order to avoid a seal that is too short and therefore useless. Outside the home, you may caulk to seal up smaller gaps or expanding foam for larger ones. Replace thresholds on exterior doors with ones that have vinyl inserts for further protection.
+
+You will also want to close any gaps in pipes, vents and fans in your home, which will guarantee that heat transfers more effectively across different rooms. If you have a pool, keep the filters running for only a few hours per day during the season. In addition, you can take advantage of natural heat by using your fireplace to stay warm. On the contrary, when you are not using your fireplace, you will want to keep your damper closed to keep heat from being released up the chimney.
+
+Another cost saving option is simply lowering your home’s thermostat whenever possible. You might be surprised at the difference this can make in decreasing your energy bill, even by just a few degrees at a time. With a programmable thermostat, you can decide when it is crucial to heat your home during the day or night, as well as reduce costs when no one is home. In order to maximize the heat from your thermostat, you may choose to rearrange furniture so that it allows warm air to flow better throughout the main living area. Closing doors of rooms that do not need to be heated, as well as wearing proper layers of clothing, will also reduce thermostat use in the home.
+
+For those able to invest more, energy efficient windows and doors provide homeowners with one of the most cost-effective options for reducing heating costs. Products should have high energy efficient ratings in order to provide ultimate protection.  Tubular lights can reduce cold in winter, as well as heat in summer. Make certain windows, skylights and doors are installed properly with no opening or cracks that will let cold air seep in. Kits are available with strong sheeting and tape that make the installation processes run more smoothly for homeowners. If you prefer, licensed contractors will be happy to install your new energy conservation selections to assure quality performance.
+
+For those who decide to install solar systems, the costs saved in energy bills will make these systems pay for themselves in a short time period. Winter heating bills can become a concern of the past. Interested residents can always consult an established contractor to discuss what would be the best choice for your particular home.  Two types of solar driven operations work well in San Diego. Passive systems are inexpensive and are effective in temperate areas like San Diego where there is a wealth of sunshine. Photovoltaic panel systems are another simple solar option that can be easily attached to the home or outdoor structures. Personal choice will depend on price range as well as appeal.
+
+San Diego homeowners concerned about energy savings during the cold months can turn to quality construction companies to better improve their homes. When deciding on a licensed contractor, look for experience in the home renovation department as well as expertise on how to make your home winter friendly without costs that are through the roof. Skilled contractors can install a home heating improvement system with the best interests of you and your family in mind. When the winter is over, you will be amazed at the bundles you have saved for perhaps another highly anticipated home improvement project.

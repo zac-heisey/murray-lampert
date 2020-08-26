@@ -1,0 +1,54 @@
+---
+layout: default
+section_id: projects
+---
+
+<div class='row'>
+  <!-- Featured Project Video -->
+  {% if page.featured-video and page.featured-video != "" %}
+    {% include youtube-embed.html id=page.featured-video %}
+  {% endif %}
+  <!-- Featured Project Description -->
+  <div class='large-8 columns'>
+    <h3>{{ page.title }}</h3>
+    <p>
+      {{ content }}
+    </p>
+    <div class='spacing'></div>
+  </div>
+  <div class='large-4 columns'>
+    <ul class='info'>
+      <li>
+        <strong>Client:</strong>
+        {{ page.client }}
+      </li>
+      <li>
+        <strong>Location:</strong>
+        {{ page.location }}
+      </li>
+      <li>
+        <strong>Date:</strong>
+        {{ page.project-date }}
+      </li>
+      <div class='spacing'></div>
+      <li>
+        <a class='button small' href='/featured-projects'>Other Featured Projects</a>
+      </li>
+      <li>
+        <a class='button small' href='/san-diego-remodel-project-gallery'>View Project Gallery</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class='spacing'></div>
+<!-- Featured Project Images -->
+<div class='mod modBoxedSlider'>
+  <div class='slides'>
+    {% for image in page.featured-images %}
+      <div class='slide'>
+        <img title ="{{ page.title }}" alt="{{ page.title }} featured project images" src="{% if image contains 'cloudinary' %}{{ image }}{% else %}/{{ image }}{% endif %}" />
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<div class='four spacing'></div>

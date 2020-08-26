@@ -1,0 +1,22 @@
+---
+title: Good News for the Home Remodeling Industry
+date: 2011-02-15 14:54:24 Z
+permalink: "/good-news-for-the-home-remodeling-industry/"
+layout: post
+---
+
+The unfortunate news for the housing development market in our struggling economy is turning out to be great news for the <a href="http://www.murraylampert.com/">home remodeling</a> industry. While one industry is fighting off bankruptcy, the other is helping families who cannot afford to buy new homes by fixing up the ones they already own. If you plan to remain in one house for the next five to ten years, you are likely to make it as comfortable as possible.
+
+A recent study completed by Harvard University’s Joint Center for Housing Studies (JCHS) forecasts that “the next decade will yield solid growth and many new opportunities” for the home remodeling industry. The study describes several indicators that are pointing towards a steady increase in business for the remodeling industry.
+
+Despite the forcasted growth, the remodeling industry is going through some changes. Instead of the large and luxurious home additions and remodels during the previous housing boom, people will be more cautious about spending their money. There will be a transition from the excessive house additions of the late 90’s to necessary remodels that will create a home that can accommodate the family for many years to come. When someone will be looking to make an investment in improving their home, it will not be directly related to increasing the resale value.
+
+
+
+Trends show that people will be planting some roots over the next decade. There will be fewer new home purchases and frequent moving. Homeowners will still want to increase their quality of life, as they may have in the past by moving to a bigger and better home in a nicer neighborhood. The weaker economy has instilled a new mindset of saving as much money as possible and only spending it on necessary items and amenities. Typical projects for families with reduced household mobility will include roof replacements, HVAC system upgrades, energy efficient window replacements, and <a href="http://www.murraylampert.com/san-diego-room-additions/">room expansions</a>.
+
+The home remodeling industry is not solely dependent on families without household mobility; it is also showing growth in several other categories. During the recession, many homes were foreclosed by the banks and left abandoned. These homes were gutted by the previous residents, thieves looking for copper piping, and even transients. Now that the economy seems to be slightly more stable, the owners who bought the foreclosed home for dimes on the dollar are refurbishing them and getting them ready for resale. The JCHS report showed that owners of foreclosed homes spend, on average, 15 percent more on home improvements than the typical homeowner. The sad, but true, story of thousands of people’s homes being foreclosed during the recession has created a new market opportunity for savvy homeowners and the home remodeling industry.
+
+One often overlooked growth indicator for the home remodeling industry is the new emphasis on energy efficient and “<a href="http://www.murraylampert.com/san-diego-green-home-construction/">going green</a>” types of repairs and replacements. In metro areas with higher home values, people are increasingly replacing their older windows, roofs, appliances, heating and cooling systems with low-energy alternatives. Anything that involves saving energy and being more environmentally friendly is “in” right now. Despite the recession between 2009 and 2010, improvement projects that included green features increased from 25 percent to 28 percent. The steady growth in the industry is often attributed to the strong tax incentives and government subsidies for green residential projects.
+
+With an economy that seems to be bouncing back, homeowners stay in one place, foreclosed homes needing repair, and a culture still focused on going green, the home remodeling industry is forecasted to bounce back in a huge way. With the new report released by <a href="http://www.jchs.harvard.edu/">JCHS</a>, home remodeling companies can hang tough and have hope for a brighter future with strong growth over the next decade. The industry may have changed and the type of repairs people are spending their money on may be more out of necessity than before, but the growth is positive nonetheless.

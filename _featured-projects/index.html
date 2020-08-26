@@ -1,0 +1,18 @@
+---
+title: Murray Lampert Featured Projects
+permalink: "/featured-projects/"
+layout: default
+section_id: projects
+featured-image: 
+excerpt: We put our heart and soul into every home remodel, but some projects are
+  truly special. Check out our list of featured home remodeling projects here.
+---
+
+<!-- Temporary way to list out featured projects > Revisit later -->
+{% for project in site.featured-projects %}
+  {% if project.path contains ".md" %} <!-- Filters featured-projects/index.html from list -->
+  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+  <h4>Location: {{ project.location }} | Date: {{ project.project-date }}</h4>
+  {% endif %}
+{% endfor %}
+<div class='four spacing'></div>

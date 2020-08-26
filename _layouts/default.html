@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSGKJ4B"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    {% include header.html %}
+
+    <div id='main' role='main'>
+      <div class='full' style='background: #3d3d3d'>
+        <div class='row'>
+          <div class='large-12 columns'>
+            <h1 style='color: #fff;' class="centered-text">{{ page.title }}</h1>
+            {% if page.title == 'Contact Murray Lampert' %}
+            <h2 style='color: #fff;' class="centered-text">Schedule Your Free In-Home Remodeling Consultation</h2>
+            {% endif %}
+          </div>
+        </div>
+        <div class='spacing'></div>
+      </div>
+      <div class='full'>
+        <div class='row' id="main-content-row">
+          {% if page.featured-image and page.featured-image != "" %}
+            <img id="featured-image" src="{% if page.featured-image contains 'cloudinary' %}{{ page.featured-image }}{% else %}{{ site.url }}{{ page.featured-image }}{% endif %}" title="{{ page.title }} | Murray Lampert" alt="{{ page.title }} featured image" />
+            <div class='spacing'></div>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
+      {% if page.title != 'Contact Murray Lampert' and page.title != 'Blog' %}
+        {% include quick-contact.html %}
+      {% endif %}
+      <!-- <div class='four spacing'></div> Remove spacing between quick contact form & footer -->
+    </div>
+
+    {% include footer.html %}
+
+    {% if page.title == 'San Diego Home Remodeling Blog' %}
+      <!-- Simply Jekyll Search scripts (only show on /blog/) -->
+      <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
+      <script>
+        window.simpleJekyllSearch = new SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '{{ site.baseurl }}/search.json',
+          searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+          noResultsText: 'No results found',
+          limit: 20,
+          fuzzy: false,
+          exclude: ['Welcome']
+        })
+      </script>
+    {% endif %}
+
+  </body>
+
+</html>

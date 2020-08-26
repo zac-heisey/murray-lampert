@@ -1,0 +1,33 @@
+---
+layout: default
+section_id: blog
+---
+
+  <div class='large-12 columns'>
+    <div class='mod modBlogPost big no_bg'>
+      <!-- featured-image is pulled in here by default layout -->
+      <div class='content'>
+        <p class='info'>
+          <span>{{page.date | date: "%B %d, %Y" }}</span>
+          /
+          <span>
+            by
+            <a href="/team-member/{{page.author | slugify}}">{{page.author}}</a>
+          </span>
+          /
+          <span>
+            In
+            {% for cat in page.categories %}
+              <a href="/blog/categories/#{{cat | slugify}}">{{cat}}</a>
+              {% unless forloop.last %}
+                  ,
+              {% endunless %}
+            {% endfor %}
+          </span>
+        </p>
+        {{ content }}
+      </div>
+    </div>
+    {% include social-sharing.html %}
+    <a class="button default" href="{{site.url}}/blog" style="margin-top:1rem;"><< Back to Blog</a>
+  </div>

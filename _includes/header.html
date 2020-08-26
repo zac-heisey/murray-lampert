@@ -1,0 +1,56 @@
+<div class='transparent fullwidth white fixed contain-to-grid fixed'>
+  <nav class='top-bar onepage' data-options='' data-topbar=''>
+    <ul class='title-area'>
+      <li class='name'>
+        {% if page.layout != "home" %}
+        <h1 id='header-phone'><a href="tel:+16192859222" style="color:#2082AF;text-shadow:1px 1px #fff;"><strong>619-285-9222</strong></a></h1>
+        {% else %}
+        <h1 id='header-phone'><a href="tel:+16192859222"><strong>619-285-9222</strong></a></h1>
+        {% endif %}
+      </li>
+    </ul>
+    {% if page.layout != "home" %}
+    <div id="menu-toggler" class="right">
+      <a href='#' style='color:#2082AF'>
+        <i class="fa fa-bars"></i>
+        Menu
+      </a>
+    </div>
+    <section class='top-bar-section closed'>
+      <ul class='right'>
+        {% for item in site.data.internal-nav %}
+          <li>
+            <a style='color:#2082AF' href="{{ site.url }}/{{ item.path }}">{{ item.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% else %}
+    <div id="menu-toggler" class="right">
+      <a href='#'>
+        <i class="fa fa-bars"></i>
+        Menu
+      </a>
+    </div>
+    <section class='top-bar-section closed'>
+      <ul class='right'>
+        {% for item in site.data.home-nav %}
+          <li>
+            {% assign first = item.path | truncate:1,'' %}
+
+            {% if first != '#' %}
+              {% assign href = item.path | relative_url %}
+            {% elsif page.onepage %}
+              {% assign href = item.path %}
+            {% else %}
+              {% assign href = 'index.html' | append:item.path | relative_url %}
+            {% endif %}
+
+            <a href="{{ href }}">{{ item.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  </nav>
+</div>
