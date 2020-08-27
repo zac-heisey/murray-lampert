@@ -5,24 +5,20 @@
 
   <body>
 
-    <section>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSGKJ4B"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSGKJ4B"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+    {% include header.html %}
 
-      {% include header.html %}
+    <main id="main" role="main">
 
-      <main>
+      {{ content }}
 
-        {{ content }}
+    </main>
 
-      </main>
-
-      {% include footer.html %}
-
-    </section>
+    {% include footer.html %}
 
   </body>
 
