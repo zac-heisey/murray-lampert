@@ -1,3 +1,5 @@
+- title: Home
+  url: "/"
 - title: Our Family
   url: "#"
 - title: Our Services
@@ -8,3 +10,5 @@
   url: "#"
 - title: Blog
   url: "#"
+- title: Components
+  url: "/components/"

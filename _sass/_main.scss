@@ -116,11 +116,18 @@ p.sub-heading {
   padding: 0.75rem 1.5rem;
   line-height: 24px;
   white-space: nowrap;
+  transition: color 0.25s, background-color 0.25s, border-color 0.25s;
 
   &.blue {
 
     background-color: $blue;
     color: $white;
+
+    &:hover, &:focus {
+
+      background-color: #315b7e;
+
+    }
 
   }
 
@@ -129,6 +136,12 @@ p.sub-heading {
     background-color: $white;
     color: $blue;
 
+    &:hover, &:focus {
+
+      background-color: $light-gray;
+
+    }
+
   }
 
 }
@@ -136,6 +149,9 @@ p.sub-heading {
 /*== Main Header ==*/
 
 header#main {
+
+  position: relative;
+  margin-bottom: 4rem;
 
   .lock {
 
@@ -148,11 +164,16 @@ header#main {
 
   }
 
-  img {
+  a#header-logo {
 
-    width: 25%;
     min-width: 80px;
     max-width: 150px;
+
+    img {
+
+      width: 100%;
+
+    }
 
   }
 
@@ -170,6 +191,26 @@ header#main {
       text-align: left;
       margin-left: 1.25rem;
       margin-right: auto;
+
+    }
+
+  }
+
+  a.btn.blue {
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -3rem;
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    text-align: center;
+
+    @media (min-width: $breakpoint-sm) {
+
+      position: static;
+      font-size: 1rem;
+      margin: 0 1rem;
 
     }
 
@@ -317,6 +358,12 @@ header#main {
         width: 75%;
         max-width: 750px;
         margin: 0 auto;
+
+      }
+
+      a:hover, a:focus {
+
+        color: $blue;
 
       }
 
