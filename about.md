@@ -127,9 +127,9 @@ members:
   socials:
   - icon_class: fa fa-plus
     url: "/team-member/javier-villamar"
-- name: Micah Winklestein
+- name: Micah Winkelstein
   position: Senior Architect
-  avatar: micah-winklestein.gif
+  avatar: micah-winkelstein.gif
   socials:
   - icon_class: fa fa-envelope
     url: mailto:mwinklestein@murraylampert.com
