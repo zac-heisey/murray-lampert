@@ -1,5 +1,47 @@
 <footer>
-  <!-- Footer links, logo, etc. will go here -->
+
+  <div class="lock">
+
+    <div class="column">
+      <a href="/" id="footer-logo">
+        <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/logos/mldbr-standard.png" alt="Murray Lampert Design, Build, Remodel logo">
+      </a>
+      <p>©2020 Murray Lampert. All Rights Reserved.</p>
+    </div>
+
+    <div class="column">
+      <nav>
+        <!-- Footer menu items 1-4 -->
+        <ul class="menu-items">
+          {% for item in site.data.footer-nav limit:4 %}
+          <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        <!-- Footer menu items 5-8 -->
+        <ul class="menu-items">
+          {% for item in site.data.footer-nav offset:4 %}
+          <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="column">
+      <address>
+        <p>2878 Camino Del Rio South</p>
+        <p>Suite 160</p>
+        <p>San Diego, CA 92108</p>
+        <a href="tel:+16192859222">619-285-9222</a>
+      </address>
+      <a href="/contact" class="btn blue">Contact Us</a>
+    </div>
+
+  </div>
 
   <!-- Scripts -->
   <script src="/js/main.js" charset="utf-8"></script>

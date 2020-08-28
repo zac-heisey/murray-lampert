@@ -1,1 +1,16 @@
-# Footer navigation items will go here
+- title: Accolades
+  url: "#"
+- title: Community
+  url: "#"
+- title: Careers
+  url: "#"
+- title: Blog
+  url: "/blog"
+- title: FAQs
+  url: "/faqs"
+- title: Sitemap
+  url: "/sitemap"
+- title: Privacy Policy
+  url: "/privacy-policy"
+- title: License 485038
+  url: "https://www2.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=458038"
