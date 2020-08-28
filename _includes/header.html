@@ -18,21 +18,11 @@
 
     <nav id="nav-overlay" aria-labelledby="menu-icon">
       <ul class="menu-items">
+        {% for item in site.data.header-nav %}
         <li>
-          <a href="#">Our Family</a>
+          <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
-        <li>
-          <a href="#">Our Services</a>
-        </li>
-        <li>
-          <a href="#">Our Work</a>
-        </li>
-        <li>
-          <a href="#">Contact Us</a>
-        </li>
-        <li>
-          <a href="#">Blog</a>
-        </li>
+        {% endfor %}
       </ul>
     </nav>
 
