@@ -14,17 +14,17 @@ footer {
     margin: 0 auto;
     padding: 2rem;
 
-    // .column {
-    //
-    //   width: 100%;
-    //
-    //   @media (min-width: $breakpoint-sm) {
-    //
-    //     max-width: 300px;
-    //
-    //   }
-    //
-    // }
+  }
+
+  .column:nth-of-type(even) {
+
+    margin: 1rem 0;
+
+    @media (min-width: $breakpoint-sm) {
+
+      margin: 0;
+
+    }
 
   }
 
@@ -39,15 +39,7 @@ footer {
   nav {
 
     display: flex;
-    margin: 1rem 0;
-    border-top: 1px solid $sand;
-    border-bottom: 1px solid $sand;
-
-    @media (min-width: $breakpoint-sm) {
-
-      border: none;
-      
-    }
+    margin-bottom: 1rem;
 
     ul.menu-items {
 
@@ -71,6 +63,14 @@ footer {
       }
 
     }
+
+  }
+
+  .social-icons {
+
+    display: flex;
+    justify-content: space-between;
+    max-width: 265px;
 
   }
 
