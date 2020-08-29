@@ -1,40 +1,58 @@
-//== Variables ==//
+//== Main Menu Toggle ==//
 
-// Menu Icon
-var menuIcon = document.querySelector('#menu-icon');
-// Nav Overlay
-var navOverlay = document.querySelector('#nav-overlay');
+(function() {
 
-//== Functions & Methods ==//
+  let menuIcon = document.querySelector('#menu-icon');
+  let navOverlay = document.querySelector('#nav-overlay');
 
-// Mobile menu toggle
-function menuToggle(event) {
+  // Close main menu
+  function closeMenu() {
 
-  // If menu is not open, show menu items
-  if (!menuIcon.classList.contains('open')) {
-    menuIcon.classList.add('open');
-    menuIcon.setAttribute('aria-expanded', 'true');
-    navOverlay.style.height = '100%';
-  }
-  // Else close menu
-  else {
     menuIcon.classList.remove('open');
     menuIcon.setAttribute('aria-expanded', 'false');
+    navOverlay.setAttribute('aria-hidden', 'true');
+    navOverlay.style.visibility = 'hidden';
     navOverlay.style.height = '0%';
+
   }
 
-}
+  // Open main menu
+  function openMenu() {
 
+    menuIcon.classList.add('open');
+    menuIcon.setAttribute('aria-expanded', 'true');
+    navOverlay.setAttribute('aria-hidden', 'false');
+    navOverlay.style.visibility = 'visible';
+    navOverlay.style.height = '100%';
 
-//== Inits & Listeners ==//
-
-// Listen for click events on document
-document.addEventListener('click', function(event) {
-
-  // If click is on menu icon, run menuToggle function
-  if (event.target === menuIcon) {
-    menuToggle(event);
   }
 
+  // Toggle menu opened/closed
+  function menuToggle(event) {
 
-}, false);
+    // If menu is not open, show menu items
+    if (!menuIcon.classList.contains('open')) {
+      openMenu();
+    }
+    // Else close menu
+    else {
+      closeMenu();
+    }
+
+  }
+
+  // Listen for clicks on hamburger menu icon
+  menuIcon.addEventListener('click', menuToggle);
+
+  // Listen for keydown events
+  document.addEventListener('keydown', function(event) {
+
+    // If menu is open and Escape key is pressed, close menu
+    if (event.key === 'Escape' && menuIcon.classList.contains('open')) {
+      closeMenu();
+      return;
+    }
+
+  }, false);
+
+}());

@@ -1,0 +1,95 @@
+/*== Footer Styles ==*/
+
+footer {
+
+  background-color: $light-gray;
+
+  .lock {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    // .column {
+    //
+    //   width: 100%;
+    //
+    //   @media (min-width: $breakpoint-sm) {
+    //
+    //     max-width: 300px;
+    //
+    //   }
+    //
+    // }
+
+  }
+
+  a#footer-logo img {
+
+    width: 100%;
+    min-width: 80px;
+    max-width: 150px;
+
+  }
+
+  nav {
+
+    display: flex;
+    margin: 1rem 0;
+    border-top: 1px solid $sand;
+    border-bottom: 1px solid $sand;
+
+    @media (min-width: $breakpoint-sm) {
+
+      border: none;
+      
+    }
+
+    ul.menu-items {
+
+      list-style: none;
+      margin-right: 2rem;
+
+      a {
+
+        display: block;
+        color: $dark-gray;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 0.5rem 0;
+
+      }
+
+      a:hover, a:focus {
+
+        color: $blue;
+
+      }
+
+    }
+
+  }
+
+  address {
+
+    font-style: normal;
+
+    p {
+
+      margin: 0.5rem 0;
+
+    }
+
+  }
+
+  a.btn.blue {
+
+    margin-top: 1rem;
+
+  }
+
+}
