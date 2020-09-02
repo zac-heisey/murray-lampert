@@ -1,0 +1,11 @@
+<section class="hero-banner" {% if section.background-image %} style="background-image: url('{{ section.background-image | relative_url }}')" {% endif %}>
+
+  <div class="container">
+    <h1>{{ section.heading }}</h1>
+    <p>{{ section.content }}</p>
+    {% if section.cta and section.cta.enabled == true %}
+    <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
+    {% endif %}
+  </div>
+
+</section>

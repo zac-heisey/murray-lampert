@@ -62,11 +62,11 @@ body {
 
 }
 
-/* Keeps footer at bottom of page; 470px = height
+/* Keeps footer at bottom of page; 410px = height
 of header (with margin) + height of footer */
 main {
 
-  min-height: calc(100vh - 474px);
+  min-height: calc(100vh - 410px);
 
 }
 

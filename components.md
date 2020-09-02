@@ -1,10 +1,15 @@
 ---
 title: Components Page
-layout: default
+layout: blocks
+sections:
+- template: Hero Banner
+  block: hero-banner
+  background-image: "/uploads/hero-bg.png"
+  heading: We listen first.<br>Then we design & build.
+  content: We listen so you know your home will reflect your lifestyle and design style.
+  cta:
+    enabled: true
+    color: white
+    button-text: See How We Collaborate
+    url: "/#cta-test"
 ---
-
-# MLDBR Website v3 Components
-
-## This page is a collection of components used to create layouts, templates, and other pages
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
