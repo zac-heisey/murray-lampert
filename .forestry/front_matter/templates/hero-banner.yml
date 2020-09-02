@@ -2,38 +2,76 @@
 label: Hero Banner
 hide_body: true
 fields:
-- type: field_group_list
-  name: sections
-  label: sections
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: hero-banner
+- name: background-image
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image
+  description: Upload an image as a background for your hero banner.
+- name: heading
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Heading
+  description: Write a heading to show in your hero banner.
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
+  description: Add some content below your heading.
+- name: cta
+  type: field_group
+  config: {}
   fields:
-  - type: text
-    name: template
-    label: template
-  - type: text
-    name: block
-    label: block
-  - type: file
-    name: background-image
-    label: background-image
-  - type: text
-    name: heading
-    label: heading
-  - type: text
-    name: content
-    label: content
-  - type: field_group
-    name: cta
-    label: cta
-    fields:
-    - type: boolean
-      name: enabled
-      label: enabled
-    - type: text
-      name: color
-      label: color
-    - type: text
-      name: button-text
-      label: button-text
-    - type: text
-      name: url
-      label: url
+  - name: enabled
+    type: boolean
+    label: Enabled
+    default: true
+    description: Enable to display a CTA button in your hero banner. Disable to remove
+      the button.
+  - name: color
+    type: select
+    default: white
+    config:
+      required: false
+      options:
+      - white
+      - blue
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Color
+    description: Select a background color for your CTA button.
+  - name: button-text
+    type: text
+    config:
+      required: false
+      max: 50
+    label: Button Text
+    description: Text for your CTA button.
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: The relative URL (e.g. https://www.example.com<strong>/another-page</strong>)
+      for your CTA button.
+  label: CTA Button
