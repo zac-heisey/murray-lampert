@@ -4,10 +4,20 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Title for your page or post
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  default: blocks
+- name: sections1
+  type: blocks
+  label: Page Sections
+  template_types: []
+  config:
+    min: 
+    max: 
 - type: field_group_list
   name: sections
   label: sections
