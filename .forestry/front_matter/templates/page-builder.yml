@@ -34,3 +34,4 @@ fields:
     max: 
 pages:
 - components.md
+- test-page.md
