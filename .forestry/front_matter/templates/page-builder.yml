@@ -32,3 +32,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- components-1.md
