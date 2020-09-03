@@ -1,6 +1,7 @@
 ---
-title: Components Page
 layout: blocks
+title: Components Page
+description: Components page for testing during development.
 sections:
 - template: Hero Banner
   block: hero-banner
@@ -13,17 +14,5 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/#cta-test"
-description: Components page for testing during development.
-sections1:
-- template: hero-banner
-  block: hero-banner
-  cta:
-    enabled: true
-    color: white
-    button-text: ''
-    url: ''
-  background-image: ''
-  heading: ''
-  content: ''
 
 ---
