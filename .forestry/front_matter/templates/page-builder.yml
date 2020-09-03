@@ -6,6 +6,19 @@ fields:
   name: title
   label: Title
   description: Title for your page or post
+  config:
+    required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 175
+  label: Description
+  description: A short description (~160 characters) about this page.
 - type: text
   name: layout
   label: Layout
