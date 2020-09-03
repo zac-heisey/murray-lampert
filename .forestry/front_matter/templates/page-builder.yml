@@ -3,6 +3,11 @@ label: Page Builder
 hide_body: true
 fields:
 - type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: blocks
+- type: text
   name: title
   label: Title
   description: Title for your page or post
@@ -19,11 +24,6 @@ fields:
     max: 175
   label: Description
   description: A short description (~160 characters) about this page.
-- type: text
-  name: layout
-  label: Layout
-  hidden: true
-  default: blocks
 - name: sections
   type: blocks
   label: Page Sections
