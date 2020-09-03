@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Components-1
-description: 'Page to build and test components during development. '
+title: Components
+description: 'Page to build and test components during development.'
 sections:
 - template: hero-banner
   block: hero-banner
