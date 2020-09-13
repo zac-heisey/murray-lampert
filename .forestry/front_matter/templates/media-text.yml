@@ -9,12 +9,55 @@ fields:
   label: block
   hidden: true
   default: media-text
-- name: media
+- name: media-position
+  type: select
+  default: Left
+  config:
+    required: false
+    options:
+    - Left
+    - Right
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Media Position
+  description: Choose whether your media displays on the left or right.
+- name: media-type
+  type: select
+  default: Image
+  config:
+    required: true
+    options:
+    - Image
+    - Video
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Media Type
+  description: Choose what type of media to display.
+- name: image
   type: file
   config:
     maxSize: 64
-  label: Media (Image or Video)
-  description: Choose an image or video as your media.
+  description: Choose an existing image or upload a new one.
+  label: Image
+  showOnly:
+    field: media-type
+    value: Image
+- name: video-id
+  type: text
+  config:
+    required: false
+  label: Video ID
+  description: The ID of the YouTube video to be used (e.g. youtube.com/watch?v=<strong>{{video
+    id is here}})</strong>
+  showOnly:
+    field: media-type
+    value: Video
 - name: heading
   type: text
   config:
