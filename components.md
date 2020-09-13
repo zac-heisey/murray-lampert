@@ -30,5 +30,20 @@ sections:
     service to San Diego homeowners. By the time we're done working together, you'll
     feel like family.
   video-id: ''
+- template: media-text
+  block: media-text
+  media-position: Right
+  media-type: Image
+  cta:
+    enabled: true
+    color: blue
+    button-text: See Our Process In Action
+    url: "#our-process"
+  image: "/uploads/team-placeholder.png"
+  heading: Full-service home remodeling.
+  content: Our project managers, designers, and architects work with you every step
+    of the way, whether you are extending your living area, adding a second story,
+    or building a granny flat for a senior member of the family.
+  video-id: ''
 
 ---
