@@ -1,7 +1,19 @@
 <section class="media-text">
 
-  <div class="container">
-    <h1>{{ section.heading }}</h1>
+  <div class="container media{% if section.media-position == "Right" %} right{% endif %}">
+
+    {% if section.media-type == "Image" %}
+
+    <img src="{{ section.image }}" alt="{{ section.heading }} media image">
+
+    {% else %}
+
+    {% endif %}
+
+  </div>
+
+  <div class="container text{% if section.media-position == "Right" %} left{% endif %}">
+    <h2>{{ section.heading }}</h2>
     <p>{{ section.content }}</p>
     {% if section.cta and section.cta.enabled == true %}
     <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
