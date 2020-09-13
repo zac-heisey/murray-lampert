@@ -23,7 +23,7 @@ sections:
     color: blue
     button-text: Learn More About Us
     url: "#about-us"
-  image: "/uploads/hero-bg.png"
+  image: "/uploads/team-placeholder.png"
   heading: Treating you like family.
   content: We're Murray Lampert, a family-owned San Diego Design Build Remodel company
     that was established in 1975. For over 40 years, we've been providing outstanding
