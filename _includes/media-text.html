@@ -1,0 +1,11 @@
+<section class="media-text">
+
+  <div class="container">
+    <h1>{{ section.heading }}</h1>
+    <p>{{ section.content }}</p>
+    {% if section.cta and section.cta.enabled == true %}
+    <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
+    {% endif %}
+  </div>
+
+</section>
