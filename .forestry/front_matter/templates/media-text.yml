@@ -35,8 +35,7 @@ fields:
     type: boolean
     label: Enabled
     default: true
-    description: Enable to display a CTA button. Disable to remove
-      the button.
+    description: Enable to display a CTA button. Disable to remove the button.
   - name: color
     type: select
     default: white
@@ -47,9 +46,9 @@ fields:
       - blue
       source:
         type: simple
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
     label: Color
     description: Select a background color for your CTA button.
   - name: button-text
