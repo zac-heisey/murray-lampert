@@ -29,6 +29,7 @@ fields:
   label: Page Sections
   template_types:
   - hero-banner
+  - media-text
   config:
     min: 
     max: 
