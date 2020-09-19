@@ -19,9 +19,9 @@ fields:
     - Right
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Media Position
   description: Choose whether your media displays on the left or right.
 - name: media-type
@@ -34,9 +34,9 @@ fields:
     - Video
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Media Type
   description: Choose what type of media to display.
 - name: image
@@ -93,9 +93,9 @@ fields:
       - blue
       source:
         type: simple
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
     label: Color
     description: Select a background color for your CTA button.
   - name: button-text
