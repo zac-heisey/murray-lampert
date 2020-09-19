@@ -2,11 +2,15 @@
 
   <div class="container media{% if section.media-position == "Right" %} right{% endif %}">
 
-    {% if section.media-type == "Image" %}
+    {% if section.media-type == "Video" %}
 
-    <img src="{{ section.image }}" alt="{{ section.heading }} media image">
+    <div class="flex-iframe">
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ section.video-id }}?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
     {% else %}
+
+    <img src="{{ section.image }}" alt="{{ section.heading }} media image">
 
     {% endif %}
 
