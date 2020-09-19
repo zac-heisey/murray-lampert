@@ -1,0 +1,99 @@
+---
+label: Call to Action
+hide_body: true
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: call-to-action
+- name: layout
+  type: select
+  default: Full-Width
+  config:
+    required: true
+    options:
+    - Full-Width
+    - 3-Column
+    source:
+      type: simple
+      section:
+      file:
+      path:
+  label: Layout
+  description: Choose a full-width or 3-column layout for your call to action.
+- name: image-left
+  type: file
+  config:
+    maxSize: 64
+  description: Choose an existing image or upload a new one.
+  label: Image (Left)
+  showOnly:
+    field: layout
+    value: 3-Column
+- name: image-right
+  type: file
+  config:
+    maxSize: 64
+  description: Choose an existing image or upload a new one.
+  label: Image (Right)
+  showOnly:
+    field: layout
+    value: 3-Column
+- name: heading
+  type: text
+  config:
+    required: true
+  label: Heading
+  description: Write a heading for your call to action.
+- name: content
+  type: textarea
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+    max: 300
+  description: Add some content below your heading.
+  label: Content
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: enabled
+    type: boolean
+    label: Enabled
+    default: true
+    description: Enable to display a CTA button. Disable to remove the button.
+  - name: color
+    type: select
+    default: white
+    config:
+      required: false
+      options:
+      - white
+      - blue
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Color
+    description: Select a background color for your CTA button.
+  - name: button-text
+    type: text
+    config:
+      required: false
+      max: 50
+    label: Button Text
+    description: Text for your CTA button.
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: The relative URL (e.g. https://www.example.com<strong>/another-page</strong>)
+      for your CTA button.
+  label: CTA Button
