@@ -30,6 +30,7 @@ fields:
   template_types:
   - hero-banner
   - media-text
+  - call-to-action
   config:
     min: 
     max: 
