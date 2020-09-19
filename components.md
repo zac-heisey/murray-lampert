@@ -39,7 +39,7 @@ sections:
     color: blue
     button-text: See Our Process In Action
     url: "#our-process"
-  image: "/uploads/team-placeholder.png"
+  image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
   heading: Full-service home remodeling.
   content: Our project managers, designers, and architects work with you every step
     of the way, whether you are extending your living area, adding a second story,
