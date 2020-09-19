@@ -47,15 +47,15 @@ sections:
   video-id: wSTKUOXIAms
 - template: call-to-action
   block: call-to-action
-  layout: Full-Width
+  layout: 3-Column
   cta:
     enabled: true
     color: white
     button-text: Contact Murray Lampert
     url: "/contact/"
   heading: Ready to start the conversation?
-  content: "<p>Contact us today to schedule your FREE in-home or virtual consultation.</p>"
-  image-left: ''
-  image-right: ''
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
 
 ---

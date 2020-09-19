@@ -1,0 +1,23 @@
+<section class="call-to-action">
+
+  {% if section.layout == "3-Column" %}
+
+  <div class="container media left">
+    <img src="{{ section.image-left }}" alt="{{ section.heading }} media image">
+  </div>
+
+  <div class="container media right">
+    <img src="{{ section.image-right }}" alt="{{ section.heading }} media image">
+  </div>
+
+  {% endif %}
+
+  <div class="container text">
+    <h3>{{ section.heading }}</h3>
+    <p>{{ section.content }}</p>
+    {% if section.cta and section.cta.enabled == true %}
+    <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
+    {% endif %}
+  </div>
+
+</section>
