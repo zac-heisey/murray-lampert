@@ -54,7 +54,8 @@ sections:
     button-text: Contact Murray Lampert
     url: "/contact/"
   heading: Ready to start the conversation?
-  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  content: "<p>Contact us today to schedule your FREE in-home or virtual consultation.
+    Lorem ipsum testing 123.<br><br>Yolo bigote chote chimbote.</p>"
   image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
   image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
 
