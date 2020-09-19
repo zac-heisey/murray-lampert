@@ -45,5 +45,17 @@ sections:
     of the way, whether you are extending your living area, adding a second story,
     or building a granny flat for a senior member of the family.
   video-id: wSTKUOXIAms
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: "<p>Contact us today to schedule your FREE in-home or virtual consultation.</p>"
+  image-left: ''
+  image-right: ''
 
 ---
