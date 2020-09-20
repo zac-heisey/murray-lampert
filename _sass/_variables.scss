@@ -2,6 +2,36 @@
 
 /* Fonts */
 
+@font-face {
+
+  font-family: adobe-caslon-pro;
+  font-weight: 600;
+  font-style: normal;
+  src: local(adobe-caslon-pro), url('/css/fonts/adobe-caslon-pro-semibold.otf') format('opentype');
+  font-display: swap;
+
+}
+
+@font-face {
+
+  font-family: acumin-pro;
+  font-weight: 400;
+  font-style: normal;
+  src: local(acumin-pro), url('/css/fonts/acumin-pro-regular.otf') format('opentype');
+  font-display: swap;
+
+}
+
+@font-face {
+
+  font-family: acumin-pro;
+  font-weight: 700;
+  font-style: normal;
+  src: local(acumin-pro), url('/css/fonts/acumin-pro-bold.otf') format('opentype');
+  font-display: swap;
+
+}
+
 $system-font: Times, Georgia, serif;
 $heading-font: adobe-caslon-pro, Times, serif;
 $body-font: acumin-pro, Arial, sans-serif;
