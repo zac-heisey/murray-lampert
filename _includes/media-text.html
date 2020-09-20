@@ -4,9 +4,8 @@
 
     {% if section.media-type == "Video" %}
 
-    <div class="flex-iframe">
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ section.video-id }}?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+    <lite-youtube videoid="{{ section.video-id }}" style="background-image: url('https://i.ytimg.com/vi/{{ section.video-id }}/hqdefault.jpg');">
+    </lite-youtube>
 
     {% else %}
 

@@ -33,18 +33,18 @@ sections:
 - template: media-text
   block: media-text
   media-position: Right
-  media-type: Image
+  media-type: Video
   cta:
     enabled: true
     color: blue
     button-text: See Our Process In Action
     url: "#our-process"
-  image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image: ''
   heading: Full-service home remodeling.
   content: Our project managers, designers, and architects work with you every step
     of the way, whether you are extending your living area, adding a second story,
     or building a granny flat for a senior member of the family.
-  video-id: ''
+  video-id: wSTKUOXIAms
 - template: call-to-action
   block: call-to-action
   layout: 3-Column

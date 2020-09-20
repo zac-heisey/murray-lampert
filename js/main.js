@@ -2,6 +2,7 @@
 (function() {
 
   //== Load Fonts (prevent FOIT) ==//
+
   // https://gomakethings.com/preventing-foit-with-web-fonts-using-the-vanilla-js-fonts.load-method/
 
   {

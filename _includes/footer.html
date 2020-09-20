@@ -53,4 +53,20 @@
   <!-- Scripts -->
   <script src="/js/main.js" charset="utf-8"></script>
 
+  <script type="text/javascript">
+
+    // If there are videos on the page, append lite-youtube-embed script to footer
+    if (document.querySelector('lite-youtube')) {
+
+      let footer = document.querySelector('footer');
+      let js = document.createElement('script');
+
+      js.type = "text/javascript";
+      js.src = "/js/lite-youtube-embed.js";
+      footer.appendChild(js);
+
+    }
+
+  </script>
+
 </footer>
