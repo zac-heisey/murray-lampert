@@ -33,7 +33,7 @@ sections:
 - template: media-text
   block: media-text
   media-position: Right
-  media-type: Video
+  media-type: Image
   cta:
     enabled: true
     color: blue
@@ -44,7 +44,7 @@ sections:
   content: Our project managers, designers, and architects work with you every step
     of the way, whether you are extending your living area, adding a second story,
     or building a granny flat for a senior member of the family.
-  video-id: wSTKUOXIAms
+  video-id: ''
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
