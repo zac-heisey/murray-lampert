@@ -1,6 +1,29 @@
 
 (function() {
 
+  //== Load Fonts (prevent FOIT) ==//
+  // https://gomakethings.com/preventing-foit-with-web-fonts-using-the-vanilla-js-fonts.load-method/
+
+  {
+
+    // If the browser supports the fonts.load() method
+    if ('fonts' in document) {
+
+    	// When all Adobe Typekit styles are loaded
+    	Promise.all([
+    		document.fonts.load('600 1em adobe-caslon-pro'),
+    		document.fonts.load('400 1em acumin-pro'),
+    		document.fonts.load('700 1em acumin-pro')
+    	]).then(function () {
+    		// The font is loaded
+    		// Add our loaded class
+    		document.documentElement.className += 'fonts-loaded';
+    	});
+
+    }
+
+  }
+
   //== Main Menu Toggle ==//
 
   {

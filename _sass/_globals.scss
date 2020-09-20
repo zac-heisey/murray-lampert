@@ -55,10 +55,43 @@ a:link, a:visited, a:hover, a:active {
 
 /* Common Styles */
 
-body {
+/* Initially load system font while custom fonts load */
+body, h1, h2, h3 {
+
+  font-family: $system-font;
+
+}
+
+/* Replace system font with custom font once loaded */
+.fonts-loaded body {
 
   font-family: $body-font;
   color: $dark-gray;
+
+  h1 {
+
+    font-family: $heading-font;
+    font-size: 4.209rem;
+    line-height: 1.25;
+
+  }
+
+  h2 {
+
+    font-family: $heading-font;
+    font-size: 3.157rem;
+    color: $sand;
+    line-height: 1.25;
+
+  }
+
+  h3 {
+
+    font-family: $heading-font;
+    font-size: 2.369rem;
+    line-height: 1.25;
+
+  }
 
 }
 
@@ -67,31 +100,6 @@ of header (with margin) + height of footer */
 main {
 
   min-height: calc(100vh - 410px);
-
-}
-
-h1 {
-
-  font-family: $heading-font;
-  font-size: 4.209rem;
-  line-height: 1.25;
-
-}
-
-h2 {
-
-  font-family: $heading-font;
-  font-size: 3.157rem;
-  color: $sand;
-  line-height: 1.25;
-
-}
-
-h3 {
-
-  font-family: $heading-font;
-  font-size: 2.369rem;
-  line-height: 1.25;
 
 }
 
