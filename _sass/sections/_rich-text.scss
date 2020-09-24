@@ -1,0 +1,29 @@
+/* Rich Text */
+
+section.rich-text {
+
+  margin: 4rem 0;
+
+  .lock {
+
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+
+  }
+
+  ul {
+
+    list-style-position: inside;
+    margin-inline-start: 2rem;
+
+    li > p {
+
+      display: inline-block;
+      margin: 0.25rem 0;
+
+    }
+
+  }
+
+}

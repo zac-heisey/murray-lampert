@@ -26,6 +26,14 @@ a:link, a:visited, a:hover, a:active {
 
 }
 
+/* Make images easier to work with */
+img {
+
+  max-width: 100%;
+  display: block;
+  
+}
+
 /* Screen readers only */
 
 .sr-only, .sr-only-focusable {
