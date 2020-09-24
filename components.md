@@ -57,5 +57,8 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
   image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+- template: rich-text
+  block: rich-text
+  content: ''
 
 ---
