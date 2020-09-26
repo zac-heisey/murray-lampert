@@ -31,13 +31,13 @@ fields:
     fields:
     - name: background-color
       type: select
-      default: None
+      default: none
       config:
         required: true
         options:
-        - Blue
-        - Sand
-        - None
+        - blue
+        - sand
+        - none
         source:
           type: simple
           section: 
@@ -47,13 +47,13 @@ fields:
       description: The background color of your text overlay.
     - name: alignment
       type: select
-      default: []
+      default: left
       config:
         required: false
         options:
-        - Left
-        - Right
-        - Center
+        - left
+        - right
+        - center
         source:
           type: simple
           section: 
