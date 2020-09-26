@@ -32,6 +32,7 @@ fields:
   - media-text
   - call-to-action
   - rich-text
+  - carousel
   config:
     min: 
     max: 
