@@ -72,14 +72,15 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+  - slide-title: Johnson Testimonial
+    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
     text-overlay:
       background-color: Sand
       alignment: Left
-      small-heading: Small Heading
-      main-content: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam"'
+      small-heading: Customer Testimonials
+      main-content: "“Professionalism every step of the way. Exceptional communication
+        in all aspects and phases of the project. The project was finished well ahead
+        of schedule, allowing us to move back in before the start of school.”"
       detail: "- Lori & Bill Johnson"
     cta:
       enabled: true
