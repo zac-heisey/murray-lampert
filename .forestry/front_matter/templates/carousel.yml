@@ -48,7 +48,10 @@ fields:
         default: []
         config:
           required: false
-          options: []
+          options:
+          - Left
+          - Right
+          - Center
           source:
             type: simple
             section: 
