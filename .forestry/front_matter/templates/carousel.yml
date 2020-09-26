@@ -39,47 +39,41 @@ fields:
           path: 
       label: Background Color
       description: The background color of your text overlay.
-    - name: copy
-      type: field_group
-      config: {}
-      fields:
-      - name: alignment
-        type: select
-        default: []
-        config:
-          required: false
-          options:
-          - Left
-          - Right
-          - Center
-          source:
-            type: simple
-            section: 
-            file: 
-            path: 
-        label: Alignment
-        description: Align your text overlay content to the left, right, or center
-      - name: small-heading
-        type: text
-        config:
-          required: false
-        label: Small Heading
-        description: A small heading above your main text overlay content
-      - name: main-content
-        type: text
-        config:
-          required: true
-        label: Main Content
-        description: The main content of your text overlay
-      - name: small-detail
-        type: text
-        config:
-          required: false
-        label: Small Detail
-        description: A small detail associated with your slide (e.g. quote citation,
-          photo byline, additional information, etc.)
-      label: Copy
-      description: The copy in your text overlay
+    - name: alignment
+      type: select
+      default: []
+      config:
+        required: false
+        options:
+        - Left
+        - Right
+        - Center
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      description: Align your text overlay content to the left, right, or center
+      label: Alignment
+    - name: small-heading
+      type: text
+      config:
+        required: false
+      description: A small heading above your main text overlay content
+      label: Small Heading
+    - name: main-content
+      type: text
+      config:
+        required: false
+      label: Main Content
+      description: The main content of your text overlay
+    - name: detail
+      type: text
+      config:
+        required: false
+      label: Detail
+      description: Additional detail associated with your slide (e.g. quote citation,
+        photo byline, project information, etc.)
     label: Text Overlay
   - name: cta
     type: field_group
