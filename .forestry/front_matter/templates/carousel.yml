@@ -62,9 +62,13 @@ fields:
       description: A small heading above your main text overlay content
       label: Small Heading
     - name: main-content
-      type: text
+      type: textarea
+      default: ''
       config:
         required: false
+        wysiwyg: false
+        schema:
+          format: markdown
       label: Main Content
       description: The main content of your text overlay
     - name: detail
