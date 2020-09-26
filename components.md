@@ -69,5 +69,22 @@ sections:
     reprehenderit</strong> in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
     mollit anim id est laborum.</p><p><img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png"></p>
+- template: carousel
+  block: carousel
+  slide:
+  - background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    text-overlay:
+      background-color: Sand
+      alignment: Left
+      small-heading: Small Heading
+      main-content: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+        do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam"'
+      detail: "- Lori & Bill Johnson"
+    cta:
+      enabled: true
+      color: white
+      button-text: ''
+      url: ''
 
 ---
