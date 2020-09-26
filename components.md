@@ -61,9 +61,10 @@ sections:
   block: rich-text
   content: <h1>Heading 1</h1><h2>Heading 2</h2><h3>Heading 3</h3><p>Lorem ipsum dolor
     sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-    et dolore magna aliqua. Ut <a href="#nowhere" title="" target="_blank">enim ad
-    minim veniam</a>, quis nostrud <em>exercitation ullamco</em> laboris nisi ut aliquip
-    ex ea commodo consequat.</p><ul><li><p>Yolo bigoté 1</p></li><li><p>Yolo bigoté
+    et dolore magna aliqua. Ut <a href="#nowhere" title="">enim ad minim veniam</a>,
+    quis nostrud <em>exercitation ullamco</em> laboris nisi ut aliquip ex ea commodo
+    consequat.</p><blockquote><p>This is a blockquote that someone famous once said...maybe...probably
+    not though.</p></blockquote><ul><li><p>Yolo bigoté 1</p></li><li><p>Yolo bigoté
     2</p></li><li><p>Yolo bigoté 3</p></li></ul><p><strong>Duis aute irure dolor in
     reprehenderit</strong> in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
