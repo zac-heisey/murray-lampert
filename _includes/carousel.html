@@ -1,0 +1,26 @@
+<section class="container">
+
+  <div class="carousel">
+
+    {% for slide in section.slide %}
+    <div class="slide" style="background-image: url('{{ slide.background-image | relative_url }}')" {% if forloop.index != 1 %} hidden{% endif %}>
+      <div class="text-overlay {{ slide.text-overlay.background-color }} {{ slide.text-overlay.alignment }}">
+        {% if slide.text-overlay.small-heading %}
+        <p class="small-heading">{{ slide.text-overlay.small-heading }}</p>
+        {% endif %}
+        <p class="main-content">{{ slide.text-overlay.main-content }}</p>
+        {% if slide.text-overlay.small-heading %}
+        <p class="detail">{{ slide.text-overlay.detail }}</p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Temporary Controls (UPDATE OR REMOVE) -->
+  <div id="controls">
+    <button type="button" name="prev">Prev</button>
+    <button type="button" name="next">Next</button>
+  </div>
+
+</section>

@@ -102,4 +102,56 @@
 
   }
 
+  //== Carousel (move to inline?) ==//
+
+  {
+
+    let carousel = document.querySelector('.carousel');
+    let prevButton = document.querySelector('button[name="prev"]');
+    let nextButton = document.querySelector('button[name="next"]');
+
+    // Show next slide
+    function showNextSlide(event) {
+
+      // Grab current and next slides
+      var currentSlide = document.querySelector('.slide:not([hidden])');
+      var nextSlide = currentSlide.nextElementSibling || document.querySelector('.slide:first-of-type');
+
+      // Add/remove necessary classes
+      nextSlide.hidden = false;
+      currentSlide.classList.add('next-leaving');
+      nextSlide.classList.add('next-entering');
+
+    };
+
+    // Show previous slide
+    function showPreviousSlide(event) {
+
+      // Grab current and previous slides
+      var currentSlide = document.querySelector('.slide:not([hidden])');
+      var previousSlide = currentSlide.previousElementSibling || document.querySelector('.slide:last-of-type');
+
+      // Add/remove necessary classes
+      previousSlide.hidden = false;
+      currentSlide.classList.add('previous-leaving');
+      previousSlide.classList.add('previous-entering');
+
+    };
+
+    // Listen for clicks on Prev & Next buttons
+    prevButton.addEventListener('click', showPreviousSlide, false);
+    nextButton.addEventListener('click', showNextSlide, false);
+
+    // Add/remove necessary classes after animation
+    carousel.addEventListener('animationend', function(event) {
+      
+      if (event.target.classList.contains('next-leaving') || event.target.classList.contains('previous-leaving')) {
+        event.target.hidden = true;
+      }
+      event.target.classList.remove('next-entering', 'next-leaving', 'previous-entering', 'previous-leaving');
+
+    }, false);
+
+  }
+
 }());
