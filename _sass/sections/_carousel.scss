@@ -200,7 +200,7 @@ section.container {
     display: none;
     position: absolute;
     bottom: 50px;
-    left: calc(50% - 86px);
+    left: calc(50% - 44.03px);
 
     @media (min-width: $breakpoint-sm) {
 
@@ -211,10 +211,9 @@ section.container {
     button[name="prev"],
     button[name="next"] {
 
-      padding: .5rem 1.5rem;
-      border-radius: 10px;
-      border: 2px solid tomato;
-      font-family: monospace;
+      font-size: 1.5rem;
+      background: transparent;
+      border: none;
       cursor: pointer;
 
     }
