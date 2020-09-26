@@ -12,6 +12,12 @@ fields:
 - name: slide
   type: field_group_list
   fields:
+  - name: slide-title
+    type: text
+    config:
+      required: false
+    label: Slide Title
+    description: A title for your slide for reference
   - name: background-image
     type: file
     config:
@@ -121,5 +127,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: slide-title
   label: Slide
