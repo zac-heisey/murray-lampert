@@ -56,6 +56,12 @@ section.carousel-container {
 
       }
 
+      &.none {
+
+        background: radial-gradient(rgba(76, 78, 82, 0.75), rgba(255, 255, 255, 0.01) 70%);
+
+      }
+
       &.right {
 
         text-align: right;
@@ -200,11 +206,14 @@ section.carousel-container {
     display: none;
     position: absolute;
     bottom: 50px;
-    left: calc(50% - 44.03px);
+    left: calc(50% - 100px);
 
     @media (min-width: $breakpoint-sm) {
 
-      display: block;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 200px
 
     }
 
