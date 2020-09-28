@@ -50,7 +50,7 @@ sections:
   grid-rows:
   - row: Grid Row
     grid-items:
-    - item: ''
+    - item: Grid Item
       image-info:
         image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533663/murray-lampert/v3/hero-bg.png
         text-overlay:
@@ -62,7 +62,7 @@ sections:
       video-id: ''
       text-info:
         background-color: none
-        cta-button:
+        cta:
           color: blue
           enabled: false
           button-text: ''
@@ -70,10 +70,10 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 1/3
+      item-span: 1
     - item: Grid Item
       item-type: image
-      item-span: 1/3
+      item-span: 1
       image-info:
         image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
         text-overlay:
@@ -84,7 +84,7 @@ sections:
       video-id: ''
       text-info:
         background-color: none
-        cta-button:
+        cta:
           color: blue
           enabled: false
           button-text: ''
@@ -102,7 +102,7 @@ sections:
       video-id: ''
       text-info:
         background-color: none
-        cta-button:
+        cta:
           color: blue
           enabled: true
           button-text: View Our Portfolio of Projects
@@ -112,7 +112,7 @@ sections:
           Our commitment to listening and conversation is evident when you hear what
           our customers have to say about our work.</p>"
       item-type: text
-      item-span: 1/3
+      item-span: 1
   - row: Grid Row
     grid-items:
     - item: Grid Item
@@ -126,7 +126,7 @@ sections:
       video-id: ''
       text-info:
         background-color: none
-        cta-button:
+        cta:
           color: blue
           enabled: false
           button-text: ''
@@ -134,7 +134,7 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 2/3
+      item-span: 2
     - item: Grid Item
       image-info:
         image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
@@ -146,7 +146,7 @@ sections:
       video-id: ''
       text-info:
         background-color: none
-        cta-button:
+        cta:
           color: blue
           enabled: false
           button-text: ''
@@ -154,7 +154,7 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 1/3
+      item-span: 1
 - template: carousel
   block: carousel
   slide:

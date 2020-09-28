@@ -1,0 +1,58 @@
+<section class="grid">
+
+  {% for row in section.grid-rows %}
+  <div class="row">
+    {% for item in row.grid-items %}
+    <div class="container span-{{ item.item-span }} {{ item.text-info.background-color }}">
+
+      <!-- If grid item is a video -->
+      {% if item.item-type == "video" %}
+
+      <lite-youtube videoid="{{ item.video-id }}" style="background-image: url('https://i.ytimg.com/vi/{{ item.video-id }}/hqdefault.jpg');">
+      </lite-youtube>
+
+      <!-- If grid item is an image -->
+      {% elsif item.item-type == "image" %}
+
+        {% if item.image-info.text-overlay.main-content != "" %}
+
+        <a {% if item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
+          <img src="{{ item.image-info.image }}" alt="{{ item.image-info.text-overlay.main-content }} grid image">
+          <div class="text-overlay">
+            {% if item.image-info.text-overlay.small-heading %}
+            <p class="small-heading">{{ item.image-info.text-overlay.small-heading }}</p>
+            {% endif %}
+            <p class="main-content">{{ item.image-info.text-overlay.main-content }}</p>
+            {% if item.image-info.text-overlay.small-heading %}
+            <p class="detail">{{ item.image-info.text-overlay.detail }}</p>
+            {% endif %}
+          </div>
+        </a>
+
+        {% else %}
+
+        <img src="{{ item.image-info.image }}" alt="murray lampert design build remodel grid image">
+
+        {% endif %}
+
+      <!-- If grid item is text -->
+      {% else %}
+
+      <div class="text">
+        <h2>{{ item.text-info.heading }}</h2>
+
+        {{ item.text-info.content }}
+
+        {% if item.text-info.cta.enabled == true %}
+        <a class="btn {{ item.text-info.cta.color }}" href="{{ item.text-info.cta.url }}">{{ item.text-info.cta.button-text }}</a>
+        {% endif %}
+      </div>
+
+      {% endif %}
+
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+</section>
