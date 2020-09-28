@@ -28,6 +28,7 @@ fields:
         required: false
       label: Item
       hidden: true
+      default: Grid Item
     - name: item-type
       type: select
       default: []
