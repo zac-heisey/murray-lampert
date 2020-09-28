@@ -45,18 +45,32 @@ sections:
     of the way, whether you are extending your living area, adding a second story,
     or building a granny flat for a senior member of the family.
   video-id: wSTKUOXIAms
-- template: call-to-action
-  block: call-to-action
-  layout: 3-Column
-  cta:
-    enabled: true
-    color: white
-    button-text: Contact Murray Lampert
-    url: "/contact/"
-  heading: Ready to start the conversation?
-  content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
-  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+- template: grid
+  block: grid
+  grid-rows:
+  - row: Grid Row
+    grid-items:
+    - item: ''
+      image-info:
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533663/murray-lampert/v3/hero-bg.png
+        text-overlay:
+          small-heading: Lorem Ipsum
+          main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          detail: Yolo Bigoté
+          url: "/#testing"
+      video-id: ''
+      text-info:
+        background-color: none
+        cta-button:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1/3
 - template: carousel
   block: carousel
   slide:
@@ -104,5 +118,17 @@ sections:
       color: white
       button-text: ''
       url: ''
+- template: call-to-action
+  block: call-to-action
+  layout: 3-Column
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
 
 ---
