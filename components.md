@@ -71,6 +71,48 @@ sections:
         content: ''
       item-type: image
       item-span: 1/3
+    - item: Grid Item
+      item-type: image
+      item-span: 1/3
+      image-info:
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta-button:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+    - item: Grid Item
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta-button:
+          color: blue
+          enabled: true
+          button-text: View Our Portfolio of Projects
+          url: "/#portfolio"
+        heading: Our work speaks for itself.
+        content: "<p>Our commitment to craftsmanship is evident when you see our work.
+          Our commitment to listening and conversation is evident when you hear what
+          our customers have to say about our work.</p>"
+      item-type: text
+      item-span: 1/3
 - template: carousel
   block: carousel
   slide:
