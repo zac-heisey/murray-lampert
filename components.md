@@ -113,6 +113,48 @@ sections:
           our customers have to say about our work.</p>"
       item-type: text
       item-span: 1/3
+  - row: Grid Row
+    grid-items:
+    - item: Grid Item
+      image-info:
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+        text-overlay:
+          small-heading: Some Stuff Here
+          main-content: Some more stuff will go right here!
+          detail: Other stuff here too
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta-button:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2/3
+    - item: Grid Item
+      image-info:
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta-button:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1/3
 - template: carousel
   block: carousel
   slide:
