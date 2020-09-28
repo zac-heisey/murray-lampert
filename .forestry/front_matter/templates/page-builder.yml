@@ -33,6 +33,7 @@ fields:
   - call-to-action
   - rich-text
   - carousel
+  - grid
   config:
     min: 
     max: 
