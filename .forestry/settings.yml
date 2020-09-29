@@ -13,7 +13,7 @@ sections:
   label: Posts
   create: documents
 upload_dir: murray-lampert/v3
-public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto
+public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
