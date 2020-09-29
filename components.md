@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/#testing-123"
-  background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
+  background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
@@ -23,7 +23,7 @@ sections:
     color: blue
     button-text: Learn More About Us
     url: "#about-us"
-  image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
   heading: Treating you like family.
   content: We're Murray Lampert, a family-owned San Diego Design Build Remodel company
     that was established in 1975. For over 40 years, we've been providing outstanding
@@ -52,7 +52,7 @@ sections:
     grid-items:
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
         text-overlay:
           small-heading: Lorem Ipsum
           main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -75,7 +75,7 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -117,7 +117,7 @@ sections:
     grid-items:
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
         text-overlay:
           small-heading: Some Stuff Here
           main-content: Some more stuff will go right here!
@@ -137,7 +137,7 @@ sections:
       item-span: 2
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -159,7 +159,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Johnson Testimonial 1
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
     text-overlay:
       background-color: sand
       alignment: left
@@ -174,7 +174,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Johnson Testimonial 2
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
     text-overlay:
       background-color: blue
       alignment: center
@@ -190,7 +190,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Wise Bathroom
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
+    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
     text-overlay:
       background-color: none
       alignment: center
@@ -212,7 +212,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
-  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
 
 ---
