@@ -116,6 +116,26 @@ sections:
   - row: Grid Row
     grid-items:
     - item: Grid Item
+      item-type: image
+      item-span: 1
+      image-info:
+        image: "/testing/v1601393602/murray-lampert/v3/Fill_1_pmzedp.png"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+    - item: Grid Item
       image-info:
         image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
         text-overlay:
@@ -134,7 +154,7 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 2
+      item-span: 1
     - item: Grid Item
       image-info:
         image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
