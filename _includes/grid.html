@@ -5,14 +5,14 @@
     {% for item in row.grid-items %}
     <div class="container span-{{ item.item-span }} {{ item.text-info.background-color }}">
 
-      <!-- If grid item is a video -->
       {% if item.item-type == "video" %}
+      <!-- If grid item is a video -->
 
       <lite-youtube videoid="{{ item.video-id }}" style="background-image: url('https://i.ytimg.com/vi/{{ item.video-id }}/hqdefault.jpg');">
       </lite-youtube>
 
-      <!-- If grid item is an image -->
       {% elsif item.item-type == "image" %}
+      <!-- If grid item is an image -->
 
         {% if item.image-info.text-overlay.main-content != "" %}
 
@@ -35,8 +35,8 @@
 
         {% endif %}
 
-      <!-- If grid item is text -->
       {% else %}
+      <!-- If grid item is text -->
 
       <div class="text">
         <h2>{{ item.text-info.heading }}</h2>
