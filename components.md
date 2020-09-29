@@ -52,7 +52,7 @@ sections:
     grid-items:
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg
+        image: /v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg
         text-overlay:
           small-heading: Lorem Ipsum
           main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -75,7 +75,7 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+        image: /v1600533668/murray-lampert/v3/team-placeholder.png
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -116,28 +116,8 @@ sections:
   - row: Grid Row
     grid-items:
     - item: Grid Item
-      item-type: image
-      item-span: 1
       image-info:
-        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-    - item: Grid Item
-      image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+        image: /v1601138428/murray-lampert/v3/testimonials-bg.png
         text-overlay:
           small-heading: Some Stuff Here
           main-content: Some more stuff will go right here!
@@ -154,10 +134,10 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 1
+      item-span: 2
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
+        image: /v1601239557/murray-lampert/v3/wise-bathroom.jpg
         text-overlay:
           small-heading: ''
           main-content: ''
