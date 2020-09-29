@@ -3,11 +3,11 @@
   {% if section.layout == "3-Column" %}
 
   <div class="container media left">
-    <img src="{{ section.image-left }}" alt="{{ section.heading }} media image" loading="lazy">
+    <img src="{{ site.cloudinary }}{{ section.image-left }}" alt="{{ section.heading }} media image" loading="lazy">
   </div>
 
   <div class="container media right">
-    <img src="{{ section.image-right }}" alt="{{ section.heading }} media image" loading="lazy">
+    <img src="{{ site.cloudinary }}{{ section.image-right }}" alt="{{ section.heading }} media image" loading="lazy">
   </div>
 
   {% endif %}

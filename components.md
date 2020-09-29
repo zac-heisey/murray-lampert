@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/#testing-123"
-  background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
+  background-image: /v1600533663/murray-lampert/v3/hero-bg.png
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
@@ -23,7 +23,7 @@ sections:
     color: blue
     button-text: Learn More About Us
     url: "#about-us"
-  image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image: /v1600533668/murray-lampert/v3/team-placeholder.png
   heading: Treating you like family.
   content: We're Murray Lampert, a family-owned San Diego Design Build Remodel company
     that was established in 1975. For over 40 years, we've been providing outstanding
@@ -155,7 +155,53 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-
+- template: carousel
+  block: carousel
+  slide:
+  - slide-title: Johnson Testimonial 1
+    background-image: /v1601138428/murray-lampert/v3/testimonials-bg.png
+    text-overlay:
+      background-color: sand
+      alignment: left
+      small-heading: Customer Testimonial 1
+      main-content: "“Professionalism every step of the way. Exceptional communication
+        in all aspects and phases of the project. The project was finished well ahead
+        of schedule, allowing us to move back in before the start of school.”"
+      detail: "- Lori & Bill Johnson"
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
+  - slide-title: Johnson Testimonial 2
+    background-image: /v1601138428/murray-lampert/v3/testimonials-bg.png
+    text-overlay:
+      background-color: blue
+      alignment: center
+      small-heading: Customer Testimonial 2
+      main-content: "“It was a pleasure having Murray Lampert remodel my home. They
+        were very attentive to any of my concerns and I couldn’t be happier with the
+        the completed project. Everyone at Murray Lampert was amazing and great to
+        work with.”"
+      detail: "- Armida"
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
+  - slide-title: Wise Bathroom
+    background-image: /v1601239557/murray-lampert/v3/wise-bathroom.jpg
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Custom Bathrooms
+      main-content: From Soaker Tubs to Universal Design
+      detail: ''
+    cta:
+      enabled: true
+      color: white
+      button-text: ''
+      url: ''
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
@@ -166,7 +212,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
-  image-right: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533668/murray-lampert/v3/team-placeholder.png
+  image-left: /v1600533668/murray-lampert/v3/team-placeholder.png
+  image-right: /v1600533668/murray-lampert/v3/team-placeholder.png
 
 ---
