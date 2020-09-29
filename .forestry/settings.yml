@@ -14,8 +14,8 @@ sections:
   create: documents
 upload_dir: murray-lampert/v3
 public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto
-front_matter_path: ''
-use_front_matter_path: 
+front_matter_path: "/testing"
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
