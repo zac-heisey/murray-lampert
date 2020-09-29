@@ -155,53 +155,7 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-- template: carousel
-  block: carousel
-  slide:
-  - slide-title: Johnson Testimonial 1
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
-    text-overlay:
-      background-color: sand
-      alignment: left
-      small-heading: Customer Testimonial 1
-      main-content: "“Professionalism every step of the way. Exceptional communication
-        in all aspects and phases of the project. The project was finished well ahead
-        of schedule, allowing us to move back in before the start of school.”"
-      detail: "- Lori & Bill Johnson"
-    cta:
-      enabled: false
-      color: white
-      button-text: ''
-      url: ''
-  - slide-title: Johnson Testimonial 2
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
-    text-overlay:
-      background-color: blue
-      alignment: center
-      small-heading: Customer Testimonial 2
-      main-content: "“It was a pleasure having Murray Lampert remodel my home. They
-        were very attentive to any of my concerns and I couldn’t be happier with the
-        the completed project. Everyone at Murray Lampert was amazing and great to
-        work with.”"
-      detail: "- Armida"
-    cta:
-      enabled: false
-      color: white
-      button-text: ''
-      url: ''
-  - slide-title: Wise Bathroom
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1601239557/murray-lampert/v3/wise-bathroom.jpg
-    text-overlay:
-      background-color: none
-      alignment: center
-      small-heading: Custom Bathrooms
-      main-content: From Soaker Tubs to Universal Design
-      detail: ''
-    cta:
-      enabled: true
-      color: white
-      button-text: ''
-      url: ''
+
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
