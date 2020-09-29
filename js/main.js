@@ -84,24 +84,6 @@
 
   }
 
-  //== Lazy Load Images (via loading="lazy") ==//
-
-  // {
-  //
-  //   // Grab all images on the page
-  //   let images = document.querySelectorAll('img');
-  //
-  //   images.forEach( image => {
-  //
-  //     // If image doesn't have loading="lazy" attribute, add it
-  //     if (image.getAttribute('loading') === null) {
-  //       image.setAttribute('loading', 'lazy');
-  //     }
-  //
-  //   });
-  //
-  // }
-
   //== Carousel (move to inline?) ==//
 
   {

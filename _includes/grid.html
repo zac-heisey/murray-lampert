@@ -17,7 +17,7 @@
         {% if item.image-info.text-overlay.main-content != "" %}
 
         <a {% if item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
-          <img src="{{ item.image-info.image }}" alt="{{ item.image-info.text-overlay.main-content }} grid image" loading="lazy">
+          <img src="{{ item.image-info.image }}" alt="{{ item.image-info.text-overlay.main-content }} grid image" width="800" height="450" loading="lazy">
           <div class="text-overlay">
             {% if item.image-info.text-overlay.small-heading %}
             <p class="small-heading">{{ item.image-info.text-overlay.small-heading }}</p>
@@ -31,7 +31,7 @@
 
         {% else %}
 
-        <img src="{{ item.image-info.image }}" alt="murray lampert design build remodel grid image" loading="lazy">
+        <img src="{{ item.image-info.image }}" alt="{{ item.image-info.text-overlay.main-content }} grid image" width="800" height="450" loading="lazy">
 
         {% endif %}
 

@@ -52,7 +52,7 @@ sections:
     grid-items:
     - item: Grid Item
       image-info:
-        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1600533663/murray-lampert/v3/hero-bg.png
+        image: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg
         text-overlay:
           small-heading: Lorem Ipsum
           main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
