@@ -119,7 +119,7 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: "/testing/v1601393602/murray-lampert/v3/Fill_1_pmzedp.png"
+        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
