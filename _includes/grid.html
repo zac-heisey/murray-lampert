@@ -17,17 +17,13 @@
         {% if item.image-info.text-overlay.main-content != "" %}
 
         <a {% if item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
-          <img src="{{ site.cloudinary }},w_auto{{ item.image-info.image }}"
-               srcset="
-                {{ site.cloudinary }},w_576{{ item.image-info.image }} 576w,
-                {{ site.cloudinary }},w_768{{ item.image-info.image }} 768w,
-                {{ site.cloudinary }},w_992{{ item.image-info.image }} 992w,
-                {{ site.cloudinary }},w_1200{{ item.image-info.image }} 1200w,
-               "
-               sizes="50vw"
-               alt="{{ item.image-info.text-overlay.main-content }} grid image" width="800"
-               height="450"
-               loading="lazy">
+
+          <!-- Cloudinary image include -->
+          {% capture image %}
+          {{ item.image-info.image }}
+          {% endcapture %}
+          {% include cloudinary-image.html image=image alt="murray lampert home remodeling grid image" %}
+
           <div class="text-overlay">
             {% if item.image-info.text-overlay.small-heading %}
             <p class="small-heading">{{ item.image-info.text-overlay.small-heading }}</p>
@@ -41,17 +37,8 @@
 
         {% else %}
 
-        <img src="{{ site.cloudinary }},w_auto{{ item.image-info.image }}"
-             srcset="
-              {{ site.cloudinary }},w_576{{ item.image-info.image }} 576w,
-              {{ site.cloudinary }},w_768{{ item.image-info.image }} 768w,
-              {{ site.cloudinary }},w_992{{ item.image-info.image }} 992w,
-              {{ site.cloudinary }},w_1200{{ item.image-info.image }} 1200w,
-             "
-             sizes="50vw"
-             alt="{{ item.image-info.text-overlay.main-content }} grid image" width="800"
-             height="450"
-             loading="lazy">
+        <!-- Cloudinary image include -->
+        {% include cloudinary-image.html image=image alt="murray lampert home remodeling grid image" %}
 
         {% endif %}
 
