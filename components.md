@@ -62,6 +62,33 @@ sections:
         heading: Treating you like family.
       item-type: text
       item-span: 1
+- template: grid
+  block: grid
+  grid-rows:
+  - row: 1 / 2
+    grid-items:
+    - item: Text
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          url: "/design-build-services-san-diego"
+          button-text: See Our Process in Action
+        content: "<p>Our project managers, designers, and architects work with you
+          every step of the way, whether you are extending your living area, adding
+          a second story, or building a granny flat for a senior member of the family.</p>"
+        heading: Full-service home remodeling.
+      item-type: text
+      item-span: 1
 - template: media-text
   block: media-text
   media-position: Left
