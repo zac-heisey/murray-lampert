@@ -128,15 +128,17 @@ p {
 
   line-height: 1.5;
 
+  &.small-heading {
+
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0.5rem 0;
+
+  }
+
 }
 
-p.sub-heading {
-
-  font-size: 1.333rem;
-  font-weight: bold;
-  text-transform: uppercase;
-
-}
 
 /* Buttons */
 

@@ -5,6 +5,8 @@ layout: default
 
 # Heading 1
 
+{% small_heading Small Heading %}
+
 ## Heading 2
 
 ### Heading 3
