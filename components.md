@@ -55,10 +55,11 @@ sections:
           enabled: true
           url: "/about-murray-lampert-design-build-remodel"
           button-text: Learn More About Us
-        content: "<p>We're Murray Lampert, a family-owned San Diego Design Build Remodel
-          company that was established in 1975. For over 40 years, we've been providing
-          outstanding service to San Diego homeowners. By the time we're done working
-          together, you'll feel like family.</p>"
+        content: "<p>{% small-heading Small Heading Goes Here %}</p><p>We're Murray
+          Lampert, a family-owned San Diego Design Build Remodel company that was
+          established in 1975. For over 40 years, we've been providing outstanding
+          service to San Diego homeowners. By the time we're done working together,
+          you'll feel like family.</p>"
         heading: Treating you like family.
       item-type: text
       item-span: 1
