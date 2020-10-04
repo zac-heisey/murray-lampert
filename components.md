@@ -14,6 +14,54 @@ sections:
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
+- template: grid
+  block: grid
+  grid-rows:
+  - row: 2 / 1
+    grid-items:
+    - item: Image
+      image-info:
+        image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Text
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          url: "/about-murray-lampert-design-build-remodel"
+          button-text: Learn More About Us
+        content: "<p>We're Murray Lampert, a family-owned San Diego Design Build Remodel
+          company that was established in 1975. For over 40 years, we've been providing
+          outstanding service to San Diego homeowners. By the time we're done working
+          together, you'll feel like family.</p>"
+        heading: Treating you like family.
+      item-type: text
+      item-span: 1
 - template: media-text
   block: media-text
   media-position: Left
