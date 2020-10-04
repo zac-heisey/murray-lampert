@@ -89,6 +89,26 @@ sections:
         heading: Full-service home remodeling.
       item-type: text
       item-span: 1
+    - item: Video
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: wSTKUOXIAms
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: video
+      item-span: 2
 - template: media-text
   block: media-text
   media-position: Left
