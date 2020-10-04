@@ -29,7 +29,6 @@ fields:
   label: Page Sections
   template_types:
   - hero-banner
-  - media-text
   - call-to-action
   - rich-text
   - carousel
