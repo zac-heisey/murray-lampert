@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/#testing-123"
-  background-image: /v1600533663/murray-lampert/v3/hero-bg.png
+  background-image: "/v1600533663/murray-lampert/v3/hero-bg.png"
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
@@ -23,7 +23,7 @@ sections:
     color: blue
     button-text: Learn More About Us
     url: "#about-us"
-  image: /v1600533668/murray-lampert/v3/team-placeholder.png
+  image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
   heading: Treating you like family.
   content: We're Murray Lampert, a family-owned San Diego Design Build Remodel company
     that was established in 1975. For over 40 years, we've been providing outstanding
@@ -48,11 +48,11 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - row: Grid Row
+  - row: 1 / 1 / 1
     grid-items:
-    - item: Grid Item
+    - item: Image
       image-info:
-        image: /v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg
+        image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
         text-overlay:
           small-heading: Lorem Ipsum
           main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -71,11 +71,11 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Grid Item
+    - item: Image
       item-type: image
       item-span: 1
       image-info:
-        image: /v1600533668/murray-lampert/v3/team-placeholder.png
+        image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -91,7 +91,7 @@ sections:
           url: ''
         heading: ''
         content: ''
-    - item: Grid Item
+    - item: Text
       image-info:
         image: ''
         text-overlay:
@@ -113,11 +113,11 @@ sections:
           our customers have to say about our work.</p>"
       item-type: text
       item-span: 1
-  - row: Grid Row
+  - row: 2 / 1
     grid-items:
-    - item: Grid Item
+    - item: Image
       image-info:
-        image: /v1601138428/murray-lampert/v3/testimonials-bg.png
+        image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
         text-overlay:
           small-heading: Some Stuff Here
           main-content: Some more stuff will go right here!
@@ -135,9 +135,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Grid Item
+    - item: Image
       image-info:
-        image: /v1601239557/murray-lampert/v3/wise-bathroom.jpg
+        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -159,7 +159,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Johnson Testimonial 1
-    background-image: /v1601138428/murray-lampert/v3/testimonials-bg.png
+    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
@@ -174,7 +174,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Johnson Testimonial 2
-    background-image: /v1601138428/murray-lampert/v3/testimonials-bg.png
+    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
     text-overlay:
       background-color: blue
       alignment: center
@@ -190,7 +190,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Wise Bathroom
-    background-image: /v1601239557/murray-lampert/v3/wise-bathroom.jpg
+    background-image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -212,7 +212,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: /v1600533668/murray-lampert/v3/team-placeholder.png
-  image-right: /v1600533668/murray-lampert/v3/team-placeholder.png
+  image-left: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+  image-right: "/v1600533668/murray-lampert/v3/team-placeholder.png"
 
 ---
