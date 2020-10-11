@@ -8,7 +8,7 @@ fields:
     required: false
   label: block
   hidden: true
-  default: grid
+  default: process-stages
 - name: process-stages
   type: field_group_list
   fields:
@@ -50,12 +50,12 @@ fields:
         description: Add some content below your heading
       label: Text Info
     config:
-      min: 
-      max: 
+      min:
+      max:
       labelField: item
     label: Stage Info
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: stage
   label: Process Stages

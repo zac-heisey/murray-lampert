@@ -24,7 +24,7 @@ sections:
     for your budget.</p><p>The entire design-build process is a conversation about
     what your needs are and how we can make that happen.</p>"
 - template: process-stages
-  block: grid
+  block: process-stages
   process-stages:
   - stage: Stage Number 1
     stage-info:

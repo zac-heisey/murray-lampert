@@ -1,0 +1,33 @@
+<section class="process-stages">
+
+  <header>
+     <div class="lock">
+      <h2>The Design-Build Process</h2>
+     </div>
+  </header>
+
+  {% for stage in section.process-stages %}
+  <div class="stage">
+    <div class="container image">
+      <!-- Cloudinary image include -->
+      {%- assign image = stage.stage-info.image -%}
+
+      {% include cloudinary-image.html image=image alt="murray lampert design build remodel process image" %}
+    </div>
+
+    <div class="container span-2">
+      <div class="text">
+
+        <p class="small-heading">
+          <span class="stage-number">{{ forloop.index | prepend: "0" }}</span>
+          {{ stage.stage-info.text-info.heading }}
+        </p>
+
+        {{ stage.stage-info.text-info.content }}
+
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+</section>

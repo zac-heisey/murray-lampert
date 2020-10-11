@@ -1,10 +1,10 @@
 <img
   src="{{ site.cloudinary }},w_auto{{ include.image }}"
   srcset="
-  {{ site.cloudinary }},w_576{{ item.image-info.image }} 576w,
-  {{ site.cloudinary }},w_768{{ item.image-info.image }} 768w,
-  {{ site.cloudinary }},w_992{{ item.image-info.image }} 992w,
-  {{ site.cloudinary }},w_1200{{ item.image-info.image }} 1200w,
+  {{ site.cloudinary }},w_576{{ include.image }} 576w,
+  {{ site.cloudinary }},w_768{{ include.image }} 768w,
+  {{ site.cloudinary }},w_992{{ include.image }} 992w,
+  {{ site.cloudinary }},w_1200{{ include.image }} 1200w
   "
   sizes="
   (max-width: 575px) 576px,

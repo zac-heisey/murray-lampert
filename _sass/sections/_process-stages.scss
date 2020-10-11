@@ -1,0 +1,145 @@
+/* Process Stages */
+
+section.process-stages {
+
+  max-width: 1440px;
+  margin: 4rem auto;
+
+  header {
+
+    background-color: $blue;
+    margin-bottom: 1rem;
+
+    .lock {
+
+      max-width: 1350px;
+      margin: 0 auto;
+      padding: 2rem;
+
+      h2 {
+
+        color: #fff;
+        
+      }
+
+    }
+
+  }
+
+  .stage {
+
+    display: grid;
+
+    @media (min-width: $breakpoint-lg) {
+
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: 1fr;
+      grid-auto-flow: dense;
+      min-height: 400px;
+
+    }
+
+    &:nth-of-type(even) .container {
+
+      background-color: #d1ccc5;
+
+      .stage-number {
+
+        color: #f5f3f2;
+        opacity: 0.65;
+
+      }
+
+    }
+
+    &:nth-of-type(odd) .container {
+
+      background-color: #f5f3f2;
+
+      .stage-number {
+
+        color: #d1ccc5;
+        opacity: 0.65;
+
+      }
+
+      @media (min-width: $breakpoint-lg) {
+
+        &.image {
+
+          grid-column-start: 3;
+
+        }
+
+      }
+
+    }
+
+  }
+
+  .container {
+
+    position: relative;
+    height: 100%;
+    max-height: 500px;
+
+    @media (min-width: $breakpoint-lg) {
+
+      &.span-2 {
+
+        grid-column: span 2;
+
+      }
+
+    }
+
+    img {
+
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+
+    }
+
+    .text {
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%;
+      padding: 4rem;
+
+      @media (min-width: $breakpoint-lg) {
+
+        padding: 2rem 6rem;
+
+      }
+
+      .small-heading {
+
+        position: relative;
+        padding-bottom: 0.5rem;
+        background-size: 8% 4px;
+        background-repeat: no-repeat;
+        background-position: bottom left;
+        background-image: linear-gradient(to right, $dark-gray 0%, $dark-gray 100%);
+        z-index: 2;
+
+      }
+
+      .stage-number {
+
+        position: absolute;
+        top: -5rem;
+        left: -3rem;
+        font-size: 7rem;
+        font-weight: 100;
+        z-index: -1;
+
+      }
+
+    }
+
+  }
+
+}

@@ -19,9 +19,8 @@
         <a {% if item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
 
           <!-- Cloudinary image include -->
-          {% capture image %}
-          {{ item.image-info.image }}
-          {% endcapture %}
+          {%- assign image = item.image-info.image -%}
+
           {% include cloudinary-image.html image=image alt="murray lampert home remodeling grid image" %}
 
           <div class="text-overlay">
@@ -38,6 +37,8 @@
         {% else %}
 
         <!-- Cloudinary image include -->
+        {%- assign image = item.image-info.image -%}
+        
         {% include cloudinary-image.html image=image alt="murray lampert home remodeling grid image" %}
 
         {% endif %}
