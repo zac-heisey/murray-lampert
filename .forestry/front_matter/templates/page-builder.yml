@@ -33,8 +33,7 @@ fields:
   - rich-text
   - carousel
   - grid
+  - process-stages
   config:
     min: 
     max: 
-pages:
-- components.md
