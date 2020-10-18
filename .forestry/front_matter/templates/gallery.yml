@@ -81,12 +81,12 @@ fields:
       label: Image Info
       description: Select your gallery image and text overlay details.
     config:
-      min:
-      max:
+      min: 
+      max: 
       labelField: item
     label: Gallery Items
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: row
   label: Gallery Rows

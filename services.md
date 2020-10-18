@@ -75,5 +75,30 @@ sections:
     want to transform your living room, add a second deck, or create a wonderful oasis
     in your backyard, we'll listen to what you're dreaming of. Take a look at some
     of our latest creations.</p>"
+- template: gallery
+  block: gallery
+  gallery-rows:
+  - gallery-items:
+    - item: Kitchens
+      image-info:
+        image: "/v1600533663/murray-lampert/v3/hero-bg.png"
+        text-overlay:
+          heading: Kitchen Remodels
+          content: Transform your outdated kitchen with our custom kitchen remodeling
+            service. Modernize your cabinets, counters, appliances, and more.
+          cta:
+            button-text: View Kitchen Remodels
+            url: "/san-diego-kitchen-remodeling-services"
+    - item: Bathroom Remodels
+      image-info:
+        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+        text-overlay:
+          heading: Bathroom Remodels
+          content: Expand and revitalize your master or guest bathroom with our custom
+            San Diego bathroom remodeling services.
+          cta:
+            button-text: View Bathroom Remodels
+            url: "/san-diego-bathroom-remodeling-services"
+    row: Services Gallery Row 1
 
 ---
