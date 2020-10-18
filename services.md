@@ -78,8 +78,7 @@ sections:
 - template: gallery
   block: gallery
   gallery-rows:
-  - row: Services Gallery Row 1
-    gallery-items:
+  - gallery-items:
     - item: Kitchens
       image-info:
         image: "/v1600533663/murray-lampert/v3/hero-bg.png"
@@ -100,11 +99,12 @@ sections:
           cta:
             button-text: View Bathroom Remodels
             url: "/san-diego-bathroom-remodels"
+    row: Services Gallery Row 1
   - row: Services Gallery Row 2
     gallery-items:
     - item: Home Additions
       image-info:
-        image: "/v1602436259/murray-lampert/v3/our-services-bg.jpg"
+        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
         text-overlay:
           heading: Home Additions
           content: Whether you need a new family room, bedroom, or a master suite,
@@ -112,5 +112,15 @@ sections:
           cta:
             button-text: View Home Additions
             url: "/san-diego-home-additions"
+    - image-info:
+        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        text-overlay:
+          heading: In-Law Suites
+          content: In-law suites and granny flats are popular ways for San Diegans
+            to add value and square footage to their home.
+          cta:
+            button-text: View In-Law Suites
+            url: "/san-diego-in-law-suites"
+      item: In-Law Suites
 
 ---
