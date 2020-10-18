@@ -88,8 +88,8 @@ sections:
             service. Modernize your cabinets, counters, appliances, and more.
           cta:
             button-text: View Kitchen Remodels
-            url: "/san-diego-kitchen-remodeling-services"
-    - item: Bathroom Remodels
+            url: "/san-diego-kitchen-remodels"
+    - item: Bathrooms
       image-info:
         image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
         text-overlay:
@@ -98,7 +98,19 @@ sections:
             San Diego bathroom remodeling services.
           cta:
             button-text: View Bathroom Remodels
-            url: "/san-diego-bathroom-remodeling-services"
+            url: "/san-diego-bathroom-remodels"
     row: Services Gallery Row 1
+  - row: Services Gallery Row 2
+    gallery-items:
+    - item: Home Additions
+      image-info:
+        image: "/v1602436259/murray-lampert/v3/our-services-bg.jpg"
+        text-overlay:
+          heading: Home Additions
+          content: Whether you need a new family room, bedroom, or a master suite,
+            our San Diego room addition services can deliver what you need.
+          cta:
+            button-text: View Home Additions
+            url: "/san-diego-home-additions"
 
 ---
