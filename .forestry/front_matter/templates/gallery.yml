@@ -46,49 +46,27 @@ fields:
         - name: heading
           type: text
           config:
-            required: false
+            required: true
           label: Heading
           description: The heading of your gallery item
         - name: content
           type: textarea
           default: ''
           config:
-            required: false
+            required: true
             wysiwyg: false
             schema:
               format: markdown
-          label: Main Content
+          label: Content
           description: The main content of your gallery item
         - name: cta
           type: field_group
           config: {}
           fields:
-          - name: enabled
-            type: boolean
-            description: Enable to display a CTA button. Disable to remove the button.
-            label: Enabled
-          - name: color
-            type: select
-            default: blue
-            config:
-              required: false
-              options:
-              - white
-              - blue
-              source:
-                type: simple
-                section:
-                file:
-                path:
-            label: Color
-            description: Select a background color for your CTA button
-            showOnly:
-              field: enabled
-              value: true
           - name: button-text
             type: text
             config:
-              required: false
+              required: true
             description: Text for your CTA button
             label: Button Text
             showOnly:
@@ -97,7 +75,7 @@ fields:
           - name: url
             type: text
             config:
-              required: false
+              required: true
             label: URL
             description: The relative URL (e.g. https://www.example.com<strong>/another-page</strong>)
               for your CTA button
@@ -109,12 +87,12 @@ fields:
       label: Image Info
       description: Select your gallery image and text overlay details.
     config:
-      min:
-      max:
+      min: 
+      max: 
       labelField: item
     label: Gallery Items
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: row
   label: Gallery Rows
