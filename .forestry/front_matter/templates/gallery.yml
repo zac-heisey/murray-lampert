@@ -69,9 +69,6 @@ fields:
               required: true
             description: Text for your CTA button
             label: Button Text
-            showOnly:
-              field: enabled
-              value: true
           - name: url
             type: text
             config:
@@ -79,20 +76,17 @@ fields:
             label: URL
             description: The relative URL (e.g. https://www.example.com<strong>/another-page</strong>)
               for your CTA button
-            showOnly:
-              field: enabled
-              value: true
           label: CTA Button
         label: Text Overlay
       label: Image Info
       description: Select your gallery image and text overlay details.
     config:
-      min: 
-      max: 
+      min:
+      max:
       labelField: item
     label: Gallery Items
   config:
-    min: 
-    max: 
+    min:
+    max:
     labelField: row
   label: Gallery Rows
