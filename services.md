@@ -81,7 +81,7 @@ sections:
   - gallery-items:
     - item: Kitchens
       image-info:
-        image: "/v1600533663/murray-lampert/v3/hero-bg.png"
+        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
         text-overlay:
           heading: Kitchen Remodels
           content: Transform your outdated kitchen with our custom kitchen remodeling
