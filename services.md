@@ -122,5 +122,28 @@ sections:
             button-text: View In-Law Suites
             url: "/san-diego-in-law-suites"
       item: In-Law Suites
+  - row: Services Gallery Row 3
+    gallery-items:
+    - item: Green Construction
+      image-info:
+        image: "/v1603057435/murray-lampert/v3/services-green-construction.jpg"
+        text-overlay:
+          heading: Green Construction
+          content: Murray Lampert is proud be to a Green Certified company, and a
+            leading eco-friendly home remodeling contractor in San Diego.
+          cta:
+            button-text: View Green Construction
+            url: "/san-diego-green-home-construction"
+    - item: Other Remodeling Services
+      image-info:
+        image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+        text-overlay:
+          content: Interior and exterior remodels, minor updates to major renovations.
+            If you have a dream remodeling project in mind, we can help make it a
+            reality.
+          heading: Other Remodeling Services
+          cta:
+            button-text: View Other Services
+            url: "/other-remodeling-services"
 
 ---
