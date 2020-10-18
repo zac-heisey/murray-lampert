@@ -1,0 +1,33 @@
+<section class="gallery">
+
+  {% for row in section.gallery-rows %}
+  <div class="row column-{{ row.gallery-items.size }}">
+    {% for item in row.gallery-items %}
+    <div class="container">
+
+      <a href="{{ item.image-info.text-overlay.cta.url }}">
+
+        <!-- Cloudinary image include -->
+        {%- assign image = item.image-info.image -%}
+
+        {% include cloudinary-image.html image=image alt="murray lampert home remodeling gallery image" %}
+
+        <!-- Text overlay -->
+        <div class="text-overlay">
+          <h3>{{ item.image-info.text-overlay.heading }}</h3>
+          <div class="wrapper">
+            <p class="main-content">{{ item.image-info.text-overlay.content }}</p>
+            <div class="btn blue">
+              {{ item.image-info.text-overlay.cta.button-text }}
+            </div>
+          </div>
+        </div>
+
+      </a>
+
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+</section>

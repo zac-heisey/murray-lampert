@@ -78,7 +78,8 @@ sections:
 - template: gallery
   block: gallery
   gallery-rows:
-  - gallery-items:
+  - row: Services Gallery Row 1
+    gallery-items:
     - item: Kitchens
       image-info:
         image: "/v1600533663/murray-lampert/v3/hero-bg.png"
@@ -99,7 +100,6 @@ sections:
           cta:
             button-text: View Bathroom Remodels
             url: "/san-diego-bathroom-remodels"
-    row: Services Gallery Row 1
   - row: Services Gallery Row 2
     gallery-items:
     - item: Home Additions

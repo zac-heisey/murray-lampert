@@ -28,7 +28,7 @@
             <p class="small-heading">{{ item.image-info.text-overlay.small-heading }}</p>
             {% endif %}
             <p class="main-content">{{ item.image-info.text-overlay.main-content }}</p>
-            {% if item.image-info.text-overlay.small-heading %}
+            {% if item.image-info.text-overlay.detail %}
             <p class="detail">{{ item.image-info.text-overlay.detail }}</p>
             {% endif %}
           </div>
@@ -38,7 +38,7 @@
 
         <!-- Cloudinary image include -->
         {%- assign image = item.image-info.image -%}
-        
+
         {% include cloudinary-image.html image=image alt="murray lampert home remodeling grid image" %}
 
         {% endif %}
