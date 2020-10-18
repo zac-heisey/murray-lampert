@@ -1,0 +1,120 @@
+---
+label: Gallery
+hide_body: true
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: gallery
+- name: gallery-rows
+  type: field_group_list
+  fields:
+  - name: row
+    type: text
+    config:
+      required: false
+    label: Row
+    default: Gallery Row
+    hidden: false
+  - name: gallery-items
+    type: field_group_list
+    fields:
+    - name: item
+      type: text
+      config:
+        required: false
+      label: Item
+      hidden: false
+      default: Gallery Item
+    - name: image-info
+      type: field_group
+      config: {}
+      fields:
+      - name: image
+        type: file
+        config:
+          maxSize: 64
+        label: Image
+        description: Select an image for your gallery item
+      - name: text-overlay
+        type: field_group
+        config: {}
+        fields:
+        - name: heading
+          type: text
+          config:
+            required: false
+          label: Heading
+          description: The heading of your gallery item
+        - name: content
+          type: textarea
+          default: ''
+          config:
+            required: false
+            wysiwyg: false
+            schema:
+              format: markdown
+          label: Main Content
+          description: The main content of your gallery item
+        - name: cta
+          type: field_group
+          config: {}
+          fields:
+          - name: enabled
+            type: boolean
+            description: Enable to display a CTA button. Disable to remove the button.
+            label: Enabled
+          - name: color
+            type: select
+            default: blue
+            config:
+              required: false
+              options:
+              - white
+              - blue
+              source:
+                type: simple
+                section:
+                file:
+                path:
+            label: Color
+            description: Select a background color for your CTA button
+            showOnly:
+              field: enabled
+              value: true
+          - name: button-text
+            type: text
+            config:
+              required: false
+            description: Text for your CTA button
+            label: Button Text
+            showOnly:
+              field: enabled
+              value: true
+          - name: url
+            type: text
+            config:
+              required: false
+            label: URL
+            description: The relative URL (e.g. https://www.example.com<strong>/another-page</strong>)
+              for your CTA button
+            showOnly:
+              field: enabled
+              value: true
+          label: CTA Button
+        label: Text Overlay
+      label: Image Info
+      description: Select your gallery image and text overlay details.
+    config:
+      min:
+      max:
+      labelField: item
+    label: Gallery Items
+  config:
+    min:
+    max:
+    labelField: row
+  label: Gallery Rows
