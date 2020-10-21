@@ -61,18 +61,22 @@ section.gallery {
 
     }
 
-    a:hover .text-overlay,
-    a:focus .text-overlay {
+    @media (min-width: $breakpoint-sm) {
 
-      opacity: 1;
-      height: 100%;
-
-      .wrapper,
-      .wrapper {
+      a:hover .text-overlay,
+      a:focus .text-overlay {
 
         opacity: 1;
-        height: 50%;
-        max-width: 500px;
+        height: 100%;
+
+        .wrapper,
+        .wrapper {
+
+          opacity: 1;
+          height: 50%;
+          max-width: 500px;
+
+        }
 
       }
 
@@ -94,12 +98,19 @@ section.gallery {
 
       h3 {
 
-        font-size: 1.75rem;
+        font-size: calc(1rem + 1.15vw);
         padding-bottom: 0.5rem;
         background-size: 100px 4px;
         background-repeat: no-repeat;
         background-position: bottom left;
         background-image: linear-gradient(to right, #fff 0%, #fff 100%);
+        white-space: nowrap;
+
+        @media (min-width: $breakpoint-lg) {
+
+          font-size: 1.75rem;
+
+        }
 
       }
 
