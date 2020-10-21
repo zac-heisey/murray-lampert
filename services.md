@@ -154,6 +154,6 @@ sections:
     button-text: Contact Murray Lampert
     url: "/contact/"
   heading: Ready to start the conversation?
-  content: "<p>Contact us today to schedule your FREE in-home or remote consultation.</p>"
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
 
 ---

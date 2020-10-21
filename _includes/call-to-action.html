@@ -10,7 +10,23 @@
     <img src="{{ site.cloudinary }}{{ section.image-right }}" alt="{{ section.heading }} media image" loading="lazy">
   </div>
 
-  {% endif %}
+  <div class="container text">
+    <h3>{{ section.heading }}</h3>
+    <p>{{ section.content }}</p>
+    {% if section.cta and section.cta.enabled == true %}
+    <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
+    {% endif %}
+  </div>
+
+  {% else %}
+
+  <div class="container media left">
+    <!-- Empty grid containter -->
+  </div>
+
+  <div class="container media right">
+    <!-- Empty grid containter -->
+  </div>
 
   <div class="container text">
     <h3>{{ section.heading }}</h3>
@@ -19,5 +35,7 @@
     <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
     {% endif %}
   </div>
+
+  {% endif %}
 
 </section>

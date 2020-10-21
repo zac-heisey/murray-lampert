@@ -4,7 +4,6 @@ section.call-to-action {
 
   display: grid;
   background-color: $blue;
-  margin: 4rem 0;
 
   @media (min-width: $breakpoint-lg) {
 
@@ -61,7 +60,7 @@ section.call-to-action {
     @media (min-width: $breakpoint-lg) {
 
       grid-column: 2;
-      min-height: 400px;
+      min-height: 275px;
 
     }
 
