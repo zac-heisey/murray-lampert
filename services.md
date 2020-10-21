@@ -150,7 +150,7 @@ sections:
   layout: Full-Width
   cta:
     enabled: true
-    color: blue
+    color: white
     button-text: Contact Murray Lampert
     url: "/contact/"
   heading: Ready to start the conversation?
