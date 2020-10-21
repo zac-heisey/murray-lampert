@@ -145,5 +145,15 @@ sections:
           cta:
             button-text: View Other Services
             url: "/other-remodeling-services"
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: blue
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: "<p>Contact us today to schedule your FREE in-home or remote consultation.</p>"
 
 ---
