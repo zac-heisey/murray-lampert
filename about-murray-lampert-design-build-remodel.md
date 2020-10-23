@@ -23,5 +23,21 @@ sections:
     together. You'll know what you're getting, how much it will cost, and the steps
     it will take. And if something changes, we'll let you know beforehand.</p><p>By
     the time we're done working together, you'll feel like family too.</p>"
+- template: carousel
+  block: carousel
+  slide:
+  - slide-title: Family photo
+    background-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Murray Lampert
+      main-content: 4 Generations of Design-Build Expertise
+      detail: ''
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
 
 ---
