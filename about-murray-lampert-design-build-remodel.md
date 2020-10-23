@@ -52,5 +52,11 @@ sections:
       color: white
       button-text: ''
       url: ''
+- template: rich-text
+  block: rich-text
+  content: "<p>Our Team</p><p>What Family Looks Like</p><p>We are designers and architects,
+    carpenters and craftsmen. We are dream-granters and budget keeps, communicators
+    and collaborators. And your favorite thing to build is relationships with our
+    customers. We can't wait to do the same for you.</p>"
 
 ---
