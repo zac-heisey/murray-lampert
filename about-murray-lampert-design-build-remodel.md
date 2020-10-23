@@ -39,5 +39,18 @@ sections:
       color: white
       button-text: ''
       url: ''
+  - slide-title: Placeholder
+    background-image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-2.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Small Heading
+      main-content: Some Fancy Words Will Eventually Go Right Here
+      detail: ''
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
 
 ---
