@@ -9,6 +9,22 @@ fields:
   label: block
   hidden: true
   default: rich-text
+- name: background-color
+  type: select
+  default: none
+  config:
+    required: true
+    options:
+    - blue
+    - sand
+    - none
+    source:
+      type: simple
+      section:
+      file:
+      path:
+  label: Background Color
+  description: The background color of your rich text section.
 - name: content
   type: textarea
   default: ''

@@ -3,6 +3,7 @@ layout: blocks
 title: About Murray Lampert Design Build Remodel
 description: Murray Lampert Design, Build, Remodel of San Diego is your BBB award
   winning design build contractor with over 40 years experience in home remodeling.
+permalink: "/about-murray-lampert-design-build-remodel"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -12,11 +13,12 @@ sections:
     button-text: ''
     url: ''
   background-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
-  heading: 4 Generations of Design-Build Expertise
+  heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
   block: rich-text
-  content: "<h6>Our History</h6><h1>Listening to our clients since 1975.</h1><p>All
+  background-color: none
+  content: "<h6>Our History</h6><h2>Listening to our clients since 1975.</h2><p>All
     great projects, like your home, begin with a conversation. For four generations,
     we've been building and remodeling homes for San Diego homeowners.</p><p>We will
     guide you every step along the way, offering you options, and then making decisions
@@ -54,7 +56,8 @@ sections:
       url: ''
 - template: rich-text
   block: rich-text
-  content: "<p>Our Team</p><p>What Family Looks Like</p><p>We are designers and architects,
+  background-color: none
+  content: "<h6>Our Team</h6><h2>What Family Looks Like</h2><p>We are designers and architects,
     carpenters and craftsmen. We are dream-granters and budget keeps, communicators
     and collaborators. And your favorite thing to build is relationships with our
     customers. We can't wait to do the same for you.</p>"

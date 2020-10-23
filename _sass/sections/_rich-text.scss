@@ -4,6 +4,32 @@ section.rich-text {
 
   margin: 4rem 0;
 
+  &.blue {
+
+    color: #fff;
+    background-color: $blue;
+
+    h2 {
+
+      color: #fff;
+
+    }
+
+  }
+
+  &.sand {
+
+    color: #fff;
+    background-color: $sand;
+
+    h2 {
+
+      color: #fff;
+
+    }
+
+  }
+
   .lock {
 
     max-width: 1350px;
