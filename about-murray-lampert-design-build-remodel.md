@@ -58,5 +58,27 @@ sections:
     carpenters and craftsmen. We are dream-granters and budget keeps, communicators
     and collaborators. And your favorite thing to build is relationships with our
     customers. We can't wait to do the same for you.</p>"
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+    button-text: ''
+    url: ''
+  heading: Why people like to do business with us.
+  background-image: ''
+  content: ''
+- template: call-to-action
+  block: call-to-action
+  layout: 3-Column
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  image-left: "/v1603057434/murray-lampert/v3/services-other.jpg"
+  image-right: "/v1603057435/murray-lampert/v3/services-green-construction.jpg"
+  heading: Ready to start the conversation?
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
 
 ---
