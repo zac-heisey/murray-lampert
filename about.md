@@ -92,6 +92,31 @@ sections:
   heading: Why people like to do business with us.
   background-image: ''
   content: ''
+- template: rich-text
+  block: rich-text
+  background-color: sand
+  content: "<p><strong>YOU KNOW YOU'R HEARD.</strong><br>We listen to what you like
+    and why you want it. If it's too costly, we'll offer you a couple of alternatives
+    to choose from. We treat the design and build as a collaborative process.</p><p><strong>WE'VE
+    GOT YOUR BACK.</strong><br>This may be the first renovation project you've gone
+    through. But you can relax, as we'll be there with you every step of the way.
+    We'll let you know what to expect and how much it will cost before any building
+    begins.</p><p><strong>WE DON'T SELL, WE EDUCATE.</strong><br>We're never going
+    to lay a heavy sales trip on you. Instead, we'll listen to you, and then offer
+    some suggestions at a variety of price points. The final decisions is up to you.
+    No upselling and we are not change order driven.</p><p><strong>WE WORK WITH YOUR
+    BUDGET.<br></strong>There aren't going to be any surprises at the end of your
+    project. Sure, you might fall in love with a tile that is a little beyond your
+    budget. But we'll let you know and even try try to make up for it in other portions
+    of the project.</p><p><strong>WE BELIEVE IN ONE-ON- RELATIONSHIPS.</strong><br>You'll
+    have the same architect, interior designer, and project manager for the duration
+    of your project. That way, they know every detail of your project, and the reasons
+    why certain choices were made. This provides you with a more proactive service
+    and greater continuity. You are backed by Gregg Cantor and Rachel Cantor, the
+    3rd and 4th generations in the family business.</p><p><strong>YOU BENEFIT FROM
+    OUR EXPERIENCE.</strong><br>Since we were established in 1975, we've learned a
+    thing or two along the way. We can usually spot a situation before it becomes
+    a costly problem, and we are always considerate of our clients budget.</p>"
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
