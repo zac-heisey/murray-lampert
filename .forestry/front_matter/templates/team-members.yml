@@ -36,6 +36,12 @@ fields:
       label: Title
       hidden: false
       default: Team Member Title
+    - name: email
+      type: text
+      config:
+        required: false
+      label: Email
+      description: Email address for this team member
     - name: bio
       type: textarea
       default: ''
