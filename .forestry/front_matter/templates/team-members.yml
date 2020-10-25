@@ -56,15 +56,15 @@ fields:
       type: file
       config:
         maxSize: 64
-      label: Image 1
+      label: Image 2
       description: Select a secondary image for this team member
     config:
-      min:
-      max:
+      min: 
+      max: 
       labelField: name
     label: Team Members
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: row
   label: Team Rows
