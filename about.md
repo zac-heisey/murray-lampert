@@ -56,11 +56,32 @@ sections:
       url: ''
 - template: rich-text
   block: rich-text
+  background-color: blue
+  content: "<h6>Our Values</h6><h2>Values that guide us.</h2><p><strong>LISTENING
+    IS THE MOST IMPORTANT BUILDING SKILL.</strong></p><p>We know that you want to
+    be heard. Whether it's about your preference of plumbing fixtures or the best
+    time to have a recap meeting, we will proactively listen to you.</p><p><strong>DO
+    THE RIGHT THING.</strong></p><p>You can count on the Murray Lampert team to do
+    the right thing. We don't believe  in making empty promises just to get you to
+    sign a contract. Our goal is to be completely upfront and honest about what to
+    expect. And if we foresee a possible challenge, we will work together to find
+    the best solution.</p><p><strong>BUYING POWER WITH PERSONALIZED SERVICE.</strong></p><p>When
+    you meet with your team, the principals of our company will be there, as well
+    as an architect, interior designer, and project manager. We're large enough to
+    handle any project you need, including home construction, but we're not like other
+    firms with the high overhead of fancy showrooms. We're also small enough that
+    you'll have the same team working on your project the entire time, as well as
+    the involvement of the company principals all along the way.</p><p><strong>WE
+    TAKE FAMILY SERIOUSLY.</strong></p><p>We're a family-owned business and this family
+    feeling pervades our partnerships with our team, trade partners, and clients.
+    And by the time we're done with your project, you'll feel like family too.</p>"
+- template: rich-text
+  block: rich-text
   background-color: none
-  content: "<h6>Our Team</h6><h2>What Family Looks Like</h2><p>We are designers and architects,
-    carpenters and craftsmen. We are dream-granters and budget keeps, communicators
-    and collaborators. And your favorite thing to build is relationships with our
-    customers. We can't wait to do the same for you.</p>"
+  content: "<h6>Our Team</h6><h2>What Family Looks Like</h2><p>We are designers and
+    architects, carpenters and craftsmen. We are dream-granters and budget keeps,
+    communicators and collaborators. And your favorite thing to build is relationships
+    with our customers. We can't wait to do the same for you.</p>"
 - template: hero-banner
   block: hero-banner
   cta:
