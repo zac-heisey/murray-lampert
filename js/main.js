@@ -165,7 +165,60 @@
       if (event.target.classList.contains('next-leaving') || event.target.classList.contains('previous-leaving')) {
         event.target.hidden = true;
       }
+
       event.target.classList.remove('next-entering', 'next-leaving', 'previous-entering', 'previous-leaving');
+
+    }, false);
+
+  }
+
+  //== Team Members Gallery (move to inline?) ==//
+
+  {
+
+    let breakpointMedium = window.matchMedia('(min-width: 768px)');
+
+    let teamMemberSection = document.querySelector('section.team-members');
+
+    let teamMemberBios = Array.from(document.querySelectorAll('.bio'));
+
+    // Toggle Bios
+    function toggleBios(event) {
+
+      teamMemberBios.forEach( bio => {
+
+        // If team member bio matches focused container, show bio
+        if (bio.getAttribute('data-name') === document.activeElement.getAttribute('data-name')) {
+          bio.style.display = 'grid';
+        }
+        // Else hide bio
+        else {
+          bio.style.display = 'none';
+        }
+
+      });
+
+    }
+
+    // Listen for clicks and keydown events
+    document.addEventListener('click', function(event) {
+
+      if (!breakpointMedium.matches) return;
+
+      toggleBios(event);
+
+
+    }, false);
+
+    document.addEventListener('keydown', function(event) {
+
+      if (!breakpointMedium.matches) return;
+
+      if (event.key === 'Enter') {
+
+        toggleBios(event);
+
+      }
 
     }, false);
 
