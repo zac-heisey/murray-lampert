@@ -60,7 +60,7 @@ sections:
   content: "<h6>Our Values</h6><h2>Values that guide us.</h2><p><strong>LISTENING
     IS THE MOST IMPORTANT BUILDING SKILL.</strong></p><p>We know that you want to
     be heard. Whether it's about your preference of plumbing fixtures or the best
-    time to have a recap meeting, we will proactively listen to you.</p><p></p><p><strong>DO
+    time to have a recap meeting, we will proactively listen to you.</p><p><strong>DO
     THE RIGHT THING.</strong></p><p>You can count on the Murray Lampert team to do
     the right thing. We don't believe  in making empty promises just to get you to
     sign a contract. Our goal is to be completely upfront and honest about what to
