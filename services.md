@@ -24,6 +24,7 @@ sections:
     deliver a smoother project, better communication, reduced timeline, and more bang
     for your budget.</p><p>The entire design-build process is a conversation about
     what your needs are and how we can make that happen.</p>"
+  background-color: none
 - template: process-stages
   block: process-stages
   process-stages:
@@ -76,6 +77,7 @@ sections:
     want to transform your living room, add a second deck, or create a wonderful oasis
     in your backyard, we'll listen to what you're dreaming of. Take a look at some
     of our latest creations.</p>"
+  background-color: none
 - template: gallery
   block: gallery
   gallery-rows:

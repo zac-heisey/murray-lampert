@@ -20,9 +20,9 @@ fields:
     - none
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Background Color
   description: The background color of your rich text section.
 - name: content
