@@ -35,6 +35,7 @@ fields:
   - grid
   - process-stages
   - gallery
+  - team-members
   config:
     min: 
     max: 
