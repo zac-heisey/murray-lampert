@@ -84,7 +84,7 @@
 
   }
 
-  //== Carousel (move to inline?) ==//
+  //== Carousel (move to inline in footer?) ==//
 
   {
 
@@ -172,11 +172,11 @@
 
   }
 
-  //== Team Members Gallery (move to inline?) ==//
+  //== Team Members Gallery (move to inline in footer?) ==//
 
   {
 
-    let breakpointMedium = window.matchMedia('(min-width: 768px)');
+    let breakpointLarge = window.matchMedia('(min-width: 992px)');
 
     let teamMemberSection = document.querySelector('section.team-members');
 
@@ -203,7 +203,7 @@
     // Listen for clicks and keydown events
     document.addEventListener('click', function(event) {
 
-      if (!breakpointMedium.matches) return;
+      if (!breakpointLarge.matches) return;
 
       toggleBios(event);
 
@@ -212,7 +212,7 @@
 
     document.addEventListener('keydown', function(event) {
 
-      if (!breakpointMedium.matches) return;
+      if (!breakpointLarge.matches) return;
 
       if (event.key === 'Enter') {
 

@@ -21,6 +21,39 @@
         loading="lazy"
       >
 
+      <!-- Text overlay -->
+      <div class="text-overlay">
+
+        <!-- Image 2 -->
+        <img
+          src="{{ site.cloudinary }},w_auto{{ person.image-2 }}"
+          srcset="
+          {{ site.cloudinary }},w_450{{ person.image-2 }} 450w,
+          {{ site.cloudinary }},w_675{{ person.image-2 }} 675w
+          "
+          sizes="
+          (max-width: 575px) 450px,
+          (max-width: 767px) 675px
+          "
+          alt="murray lampert team member - {{ person.name }}"
+          width="800"
+          height="450"
+          loading="lazy"
+        >
+
+        <div class="bio-text">
+          <button type="button" class="close">
+            <span class="icon-close"></span>
+          </button>
+          <h3>{{ person.name }}</h3>
+          <p class="small-heading">{{ person.title }}</p>
+          <a href="mailto:{{ person.email }}">
+            <span class="icon-email"></span>
+          </a>
+        </div>
+
+      </div>
+
     </div>
     {% endfor %}
 
@@ -53,8 +86,14 @@
     <div class="container">
 
       <div class="bio-text">
-        <p>{{ person.name }}</p>
-        <p>{{ person.title }}</p>
+        <button type="button" class="close">
+          <span class="icon-close"></span>
+        </button>
+        <h3>{{ person.name }}</h3>
+        <p class="small-heading">{{ person.title }}</p>
+        <a href="mailto:{{ person.email }}">
+          <span class="icon-email"></span>
+        </a>
            {{ person.bio }}
       </div>
 
