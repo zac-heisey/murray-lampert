@@ -189,7 +189,7 @@ sections:
     button-text: ''
     url: ''
   heading: Why people like to do business with us.
-  background-image: ''
+  background-image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
   content: ''
 - template: rich-text
   block: rich-text
