@@ -10,7 +10,7 @@ project-details:
 - Family Room
 - Kitchen
 - Outdoor Living Space
-project_overiew: "<p>Del Cerro is a community of spacious mid-century ranch homes
+project-overview: "<p>Del Cerro is a community of spacious mid-century ranch homes
   that were built in the 1950s and 1960s, across the freeway from San Diego State
   University. After living in the home for 20 years and raising their kids, the owners
   decided it was time for a change. But they loved the location and didn't want to
