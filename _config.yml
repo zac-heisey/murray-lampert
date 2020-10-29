@@ -16,6 +16,13 @@ collections:
     output: true
     permalink: "/:collection/:path/"
 
+defaults:
+  - scope:
+      path: ""
+      type: "featured-projects"
+    values:
+      layout: "featured-project"
+
 markdown: kramdown
 
 kramdown:

@@ -11,3 +11,58 @@ main[data-page="about"] {
   }
 
 }
+
+/* Featured projects page */
+
+main[data-page*="_featured-projects"] {
+
+  section.header {
+
+    background-color: $sand;
+
+    .lock {
+
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      position: relative;
+      max-width: 1440px;
+      height: 200px;
+      margin: 0 auto;
+      padding: 1rem 2rem;
+
+    }
+
+  }
+
+  section.grid.overview {
+
+    .row {
+
+      min-height: auto;
+
+      .container {
+
+        min-height: auto;
+        max-width: none;
+
+      }
+
+      .text {
+
+        justify-content: flex-start;
+        padding: 1rem 2rem;
+
+      }
+
+      .text h1 {
+
+        max-width: 600px;
+
+      }
+
+    }
+
+  }
+
+}

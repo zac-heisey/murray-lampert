@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<!-- Project header -->
+<section class="header">
+
+  <div class="lock">
+
+    <p class="small-heading">Featured Project</p>
+
+  </div>
+
+</section>
+
+<!-- Project overview -->
+<section class="grid overview">
+
+  <div class="row">
+
+    <div class="container span-1">
+    </div>
+
+    <div class="container span-2">
+      <div class="text">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="container span-1">
+      <aside class="text">
+        <p class="small-heading">Project Details</p>
+        {% for detail in page.project-details %}
+        {{ detail }}
+        {% endfor %}
+      </aside>
+    </div>
+
+    <div class="container span-2">
+      <div class="text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo. Iaculis nunc sed augue lacus. Felis bibendum ut tristique et egestas quis ipsum. Habitant morbi tristique senectus et netus et malesuada. Molestie a iaculis at erat pellentesque. Cras ornare arcu dui vivamus arcu. Diam maecenas ultricies mi eget mauris pharetra et ultrices neque. In fermentum et sollicitudin ac orci phasellus egestas tellus. Sed adipiscing diam donec adipiscing. Aliquet eget sit amet tellus cras. Elementum nisi quis eleifend quam adipiscing. Amet purus gravida quis blandit turpis. Fames ac turpis egestas sed tempus. Scelerisque felis imperdiet proin fermentum leo vel. A diam sollicitudin tempor id eu nisl. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Tincidunt eget nullam non nisi est sit.</p>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
+<!-- Pull in page sections blocks -->
+{% if page.sections %}
+
+  {% for section in page.sections %}
+
+    {% include {{ section.block }}.html %}
+
+  {% endfor %}
+
+{% endif %}
