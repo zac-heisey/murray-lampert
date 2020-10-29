@@ -36,3 +36,5 @@ fields:
   description: Provide a comprehensive overview of this featured project (e.g. what
     were the client's unique goals, what challenges were presented, what was the outcome,
     etc.)
+pages:
+- _featured-projects/cripe-del-cerro.md
