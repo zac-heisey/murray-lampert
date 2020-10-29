@@ -12,6 +12,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: documents
+- type: directory
+  path: _featured-projects
+  label: Featured Projects
+  create: documents
+  match: "**/*"
 upload_dir: murray-lampert/v3
 public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto
 front_matter_path: ''
