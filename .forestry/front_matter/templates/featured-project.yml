@@ -5,15 +5,34 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
+  hidden: true
+  default: featured-project
 - type: text
   name: permalink
   label: permalink
+  hidden: true
+- type: text
+  name: title
+  label: Title
+  description: Title of this featured project.
+- type: text
+  name: description
+  label: Description
+  description: Quick description of this featured project.
 - type: list
   name: project-details
-  label: project-details
+  label: Project Details
+  description: List out a few specifics of this project (e.g. design, kitchen, demo,
+    interior design, second story, etc.)
+- name: project_overiew
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Project Overiew
+  description: Provide a comprehensive overview of this featured project (e.g. what
+    were the client's unique goals, what challenges were presented, what was the outcome,
+    etc.)
