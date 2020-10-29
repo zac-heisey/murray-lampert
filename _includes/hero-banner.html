@@ -1,8 +1,10 @@
-<section class="hero-banner" {% if section.background-image %} style="background-image: url('{{ site.cloudinary }}{{ section.background-image }}')" {% endif %}>
+<section class="hero-banner" {% if section.background-image != '' %} style="background-image: url('{{ site.cloudinary }}{{ section.background-image }}')" {% endif %}>
 
   <div class="container">
     <h1>{{ section.heading }}</h1>
+    {% if section.content != '' %}
     <p>{{ section.content }}</p>
+    {% endif %}
     {% if section.cta and section.cta.enabled == true %}
     <a class="btn {{ section.cta.color }}" href="{{ section.cta.url }}">{{ section.cta.button-text }}</a>
     {% endif %}
