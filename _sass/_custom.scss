@@ -1,0 +1,13 @@
+/*== Custom Styles ==*/
+
+/* About page */
+
+main[data-page="about"] {
+
+  section.hero-banner:not(:first-of-type) + section.rich-text {
+
+    margin-top: 0;
+
+  }
+
+}
