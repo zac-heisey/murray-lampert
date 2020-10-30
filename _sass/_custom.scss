@@ -35,7 +35,7 @@ main[data-page*="_featured-projects"] {
 
   }
 
-  section.grid.overview {
+  section.grid {
 
     .row {
 
@@ -44,7 +44,13 @@ main[data-page*="_featured-projects"] {
       .container {
 
         min-height: auto;
-        max-width: none;
+        max-height: none;
+
+        @media (min-width: $breakpoint-md) {
+
+          max-height: 500px;
+
+        }
 
       }
 
