@@ -2,7 +2,7 @@
 layout: featured-project
 title: Whole House Redo in Del Cero
 description: ''
-featured-image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-2.jpg"
+featured-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
 project-details:
 - Design
 - Demo
