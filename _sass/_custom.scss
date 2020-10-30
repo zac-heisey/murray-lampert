@@ -48,6 +48,24 @@ main[data-page*="_featured-projects"] {
 
       }
 
+      .featured-image {
+
+        position: absolute;
+        top: -64px;
+        background-size: cover;
+        width: 100%;
+        height: 300px;
+
+        @media (min-width: $breakpoint-lg) {
+
+          top: -65%;
+          left: -25%;
+          width: 500px;
+
+        }
+
+      }
+
       .text {
 
         justify-content: flex-start;
@@ -57,7 +75,16 @@ main[data-page*="_featured-projects"] {
 
       .text h1 {
 
+        position: relative;
         max-width: 600px;
+
+      }
+
+      .text .detail {
+
+        font-style: italic;
+        margin: 0;
+
 
       }
 
