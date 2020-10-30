@@ -22,5 +22,159 @@ project-overview: "<p>Del Cerro is a community of spacious mid-century ranch hom
   details, like an outdoor bar that folds down when not in use. In the kitchen, a
   portion of the cabinets were designed for the cats and their food - a testament
   to the skill of the custom cabinet makers we partner with.</p>"
+sections:
+- template: grid
+  block: grid
+  grid-rows:
+  - row: Cripe Del Cerro Video
+    grid-items:
+    - item: Video
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: P7Zmdkdvwhk
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: video
+      item-span: 3
+- template: grid
+  block: grid
+  grid-rows:
+  - row: Grid Row 1
+    grid-items:
+    - item: Image 1
+      image-info:
+        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Image 2
+      image-info:
+        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: Grid Row 2
+    grid-items:
+    - item: Image 3
+      image-info:
+        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Image 4
+      image-info:
+        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+  - row: Grid Row 3
+    grid-items:
+    - item: Client Testimonial
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: sand
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        content: <h3>"Communication is critical to any big project, and everyone on
+          the Murray Lampert team was an expert - responding promptly to any questions
+          and keeping us constantly informed. Our beautiful project was finished on
+          time and on budget."</h3><p><em>- Joan S. Homeowner</em></p>
+        heading: ''
+      item-type: text
+      item-span: 3
+- template: carousel
+  block: carousel
+  slide:
+  - slide-title: Kitchen (before & after)
+    background-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Kitchen
+      detail: Before & After
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
 
 ---
