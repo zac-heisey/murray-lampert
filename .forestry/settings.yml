@@ -17,6 +17,8 @@ sections:
   label: Featured Projects
   create: documents
   match: "**/*"
+  templates:
+  - featured-project
 upload_dir: murray-lampert/v3
 public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto
 front_matter_path: ''
