@@ -17,7 +17,8 @@
     {% endfor %}
   </div>
 
-  <!-- Temporary Controls (UPDATE OR REMOVE) -->
+  <!-- Controls -->
+  {% if section.slide.size > 1 %}
   <div id="controls">
     <!-- Left Arrow -->
     <button class="icon-left-arrow" type="button" name="prev"></button>
@@ -28,5 +29,6 @@
     <!-- Right Arrow -->
     <button class="icon-right-arrow" type="button" name="next"></button>
   </div>
+  {% endif %}
 
 </section>
