@@ -35,57 +35,68 @@ main[data-page*="_featured-projects"] {
 
   }
 
-  section.grid.overview {
+  section.grid {
 
-    .row {
+    &.overview {
 
-      min-height: auto;
-
-      .container {
+      .row {
 
         min-height: auto;
 
-      }
+        .container {
 
-      .featured-image {
+          min-height: auto;
 
-        position: absolute;
-        top: -64px;
-        background-size: cover;
-        width: 100%;
-        height: 300px;
+        }
 
-        @media (min-width: $breakpoint-lg) {
+        .featured-image {
 
-          top: -65%;
-          left: -25%;
-          width: 500px;
+          position: absolute;
+          top: -64px;
+          background-size: cover;
+          width: 100%;
+          height: 300px;
+
+          @media (min-width: $breakpoint-lg) {
+
+            top: -65%;
+            left: -25%;
+            width: 500px;
+
+          }
+
+        }
+
+        .text {
+
+          justify-content: flex-start;
+          padding: 1rem 2rem;
+
+        }
+
+        .text h1 {
+
+          position: relative;
+          max-width: 600px;
+
+        }
+
+        .text .detail {
+
+          font-style: italic;
+          margin: 0;
+
 
         }
 
       }
 
-      .text {
+    }
 
-        justify-content: flex-start;
-        padding: 1rem 2rem;
+    .span-3 > .text {
 
-      }
-
-      .text h1 {
-
-        position: relative;
-        max-width: 600px;
-
-      }
-
-      .text .detail {
-
-        font-style: italic;
-        margin: 0;
-
-
-      }
+      max-width: 1000px;
+      margin: 0 auto;
 
     }
 

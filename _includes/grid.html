@@ -47,9 +47,14 @@
       <!-- If grid item is text -->
 
       <div class="text">
-        <h2>{{ item.text-info.heading }}</h2>
 
+        {% if item.text-info.heading != '' %}
+        <h2>{{ item.text-info.heading }}</h2>
+        {% endif %}
+
+        {% if item.text-info.content != '' %}
         {{ item.text-info.content }}
+        {% endif %}
 
         {% if item.text-info.cta.enabled == true %}
         <a class="btn {{ item.text-info.cta.color }}" href="{{ item.text-info.cta.url }}">{{ item.text-info.cta.button-text }}</a>

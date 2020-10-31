@@ -153,10 +153,10 @@ sections:
           enabled: false
           button-text: ''
           url: ''
-        content: <h3>"Communication is critical to any big project, and everyone on
+        content: <h3>“Communication is critical to any big project, and everyone on
           the Murray Lampert team was an expert - responding promptly to any questions
           and keeping us constantly informed. Our beautiful project was finished on
-          time and on budget."</h3><p><em>- Joan S. Homeowner</em></p>
+          time and on budget.”</h3><p><em>- Joan S. Homeowner</em></p>
         heading: ''
       item-type: text
       item-span: 3
@@ -176,5 +176,40 @@ sections:
       color: white
       button-text: ''
       url: ''
+- template: grid
+  block: grid
+  grid-rows:
+  - row: 3 (text)
+    grid-items:
+    - item: Client Testimonial
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: sand
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        content: <h3>“In the end, we're so incredibly happy with our remodel! We feel like we live in a brand new home...modern, bright, and completely in line with all our dreams. And we've now made some great connections with the Murray Lampert family - we know who we're calling if we start having new ideas!”</h3><p><em>- Mark S. Homeowner</em></p>
+        heading: ''
+      item-type: text
+      item-span: 3
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
 
 ---
