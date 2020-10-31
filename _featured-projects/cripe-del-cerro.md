@@ -26,7 +26,7 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - row: Cripe Del Cerro Video
+  - row: 3 (video)
     grid-items:
     - item: Video
       image-info:
@@ -51,7 +51,7 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - row: Grid Row 1
+  - row: 2 / 1
     grid-items:
     - item: Image 1
       image-info:
@@ -93,7 +93,7 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-  - row: Grid Row 2
+  - row: 1 / 2
     grid-items:
     - item: Image 3
       image-info:
@@ -135,7 +135,7 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-  - row: Grid Row 3
+  - row: 3 (text)
     grid-items:
     - item: Client Testimonial
       image-info:
