@@ -36,6 +36,7 @@ fields:
   - process-stages
   - gallery
   - team-members
+  - project-list
   config:
     min: 
     max: 
