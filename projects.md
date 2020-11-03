@@ -23,10 +23,18 @@ sections:
     Along the way, there are many conversations about finishes, design, deadlines,
     and budgets. And in the end, you'll end up with a home that reflects exactly what
     you want. Take a look at some of our featured projects and past work.</p>"
+- template: project-list
+  block: project-list
+  project-list:
+  - _featured-projects/cripe-del-cerro.md
+  - _featured-projects/featured-project-2.md
+  - _featured-projects/featured-project-4.md
 - template: rich-text
   block: rich-text
   background-color: none
-  content: "<h6>Projects by Type</h6><h2>See our projects by room.</h2><p>Whether you want to transform your living room, add a second deck, or create a wonderful oasis in your backyard, we'll listen to what you're dreaming of.</p>"
+  content: "<h6>Projects by Type</h6><h2>See our projects by room.</h2><p>Whether
+    you want to transform your living room, add a second deck, or create a wonderful
+    oasis in your backyard, we'll listen to what you're dreaming of.</p>"
 - template: gallery
   block: gallery
   gallery-rows:
