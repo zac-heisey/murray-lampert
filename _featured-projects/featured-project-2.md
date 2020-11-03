@@ -215,6 +215,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-published: false
+  image-left: ''
+  image-right: ''
 
 ---
