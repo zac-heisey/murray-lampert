@@ -3,7 +3,7 @@ title: About Murray Lampert
 permalink: "/about-murray-lampert-design-build-remodel"
 layout: default
 section_id: about
-featured-image: 
+featured-image:
 excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award winning
   design build contractor with over 40 years experience in home remodeling.
 members:
@@ -103,18 +103,6 @@ members:
     url: "/team-member/hannah-wilson"
   - icon_class: fa fa-envelope
     url: mailto:hwilson@murraylampert.com
-- name: Chelsea Tyler
-  position: Project Administrator
-  avatar: chelsea-tyler.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/chelsea-tyler"
-- name: Dan Emery
-  position: Senior Project Manager
-  avatar: dan-emery.jpg
-  socials:
-  - icon_class: fa fa-plus
-    url: "/team-member/dan-emery"
 - name: Matthew Clark
   position: Project Manager
   avatar: matthew-clark.jpg
