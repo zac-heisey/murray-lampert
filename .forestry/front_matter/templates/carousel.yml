@@ -24,7 +24,7 @@ fields:
       maxSize: 64
     label: Background Image
     description: Choose an image as the background for your slide.
-    default: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    default: ''
   - name: text-overlay
     type: field_group
     config: {}
