@@ -26,7 +26,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Julie & Richard - Rancho Peñasquitos
-    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
