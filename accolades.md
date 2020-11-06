@@ -22,5 +22,20 @@ sections:
     matters. It's the reason why we take great care of our clients and have established
     a reputation as San Diego's most trusted design, build, remodel company since
     1975.</p>"
+- template: carousel
+  block: carousel
+  slide:
+  - slide-title: Julie & Richard - Rancho Peñasquitos
+    background-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1601138428/murray-lampert/v3/testimonials-bg.png
+    text-overlay:
+      background-color: sand
+      alignment: left
+      main-content: Professionalism every step of the way. Exceptional communication
+        in all aspects and phases of the project. The project was finished well ahead
+        of schedule, allowing us to move back in before the start of school
+      detail: "- Julie & Richard | Rancho Peñasquitos"
+    cta:
+      enabled: false
+      color: white
 
 ---
