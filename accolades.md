@@ -25,15 +25,35 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - slide-title: Julie & Richard - Rancho Peñasquitos
+  - slide-title: Julie & Richard Testimonial
     background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
-      main-content: Professionalism every step of the way. Exceptional communication
+      main-content: "“Professionalism every step of the way. Exceptional communication
         in all aspects and phases of the project. The project was finished well ahead
-        of schedule, allowing us to move back in before the start of school
-      detail: "- Julie & Richard | Rancho Peñasquitos"
+        of schedule, allowing us to move back in before the start of school.”"
+      detail: "- Julie & Richard - Rancho Peñasquitos"
+    cta:
+      enabled: false
+      color: white
+  - slide-title: Dan & Jennifer Testimonial
+    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      main-content: "“We had complete trust with Murray Lampert and they exceeded our expectations. The professionalism exhibited from the very beginning with the design of our project and the review of the contract was so thorough we felt extremely confident we were in the right hands.”"
+      detail: "- Dan & Jennifer - Del Mar"
+    cta:
+      enabled: false
+      color: white
+  - slide-title: Stan & Gemma Testimonial
+    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      main-content: "“The quality of the work, cost, and early completion of the project makes us happy we choose Murray Lampert among the other contractors.”"
+      detail: "- Stan & Gemma - Spring Valley"
     cta:
       enabled: false
       color: white
