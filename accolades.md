@@ -102,7 +102,7 @@ sections:
         text-overlay:
           main-content: Murray Lampert Houzz Reviews
           detail: Click to Read Reviews
-          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333?#Reviews?hz_ref=aHR0cHM6Ly9tdXJyYXlsYW1wZXJ0LmNvbS98MWQzMTA2ZTEtYzJhOC00ZDI0LWI3Y2EtMTg1MTdiNTk3OTlmfDE2MDQ3ODcwNzM0NTk
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333?#Reviews
       text-info:
         background-color: none
         cta:
@@ -113,9 +113,62 @@ sections:
       image-info:
         image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
         text-overlay:
-          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel?tab=reviews
           detail: Click to Read Reviews
           main-content: Murray Lampert GuildQuality Reviews
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+- template: grid
+  block: grid
+  grid-rows:
+  - row: Houzz Awards
+    grid-items:
+    - item: '2020'
+      image-info:
+        image: "/v1604848488/murray-lampert/v3/houzz-2020.png"
+        text-overlay:
+          main-content: Best of Houzz 2020
+          detail: Client Satisfaction
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2017'
+      image-info:
+        image: "/v1604848488/murray-lampert/v3/houzz-2017.png"
+        text-overlay:
+          main-content: Best of Houzz 2017
+          detail: Client Satisfaction
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2015'
+      image-info:
+        image: "/v1604848488/murray-lampert/v3/houzz-2015.png"
+        text-overlay:
+          main-content: Best of Houzz 2015
+          detail: Client Satisfaction
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2014'
+      image-info:
+        image: "/v1604848488/murray-lampert/v3/houzz-2014.png"
+        text-overlay:
+          main-content: Best of Houzz 2014
+          detail: Client Satisfaction
       text-info:
         background-color: none
         cta:
