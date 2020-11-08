@@ -61,6 +61,20 @@ sections:
     cta:
       enabled: false
       color: white
+- template: gallery
+  block: gallery
+  gallery-rows:
+  - row: Gallery Row
+    gallery-items:
+    - item: Gallery Item
+      image-info:
+        image: "/v1604841110/murray-lampert/v3/google-logo.png"
+        text-overlay:
+          heading: Murray Lampert
+          content: Google Review
+          cta:
+            button-text: Read Reviews
+            url: "/"
 - template: rich-text
   block: rich-text
   background-color: none
