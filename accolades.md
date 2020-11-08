@@ -179,6 +179,136 @@ sections:
           color: blue
       item-type: image
       item-span: 1
+  - row: BBB Awards
+    grid-items:
+    - item: '2014'
+      image-info:
+        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        text-overlay:
+          main-content: San Diego BBB Torch Award 2014
+          detail: Winner
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2010'
+      image-info:
+        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        text-overlay:
+          main-content: San Diego BBB Torch Award 2010
+          detail: Finalist
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2008'
+      image-info:
+        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        text-overlay:
+          main-content: San Diego BBB Torch Award 2008
+          detail: Winner
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2007'
+      image-info:
+        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        text-overlay:
+          main-content: San Diego BBB Torch Award 2007
+          detail: Finalist
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+  - row: GuildQuality Awards
+    grid-items:
+    - item: '2020'
+      image-info:
+        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        text-overlay:
+          main-content: GuildQuality Guildmaster 2020
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2016'
+      image-info:
+        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        text-overlay:
+          main-content: GuildQuality Guildmaster 2016
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2015'
+      image-info:
+        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        text-overlay:
+          main-content: GuildQuality Guildmaster 2015
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: '2014'
+      image-info:
+        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        text-overlay:
+          main-content: GuildQuality Guildmaster 2014
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: "<h2>In The News</h2>"
+- template: grid
+  block: grid
+  grid-rows:
+  - row: In the News
+    grid-items:
+    - item: CBS8 Thumbnail
+      image-info:
+        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: CBS8 Intro
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          button-text: Read More
+          url: https://www.cbs8.com/article/news/local/should-construction-be-considered-an-essential-business-during-a-pandemic/509-811ebc8d-f79b-48e7-8a4a-4897b24e946f
+        heading: Should construction be considered an "essential business" during
+          a pandemic
+        content: <p>Following the governor's order to shut down non-essential businesses,
+          News 8 received several emails from our viewers questioning why some people
+          are still on the job. That includes construction workers, even though they're
+          considered "essential."</p>
+      item-type: text
+      item-span: 3
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
