@@ -72,11 +72,11 @@ sections:
     grid-items:
     - item: Google
       image-info:
-        image: "/v1604786544/murray-lampert/v3/google-logo.png"
+        image: "/v1604841110/murray-lampert/v3/google-logo.png"
         text-overlay:
           main-content: Murray Lampert Google Reviews
           url: https://www.google.com/search?q=murray+lamperty+san+diego&oq=murray+lamperty+san+diego&aqs=chrome..69i57j0.2246j0j1&sourceid=chrome&ie=UTF-8#lrd=0x80d955a57abf532f:0x409268b5dbfcff56,1,
-          detail: Click to Read Our Reviews
+          detail: Click to Read Reviews
       text-info:
         background-color: none
         cta:
@@ -85,7 +85,7 @@ sections:
       item-span: 1
     - item: Yelp
       image-info:
-        image: "/v1604786543/murray-lampert/v3/yelp-logo.jpg"
+        image: "/v1604842253/murray-lampert/v3/yelp-logo.png"
         text-overlay:
           url: https://www.yelp.com/biz/murray-lampert-design-build-remodel-san-diego
           main-content: Murray Lampert Yelp Reviews
@@ -98,10 +98,10 @@ sections:
       item-span: 1
     - item: Houzz
       image-info:
-        image: "/v1604786544/murray-lampert/v3/houzz-logo.png"
+        image: "/v1604841393/murray-lampert/v3/houzz-logo.png"
         text-overlay:
           main-content: Murray Lampert Houzz Reviews
-          detail: Click to Read Our Reviews
+          detail: Click to Read Reviews
           url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333?#Reviews?hz_ref=aHR0cHM6Ly9tdXJyYXlsYW1wZXJ0LmNvbS98MWQzMTA2ZTEtYzJhOC00ZDI0LWI3Y2EtMTg1MTdiNTk3OTlmfDE2MDQ3ODcwNzM0NTk
       text-info:
         background-color: none
@@ -111,10 +111,10 @@ sections:
       item-span: 1
     - item: GuildQuality
       image-info:
-        image: "/v1604786543/murray-lampert/v3/guildquality-logo.jpg"
+        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
         text-overlay:
           url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
-          detail: Click to Read Our Reviews
+          detail: Click to Read Reviews
           main-content: Murray Lampert GuildQuality Reviews
       text-info:
         background-color: none

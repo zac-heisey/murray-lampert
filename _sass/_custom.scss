@@ -103,3 +103,22 @@ main[data-page*="_featured-projects"] {
   }
 
 }
+
+/* Accolades page */
+
+main[data-page="accolades"] {
+
+  section.grid {
+
+    .row {
+
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      min-height: auto;
+      margin: -4rem auto;
+      border-bottom: 2px solid $sand;
+
+    }
+
+  }
+
+}
