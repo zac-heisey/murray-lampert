@@ -61,20 +61,6 @@ sections:
     cta:
       enabled: false
       color: white
-- template: gallery
-  block: gallery
-  gallery-rows:
-  - row: Gallery Row
-    gallery-items:
-    - item: Gallery Item
-      image-info:
-        image: "/v1604841110/murray-lampert/v3/google-logo.png"
-        text-overlay:
-          heading: Murray Lampert
-          content: Google Review
-          cta:
-            button-text: Read Reviews
-            url: "/"
 - template: rich-text
   block: rich-text
   background-color: none
@@ -322,7 +308,61 @@ sections:
           are still on the job. That includes construction workers, even though they're
           considered "essential."</p>
       item-type: text
-      item-span: 3
+      item-span: 2
+  - row: In the News (CBS8 - April 2020)
+    grid-items:
+    - item: Thumbnail
+      image-info:
+        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: Intro
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          button-text: Read More
+          url: https://www.cbs8.com/article/news/local/should-construction-be-considered-an-essential-business-during-a-pandemic/509-811ebc8d-f79b-48e7-8a4a-4897b24e946f
+        heading: Should construction be considered an "essential business" during
+          a pandemic
+        content: <p>Following the governor's order to shut down non-essential businesses,
+          News 8 received several emails from our viewers questioning why some people
+          are still on the job. That includes construction workers, even though they're
+          considered "essential."</p>
+      item-type: text
+      item-span: 2
+  - row: In the News (CBS8 - April 2020)
+    grid-items:
+    - item: Thumbnail
+      image-info:
+        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
+    - item: Intro
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          button-text: Read More
+          url: https://www.cbs8.com/article/news/local/should-construction-be-considered-an-essential-business-during-a-pandemic/509-811ebc8d-f79b-48e7-8a4a-4897b24e946f
+        heading: Should construction be considered an "essential business" during
+          a pandemic
+        content: <p>Following the governor's order to shut down non-essential businesses,
+          News 8 received several emails from our viewers questioning why some people
+          are still on the job. That includes construction workers, even though they're
+          considered "essential."</p>
+      item-type: text
+      item-span: 2
 - template: call-to-action
   block: call-to-action
   layout: Full-Width

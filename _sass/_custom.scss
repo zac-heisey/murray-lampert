@@ -110,15 +110,37 @@ main[data-page="accolades"] {
 
   section.grid {
 
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 2rem;
+
     .row {
 
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      min-height: auto;
-      margin: -4rem auto;
+      min-height: 300px;
 
       .container {
 
         height: 300px;
+        max-height: none;
+
+      }
+
+    }
+
+    &:nth-last-of-type(2) {
+
+      margin-bottom: 4rem;
+
+      .row {
+
+        margin-bottom: 3rem;
+
+        .container {
+
+          height: 100%;
+
+        }
 
       }
 
