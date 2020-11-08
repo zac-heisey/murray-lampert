@@ -122,6 +122,10 @@ sections:
           color: blue
       item-type: image
       item-span: 1
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: "<h2>Awards &amp; Accolades</h2>"
 - template: grid
   block: grid
   grid-rows:
