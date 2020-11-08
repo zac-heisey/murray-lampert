@@ -282,9 +282,9 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - row: In the News
+  - row: In the News (CBS8 - April 2020)
     grid-items:
-    - item: CBS8 Thumbnail
+    - item: Thumbnail
       image-info:
         image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
       text-info:
@@ -293,7 +293,7 @@ sections:
           color: blue
       item-type: image
       item-span: 1
-    - item: CBS8 Intro
+    - item: Intro
       text-info:
         background-color: none
         cta:
