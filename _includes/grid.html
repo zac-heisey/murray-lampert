@@ -16,7 +16,7 @@
 
         {% if item.image-info.text-overlay.main-content != "" %}
 
-        <a {% if item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
+        <a {% if item.image-info.text-overlay.url and item.image-info.text-overlay.url != "" %}href="{{ item.image-info.text-overlay.url }}"{% else %}href="#" class="disabled" onclick="return false;"{% endif %}>
 
           <!-- Cloudinary image include -->
           {%- assign image = item.image-info.image -%}
