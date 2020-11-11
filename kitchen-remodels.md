@@ -3,14 +3,13 @@ layout: blocks
 title: Kitchen Remodeling in San Diego
 description: San Diego custom kitchen remodel services by Murray Lampert. Providing
   kitchen remodeling in San Diego since 1975. View our kitchen remodel projects today.
+permalink: "/san-diego-kitchen-remodels"
 sections:
 - template: hero-banner
   block: hero-banner
   cta:
-    enabled: true
+    enabled: false
     color: white
-    button-text: ''
-    url: ''
   background-image: "/v1605129249/murray-lampert/v3/kitchen-remodeling-bg.png"
   heading: Kitchen Remodeling in San Diego
   content: Refresh Your Outdated Kitchen and Modernize Your Counters, Cabinets, Fixtures,
