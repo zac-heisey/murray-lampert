@@ -1,0 +1,33 @@
+/* Blog Homepage */
+
+section.blog {
+
+  margin: 4rem 0;
+
+  .lock {
+
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+
+    .featured-post {
+
+      img {
+
+        width: 100%;
+        max-height: 500px;
+        object-fit: cover;
+
+      }
+
+      .text {
+
+        margin: 2rem 0;
+
+      }
+
+    }
+
+  }
+
+}

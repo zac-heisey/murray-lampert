@@ -1,17 +1,16 @@
 ---
+layout: blocks
 title: San Diego Home Remodeling Blog
-layout: default
-section_id: blog
+description: Murray Lampert design, build, and remodeling blog. Get remodeling inspiration, insights, and more from San Diego's top home remodeling contractor since 1975.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1600533663/murray-lampert/v3/hero-bg.png"
+  heading: All Things<br>Home Remodeling
+  content: Expert tips, insights, and inspiration for San Diego's home remodeling experts.
+- template: blog
+  block: blog
 ---
-
-This is the main blog page, which list recent and past blog posts.
-
-{% for post in site.posts %}
-
-  <ul>
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  </ul>
-
-{% endfor %}
