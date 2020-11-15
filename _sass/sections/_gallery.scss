@@ -102,7 +102,7 @@ section.gallery {
         background-size: 100px 4px;
         background-repeat: no-repeat;
         background-position: bottom left;
-        background-image: linear-gradient(to right, #fff 0%, #fff 100%);
+        background-image: linear-gradient(to right, $white 0%, $white 100%);
         white-space: nowrap;
 
         @media (min-width: $breakpoint-lg) {

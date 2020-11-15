@@ -8,21 +8,77 @@ section.blog {
 
     max-width: 1350px;
     margin: 0 auto;
-    padding: 1rem 2rem;
 
     .featured-post {
+
+      position: relative;
+      margin-bottom: 2rem;
+      border-bottom: 3px solid $sand;
+
+      .overlay {
+
+        position: absolute;
+        background-color: rgba($blue, 0.5);
+        max-width: 900px;
+        min-height: 500px;
+        padding: 5rem 2rem 1rem;
+
+        @media (min-width: $breakpoint-sm) {
+
+          left: 0;
+          top: 30%;
+          padding: 5rem 4rem 1rem;
+          min-height: auto;
+
+        }
+
+        span {
+
+          position: absolute;
+          top: 2.5rem;
+          left: 2rem;
+          color: $sand;
+          font-family: $heading-font;
+          font-size: clamp(3.815rem, 6vw, 5rem)
+
+        }
+
+        h2 {
+
+          position: relative;
+          color: $white;
+
+        }
+
+      }
 
       img {
 
         width: 100%;
-        max-height: 500px;
+        height: 500px;
         object-fit: cover;
+
+        @media (min-width: $breakpoint-md) {
+
+          width: 85%;
+          margin: 0 2rem 0 auto;
+
+        }
 
       }
 
       .text {
 
         margin: 2rem 0;
+        padding: 0 2rem;
+
+        .post-category {
+
+          color: $sand;
+          font-size: 1.25rem;
+          font-style: italic;
+
+        }
 
       }
 
