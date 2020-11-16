@@ -1,0 +1,27 @@
+/* Search */
+
+section.search {
+
+  background-color: $sand;
+  margin: 4rem 0;
+  padding: 4rem 0;
+
+  .lock {
+
+    color: $white;
+    max-width: 1350px;
+    padding: 0 2rem;
+
+    input {
+
+      font-size: 1rem;
+      width: 100%;
+      padding: 1rem;
+      border: none;
+      border-radius: 5px;
+
+    }
+
+  }
+
+}

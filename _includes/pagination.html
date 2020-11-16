@@ -1,40 +1,46 @@
 {% if paginator %}
-  <div class="pager">
+<section class="pagination">
+
+  <div class="lock">
+    <!-- Next Page (Older Posts) -->
     {% if paginator.next_page %}
       {% if paginator.next_page == 1 %}
-        <a href="/{{include.root}}" class="older">
-          <i class='fa fa-angle-double-left'></i>
-          Older Entries
+        <a href="/{{ include.root }}">
+          <span class="icon-left-arrow"></span>
+          Older Posts
         </a>
       {% else %}
-        <a href="/{{include.root}}/page{{ paginator.next_page }}" class="older">
-          <i class='fa fa-angle-double-left'></i>
-          Older Entries
+        <a href="/{{ include.root }}/page{{ paginator.next_page }}">
+          <span class="icon-left-arrow"></span>
+          Older Posts
         </a>
       {% endif %}
     {% else %}
-      <span class="older">
-        <i class='fa fa-angle-double-left'></i>
-        Older Entries
+      <span class="icon-left-arrow">
+        Older Posts
       </span>
     {% endif %}
+
+    <!-- Previous Page (Newer Posts) -->
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <a href="/{{include.root}}" class="newer">
-          Newer Entries
-          <i class='fa fa-angle-double-right'></i>
+        <a href="/{{include.root}}">
+          Newer Posts
+          <span class="icon-right-arrow"></span>
         </a>
       {% else %}
-        <a href="/{{include.root}}/page{{ paginator.previous_page }}" class="newer">
-          Newer Entries
-          <i class='fa fa-angle-double-right'></i>
+        <a href="/{{include.root}}/page{{ paginator.previous_page }}">
+          Newer Posts
+          <span class="icon-right-arrow"></span>
         </a>
       {% endif %}
     {% else %}
-      <span class="newer">
-        Newer Entries
-        <i class='fa fa-angle-double-right'></i>
+      <span>
+        Newer Posts
+        <span class="icon-right-arrow"></span>
       </span>
     {% endif %}
   </div>
+
+</section>
 {% endif %}

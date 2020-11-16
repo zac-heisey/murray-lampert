@@ -84,6 +84,63 @@ section.blog {
 
     }
 
+    .recent-posts {
+
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      @media (min-width: $breakpoint-lg) {
+
+        padding: 0 2rem;
+
+        .post {
+
+          width: 32%;
+
+        }
+
+      }
+
+      .post {
+
+        img {
+
+          width: 100%;
+          height: 300px;
+          object-fit: cover;
+
+        }
+
+        .text {
+
+          margin: 2rem 0;
+          padding: 0 2rem;
+
+          @media (min-width: $breakpoint-lg) {
+
+            padding: 0;
+
+          }
+
+          h3 {
+
+            font-size: 2rem;
+
+          }
+
+        }
+
+        .btn {
+
+          margin-top: 1rem;
+
+        }
+
+      }
+
+    }
+
   }
 
 }

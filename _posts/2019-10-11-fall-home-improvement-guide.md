@@ -4,7 +4,7 @@ date: 2019-10-11 00:00:01 Z
 categories:
 - Home DIY Tips
 - Guides
-featured-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/c_crop,h_700,w_1000/v1544020434/murray-lampert/misc/fall-leaves.jpg
+featured-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
 excerpt: While we enjoy a mild Fall climate in San Diego, you shouldn't ignore those
   seasonal home improvement projects in preparation for colder weather. Check out
   our Fall Home Improvement Guide.

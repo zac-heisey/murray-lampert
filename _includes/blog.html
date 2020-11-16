@@ -1,18 +1,18 @@
 <section class="blog">
 
   <div class="lock">
-    {% for post in site.posts limit: 4 %}
+    {% for post in paginator.posts %}
 
       {% if forloop.index == 1 %}
-
+      <!-- Featured Post -->
       <div class="featured-post">
-        <!-- Color Overlay -->
+        <!-- Color overlay -->
         <div class="overlay">
           <span class="post-date">{{ post.date | date: "%m/%d" }}</span>
           <h2>{{ post.title | truncate: 95 }}</h2>
         </div>
 
-        <!-- Cloudinary image include -->
+        <!-- Cloudinary image include (featured image) -->
         {%- assign image = post.featured-image -%}
 
         {% include cloudinary-image.html image=image alt="murray lampert blog post featured image" %}
@@ -25,18 +25,53 @@
           <a href="{{ post.url }}" class="btn blue">Read Full Article</a>
         </div>
       </div>
-
-      {% else %}
-
-      <div class="recent-posts">
-
-        <!-- Recent Posts Go Here -->
-
-      </div>
-
-      {% endif %}
+    {% endif %}
 
     {% endfor %}
+
+    <!-- Recent Posts -->
+    <div class="recent-posts">
+
+    {% for post in paginator.posts offset: 1 %}
+
+      <div class="post">
+        <!-- Post image container -->
+        <div class="container">
+          <img
+            src="{{ site.cloudinary }},w_auto{{ post.featured-image }}"
+            srcset="
+            {{ site.cloudinary }},w_576{{ post.featured-image }} 576w,
+            {{ site.cloudinary }},w_992{{ post.featured-image }} 992w
+            "
+            sizes="
+            (max-width: 575px) 576px,
+            (max-width: 991px) 992px
+            "
+            alt="recent post image" width="800"
+            height="450"
+            loading="lazy"
+          >
+        </div>
+
+        <!-- Post title container -->
+        <div class="container">
+          <div class="text">
+            <h3>{{ post.title | truncate: 65 }}</h3>
+            <a href="{{ post.url }}" class="btn blue">Read Full Article</a>
+          </div>
+        </div>
+      </div>
+
+    {% endfor %}
+
+    </div>
+
+    <!-- Pagination links -->
+    {% include pagination.html root="blog" %}
+
+    <!-- Blog search -->
+    {% include search.html %}
+
   </div>
 
 </section>
