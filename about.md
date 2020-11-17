@@ -8,7 +8,7 @@ excerpt: Murray Lampert Design, Build, Remodel of San Diego is your BBB award wi
   design build contractor with over 40 years experience in home remodeling.
 members:
 - name: Gregg Cantor
-  position: President/CEO
+  position: President, CEO
   avatar: gregg-cantor.jpg
   socials:
   - icon_class: fa fa-plus
@@ -24,7 +24,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:lcantor@murraylampert.com
 - name: Rachel Cantor
-  position: Director of Design
+  position: VP of Operations
   avatar: rachel-cantor.jpg
   socials:
   - icon_class: fa fa-plus
@@ -32,7 +32,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:rachel@murraylampert.com
 - name: Patti Atwell
-  position: Production Manager
+  position: Project Coordinator
   avatar: patti-atwell.jpg
   socials:
   - icon_class: fa fa-plus
@@ -48,7 +48,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:dgood@murraylampert.com
 - name: Cameron Poeschel
-  position: Project Director
+  position: Project Consultant
   avatar: cameron-poeschel.jpg
   socials:
   - icon_class: fa fa-plus
@@ -64,7 +64,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:dthomas@murraylampert.com
 - name: Daniel Battle
-  position: Assistant Project Manager
+  position: Architectural Designer
   avatar: danny-battle.jpg
   socials:
   - icon_class: fa fa-plus
@@ -72,7 +72,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:dbattle@murraylampert.com
 - name: Rachel Bancroft
-  position: Senior Designer
+  position: Senior Interior Designer
   avatar: rachel-bancroft.jpg
   socials:
   - icon_class: fa fa-plus
@@ -80,7 +80,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:rbancroft@murraylampert.com
 - name: Nicole LaCroix
-  position: Designer
+  position: Interior Designer
   avatar: nicole-lacroix.jpg
   socials:
   - icon_class: fa fa-plus
@@ -88,7 +88,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:nlcroix@murraylampert.com
 - name: Alyson Meucci
-  position: Designer
+  position: Interior Designer
   avatar: alyson-meucci.jpg
   socials:
   - icon_class: fa fa-plus
@@ -96,7 +96,7 @@ members:
   - icon_class: fa fa-envelope
     url: mailto:ameucci@murraylampert.com
 - name: Hannah Wilson
-  position: Designer
+  position: Interior Designer
   avatar: hannah-wilson.jpg
   socials:
   - icon_class: fa fa-plus
@@ -110,7 +110,7 @@ members:
   - icon_class: fa fa-plus
     url: "/team-member/matthew-clark"
 - name: Javier Villamar
-  position: Senior Field Technician
+  position: Field Technician
   avatar: javier-villamar
   socials:
   - icon_class: fa fa-plus
