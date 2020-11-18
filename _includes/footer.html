@@ -69,15 +69,15 @@
 
   </script>
 
-  <!-- Simply Jekyll Search (only show on blog homepage) -->
   {% if page.title == 'San Diego Home Remodeling Blog' %}
+    <!-- Simply Jekyll Search (only show on blog homepage) -->
     <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
     <script>
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.url }}/search.json',
-        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+        searchResultTemplate: '<a href="{url}">{title}</a>',
         noResultsText: 'Sorry, no results found. Please try another search.',
         limit: 10,
         fuzzy: false,
