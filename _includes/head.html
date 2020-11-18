@@ -44,8 +44,8 @@
   }
   </script>
 
-  {% if page.layout == 'post' %}
-    {% include blog-post-structured-data.html %}
+  {% if page.path contains '_post' %}
+    {% include post-structured-data.html %}
   {% endif %}
 
   <!-- Google Site Verification -->

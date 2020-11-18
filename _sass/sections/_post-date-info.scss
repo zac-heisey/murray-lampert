@@ -1,0 +1,35 @@
+/* Post Date Info */
+
+section.post-date-info {
+
+  margin: 4rem 0;
+
+  .lock {
+
+    position: relative;
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+
+    .post-date-lg {
+
+      position: absolute;
+      top: 2.5rem;
+      left: 2rem;
+      color: $sand;
+      font-family: $heading-font;
+      font-size: clamp(3.815rem, 6vw, 5rem)
+
+    }
+
+    .post-category {
+
+      color: $sand;
+      font-size: 1.25rem;
+      font-style: italic;
+
+    }
+
+  }
+
+}
