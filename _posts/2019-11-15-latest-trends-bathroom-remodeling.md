@@ -1,13 +1,10 @@
 ---
-layout: blocks
 title: The Latest Trends in Bathroom Remodeling
-description: Looking for the latest trends in bathroom remodeling? Our comprehensive
-  post contains timeless San Diego bathroom remodeling trends to inspire your next
-  remodeling project.
 date: '2019-11-15T00:00:01.000+00:00'
 categories:
 - Bathroom Remodeling
 featured-image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
+layout: blocks
 sections:
 - template: hero-banner
   block: hero-banner
@@ -19,6 +16,10 @@ sections:
   heading: The Latest Trends in Bathroom Remodeling
   background-image: "/v1603057434/murray-lampert/v3/services-other.jpg"
   content: ''
+- template: post-date-info
+  block: post-date-info
+  secondary-title: Take a Look at the Latest Bathroom Remodeling Trends in San Diego
+    and Beyond
 - template: rich-text
   block: rich-text
   background-color: none
@@ -147,6 +148,11 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: ''
+  image-right: ''
+description: Looking for the latest trends in bathroom remodeling? Our comprehensive
+  post contains timeless San Diego bathroom remodeling trends to inspire your next
+  remodeling project.
 
 ---
 Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
