@@ -37,7 +37,6 @@ fields:
   - gallery
   - team-members
   - project-list
-  - post-date-info
   config:
     min: 
     max: 
