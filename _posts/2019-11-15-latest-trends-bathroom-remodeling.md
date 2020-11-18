@@ -1,14 +1,13 @@
 ---
+layout: blocks
 title: The Latest Trends in Bathroom Remodeling
+description: Looking for the latest trends in bathroom remodeling? Our comprehensive
+  post contains timeless San Diego bathroom remodeling trends to inspire your next
+  remodeling project.
 date: '2019-11-15T00:00:01.000+00:00'
 categories:
 - Bathroom Remodeling
 featured-image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
-excerpt: Looking for the latest trends in bathroom remodeling? Take a look at our
-  comprehensive post on timeless San Diego bathroom remodeling trends to inspire your
-  next bathroom remodeling project.
-author: Gregg Cantor
-layout: blocks
 sections:
 - template: hero-banner
   block: hero-banner
@@ -138,9 +137,16 @@ sections:
     title="https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506">https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506</a></p></li><li><p><a
     href="https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf" title="https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf">https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf</a></p></li><li><p><a
     href="http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf" title="http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf">http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf</a></p></li></ul>'
-description: Looking for the latest trends in bathroom remodeling? Our comprehensive
-  post contains timeless San Diego bathroom remodeling trends to inspire your next
-  remodeling project.
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
 
 ---
 Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
