@@ -1,4 +1,11 @@
 ---
 label: Post Meta Data
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: block
+  default: post-meta-data
