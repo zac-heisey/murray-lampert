@@ -2,8 +2,8 @@
 
   <div class="lock">
 
-    <span class="post-date-lg">{{ post.date | date: '%m/%d' }}</span>
-    <span class="post-date-sm">{{ post.date | date: '%B %d, %Y' }}</span>
+    <span class="post-date-lg">{{ page.date | date: '%m/%d' }}</span>
+    <span class="post-date-sm">{{ page.date | date: '%B %d, %Y' }}</span>
     <h2>{{ section.secondary-title }}</h2>
     {% for category in post.categories limit: 1 %}
     <p class="post-category">{{ category }}</p>
