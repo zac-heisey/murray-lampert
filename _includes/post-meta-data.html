@@ -4,8 +4,8 @@
 
     <span class="post-date-lg">{{ page.date | date: '%m/%d' }}</span>
     <span class="post-date-sm">{{ page.date | date: '%B %d, %Y' }}</span>
-    <h2>{{ section.secondary-title }}</h2>
-    {% for category in post.categories limit: 1 %}
+    <h2>{{ page.secondary-heading }}</h2>
+    {% for category in page.categories limit: 3 %}
     <p class="post-category">{{ category }}</p>
     {% endfor %}
 
