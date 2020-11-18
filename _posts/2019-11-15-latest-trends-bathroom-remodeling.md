@@ -1,6 +1,6 @@
 ---
 title: The Latest Trends in Bathroom Remodeling
-date: 2019-11-15 00:00:01 Z
+date: '2019-11-15T00:00:01.000+00:00'
 categories:
 - Bathroom Remodeling
 featured-image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
@@ -8,9 +8,141 @@ excerpt: Looking for the latest trends in bathroom remodeling? Take a look at ou
   comprehensive post on timeless San Diego bathroom remodeling trends to inspire your
   next bathroom remodeling project.
 author: Gregg Cantor
-layout: post
----
+layout: blocks
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+    button-text: ''
+    url: ''
+  heading: The Latest Trends in Bathroom Remodeling
+  background-image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+  content: ''
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: '<p>Bathroom remodels are among the most common renovation projects undertaken
+    by homeowners. Whether it''s a complete overhaul of a master bathroom suite, upgrading
+    or installing a new shower, modernizing accents and features, or breathing new
+    life into an outdated bathroom design or layout, diving into bathroom remodel
+    is no small task.</p><p>With so many options, techniques, and materials to choose
+    from, it''s tough to know where to start. The <a href="/about-murray-lampert-design-build-remodel">team
+    at Murray Lampert</a> will attempt to provide some clarity by sharing some the
+    leading trends in when it comes to bathroom remodeling. We''ve specifically chosen
+    these trends for their timelessness, versatility, and their ability to add value
+    to your home.</p><h3>Clean and Modern is the Preferred Look</h3><p>According to
+    Houzz''s latest study on bathroom remodeling trends, modern bathroom design styles,
+    along with white being a primary color choice for bathroom vanities, countertops,
+    and flooring and walls, are growing in popularity.</p><p><img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573829973/murray-lampert/misc/bathroom-styles-colors.png"
+    title="Houzz Bathroom Remodeling Study: Styles and Colors" alt="Houzz Bathroom
+    Remodeling Study: Styles and Colors"></p><h3>Premium Showers Over Bathtubs</h3><p>A
+    major focal point of many bathroom renovation projects is the shower, where homeowners
+    are opting to both upgrade and expand their showers. This focus on showers has
+    come at the expense of bathtubs, which we are seeing being ignored or completely
+    removed during a bathroom remodel to make room for larger showers.</p><p>If a
+    bathtub <em>is</em> present <em>and</em> upgraded, homeowners are opting for freestanding
+    tubs over traditional alcove styles.</p><p><img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573830477/murray-lampert/misc/bathtub-vs-shower.jpg"
+    title="Bathtubs vs. Showers" alt="Bathtubs vs. Showers"></p><h3>Aging in Place
+    is a Growing Concern</h3><p>A large percentage of baby boomer homeowners are addressing
+    either current or future needs of <a href="/aging-in-place-10-concepts-of-universal-design/">aging
+    in place</a> when it comes to master bathroom renovations. These renovations include
+    completely new bathroom layouts, low-curb and zero entry showers, non-slip floors,
+    handle and seat installation, and more.</p><h3>A Focus On Features and Finishes</h3><p>Homeowners
+    are increasingly viewing their bathroom as a place of relaxation and rejuvenation
+    where style and character is just as important as functionality. As such, we are
+    seeing some of these unique feature requests are becoming more and more common
+    when it comes to bathroom remodeling:</p><ul><li><p>Sound and water features</p></li><li><p>Greenery
+    and plant features</p></li><li><p>Patterned or textured accent walls</p></li><li><p>Custom
+    medicine cabinets</p></li><li><p>Hidden plugs and anti-fog systems</p></li></ul><p>When
+    it comes to finishes, premium materials are en vogue, particularly when it comes
+    to the shower. While ceramic and porcelain are head and shoulders the most common
+    finish material used for shower walls and flooring, we''re starting to see more
+    homeowners opt for high-grade materials like marble, granite, and slate.</p><p><img
+    src="https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573831713/murray-lampert/misc/shower-materials.jpg"
+    title="Premium Materials in Shower Finishes" alt="Premium Materials in Shower
+    Finishes"></p><h3>Bathroom Lighting is a Critical Component</h3><p>Light, particularly
+    natural light, is always a sought-after feature in any bathroom remodeling project.
+    The ability to alter the ambiance with dimmable lighting is a popular request,
+    as are recessed lights, shower lighting, and unique bathroom lighting options
+    like pendant lights, chandeliers, and track lighting.</p><p><img src="https://res.cloudinary.com/zheisey/image/upload/v1573832298/murray-lampert/misc/bathroom-lighting.jpg"
+    title="Bathroom Lighting Data" alt="Bathroom Lighting Data"></p><h3>Making Small
+    Bathrooms Look Bigger</h3><p>Your bathroom is a sanctuary - a place you can retreat
+    to for a few quiet minutes after a long day. Or perhaps you and your children
+    see the bathroom as a space for aquatic adventures, laughs, and bonding. Whatever
+    the case, you expect your bathroom to be large enough to accommodate your needs.</p><p>So
+    what happens when your bathroom is too small to enjoy? Sure, it''s unlikely you''re
+    spending <em>tons</em> of time in your bathroom compared to other rooms in your
+    home, but it''s still a critical space (especially when it comes to resale value).</p><p>Whether
+    you can afford a <a href="/san-diego-bathroom-remodeling-services">full-scale
+    bathroom remodel</a> or you only have the funds for a few cosmetic touch-ups,
+    there are a few things you can do to make your bathroom look much bigger than
+    it actually is. Below we share 6 of them.</p><p><strong>1. Keep the Counter &amp;
+    Sink Free of Clutter</strong></p><p>If you look around your home, do you see piles
+    of clothing, toys, or other clutter? Does the space seem cramped and tight? When
+    your possessions build up and clutter an area, the piles make the area look much
+    smaller. This principle also applies to your bathroom area.</p><p>However, in
+    a smaller bathroom, clutter can make the space seem incredibly packed and tiny
+    in size. To give the illusion of larger space, keep the counters and open surfaces
+    clear of clutter. Store items inside cabinets or in decorative storage baskets
+    to make your bathroom look more organized.</p><p><img src="https://images.unsplash.com/photo-1462726337252-4773ebc370ae?auto=format&amp;fit=crop&amp;w=1050&amp;q=80"
+    title="Decorative Baskets Can Add Stylish Storage in the Bathroom" alt="image
+    of empty weaved baskets"></p><p><strong>2. Recess Cabinets and Eliminate Bulky
+    Shelves</strong></p><p>If you do choose to store your bathroom items inside cabinets,
+    make sure to avoid dark, bulky cabinets and shelves. The dark colors and bulky
+    frames make your space seem smaller. Instead, install <a href="/san-diego-custom-cabinet-construction-services">recessed
+    cabinets</a>. These structures rest inside your walls and provide you with ample
+    storage space-all while keeping smooth lines across your bathroom walls.</p><p>You
+    can also open up the space at the bottom of lower cabinets to expose the floor
+    underneath. This method further opens up the space, making your bathroom look
+    larger than it actually is. If you prefer, you can also use floating furniture
+    to create a similar effect.</p><p><strong>3. Blend Colors on the Walls, Ceiling,
+    and Floor</strong></p><p>The more uniform in color your bathroom appears, the
+    easier it is for the eye to move around the space. As you blend the colors of
+    your walls, floor, and ceiling, you create a smooth, unbroken line for the eye
+    to travel across. This line creates the illusion of a larger space.</p><p>Paint
+    your walls and ceilings the same color. For the floor, you can use accent rugs
+    that complement the paint on the walls. For the walls in your shower, however,
+    consider installing colored tile. The tile separates the shower from the rest
+    of the space. But if you choose a tile that matches the color of your walls, you
+    only enhance the optical illusion of a larger space.</p><p>Make sure if you use
+    tile to run the material all the way up to the ceiling. This technique will draw
+    the eye upward and enhance the space. Also make sure to use bigger tiles rather
+    than smaller ones. Smaller tiles incorporate more grout lines into the structure,
+    which in turn break up the overall look and unity of the wall. Using larger tiles
+    creates a long line the eye needs to move naturally through the space.</p><p><img
+    src="https://images.unsplash.com/photo-1505562130589-9879683e72da?auto=format&amp;fit=crop&amp;w=1050&amp;q=80"
+    title="Blend Colors in Your Bathroom to Create Space" alt="image of wall painted
+    gray and white"></p><p><strong>4. Install a Glass Shower Enclosure</strong></p><p>Another
+    way to enhance your bathroom space is to install a clear, glass enclosure around
+    your shower. The glass further opens up the area, making it seem larger. If you
+    can afford a more substantial remodel, replace your tub with a full-length shower.</p><p><strong>5.
+    Increase the Light</strong></p><p>The more light a space has, the brighter and
+    larger it appears. If you don''t have windows in your bathroom, add a small one
+    to an exterior wall. You can also redo the lighting in the space if you''d like.
+    Consider installing track lighting above the mirror or placing sconces across
+    the walls.</p><p>If possible, add a few mirrors along the walls as well. Install
+    a wall-to-wall mirror above the sink, and place a couple of accent mirrors throughout
+    the rest of the bathroom. The light that flows into the space will reflect off
+    the mirrors, making the area seem much larger.</p><p><img src="https://images.unsplash.com/photo-1507311870654-267a4ece150f?auto=format&amp;fit=crop&amp;w=1050&amp;q=80"
+    title="Even a Small Bathroom Window Can Open Things Up" alt="image of small window
+    with stone siding"></p><p><strong>6. Add Simple Window Treatments</strong></p><p>Finally,
+    use simple window treatments in your bathroom. Choose light-colored, short curtains.
+    If you prefer to add a little variety with the curtains, select a fabric that
+    has a small pattern on it. For the hardware, install something that matches the
+    overall color scheme of the space. Remember to stick with lighter colors and materials
+    since they reflect light more.</p><hr><p><em>Sources:</em></p><ul><li><p><a href="https://www.houzz.com/ideabooks/115981815/list/2018-us-houzz-bathroom-trends-study"
+    title="https://www.houzz.com/ideabooks/115981815/list/2018-us-houzz-bathroom-trends-study">https://www.houzz.com/ideabooks/115981815/list/2018-us-houzz-bathroom-trends-study</a></p></li><li><p><a
+    href="https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506"
+    title="https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506">https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506</a></p></li><li><p><a
+    href="https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf" title="https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf">https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf</a></p></li><li><p><a
+    href="http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf" title="http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf">http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf</a></p></li></ul>'
+description: Looking for the latest trends in bathroom remodeling? Our comprehensive
+  post contains timeless San Diego bathroom remodeling trends to inspire your next
+  remodeling project.
 
+---
 Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
 
 With so many options, techniques, and materials to choose from, it's tough to know where to start. The [team at Murray Lampert](/about-murray-lampert-design-build-remodel) will attempt to provide some clarity by sharing some the leading trends in when it comes to bathroom remodeling. We've specifically chosen these trends for their timelessness, versatility, and their ability to add value to your home.
