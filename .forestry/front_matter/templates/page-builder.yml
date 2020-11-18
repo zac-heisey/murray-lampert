@@ -10,7 +10,7 @@ fields:
 - type: text
   name: title
   label: Title
-  description: Title for your page or post
+  description: Title for your new page.
   config:
     required: true
 - name: description
