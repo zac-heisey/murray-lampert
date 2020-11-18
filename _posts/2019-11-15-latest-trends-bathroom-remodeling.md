@@ -149,7 +149,8 @@ sections:
 description: Looking for the latest trends in bathroom remodeling? Our comprehensive
   post contains timeless San Diego bathroom remodeling trends to inspire your next
   remodeling project.
-secondary-heading: ''
+secondary-heading: TESTING Take a Look at the Latest Bathroom Remodeling Trends in
+  San Diego and Beyond
 
 ---
 Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
