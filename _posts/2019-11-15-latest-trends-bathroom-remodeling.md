@@ -1,6 +1,6 @@
 ---
 title: The Latest Trends in Bathroom Remodeling
-date: 2019-11-15 00:00:01 +0000
+date: 2019-11-15T00:00:01.000+00:00
 categories:
 - Bathroom Remodeling
 featured-image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
@@ -16,6 +16,8 @@ sections:
   heading: The Latest Trends in Bathroom Remodeling
   background-image: "/v1603057434/murray-lampert/v3/services-other.jpg"
   content: ''
+- template: post-meta-data
+  block: post-meta-data
 - template: rich-text
   block: rich-text
   background-color: none
