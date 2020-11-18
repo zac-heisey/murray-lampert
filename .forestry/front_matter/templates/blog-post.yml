@@ -1,0 +1,48 @@
+---
+label: Blog Post
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: block
+    label: block
+  - type: field_group
+    name: cta
+    label: cta
+    fields:
+    - type: boolean
+      name: enabled
+      label: enabled
+    - type: text
+      name: color
+      label: color
+    - type: text
+      name: button-text
+      label: button-text
+    - type: text
+      name: url
+      label: url
+  - type: file
+    name: background-image
+    label: background-image
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: content
+    label: content
