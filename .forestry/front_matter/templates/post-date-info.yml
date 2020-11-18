@@ -1,4 +1,17 @@
 ---
 label: Post Date Info
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: post-date-info
+- name: secondary-title
+  type: text
+  config:
+    required: false
+  label: Secondary Title
+  description: Add a secondary title or short description for this blog post.
