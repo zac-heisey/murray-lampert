@@ -57,6 +57,7 @@ fields:
   - grid
   - gallery
   - post-meta-data
+  - post-body-content
   config:
     min: 
     max: 
