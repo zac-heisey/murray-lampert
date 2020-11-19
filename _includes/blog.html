@@ -19,7 +19,9 @@
 
         <div class="text">
           {% for category in post.categories limit: 3 %}
-          <p class="post-category">{{ category }}</p>
+          <p class="post-category">
+            {{ category }}{% if forloop.last %}{% else %} · {% endif %}
+          </p>
           {% endfor %}
           <p>{{ post.content | truncatewords: 50 }}</p>
           <a href="{{ post.url }}" class="btn blue">Read Full Article</a>

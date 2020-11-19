@@ -2,7 +2,7 @@
 
 section.post-meta-data {
 
-  margin: 4rem 0;
+  margin: 4rem 0 -6rem 0;
 
   .lock {
 
@@ -16,7 +16,7 @@ section.post-meta-data {
       position: absolute;
       top: -2rem;
       left: 0.25rem;
-      color: rgba(210, 205, 198, 0.65);
+      color: rgba($blue, 0.45);
       font-family: $heading-font;
       font-size: clamp(5rem, 10vw, 7rem);
 
@@ -38,6 +38,7 @@ section.post-meta-data {
 
     .post-category {
 
+      display: inline-block;
       color: $sand;
       font-size: 1.25rem;
       font-style: italic;
