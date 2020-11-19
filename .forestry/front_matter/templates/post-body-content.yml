@@ -1,4 +1,11 @@
 ---
 label: Post Body Content
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: post-body-content
