@@ -23,6 +23,8 @@ sections:
   content: ''
 - template: post-meta-data
   block: post-meta-data
+- template: post-body-content
+  block: post-body-content
 - template: rich-text
   block: rich-text
   background-color: none
@@ -155,7 +157,7 @@ sections:
   image-right: ''
 
 ---
-Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
+FROM POST BODY - HELL YEA!!! Bathroom remodels are among the most common renovation projects undertaken by homeowners. Whether it's a complete overhaul of a master bathroom suite, upgrading or installing a new shower, modernizing accents and features, or breathing new life into an outdated bathroom design or layout, diving into bathroom remodel is no small task.
 
 With so many options, techniques, and materials to choose from, it's tough to know where to start. The [team at Murray Lampert](/about-murray-lampert-design-build-remodel) will attempt to provide some clarity by sharing some the leading trends in when it comes to bathroom remodeling. We've specifically chosen these trends for their timelessness, versatility, and their ability to add value to your home.
 
@@ -181,11 +183,11 @@ A large percentage of baby boomer homeowners are addressing either current or fu
 
 Homeowners are increasingly viewing their bathroom as a place of relaxation and rejuvenation where style and character is just as important as functionality. As such, we are seeing some of these unique feature requests are becoming more and more common when it comes to bathroom remodeling:
 
-- Sound and water features
-- Greenery and plant features
-- Patterned or textured accent walls
-- Custom medicine cabinets
-- Hidden plugs and anti-fog systems
+* Sound and water features
+* Greenery and plant features
+* Patterned or textured accent walls
+* Custom medicine cabinets
+* Hidden plugs and anti-fog systems
 
 When it comes to finishes, premium materials are en vogue, particularly when it comes to the shower. While ceramic and porcelain are head and shoulders the most common finish material used for shower walls and flooring, we're starting to see more homeowners opt for high-grade materials like marble, granite, and slate.
 
@@ -245,10 +247,11 @@ If possible, add a few mirrors along the walls as well. Install a wall-to-wall m
 
 Finally, use simple window treatments in your bathroom. Choose light-colored, short curtains. If you prefer to add a little variety with the curtains, select a fabric that has a small pattern on it. For the hardware, install something that matches the overall color scheme of the space. Remember to stick with lighter colors and materials since they reflect light more.
 
----
+***
 
 _Sources:_
-- https://www.houzz.com/ideabooks/115981815/list/2018-us-houzz-bathroom-trends-study
-- https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs~126821506
-- https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf
-- http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf
+
+* https://www.houzz.com/ideabooks/115981815/list/2018-us-houzz-bathroom-trends-study
+* https://www.houzz.com/magazine/2019-us-bathroom-trends-study-stsetivw-vs\~126821506
+* https://st.hzcdn.com/static/econ/HouzzBathroomTrendsStudyFinal18.pdf
+* http://st.hzcdn.com/static/econ/BathroomUSReport2019Final.pdf
