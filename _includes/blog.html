@@ -12,13 +12,13 @@
           <h2>{{ post.title | truncate: 95 }}</h2>
         </div>
 
-        <!-- Cloudinary image include (featured image) -->
-        {%- assign image = post.featured-image -%}
+        <!-- Cloudinary image include (pull from blog post hero banner background image) -->
+        {%- assign image = post.sections[0].background-image -%}
 
         {% include cloudinary-image.html image=image alt="murray lampert blog post featured image" %}
 
         <div class="text">
-          {% for category in post.categories limit: 1 %}
+          {% for category in post.categories limit: 3 %}
           <p class="post-category">{{ category }}</p>
           {% endfor %}
           <p>{{ post.content | truncatewords: 50 }}</p>
@@ -35,13 +35,13 @@
     {% for post in paginator.posts offset: 1 %}
 
       <div class="post">
-        <!-- Post image container -->
+        <!-- Post image container (pull from blog post hero banner background image) -->
         <div class="container">
           <img
-            src="{{ site.cloudinary }},w_auto{{ post.featured-image }}"
+            src="{{ site.cloudinary }},w_auto{{ post.sections[0].background-image }}"
             srcset="
-            {{ site.cloudinary }},w_576{{ post.featured-image }} 576w,
-            {{ site.cloudinary }},w_992{{ post.featured-image }} 992w
+            {{ site.cloudinary }},w_576{{ post.sections[0].background-image }} 576w,
+            {{ site.cloudinary }},w_992{{ post.sections[0].background-image }} 992w
             "
             sizes="
             (max-width: 575px) 576px,

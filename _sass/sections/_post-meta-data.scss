@@ -14,11 +14,25 @@ section.post-meta-data {
     .post-date-lg {
 
       position: absolute;
-      top: 2.5rem;
-      left: 2rem;
-      color: $sand;
+      top: -2rem;
+      left: 0.25rem;
+      color: rgba(210, 205, 198, 0.65);
       font-family: $heading-font;
-      font-size: clamp(3.815rem, 6vw, 5rem)
+      font-size: clamp(5rem, 10vw, 7rem);
+
+    }
+
+    .post-date-sm {
+
+      position: relative;
+      font-weight: bold;
+      text-transform: uppercase;
+
+    }
+
+    h2 {
+
+      position: relative;
 
     }
 
