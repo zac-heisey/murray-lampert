@@ -32,8 +32,8 @@ fields:
   description: Publish date for this blog post.
   config:
     required: false
-    date_format:
-    time_format:
+    date_format: 
+    time_format: 
     display_utc: false
 - name: secondary-heading
   type: text
@@ -58,7 +58,7 @@ fields:
   - gallery
   - post-meta-data
   config:
-    min:
-    max:
+    min: 
+    max: 
 pages:
 - _posts/2019-11-15-latest-trends-bathroom-remodeling.md
