@@ -5,6 +5,28 @@ date: 2019-07-03 00:00:01 Z
 categories:
 - Home Remodeling
 description: Taking on a home renovation project is a LOT of work. But there are some things you can do to help prepare for an upcoming home remodel to ensure the project is more efficient.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  heading: Preparing for Your Upcoming Home Remodel
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
 

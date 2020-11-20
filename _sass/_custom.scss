@@ -172,3 +172,19 @@ main[data-page="accolades"] {
   }
 
 }
+
+/* Blog homepage */
+
+main[data-page*="_posts"] {
+
+  section.hero-banner {
+
+    @media (min-width: $breakpoint-lg) {
+
+      min-height: auto;
+
+    }
+
+  }
+
+}

@@ -7,6 +7,28 @@ categories:
 description: Pet-friendly home remodeling features can help keep your furry friends safe
   during and after a renovation project. Here are a few ways our team accommodates
   your four-legged family members during your home remodel.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  heading: Best Pet-Friendly Home Remodeling Features
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
 

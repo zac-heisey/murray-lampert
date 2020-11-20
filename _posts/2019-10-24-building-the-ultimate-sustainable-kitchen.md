@@ -1,4 +1,5 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Building the Ultimate Sustainable Kitchen
 date: 2019-10-24T00:00:01.000+00:00
 permalink: "/building-the-ultimate-sustainable-kitchen/"
@@ -6,11 +7,6 @@ categories:
 - Kitchen Remodeling
 - Green Construction
 - Infographics
-featured-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
-excerpt: Living green doesn't have to end with LED bulbs and efficient kitchen appliances.
-  Check out our infographic on building the ultimate sustainable kitchen.
-author: Gregg Cantor
-layout: post
 description: Living green doesn't have to end with LED bulbs and efficient kitchen
   appliances. Check out our infographic on building the ultimate sustainable kitchen.
 secondary-heading: Check out some easy ways to make your kitchen for eco-friendly
@@ -23,6 +19,8 @@ sections:
     color: white
   background-image: "/v1605129249/murray-lampert/v3/kitchen-remodeling-bg.png"
   heading: Building a More Sustainable Kitchen
+- template: post-meta-data
+  block: post-meta-data
 - template: post-body-content
   block: post-body-content
 - template: call-to-action
@@ -42,11 +40,11 @@ Your kitchen likely receives some of the most foot traffic in your home. Just th
 If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-services), a great opportunity to build with [sustainability](/san-diego-green-home-construction) in mind exists in a big way. Living green doesn't have to end with simple energy conservation and efficient appliances. Check out this infographic on building the ultimate sustainable kitchen from CustomMade.com for some great ideas.
 
 <!-- Infographic from Custommade.com -->
-![infographic showing simple ways to make a kitchen more sustainable](https://res.cloudinary.com/zheisey/image/upload/v1605885598/murray-lampert/v3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
+![infographic showing simple ways to make a kitchen more sustainable]({{ site.cloudinary }}/v1605885598/murray-lampert/v3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
 
 ## Building the Ultimate Sustainable Kitchen
 
-#### The Environmental Impact of Construction & Renovation
+### The Environmental Impact of Construction & Renovation
 
 * Construction, renovation, demolition, and building operation account for roughly **72% of electricity use in the U.S.** and **39% of the nation's total energy consumption.**
 * Retrofitting just **1% of American homes** with water-efficient fixtures could offset **80,000 tons** pf greenhouse gas emissions. That's the same as removing **15,000** cars from our roads for a whole year!
@@ -54,7 +52,7 @@ If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-se
 * [LEED](https://new.usgbc.org/leed) (Leadership in Energy and Environmental Design) projects are responsible for diverting **over 80 million tons of waste** from landfills. That number is expected to grow to **540 million tons** by 2030.
 * The average household spends **50% of its total energy on heating**, **27% on running appliances**, and another **19% to heat water.**
 
-#### 8 Simple Ways to Green Your kitchen
+### 8 Simple Ways to Green Your kitchen
 
 **1) Swap Plastic Cutting Boards for Wood** - Wood, especially maple and close-grained hardwoods, has natural antibacterial properties. And unlink plastic, wood is a renewable resource.
 
@@ -72,7 +70,7 @@ If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-se
 
 **8) Use Green Cleaners** - Many commercial cleaning products are chock-full of nasty chemicals that you'd probably want nowhere near your food or cooking surfaces. Even cleaning products labeled "green" or "non-toxic" can contain harsh ingredients. Your best bet is to opt for DIY cleaning solutions, and lucky there's [no shortage of recipes and resources](https://www.google.com/search?q=diy+kitchen+cleaner&oq=DIY+kitchen+cle&aqs=chrome.0.0j69i57j0l4.3514j1j9&sourceid=chrome&ie=UTF-8) online to get you started!
 
-#### More Eco-Friendly Kitchen Remodeling Ideas
+### More Eco-Friendly Kitchen Remodeling Ideas
 
 **Cork Flooring** - Sure, traditional hardwood flooring can style up any kitchen, but maintaining it is hard work. On the other hand, tiled flooring involves a lot of grout, which means the presence of [harmful VOCs](https://www.h2obtech.com/grout-sealers/what-you-need-to-know-about-low-voc-content/). So is there middle ground? We say yes – cork.
 

@@ -8,6 +8,29 @@ description: Duct tape vs. foil tape? HVAC tape vs. aluminum tape? And what abou
   mastic? With so many choices, it can be difficult to know which tape is appropriate
   for your particular home improvement project. We break down some of the more common
   types of tape to help you choose the right tape for your next home improvement project.
+secondary-heading: Wondering about the difference between duct tape, mastic tape, and all the others? We've got you covered.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  heading: Choose the Right Tape for Your Next Home Improvement Project
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
 
@@ -33,7 +56,7 @@ If you're still unsure of which type of tape to use for your home improvement pr
 
 <div class="spacing"></div>
 <div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/69EpRDFVjuk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="500px" src="https://www.youtube.com/embed/69EpRDFVjuk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Sealing HVAC Ducts: Foil Tape vs. Duct Tape vs. Duct Mastic
@@ -42,23 +65,17 @@ Ducts within your home can spring leaks for a wide variety of reasons, and at an
 
 Luckily, the ducts that run through your home can be sealed with either **foil tape** or **duct mastic**, and every DIY master or contractor has their own preference for what they use when working on residential ducts. Both of these options have their benefits and drawbacks, and just like any project, a professional assessment can go a long way toward ensuring the work is done right and will last well into the future. Here are a few pros and cons of both approaches.
 
-<img src="/uploads/airseal_221.jpg" style="float:left;height:230px;margin-right:1rem;" title="Airseal 22 Duct Mastic" alt="image of duct mastic">
-
 ### Duct Mastic
 
 [Duct mastic](https://www.greenbuildingadvisor.com/article/sealing-ducts-whats-better-tape-or-mastic) is a gooey material that can be easily applied using a paintbrush and is readily available at most home improvement stores. Mastic can be applied generously to duct joints and leaks and is a great option for ensuring that the seal will not fail over time. Probably the biggest upside of using mastic is that it is a great choice for those hard-to- reach areas and sharply angled duct joints.
 
 Unlike with using tape, you do not necessarily have to make sure the area is clean before using mastic. There is also no risk of mastic delaminating or stripping off over time. The biggest downside to using mastic is that it can be messy when you are applying it. We always recommend wearing old clothes and rubber gloves when sealing ducts with mastic.
 
-<img src="/uploads/aluminum-foil-tape.jpg" style="float:left;height:230px;margin-right:1rem;" title="Foil Tape" alt="image of foil tape">
-
 ### Foil & Metal Tapes
 
 To fill in holes and gaps, flat metal tape coated with an adhesive is a great choice. Foil tape should only be used for sealing. Quality tapes can be hard to find and must often be purchased at specialty heating stores. Purchasing low quality tapes from home improvement stores is not recommended because there is a high risk of failure after only a few years.
 
 Professional quality tape will stand the test of time. Tapes are much cleaner than mastic, but they are a bit more expensive to purchase. It is also recommended that you clean the area before using any type of tape to seal. For long sections of hard, round ductwork, taping can be an acceptable practice, but irregular surfaces and dirt or dust can compromise the application.
-
-<div class="spacing"></div>
 
 ### A Word of Caution
 
@@ -68,12 +85,7 @@ A word of advice with either option: **choose a high-quality product**. Again, d
 
 ## Breaking It Down: Choosing the Right Type of Tape for the Job
 
-![Choosing the Right Type of Tape Infographic](/uploads/infographic-choosing-the-right-tape.png "{{ page.title }}")
-
-**Share this infographic on your site**
-<textarea>
-  <p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://www.murraylampert.com/infographic-choosing-the-right-tape-for-your-home-improvement-project/"><img src="http://www.murraylampert.com/uploads/infographic-choosing-the-right-tape.png" alt="choosing the right type of tape infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
-</textarea>
+![infographic of guide for how to choose to the right tape for home renovation projects]({{ site.cloudinary }}/v1605889527/murray-lampert/v3/infographic-visual-guide-to-design-build.png "{{ page.title }}")
 
 ### Electrical Tape
 

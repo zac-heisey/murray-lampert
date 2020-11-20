@@ -8,14 +8,33 @@ categories:
 description: While we enjoy a mild Fall climate in San Diego, you shouldn't ignore those
   seasonal home improvement projects in preparation for colder weather. Check out
   our Fall Home Improvement Guide.
+secondary-heading: Your Fall Home Maintenance Checklist
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  heading: Fall Home Improvement Guide
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
 
 While we enjoy a mild fall climate in San Diego, that doesn't mean you should ignore those seasonal home improvement projects to get your indoor and outdoor spaces ready for the colder months ahead.
-
-Check out our complete Fall Home Improvement Guide below, starting with a home maintenance checklist.
-
-## Fall Home Maintenance Checklist
 
 After the dog days of summer have passed and before winter begins to bring chilly weather, it’s a great time to pull out the toolbox and take a look around the home to ensure everything is in proper order and ready for the next season. Here's simple fall maintenance checklist to prepare your home for cooler days ahead.
 

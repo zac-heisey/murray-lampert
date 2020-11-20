@@ -6,6 +6,28 @@ categories:
 - Kitchen Remodeling
 description: Granite countertops are a tried and true material option for many kitchen
   remodeling projects. Get the lowdown on granite kitchen countertops right here!
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  heading: 7 Things to Know About Granite Kitchen Countertops
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
 
