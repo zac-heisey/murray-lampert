@@ -1,15 +1,35 @@
 ---
 layout: blocks
 title: Simple Homeowner's Guide to San Diego Granny Flats
-date: 2019-08-15 00:00:01 Z
+date: 2019-08-15T00:00:01.000+00:00
 categories:
 - In-law Suites
-description: San Diego ADU rules and regulations continue to evolve at a rapid pace, and
-  can be different from neighborhood to neighborhood. Our Simple Homeowner's Guide
-  to San Diego Granny Flats helps makes sense of the in-law suite landscape.
+description: San Diego ADU laws continue to evolve, and can be different from neighborhood
+  to neighborhood. Our simple San Diego ADU guide helps makes sense of ADU regulations.
+secondary-heading: This comprehensive guide provides everything you need to know about
+  building an ADU in San Diego.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/v1604872620/murray-lampert/v3/sd-magazine-adu.jpg"
+  heading: Homeowner's Guide to San Diego ADUs
+- template: post-meta-data
+  block: post-meta-data
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 
 ---
-
 Since 2016, approved accessory dwelling units have increased 63 percent throughout California. With the loosened regulations and simplified permitting process that has trickled down to San Diego, you have the opportunity to maximize your property. Whether residents [build in-law suites in San Diego](/san-diego-in-law-suites) or rental units onto their homes, it's important to know the benefits and drawbacks of building a granny flat, as well as the [ADU rules and regulations](/infographic-5-things-to-know-about-granny-flat-regulations-san-diego/) in San Diego.
 
 ### Why Build an ADU in San Diego?
