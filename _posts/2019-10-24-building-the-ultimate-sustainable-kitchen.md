@@ -1,11 +1,16 @@
 ---
-layout: blocks
 title: INFOGRAPHIC - Building the Ultimate Sustainable Kitchen
 date: 2019-10-24T00:00:01.000+00:00
+permalink: "/building-the-ultimate-sustainable-kitchen/"
 categories:
 - Kitchen Remodeling
 - Green Construction
 - Infographics
+featured-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+excerpt: Living green doesn't have to end with LED bulbs and efficient kitchen appliances.
+  Check out our infographic on building the ultimate sustainable kitchen.
+author: Gregg Cantor
+layout: post
 description: Living green doesn't have to end with LED bulbs and efficient kitchen
   appliances. Check out our infographic on building the ultimate sustainable kitchen.
 secondary-heading: Check out some easy ways to make your kitchen for eco-friendly
