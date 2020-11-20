@@ -1,16 +1,14 @@
 ---
+layout: blocks
 title: 'Battle of the Tape: Choosing the Right Tape For Your Home Improvement Project'
 date: 2019-07-08 00:00:01 Z
-permalink: "/battle-of-the-tape-duct-mastic-vs-foil-tape/"
 categories:
 - Home DIY Tips
-featured-image: "/uploads/the-right-tape-header.png"
-excerpt: Duct tape vs. foil tape? HVAC tape vs. aluminum tape? And what about duct
+description: Duct tape vs. foil tape? HVAC tape vs. aluminum tape? And what about duct
   mastic? With so many choices, it can be difficult to know which tape is appropriate
   for your particular home improvement project. We break down some of the more common
   types of tape to help you choose the right tape for your next home improvement project.
-author: Gregg Cantor
-layout: post
+
 ---
 
 _This post was originally published August 25, 2014 and has been updated with additional content, resources, images, etc._

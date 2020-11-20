@@ -1,12 +1,11 @@
 ---
+layout: blocks
 title: Preparing for Your Upcoming Home Remodel
 date: 2019-07-03 00:00:01 Z
 categories:
 - Home Remodeling
-featured-image: "/uploads/buiding-materials-then-and-now.jpg"
-excerpt: 
-author: Gregg Cantor
-layout: post
+description: Taking on a home renovation project is a LOT of work. But there are some things you can do to help prepare for an upcoming home remodel to ensure the project is more efficient.
+
 ---
 
 If you’re a homeowner planning for an upcoming home remodel or renovation project, chances are you’re experiencing moments of excitement, fear, relief, and anxiety. Don’t worry, those feelings are completely normal, especially since you’re inviting a team of strangers into your home to transform your living space. In our experience, the main cause of anxiety and stress leading up to a remodeling project is a lack of communication between contractor and homeowner. This leaves you, the homeowner, unsure about what to expect from or how to prepare for your upcoming home remodel so that the project is as successful as possible.

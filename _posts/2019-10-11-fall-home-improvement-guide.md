@@ -1,15 +1,14 @@
 ---
+layout: blocks
 title: Fall Home Improvement Guide
 date: 2019-10-11 00:00:01 Z
 categories:
 - Home DIY Tips
 - Guides
-featured-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
-excerpt: While we enjoy a mild Fall climate in San Diego, you shouldn't ignore those
+description: While we enjoy a mild Fall climate in San Diego, you shouldn't ignore those
   seasonal home improvement projects in preparation for colder weather. Check out
   our Fall Home Improvement Guide.
-author: Gregg Cantor
-layout: post
+
 ---
 
 While we enjoy a mild fall climate in San Diego, that doesn't mean you should ignore those seasonal home improvement projects to get your indoor and outdoor spaces ready for the colder months ahead.

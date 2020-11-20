@@ -1,16 +1,11 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Building the Ultimate Sustainable Kitchen
 date: 2019-10-24T00:00:01.000+00:00
-permalink: "/building-the-ultimate-sustainable-kitchen/"
 categories:
 - Kitchen Remodeling
 - Green Construction
 - Infographics
-featured-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
-excerpt: Living green doesn't have to end with LED bulbs and efficient kitchen appliances.
-  Check out our infographic on building the ultimate sustainable kitchen.
-author: Gregg Cantor
-layout: post
 description: Living green doesn't have to end with LED bulbs and efficient kitchen
   appliances. Check out our infographic on building the ultimate sustainable kitchen.
 secondary-heading: Check out some easy ways to make your kitchen for eco-friendly
@@ -21,6 +16,7 @@ sections:
   cta:
     enabled: false
     color: white
+  background-image: "/v1605129249/murray-lampert/v3/kitchen-remodeling-bg.png"
   heading: Building a More Sustainable Kitchen
 - template: post-body-content
   block: post-body-content
@@ -40,8 +36,8 @@ Your kitchen likely receives some of the most foot traffic in your home. Just th
 
 If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-services), a great opportunity to build with [sustainability](/san-diego-green-home-construction) in mind exists in a big way. Living green doesn't have to end with simple energy conservation and efficient appliances. Check out this infographic on building the ultimate sustainable kitchen from CustomMade.com for some great ideas.
 
-<!-- Wrap Infographic in external link to original img file on custommade.com -->
-[![Build the Ultimate Sustainable Kitchen Infographic](/uploads/kitchen-embed.jpg "{{ page.title }}")](https://www.custommade.com/blog/content/uploads/2015/02/kitchen-001.jpg)
+<!-- Infographic from Custommade.com -->
+![infographic showing simple ways to make a kitchen more sustainable](https://res.cloudinary.com/zheisey/image/upload/v1605885598/murray-lampert/v3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
 
 ## Building the Ultimate Sustainable Kitchen
 
