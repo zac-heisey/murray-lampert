@@ -15,7 +15,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1605980634/murray-lampert/v3/fall-home-improvement-ideas.jpg"
   heading: Fall Home Improvement Guide
 - template: post-meta-data
   block: post-meta-data
@@ -146,8 +146,6 @@ Do you want a great-looking yard with minimal physical upkeep? Go with multi-sea
 Nothing says, "I know how to landscape like a boss," like contrasting light and dark colors. Try combining some purple-leaf grape foliage with silver-colored ornamental grass plumes. Other alluring dark plants include [Black Lace Elderberry](https://goo.gl/6Tfjzo), [Velvet Cloak Smoke Bush](https://goo.gl/knhNfs), and [Diabolo Ninebark](https://www.google.com/search?q=Diabolo+ninebark&sa=X&ved=0ahUKEwim1rbt8YjfAhUrrlkKHUW8DAUQ7xYIKygA&biw=1440&bih=687). When it comes to landscape, opposites do attract.
 
 There are so many options for creating fall landscaping that reflects your taste, style and personality. You have your choice of trees, shrubs, plants, flowers and ornaments.
-
-![Fall Porch and Patio Ideas](/uploads/easy-fall-home-improvement-projects.jpg "Fall Porch and Patio Ideas")
 
 ## Perfect Fall Porch and Patio Remodeling Projects
 

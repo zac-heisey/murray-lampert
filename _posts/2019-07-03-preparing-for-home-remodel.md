@@ -11,7 +11,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1605982057/murray-lampert/v3/placeholder-5.jpg"
   heading: Preparing for Your Upcoming Home Remodel
 - template: post-meta-data
   block: post-meta-data
@@ -137,10 +137,6 @@ If your home was built prior to 1978, any remodeling contractor or home improvem
 In March of 2018, [ABC 10 News reported](https://www.10news.com/news/protecting-san-diegans-from-hazardous-material-in-home-renovation) on [crackdowns by the Environmental Protection Agency](https://www.epa.gov/newsreleases/u-s-epa-settlement-helps-protect-san-diego-residents-lead-paint-health-hazards) on six contracting and home remodeling companies who had violated lead paint and asbestos regulations. Those six companies, operating in California and Arizona, were forced to pay a combined $287,000 in penalties.
 
 The report highlighted a local San Diego contractor, **Renovation Realty**, who was required to pay a settlement of over $41,000 for renovation work performed in San Diego and Santee "without being EPA-certified to perform work in pre-1978 housing where lead-based paint is assumed to be present."
-
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O67wN7VXUeA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
 
 Proof of proper removal and disposal of any lead-containing materials will need to take place _before_ your remodeling project can get started. If your contractor suggests otherwise, or isn't aware of the EPA regulations, that should be a huge red flag. Even well-known companies that we compete against cut corners. If you are remodeling, I recommend downloading the Lead Safe pamphlet that can be found here: https://www.epa.gov/lead/lead-safe-certified-guide-renovate-right
 

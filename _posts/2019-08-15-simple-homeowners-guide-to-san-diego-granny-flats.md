@@ -18,6 +18,8 @@ sections:
   heading: Homeowner's Guide to San Diego ADUs
 - template: post-meta-data
   block: post-meta-data
+- template: post-body-content
+  block: post-body-content
 - template: call-to-action
   block: call-to-action
   layout: Full-Width

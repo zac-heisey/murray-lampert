@@ -16,7 +16,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1601138428/murray-lampert/v3/placeholder-1.png"
   heading: Homeowner's Guide to San Diego ADUs
 - template: post-meta-data
   block: post-meta-data

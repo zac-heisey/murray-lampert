@@ -8,14 +8,13 @@ description: Duct tape vs. foil tape? HVAC tape vs. aluminum tape? And what abou
   mastic? With so many choices, it can be difficult to know which tape is appropriate
   for your particular home improvement project. We break down some of the more common
   types of tape to help you choose the right tape for your next home improvement project.
-secondary-heading: Wondering about the difference between duct tape, mastic tape, and all the others? We've got you covered.
 sections:
 - template: hero-banner
   block: hero-banner
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1605984250/murray-lampert/v3/battle-of-the-tape.jpg"
   heading: Choose the Right Tape for Your Next Home Improvement Project
 - template: post-meta-data
   block: post-meta-data
@@ -54,10 +53,8 @@ For some plumbing and HVAC projects, tape may not be the best choice. In certain
 **Ask a Pro**  
 If you're still unsure of which type of tape to use for your home improvement project, ask a [home remodeling contractor](/) or other building professional for some guidance. Big box home improvement stores are almost guaranteed to carry the tape you need, and you can always get input from store employees as well. Don't be afraid to ask for help!
 
-<div class="spacing"></div>
-<div class="flex-video">
-  <iframe width="100%" height="500px" src="https://www.youtube.com/embed/69EpRDFVjuk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<lite-youtube videoid="69EpRDFVjuk" style="background-image: url('https://i.ytimg.com/vi/69EpRDFVjuk/hqdefault.jpg');">
+</lite-youtube>
 
 ## Sealing HVAC Ducts: Foil Tape vs. Duct Tape vs. Duct Mastic
 
@@ -85,7 +82,7 @@ A word of advice with either option: **choose a high-quality product**. Again, d
 
 ## Breaking It Down: Choosing the Right Type of Tape for the Job
 
-![infographic of guide for how to choose to the right tape for home renovation projects]({{ site.cloudinary }}/v1605889527/murray-lampert/v3/infographic-visual-guide-to-design-build.png "{{ page.title }}")
+![infographic of guide for how to choose to the right tape for home renovation projects]({{ site.cloudinary }}/v1605982932/murray-lampert/v3/infographic-choosing-the-right-tape.png "{{ page.title }}")
 
 ### Electrical Tape
 

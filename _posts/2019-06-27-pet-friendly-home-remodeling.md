@@ -13,7 +13,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1605984902/murray-lampert/v3/pet-friendly-remodel.jpg"
   heading: Best Pet-Friendly Home Remodeling Features
 - template: post-meta-data
   block: post-meta-data
@@ -54,10 +54,6 @@ In any [home remodeling project](/san-diego-remodel-project-gallery), the safety
 
 As part of our initial consultation, we always get to know homeowners and their pets so proper accommodations can be made. This might include "safe rooms" for pets, or figuring out an offsite place for them to stay during the remodeling project.
 
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6FEgqlQEmMM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## Flooring
 
 If you want your pet-friendly remodeling project to be as thorough as possible, plan it from the floor up. Some flooring options are significantly better than others if you are a pet parent. Whether the floor is stain and scratch resistant or not can make all the difference. Therefore materials like soft wood are not an option. However, linoleum, tiles, and hardwood are great ones. Hardwood might be slightly more expensive, but its durability and easy maintenance will benefit pet parents more than any other material.
@@ -65,6 +61,8 @@ If you want your pet-friendly remodeling project to be as thorough as possible, 
 The same goes for carpeting options as some fibers may be harmful to your pets. The best way to go is polyester since it’s the most resistant and pet-friendly variant. Also, look into waterproof carpeting, as a single mishap could ruin your carpet otherwise.  If you have pets, look for easily washable, compact carpets.
 
 ## Fun and Useful Features
+
+![image of a small dog sitting a tent next to a cactus]({{ site.cloudinary }}/v1605984902/murray-lampert/v3/dog-tee-pee.jpg "Fun and Useful Pet-Friendly Home Features")
 
 Since you already remodeling for your pets, why not add some fun and useful features to your home as well. Pets love to hang out in the kitchen, and if you made sure they are safe there, why not add a feeding station or a cabinet bed.
 

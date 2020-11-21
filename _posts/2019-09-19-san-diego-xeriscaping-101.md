@@ -14,7 +14,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+  background-image: "/v1605982463/murray-lampert/v3/xeriscaping-101.jpg"
   heading: San Diego Xeriscaping 101
 - template: post-meta-data
   block: post-meta-data
