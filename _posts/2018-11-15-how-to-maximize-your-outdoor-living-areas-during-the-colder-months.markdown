@@ -8,7 +8,7 @@ featured-image: "/uploads/winter-outdoor-living-space-tips.jpg"
 excerpt: Cold weather is coming, and with it the desire to huddle up indoors. Resist
   the temptation with these 7 tips to cozy up your outdoor living spaces for winter.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Cold weather is coming, and with it the desire to huddle up indoors. Resist the temptation to spend all winter inside by making the right adjustments to your [outdoor living spaces](/san-diego-outdoor-living-space-design). These tips 7 can help make your backyard cozy and warm in spite of the frigid temperatures.

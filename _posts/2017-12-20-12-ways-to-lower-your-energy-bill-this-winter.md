@@ -7,7 +7,7 @@ featured-image: "/uploads/thermostat.png"
 excerpt: Energy efficiency has never been easier. Read these DIY home maintenance
   strategies to low your San Diego energy bill this winter.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 People don’t typically think of San Diego when they think of winter, but in several areas of the county, temperatures can drop significantly. Cooler weather in San Diego tends to be only during the months of December, January, and February, but these three months can have a big impact on your energy usage, leading to expensive utility bills. Don’t let the cold of the winter freeze your wallet when there are easy DIY strategies that can solve the problem. Your energy bill can drop along with the temperatures, we promise! Although you might find yourself turning up the heat in your home this winter, don’t worry - there are a handful of home maintenance tips to [winterize your home](/tips-to-winterize-your-home/) and ensure your energy bill stays low.

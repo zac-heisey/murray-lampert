@@ -8,7 +8,7 @@ excerpt: Understanding the importance of lighting in the interior design of your
   Diego home will help you take full advantage of its aesthetic. Plus, learn our top
   tips for enhancing the lighting in your home.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 ### Why is lighting so important in your home's interior design?

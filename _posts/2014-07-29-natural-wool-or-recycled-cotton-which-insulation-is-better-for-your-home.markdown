@@ -8,7 +8,7 @@ categories:
 excerpt: Both natural wool and recycled cotton are great option for eco-friendly home
   insulation. Murray Lampert Design, Build, Remodel discusses each in further detail.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 If you’re searching for not only the best, but also the most [eco-friendly option](/san-diego-green-home-construction) for insulating your home, both natural wool and recycled cotton are good places to start. Here we’ll discuss recycled cotton and natural sheep’s wool, and explore their relative composition to help you make an educated decision when building or re-insulating your home.

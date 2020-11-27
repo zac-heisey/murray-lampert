@@ -10,7 +10,7 @@ excerpt: If you're looking to expand your home, but you're tight on space, a gar
   is becoming increasingly popular in San Diego, but there are some important considerations
   before getting started.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 If your California home is tight on space, it’s natural to look at your property to see where you might be able to expand. A small backyard doesn’t leave you much room to add-on to your house, but you can greatly maximize your existing space by considering a San Diego garage conversion. Before you jump in, there are several things you’ll want to consider with this type of [accessory dwelling unit](/san-diego-in-law-suites).

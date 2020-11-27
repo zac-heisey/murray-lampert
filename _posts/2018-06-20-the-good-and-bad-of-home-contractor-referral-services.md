@@ -8,7 +8,7 @@ excerpt: Home contractor referral services and platforms can be helpful, but the
   should also be used with caution. Learn about the good and bad of contractor referral
   platforms.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 When searching for a [home improvement professional](/san-diego-home-remodel-services), there are several options at your disposal - some better than others. Having the professional opinion of a true expert can make all the difference. It’s important to keep in mind that, one way or another, referral services get paid for providing leads to contractors. Sometimes the cost is per month by geographic region, but it can also be by the individual lead or a percentage of the overall contract.

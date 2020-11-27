@@ -8,7 +8,7 @@ excerpt: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for ho
   and remodelers alike. We highlight a few of the main takeaways from this year's
   study.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Earlier this year, Houzz released their annual [Kitchen Trends Study](https://www.houzz.com/ideabooks/101927755/list/2018-us-houzz-kitchen-trends-study) based on survey responses by over 1,700 homeowners across the United States. The respondents were asked about their recent or planned kitchen renovation projects, and the results are very much in line with what our team highlighted in our own [2018 Home Remodeling Trends guide](/2018-home-remodeling-trends/).

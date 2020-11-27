@@ -8,7 +8,7 @@ excerpt: Quartz countertops are a popular option for kitchen remodels. Before ma
   the final choice to go with quartz, check out these 7 things to know about quartz
   kitchen countertops.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Kitchens are often the focus of a home remodel, and the materials used to update your kitchen have expanded. Granite used to be at the forefront, but [quartz (specifically, engineered quartz) is the top choice now](https://www.houzz.com/magazine/2019-us-houzz-kitchen-trends-study-stsrsivw-vs~116684987). There are seven things you should know about quartz countertops when the time comes to upgrade or remodel your kitchen. 

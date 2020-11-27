@@ -8,7 +8,7 @@ featured-image: "/uploads/balboa-park-san-diego.jpg"
 excerpt: San Diego has a long, rich history of architectural trendsetting and unique
   designs. We've highlighted 5 of the most iconic buildings in San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 San Diego has long been a destination city – and for good reason! The mild, sunny climate, tourist friendly city offers any number of reasons to visit. With a mix of culturally distinct neighborhoods and a rich, diverse history, it’s no surprise that San Diego is home to some remarkable buildings. The architecture of our city has many influences, and it makes for a great tour of some of the varied types of architectural design. Let’s take a closer look at some of the more unique buildings that San Diego has to offer.

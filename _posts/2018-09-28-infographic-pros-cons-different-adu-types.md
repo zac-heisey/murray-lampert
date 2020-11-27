@@ -9,7 +9,7 @@ excerpt: Accessory Dwelling Units are a hot topic in California right now, and f
   good reason. But which type of ADU is right for you, and which is your property
   even permitted for? Find out here!
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 The Accessory Dwelling Unit (ADU) trend is sweeping through California, but few homeowners understand their options when it comes to building them. Aside from zoning and legal requirements that need to be met, there’s also the type of ADU to take into account when planning an [in-law suite in San Diego](/san-diego-in-law-suites).

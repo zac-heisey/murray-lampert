@@ -8,7 +8,7 @@ excerpt: Murray Lampert loves supporting other local home improvement profession
   When it comes to HVAC, look no further than Mauzy Heating and Air! Click to read
   why we love working with this San Diego based company.
 author: 'Gregg Cantor '
-layout: post
+layout: blocks
 ---
 
 When it comes to working with other local businesses in San Diego, we take our referral partnerships seriously. We hold the entire staff at Murray Lampert to the highest standard in order to give our clients the best service possible. It's just as important to us to hold this same standard when we work with, or refer, other home improvement professionals. What we mean to say is, we don’t just refer anyone. We refer the best!

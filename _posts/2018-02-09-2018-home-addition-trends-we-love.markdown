@@ -8,7 +8,7 @@ excerpt: Murray Lampert uncovers the hottest trends in home remodeling for 2018,
   home additions play a huge role. Get the latest info on home addition trends in
   San Diego.
 author: 'Gregg Cantor '
-layout: post
+layout: blocks
 ---
 
 It’s no surprise that any addition to a home can increase the value of the property, as well as the overall appearance of the house. Home additions are also one of the [hot home remodeling trends in 2018](https://murraylampert.com/hot-home-remodeling-trends-2018-ahp-video/). From small upgrades and add-ons, to major room additions and installations - there are a ton of home addition projects to consider this year.

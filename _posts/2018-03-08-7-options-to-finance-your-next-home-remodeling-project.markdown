@@ -8,7 +8,7 @@ excerpt: Thinking about starting a San Diego home improvement project but not su
   how to finance it? Consider these 7 options to finance your next home remodeling
   project.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 When it comes to [home remodeling](/san-diego-home-remodel-services), even small and medium sized DIY projects can grow to be very costly. If you’re considering a major renovation like a kitchen, bathroom upgrades or a home addition, you could be looking at an investment of $50,000\+. There are several options to carefully consider before you finance your next home remodeling project.

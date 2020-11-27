@@ -7,7 +7,7 @@ categories:
 tags:
 - granny flats
 - in-law suites
-layout: post
+layout: blocks
 featured-image: "/uploads/granny-flat-in-law-suite-san-diego.jpg"
 excerpt: Granny flats and in-law suites are becoming all the rage in San Diego. We
   share our top tips for your granny flat remodel in San Diego.

@@ -2,7 +2,7 @@
 title: Which Home Improvements Are Tax Deductible?
 date: 2015-02-17 09:30:51 Z
 permalink: "/which-home-improvements-are-tax-deductible/"
-layout: post
+layout: blocks
 ---
 
 When tax time rolls around, many homeowners wonder if any of their expensive <a href="http://murraylampert.com/san-diego-design-build-contractors/" target="_blank">home improvements</a> from the year are valuable to mention on their returns. In most cases, home improvement costs are <strong>not</strong> tax deductible, but they are still financially valuable in other ways.

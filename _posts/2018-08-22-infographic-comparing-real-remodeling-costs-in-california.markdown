@@ -9,7 +9,7 @@ excerpt: Owning a home in California can be expensive, but how do remodeling cos
   compare across different real estate markets in the state? We compare remodeling
   costs in San Francisco, Los Angeles, and San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 It’s no secret that real estate and housing costs in California are high, especially for buyers in the market for new homes. If the sticker shock of new home prices in California have you rethinking a move, it pays to consider whether or a not a remodeling project might be a viable option.

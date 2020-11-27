@@ -9,7 +9,7 @@ excerpt: Windows come in a variety of shapes, sizes, and materials. Learn about 
   benefits of different window types, as well as which windows are hype and which
   are worth the price.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Aluminum, vinyl, wood, clad, and composite. Double glazed, tempered, Low-E, argon, and reflective. New construction and replacement. When it comes to windows, there are endless options for materials, sizes, shapes, colors, and more. One thing to think about is the natural climate of where you live. Are you fending off the cold weather? Or do you need to reflect exorbitant amounts of direct sunlight? The answer to this question plays a big role in what type of window to purchase.

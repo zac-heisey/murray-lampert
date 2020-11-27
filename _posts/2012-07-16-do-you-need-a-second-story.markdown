@@ -8,7 +8,7 @@ featured-image: "/uploads//weeks-second-story-2.jpg"
 excerpt: If you've outgrown your current home, a second story addition can be a great
   option. Here are few questions to ask before building a second story in San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Many people are outgrowing the space in their homes only to find that larger homes are more costly and selling their old home is difficult given the current market trends. [Adding a second story](/san-diego-second-story-addition) to your home instead of relocating can increase the square footage substantially without taking away from your [outdoor living space](/san-diego-outdoor-living-space-design).

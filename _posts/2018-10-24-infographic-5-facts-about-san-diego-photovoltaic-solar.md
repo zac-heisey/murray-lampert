@@ -9,7 +9,7 @@ excerpt: Solar energy is a popular way for San Diego homeowners to take advantag
   of the region's sunny weather to help lower their utility costs. We look at 5 key
   facts about photovoltaic solar in San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Many San Diego homeowners have turned to photovoltaic (PV) solar energy as a way to offset the rising costs of power in Southern California. Before installing solar panels, it's important to know some key details before officially [making the switch to solar](/important-things-to-know-when-switching-to-solar/).

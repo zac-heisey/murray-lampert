@@ -9,7 +9,7 @@ excerpt: Murray Lampert has been partnering with Milholland Solar Electric & Roo
   for over 5 years. We spoke with Brian Milholland about his company's history, expertise,
   and more.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 One of our strongest partners in San Diego, and a fellow vetted [Approved Home Pro](https://www.sandiegoapprovedhomepros.com/), is [Milholland Solar Electric & Roofing](https://milhollandelectric.com/). For over five years, our team has worked closely with Brian Milholland and his team on a variety of solar installation, removal, and/or reinstallation projects.

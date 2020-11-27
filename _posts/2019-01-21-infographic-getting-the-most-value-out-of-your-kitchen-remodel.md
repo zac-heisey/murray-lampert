@@ -9,7 +9,7 @@ excerpt: When it comes to San Diego kitchen remodels, it is possible to spend le
   while getting more from your investment. This infographic shows how to get the most
   value from your next kitchen remodel.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Kitchen remodels are one of the most popular and cost-effective places to invest your home remodeling dollar. For one, a remodeled kitchen is a major boon to your home’s value and curb appeal. It’s the home project with the greatest return-on-investment when the time comes to sell your home.

@@ -9,7 +9,7 @@ excerpt: Christian Brothers is our preferred partner when it comes to helping cl
   with fire, flood, mold, or any other type of emergency building service. Check out
   our recent discussion with CEO Gabe Matthews.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 When it comes to fire and flood damage in San Diego, our go-to partner is [Christian Brothers Emergency Building Services](http://waterdamagesd.com/). Our partnership with the Christian Brothers team is relatively new compared to some of the other home improvement specialists we work with, but our early experiences have already proven to us that they are the most reputable, experienced, and professional Emergency Building Services company in San Diego.

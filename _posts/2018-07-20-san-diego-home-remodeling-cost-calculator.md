@@ -8,7 +8,7 @@ excerpt: Cost is always an important factor in any home remodeling project. That
   why we've created this super-simple San Diego home remodeling cost calculator for
   local homeowners.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 It's a question we get during almost every in-home consultation meeting we have with prospective clients: "[How much will my home remodeling project cost](/how-much-will-my-home-remodeling-project-cost/)?" And while no homeowner likes hearing the response, "It depends," the fact is that variables like location, size of the current home or desired addition, the scope of the project, finishes and fixtures to be used, as well as the experience and expertise of the [remodeling contractor](/san-diego-home-remodel-services) all play a role in what a homeowner will end up paying.

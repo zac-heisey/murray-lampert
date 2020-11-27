@@ -2,7 +2,7 @@
 title: Ideas for Filling Out Empty Rooms in Your Expanded Home
 date: 2013-04-02 16:31:00 Z
 permalink: "/ideas-for-filling-out-empty-rooms-in-your-expanded-home/"
-layout: post
+layout: blocks
 ---
 
 Room and <a href="/san-diego-second-story-addition/">second story additions</a> are becoming more and more popular these days due to growing families and the popularity of home-based businesses. Of course, all that extra room can be a bit overwhelming. What was once nonexistent is now an empty room for you to fill! Here are some ideas for filling all that extra space in your <a href="/san-diego-room-additions/">expanded home</a>.

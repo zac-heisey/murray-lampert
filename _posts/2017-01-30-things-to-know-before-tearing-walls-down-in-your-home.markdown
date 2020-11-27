@@ -7,7 +7,7 @@ categories:
 tags:
 - major renovation
 - construction
-layout: post
+layout: blocks
 featured-image: "/uploads/tear-down-walls.jpg"
 excerpt: Tearing down a wall in your home is no small task. It requires planning and
   expertise. Here are some things to know before tearing down a wall in your home.

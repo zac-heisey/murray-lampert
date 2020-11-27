@@ -9,7 +9,7 @@ excerpt: Remodeling on a budget is tough, especially if your goal is to realize 
   the value of your home, we have a few remodeling projects that you should look to
   first.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 While you want to make your home look its best, you may not have the budget you’d like to achieve that goal. Thankfully, there are several [home remodel projects](/san-diego-remodel-project-gallery) that offer a high ROI. These ensure that you don’t spend money on making your home look great without boosting its overall value, which you’re sure to be focused on if there’s a chance you’ll put your home on the market in the future. Murray Lampert Design, Build, Remodel is here to let you know which remodels are easiest on your wallet and best on your home’s value.

@@ -7,7 +7,7 @@ categories:
 excerpt: From bamboo to paper, Murray Lampert Design, Build, Remodel covers 5 popular
   sustainable building materials for your next green construction project.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Asking a [green home builder](/san-diego-green-home-construction) or designer what their favorite sustainable building material is will get you a bevy of different answers. However, there are a few old standby materials that have stood the test of time, along with some new kids on the block making a name for themselves. This list is a mix of both old and new. Let’s take a look at the top five most popular sustainable building materials.

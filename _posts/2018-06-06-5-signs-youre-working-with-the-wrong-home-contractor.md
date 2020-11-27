@@ -7,7 +7,7 @@ featured-image: "/uploads/contractor.jpg"
 excerpt: Having trouble working with or selecting a remodeling contractor? Here are
   5 signs you're working with (or about to work with) the wrong home remodeling contractor.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Perhaps the most overlooked, yet most critical, choice a homeowner can make during their remodeling project is the contractor they choose to work with. We understand the temptation to pick a contractor or [remodeling company](/san-diego-home-remodel-services) quickly so you can get your project started, but rushing the selection and vetting process of your contractor can have devastating effects on the outcome of your home remodel.

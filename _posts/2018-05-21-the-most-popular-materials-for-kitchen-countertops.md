@@ -7,7 +7,7 @@ featured-image: "/uploads/cava-621-i-ave-kd-35.jpg"
 excerpt: Need kitchen countertop ideas? We examine the most popular kitchen countertop
   materials, along with some pros and cons of each type of kitchen countertop.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 When it comes to choosing a material for their kitchen countertops, homeowners have no shortage of options. Depending on taste, style, and budget, there's a kitchen countertop material to perfectly complement any [kitchen remodel](/san-diego-kitchen-remodeling-services).

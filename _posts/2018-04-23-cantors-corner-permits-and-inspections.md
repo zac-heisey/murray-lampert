@@ -9,19 +9,11 @@ excerpt: Permits and building inspections are important for your safety and help
   the investment in your home remodel. In this edition of Cantor's Corner, Gregg discusses
   the importance of permits and building inspections.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Too often, unsuspecting homeowners are taken advantage by disreputable home contractors who convince them that permits and inspections aren't necessary. On the contrary, pulling home permits and having proper building inspections carried out help to ensure your safety, as well as protect your renovation investment.
 
----
-title: Overview of San Diego Building Permits
-date: 2011-01-05 20:34:53 Z
-permalink: "/overview-of-san-diego-building-permits/"
-layout: post
----
-
-)
 <h2>What  are San Diego Building Permits?</h2>
 Building permits are merely measures put in  place to ensure the safety of residents. These permits are able to regulate  construction, and make certain that homes and buildings will not cause harm to  the residents. Due to the differences in climate and geography across the  country, state and local governments are responsible for establishing the  appropriate codes and guidelines for any construction project.  Some areas also enforce certain laws and  permits in reference to energy conservation requirements.
 

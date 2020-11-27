@@ -2,7 +2,7 @@
 title: Kate M. Dillon and Florence A. Maddock/Henry J. Lang House
 date: 2014-10-15 09:27:20 Z
 permalink: "/kate-m-dillon-and-florence-a-maddockhenry-j-lang-house/"
-layout: post
+layout: blocks
 ---
 
 <div class="featuredp">FEATURED PROJECT</div>

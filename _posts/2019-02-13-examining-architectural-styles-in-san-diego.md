@@ -10,7 +10,7 @@ excerpt: From Spanish to Mission, Victorian to Contemporary, San Diego offers up
   of diversity when it comes to residential architecture. We outline some of the more
   popular home architecture styles in San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 San Diego is a thriving, vibrant metropolis, and while outsiders mainly think of the city as a laidback beach town, locals know it’s home to an eclectic cultural mix. With so many different heritages converging in “America’s Finest City,” it’s no wonder that the entire county is dotted with a wide array of architectural styles. If you’re thinking about building a new home in California’s second-largest city, it can help to know about [San Diego home and architectural design](/san-diego-architectural-design-services). Here’s a brief look at some of the more common styles you’ll see in this part of Southern California.

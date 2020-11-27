@@ -8,7 +8,7 @@ excerpt: While they were previously thought of as exotic additions or quirky liv
   spaces, many San Diego homeowners are capitalizing on the ADU movement. As popularity
   rises, so does creativity.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 When you hear the term Accessory Dwelling Unit for the first time, it may not ring an immediate bell. However, once you see the pictures and note the examples, you will immediately recognize the extra living spaces that are becoming so popular. Some of the many types you have likely come across include tiny homes in the backyard, studio apartments inside garages and converted barns with loft sleeping spaces.

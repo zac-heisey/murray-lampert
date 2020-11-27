@@ -9,7 +9,7 @@ excerpt: Home remodeling costs vary greatly depending on project location, size,
   finishes, and more. Murray Lampert helps highlight some of the contributing cost
   factors.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Asking a home remodeler how much a home remodeling project will cost is like going to a dealership and asking how much a car on the lot will cost. When buying a car, cost depends on the manufacturer, warranty, and options. With [home remodeling](/san-diego-home-remodel-services), every project is unique due to location, size, scope, and the finishes and fixtures desired.

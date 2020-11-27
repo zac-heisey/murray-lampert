@@ -8,7 +8,7 @@ featured-image: "/uploads/recycled-materials-in-home-remodel.jpg"
 excerpt: Here are 8 ways for homeowners to go green and utilized recycled materials
   in their next home remodeling project.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Do you feel your home is due for an upgrade? Maybe you feel you’d like to have a more sustainable look and feel in a few rooms throughout your residence. If so, we’ve got eight ways to successfully implement [green home construction](/san-diego-green-home-construction) practices during your remodeling project. 

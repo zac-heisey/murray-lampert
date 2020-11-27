@@ -8,7 +8,7 @@ featured-image: "/uploads/home-construction-giving-tuesday.jpg"
 excerpt: 'This #GivingTuesday, consider donating to these 5 nonprofits dedicated to
   building and renovating homes in both San Diego and beyond.'
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 [#GivingTuesday](https://www.givingtuesday.org/) this year is November 28th. If you're among the millions of people worldwide who plan to take part in the social media movement this year, might we suggest a few local nonprofit organizations who could use your help.

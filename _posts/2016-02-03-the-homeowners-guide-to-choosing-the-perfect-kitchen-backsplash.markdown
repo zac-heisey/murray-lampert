@@ -7,7 +7,7 @@ categories:
 excerpt: Backsplashes take up a small portion of your kitchen, but they can make or
   break your kitchen's look. See our guide to choosing the perfect kitchen backsplash.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 If you're planning a [kitchen remodel in San Diego](/san-diego-kitchen-remodeling-services), it's easy to feel overwhelmed by the sheer number of decisions you

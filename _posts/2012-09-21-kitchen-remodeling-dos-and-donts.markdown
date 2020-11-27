@@ -9,7 +9,7 @@ excerpt: A good kitchen can sell a home, which is why so many homeowners take on
   kitchen remodel to raise property value. Here are some do's and don'ts to get you
   started.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 The kitchen is one of the most important rooms in the home. A good kitchen can sell a home, which is why so many homeowners look to the kitchen to raise property value. There’s a lot of information about kitchen remodels floating around in the ether, but here are some do’s and don’ts to help get you started.

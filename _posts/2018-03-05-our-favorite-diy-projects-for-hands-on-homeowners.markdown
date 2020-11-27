@@ -7,7 +7,7 @@ featured-image: "/uploads/diy-projects.png"
 excerpt: If you love weekend projects around the house, we have plenty of simple and
   affordable Home DIY ideas to keep you busy. Click to read more!
 author: 'Gregg Cantor '
-layout: post
+layout: blocks
 ---
 
 Do you find yourself frequently scouring Pinterest for new and creative Home DIY projects? You’re not alone. There are plenty of us who actually enjoy weekend projects around the house… as long as we can put our creativity to work! We’ve searched high and low to find you interesting DIY home projects to keep you entertained this season. Dust off your toolboxes, here is a list of our favorite projects to try this spring.

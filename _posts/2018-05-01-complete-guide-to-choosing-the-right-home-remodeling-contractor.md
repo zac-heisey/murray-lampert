@@ -8,7 +8,7 @@ featured-image: "/uploads/q2-content-pillar-graphic.png"
 excerpt: This comprehensive guide will help homeowners find, vet, and work with the
   right remodeling contractor for their renovation project. Check it out here!
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 There are many important decisions to make when it comes to remodeling your home: Which architectural style best fits your personality? Should you go with cool and calm tones, or opt for big, bold colors? What is your timeline? How about your budget? All of these questions are important, but they take a back seat to choosing the best home remodeling contractor for _your_ specific renovation project.

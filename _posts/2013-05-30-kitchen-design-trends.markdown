@@ -2,7 +2,7 @@
 title: 4 Trends in Kitchen Design
 date: 2013-05-30 15:00:47 Z
 permalink: "/kitchen-design-trends/"
-layout: post
+layout: blocks
 ---
 
 Remodeling or redecorating your kitchen can change the entire dynamic of your home. Kitchens are no longer just a space for preparing meals and food storage; they are now hybrid spots for family gatherings, wireless work spaces and entertaining guests. Design experts say that the trends reflect this transformation. Clean, modern style complete with warm touches is a great approach to a functional and inviting kitchen.

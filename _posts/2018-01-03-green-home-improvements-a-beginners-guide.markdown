@@ -8,7 +8,7 @@ featured-image: "/uploads/green-home-improvements-beginners-guide.jpg"
 excerpt: The green movement also includes tackling various green home improvement
   projects to increase the efficiency and environmental impact of your home.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 _This post was originally published February 22, 2013 and has been updated with additional content, resources, and images._

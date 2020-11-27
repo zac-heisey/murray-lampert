@@ -9,7 +9,7 @@ featured-image: "/uploads/wise-living-room-render-1.jpg"
 excerpt: Check out the top home remodeling trends in 2018 from kitchens and baths,
   to interior design and outdoor living spaces. Read the full guide at MurrayLampert.com
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 ## 2018 Will Be the Year of Home efficiency

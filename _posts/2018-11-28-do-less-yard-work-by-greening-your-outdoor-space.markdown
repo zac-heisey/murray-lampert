@@ -9,7 +9,7 @@ excerpt: San Diego homeowners are wise to make the most of their outdoor space b
   creating livable environments that are low maintenance - allowing them to spend
   more time enjoying the outdoors than doing yard work.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 It’s well known that San Diego has great weather. In fact the city regularly tops lists of the best places to live because of the wonderful climate. A Zillow report, using data from NOAA, calculated an average of [261 pleasant days a year](http://time.com/money/collection-post/3636302/best-weather-america-nice-days/), which is roughly 72% of the time. With so much lovely weather to soak up, San Diego homeowners are wise to make the [most of their outdoor space](https://murraylampert.com/outdoor-spaces-gallery) by creating livable environments that are low maintenance - so you can spend more time enjoying the outdoors than doing yard work.

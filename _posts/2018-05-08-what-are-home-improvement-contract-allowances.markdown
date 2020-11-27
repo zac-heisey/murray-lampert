@@ -9,7 +9,7 @@ excerpt: Allowances in home remodeling contracts allow you to get a feel for the
   of your project with various materials, fixtures, and finishes. Unfortunately, allowances
   are often misunderstood and abused by bad contractors.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 If you're undertaking a [home remodeling](/san-diego-home-remodel-services) or construction project, you should have a clear understanding of what contract allowances mean, and how they can affect the overall [cost of your home remodeling project](/how-much-will-my-home-remodeling-project-cost/).

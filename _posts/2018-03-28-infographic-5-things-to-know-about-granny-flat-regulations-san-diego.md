@@ -8,7 +8,7 @@ featured-image: "/uploads/ADU-sketch-hausable.png"
 excerpt: In this animated infographic, we outline 5 important things homeowners should
   know about recent changes to ADU regulations in San Diego.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 The popularity of Accessory Dwelling Units (ADUs) - also known as "granny flats" or "in-law suites" - continues to grow in California. The state saw a **63% increase in approved ADU construction permits in 2017** compared to 2016.

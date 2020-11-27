@@ -9,7 +9,7 @@ excerpt: The Affordable Housing Act of 2016 paved the way for more relaxed rules
   regulations on ADUs (Accessory Dwelling Units), especially in areas with housing
   shortages such as San Diego County.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 The Affordable Housing Act of 2016 paved the way for more relaxed rules and regulations on ADUs (Accessory Dwelling Units), commonly known as "in-law suites" or "companion units." California's housing shortage has led to a surge in ADU popularity, especial in areas of Southern California like Los Angeles and San Diego. In 2017, San Diego saw a 71% increase in ADU permits compared to the previous year.

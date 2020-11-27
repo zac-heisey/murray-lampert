@@ -9,7 +9,7 @@ excerpt: Granny Flats and Accessory Dwelling Units (ADUs) can come in all shapes
   sizes, and styles. If you're the outdoorsy type, a small log cabin can make a great
   ADU to your primary residence.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Increasing the square footage of your home is a common way to enhance the value of your property. As the popularity of Accessory Dwelling Units and [granny flats in San Diego](/simple-homeowners-guide-to-san-diego-granny-flats/) grows, homeowners are encouraged to do their research and weight the [pros and cons of different types of ADUs](/infographic-pros-cons-different-adu-types/) to fit their goals and budget.  

@@ -9,7 +9,7 @@ excerpt: There are both pros and cons to buying a new home and remodeling your c
   one. We cover some of the benefits and drawbacks to both options to help you make
   an informed decision.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 You’ve decided you need a change in your current living situation, and you’re ready to be out with the old and in with the new. But the age-old question is: should you move to a brand new house, or renovate your current home? Which is the better option for you and your bank account? The circumstances for each option come with their own financial implications, so it’s important to weigh the pros and cons to see what would be best for you.

@@ -9,7 +9,7 @@ excerpt: Building materials used 20+ years ago were not as safe as they are toda
   If you are planning on renovating an older home, it's important to understand how
   to do it safely.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 If you were to take a glimpse into your childhood home during the 1970s, you might see things like shag carpeting, wooden cabinetry, and funky colored walls. While this may have looked appealing at the time, home trends change and renovations are needed to keep up with the latest style. Changing this disco-era style to a modern-day look may sound like a simple task, but there could be hidden dangers lurking within these home updates. Some building materials were not as safe as they are today, and if you are planning on renovating an older home, it is important to understand how to do it safely. 

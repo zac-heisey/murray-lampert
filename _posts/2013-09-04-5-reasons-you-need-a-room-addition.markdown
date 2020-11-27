@@ -8,7 +8,7 @@ featured-image: "/uploads/room-additions-1.jpg"
 excerpt: Sometimes it's better to expand your existing space with a room addition,
   rather than move to a bigger home. Here are 5 good reasons to consider a room addition.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Feel like you are running out of space in your home? The accumulation  of furniture and décor, new bundles of joy in the family, sharing space with  other family members, and the popularity of working from home are all common  reasons your home might feel cramped. Before you call a realtor, however, consider adding more space to the house you already own with a [room addition](/san-diego-room-additions). You can save money and the headaches that come with moving by carefully reconsidering  what you can accomplish with your current property.

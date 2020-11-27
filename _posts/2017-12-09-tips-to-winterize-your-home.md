@@ -8,7 +8,7 @@ featured-image: "/uploads/winterize-your-home.png"
 excerpt: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
   your home will keep you safe while reducing energy!
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Wintertime is often associated with rising heating costs, as homeowners do their best to keep out the cold. However, there are a number of tricks that may help you beat both the winter chill and leave your pocketbook intact. San Diego residents can rely on various methods to keep themselves and their families comfortable, with many of them requiring just some simple home maintenance and materials.

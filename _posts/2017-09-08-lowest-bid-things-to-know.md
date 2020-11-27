@@ -5,7 +5,7 @@ permalink: "/the-lowest-bid-always-looks-good-but/"
 categories:
 - Design-Build
 - Home Remodeling
-layout: post
+layout: blocks
 featured-image: "/uploads/fischer-final-updated.jpg"
 excerpt: We know we're not the priced the lowest in town, and there is reason for
   that. Don't trust the lowest home remodeling bids for your home renovation project.

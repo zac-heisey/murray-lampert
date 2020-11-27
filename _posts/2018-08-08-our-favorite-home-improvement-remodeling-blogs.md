@@ -9,7 +9,7 @@ excerpt: At Murray Lampert, we're always on the lookout for helpful resources to
   with homeowners. Here are 6 of our favorite home improvement & remodeling blogs
   to follow - besides our own, of course!
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 We’re always on the lookout for design and remodeling inspiration, and we find ourselves turning back to the same blogs time and time again. We pride ourselves on being creative and tactical experts, but design trends are constantly changing and our home remodeling clients have a wide variety of personal styles and tastes. We’ve found that blogs are a great way to stay on top of the latest and greatest, because they're constantly flooded with new inspiration. Here's a list of our favorite [home improvement and remodeling blogs](/blog/) to help you draw all the inspiration you need for your next project.

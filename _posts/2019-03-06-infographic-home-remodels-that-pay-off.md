@@ -9,7 +9,7 @@ excerpt: Knowing the return on investment of a home remodeling project can help 
   plan and prepare. This infographic breaks down 7 home remodels that can pay off
   for homeowners.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 _This infographic comes from the team at Reclaimed Designworks_

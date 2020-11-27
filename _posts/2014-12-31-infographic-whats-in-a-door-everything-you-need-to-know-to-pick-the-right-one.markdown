@@ -9,7 +9,7 @@ categories:
 excerpt: Choosing a door to compliment your home remodeling project can be tough.
   Murray Lampert has an infographic to help you choose the perfect door.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.

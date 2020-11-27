@@ -8,7 +8,7 @@ excerpt: Need more space for your family in San Diego without increasing your ho
   overall footprint? Read our tips for second story additions before deciding if it
   is the right option for you.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 ## Inspiration and Ideas for Your Second Story Addition

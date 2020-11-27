@@ -7,7 +7,7 @@ categories:
 excerpt: We share 15 ways that modern homes can implement universal design principles
   to increase accessibility and comfort for residents with and without disabilities
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Selywn Goldsmith, the author of <em>Designing for the Disabled</em> (1963), pioneered free access for disabled people and is credited with the creation of the dropped curb (now a standard). Many of his ideas were based upon the seven principles of universal design, an architectural movement coined by Robert L. Mace that emphasizes:

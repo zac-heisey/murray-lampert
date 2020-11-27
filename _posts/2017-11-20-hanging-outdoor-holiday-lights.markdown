@@ -9,7 +9,7 @@ featured-image: "/uploads/holiday-lights.png"
 excerpt: Being festive has never been easier with these 8 essential tips for hanging
   holiday lights outside your San Diego home from Murray Lampert Design, Build, Remodel.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 It’s the most wonderful time of the year — family is traveling, the baking has begun, and the decorating is a must! Although your house may be merry and bright on the inside, don’t forget about the outside. To make the process a breeze, here are our 8 essential tips for hanging holiday lights outside your home!

@@ -6,7 +6,7 @@ categories:
 featured-image: "/uploads/small-space-kitchen-islands.png"
 excerpt: Check out the latest trends in kitchen island design, materials, and features for your kitchen.
 author: 'Gregg Cantor '
-layout: post
+layout: blocks
 ---
 
 Kitchen islands will always be on trend. But how homeowners utilize them is another story! In recent years, we've seen a lot of moving islands and islands with built-in seating. These aren’t going away anytime soon, but there are new and exciting ideas that we predict will make a major statement in a kitchen near you.

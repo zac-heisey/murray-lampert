@@ -7,7 +7,7 @@ featured-image: "/uploads/spring-home-remodeling-ideas.jpg"
 excerpt: Now's the time to start thinking about those projects you’ve put off all
   winter. Here are 8 home remodeling projects to freshen up your home this spring.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 With spring quickly approaching, now's the time to start thinking about those home remodeling projects you’ve put off all winter. [Murray Lampert Design, Build, Remodel](/) is here to help you bring out the best in your home and whatever ideas you have. To that end, we’d like to offer a few ideas for spring home renovation. 

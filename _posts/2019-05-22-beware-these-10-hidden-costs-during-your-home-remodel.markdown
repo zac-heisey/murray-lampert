@@ -8,7 +8,7 @@ excerpt: There is a lot to account for during a home remodel, and there's a good
   that unexpected costs will pop up. We identify 10 common hidden home remodeling
   costs to help you avoid them.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Whether you’ve decided to add value to your home or need to turn your study into a nursery, you’ve finally decided it’s time to remodel. Unfortunately, no matter how hard you plan, you're destined to hit some roadblocks. 

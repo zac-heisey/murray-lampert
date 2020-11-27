@@ -8,7 +8,7 @@ excerpt: Proper stormwater management is an oft-forgotten responsibility of many
   Learn more stormwater management to prevent flooding, reduce erosion, and protect
   your home.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Stormwater management is something that everyone – from local authorities down to every single homeowner should know about. It is essential in many ways, from protecting commercial and residential properties to reducing environmental pollution, and preventing flooding and land erosion.

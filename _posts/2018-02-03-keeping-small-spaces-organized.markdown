@@ -9,7 +9,7 @@ excerpt: If you live in a small San Diego home, these tips will help you keep yo
   to read our creative tips for maximizing space.
 author: 'Gregg Cantor '
 Field name: 
-layout: post
+layout: blocks
 ---
 
 So, you live in a small house. You’re not alone. There are thousands of small homes and [accessory dwelling units in San Diego](/san-diego-in-law-suites), and homeowners who don’t seem mind the lack of square footage, most likely have a handle on organization. If you find yourself shaking your head at your lack of space, you’re in luck. These tips to keep your small spaces organized will have you feeling much more calm and happy at home.

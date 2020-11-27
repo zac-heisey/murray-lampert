@@ -8,7 +8,7 @@ featured-image: "/uploads/cool-landscaping-trends.jpg"
 excerpt: Make the most of your San Diego outdoor living space with these hot landscaping
   trends to keep your outdoor space cool.
 author: Gregg Cantor
-layout: post
+layout: blocks
 ---
 
 Southern California offers a wonderful climate: dry but not too dry; warm but not too warm. It’s difficult to argue that San Diego offers the best of the best when it comes to outdoor environments.
