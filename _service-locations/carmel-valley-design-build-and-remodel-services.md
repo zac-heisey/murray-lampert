@@ -11,13 +11,13 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h2>Carmel Valley Home Remodeling</h2><p><br>Located in the northwestern
-    corner of San Diego, Carmel Valley is a wealthy, master-planned coastal community,
-    full of commercial office buildings, residential units, hotels, retail stores,
-    and restaurants. Carmel Valley is bordered to the north by the North City Future
-    Urbanizing Area and Pacific Highlands Ranch, to the east by Del Mar Mesa, to the
-    west by the I-5 freeway and Torrey Pines, and to the south by Los Peñasquitos
-    Canyon Preserve and Torrey Hills.</p><p><strong>Carmel Valley Neighborhood Facts</strong></p><ul><li><p>Carmel
+  content: <h2>Carmel Valley Home Remodeling</h2><p>Located in the northwestern corner
+    of San Diego, Carmel Valley is a wealthy, master-planned coastal community, full
+    of commercial office buildings, residential units, hotels, retail stores, and
+    restaurants. Carmel Valley is bordered to the north by the North City Future Urbanizing
+    Area and Pacific Highlands Ranch, to the east by Del Mar Mesa, to the west by
+    the I-5 freeway and Torrey Pines, and to the south by Los Peñasquitos Canyon Preserve
+    and Torrey Hills.</p><p><strong>Carmel Valley Neighborhood Facts</strong></p><ul><li><p>Carmel
     Valley is named for the Carmelite Sisters of Mercy who established a dairy farm
     and monastery in the area around 1905.</p></li><li><p>Carmel Valley was master
     planned and formed on February 1, 1975, though construction did not start until
