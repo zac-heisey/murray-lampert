@@ -1,8 +1,8 @@
 ---
 title: Carmel Valley Design, Build, and Remodel Services
-layout: default
+layout: blocks
 section_id: service-locations
-featured-image: 
+featured-image:
 excerpt: Murray Lampert home remodeling in Carmel Valley. We have over 40 years experience
   providing design, build, and remodel services in Carmel Valley.
 description: Murray Lampert home remodeling in Carmel Valley. We have over 40 years
@@ -17,28 +17,28 @@ sections:
     restaurants. Carmel Valley is bordered to the north by the North City Future Urbanizing
     Area and Pacific Highlands Ranch, to the east by Del Mar Mesa, to the west by
     the I-5 freeway and Torrey Pines, and to the south by Los Peñasquitos Canyon Preserve
-    and Torrey Hills.</p><p><strong>Carmel Valley Neighborhood Facts</strong></p><ul><li><p>Carmel
+    and Torrey Hills.</p><p><strong>Carmel Valley Neighborhood Facts</strong></p><ul><li>Carmel
     Valley is named for the Carmelite Sisters of Mercy who established a dairy farm
-    and monastery in the area around 1905.</p></li><li><p>Carmel Valley was master
+    and monastery in the area around 1905.</li><li>Carmel Valley was master
     planned and formed on February 1, 1975, though construction did not start until
-    1983.</p></li><li><p>The area was home to about 42,000 people in 2006.</p></li><li><p>The
-    average listing price for homes in Carmel Valley is about $830,000, but</p></li><li><p>The
-    median selling price is around $670,000.</p></li><li><p>Schools in the area include
-    Ocean Air School, Sycamore Ridge School, and Sage Canyon School (all public, K-6).</p></li></ul><h2
+    1983.</li><li>The area was home to about 42,000 people in 2006.</li><li>The
+    average listing price for homes in Carmel Valley is about $830,000, but</li><li>The
+    median selling price is around $670,000.</li><li>Schools in the area include
+    Ocean Air School, Sycamore Ridge School, and Sage Canyon School (all public, K-6).</li></ul><h2
     id="carmel-valley-home-renovation-and-remodeling-projects">Carmel Valley Home
     Renovation and Remodeling Projects</h2><p>Because Carmel Valley is a relatively
-    new area in San Diego, it has a wide variety of <a href="https://markdowntohtml.com/san-diego-home-design-services">home
+    new area in San Diego, it has a wide variety of <a href="/san-diego-home-design-services">home
     designs</a> and styles. Many homes draw off of older Spanish design elements.
     Others mix the laidback California style with the new, modern trends of today.
     Some parts of the area are still in development, allowing for the integration
     of modern, contemporary-style homes.</p><p>Because of this flexibility, Carmel
     Valley homeowners can create their ideal home design - whether it’s traditional
-    Spanish style or a breezy, modern dwelling with all the latest <a href="https://markdowntohtml.com/san-diego-green-home-construction">green
+    Spanish style or a breezy, modern dwelling with all the latest <a href="/san-diego-green-home-construction">green
     building</a> enhancements. With the median household income of the area coming
-    in at $120,000+, many residents can afford higher-end updates in their <a href="https://markdowntohtml.com/san-diego-kitchen-remodeling-services">kitchen
-    remodels</a> and <a href="https://markdowntohtml.com/san-diego-bathroom-remodeling-services">bathroom
+    in at $120,000+, many residents can afford higher-end updates in their <a href="/san-diego-kitchen-remodeling-services">kitchen
+    remodels</a> and <a href="/san-diego-bathroom-remodeling-services">bathroom
     renovation</a> projects.</p><h3 id="why-work-with-murray-lampert-">Why Work With
-    Murray Lampert?</h3><p>Four generations of <a href="https://markdowntohtml.com/">Murray
+    Murray Lampert?</h3><p>Four generations of <a href="/">Murray
     Lampert</a> professionals have been dedicated to offering the best-quality home
     remodeling services to the community of Carmel Valley. We are especially proud
     of the working relationships we've cultivated with trade partners, inspectors,
@@ -46,75 +46,39 @@ sections:
     that stay within our clients’ budget and is completed according to the agreed
     schedule. The pillars of our business have been our superior craftsmanship, innovative
     design, tailored services, and dedication to customer satisfaction. We've been
-    awarded the <a href="https://markdowntohtml.com/another-better-business-bureau-torch-award/">BBB
+    awarded the <a href="/another-better-business-bureau-torch-award/">BBB
     Torch Award for Marketplace Ethics four times</a>, which testifies to our trustworthiness
     and the reliability of our services.</p><h3 id="our-home-remodeling-services-in-carmel-valley">Our
     Home Remodeling Services in Carmel Valley</h3><p>Murray Lampert is proud to be
-    the most trusted <a href="https://markdowntohtml.com/san-diego-design-build-contractors">design-build
-    contract in San Diego</a>. Our Carmel Valley home remodeling services include:</p><ul><li><p><strong>Second
+    the most trusted <a href="/san-diego-design-build-contractors">design-build
+    contract in San Diego</a>. Our Carmel Valley home remodeling services include:</p><ul><li><strong>Second
     stories</strong> – If you don’t want to disrupt the landscape of your yard and
     your house’s surroundings, adding a second story is an ideal way to enjoy the
-    views from your window, and also get more space.</p></li><li><p><strong>Bathroom
+    views from your window, and also get more space.</li><li><strong>Bathroom
     remodels</strong> – Whatever your motivation to remodel your bathroom is, our
     bathroom remodeling experts in Carmel Valley can deliver. Install new plumbing
-    fixtures, adding modern tiles, or mounting custom cabinets - the sky is the limit.</p></li><li><p><strong>Home
+    fixtures, adding modern tiles, or mounting custom cabinets - the sky is the limit.</li><li><strong>Home
     additions</strong> – Ideal for growing families in need of more space, or anyone
-    who wish additional space for their new projects or other purposes. A <a href="https://markdowntohtml.com/room-additions-carmel-valley">home
+    who wish additional space for their new projects or other purposes. A <a href="/room-additions-carmel-valley">home
     addition in Carmel Valley</a> can solve space problems, as well as enhance the
-    functionality of your home.</p></li><li><p><strong>Kitchen remodels</strong> –
+    functionality of your home.</li><li><strong>Kitchen remodels</strong> –
     If you desire a modern, yet warm and inviting place for preparing meals and spending
-    time with your family, our <a href="https://markdowntohtml.com/kitchen-remodeling-carmel-valley">Carmel
-    Valley kitchen remodel</a> services are the best option.</p></li><li><p><strong>Green
+    time with your family, our <a href="/kitchen-remodeling-carmel-valley">Carmel
+    Valley kitchen remodel</a> services are the best option.</li><li><strong>Green
     building</strong> – Murray Lampert has been dedicated to green building. We do
     our business responsibly, which primarily means we honor the responsibility we
-    have towards our planet.</p></li><li><p><strong>3D architectural design</strong>
+    have towards our planet.</li><li><strong>3D architectural design</strong>
     – We want to make sure the design fits your style and preferences. That is why
     we value you input, and our staff architect will make a custom design according
-    to your ideas. The newest technology enables us to create <a href="https://markdowntohtml.com/3d-architectural-rendering-services">architectural
+    to your ideas. The newest technology enables us to create <a href="/3d-architectural-rendering-services">architectural
     renderings of your project in 3D</a> – in this way, you are able to see the end
-    result of your remodel before any work begins.</p></li><li><p><strong>Custom cabinetry</strong>
+    result of your remodel before any work begins.</li><li><strong>Custom cabinetry</strong>
     – Make the best of your storage space and add a personal touch to your kitchen
-    with our custom-made cabinets.</p></li></ul><h3 id="ready-to-start-your-carmel-valley-home-remodel-">Ready
+    with our custom-made cabinets.</li></ul><h3 id="ready-to-start-your-carmel-valley-home-remodel-">Ready
     to Start Your Carmel Valley Home Remodel?</h3><p>If you have any questions about
     our Carmel Valley home remodeling services, call us at <strong>(619) 285-9222</strong>.
-    <a href="https://markdowntohtml.com/about-murray-lampert-design-build-remodel#team-members">Our
+    <a href="/about-murray-lampert-design-build-remodel#team-members">Our
     team</a> is here to answer all your questions and give you a home remodel you
     absolutely love!</p>
 
 ---
-Located in the northwestern corner of San Diego, Carmel Valley is a wealthy, master-planned coastal community, full of commercial office buildings, residential units, hotels, retail stores, and restaurants. Carmel Valley is bordered to the north by the North City Future Urbanizing Area and Pacific Highlands Ranch, to the east by Del Mar Mesa, to the west by the I-5 freeway and Torrey Pines, and to the south by Los Peñasquitos Canyon Preserve and Torrey Hills.
-
-**Carmel Valley Neighborhood Facts**
-
-- Carmel Valley is named for the Carmelite Sisters of Mercy who established a dairy farm and monastery in the area around 1905.
-- Carmel Valley was master planned and formed on February 1, 1975, though construction did not start until 1983.
-- The area was home to about 42,000 people in 2006.
-- The average listing price for homes in Carmel Valley is about $830,000, but
-- The median selling price is around $670,000.
-- Schools in the area include Ocean Air School, Sycamore Ridge School, and Sage Canyon School (all public, K-6).
-
-## Carmel Valley Home Renovation and Remodeling Projects
-
-Because Carmel Valley is a relatively new area in San Diego, it has a wide variety of [home designs](/san-diego-home-design-services) and styles. Many homes draw off of older Spanish design elements. Others mix the laidback California style with the new, modern trends of today. Some parts of the area are still in development, allowing for the integration of modern, contemporary-style homes.
-
-Because of this flexibility, Carmel Valley homeowners can create their ideal home design - whether it’s traditional Spanish style or a breezy, modern dwelling with all the latest [green building](/san-diego-green-home-construction) enhancements. With the median household income of the area coming in at $120,000+, many residents can afford higher-end updates in their [kitchen remodels](/san-diego-kitchen-remodeling-services) and [bathroom renovation](/san-diego-bathroom-remodeling-services) projects.
-
-### Why Work With Murray Lampert?
-
-Four generations of [Murray Lampert](/) professionals have been dedicated to offering the best-quality home remodeling services to the community of Carmel Valley. We are especially proud of the working relationships we've cultivated with trade partners, inspectors, and other home renovation professionals. Our aim has been to provide a service that stay within our clients’ budget and is completed according to the agreed schedule. The pillars of our business have been our superior craftsmanship, innovative design, tailored services, and dedication to customer satisfaction. We've been awarded the [BBB Torch Award for Marketplace Ethics four times](/another-better-business-bureau-torch-award/), which testifies to our trustworthiness and the reliability of our services.
-
-### Our Home Remodeling Services in Carmel Valley
-
-Murray Lampert is proud to be the most trusted [design-build contract in San Diego](/san-diego-design-build-contractors). Our Carmel Valley home remodeling services include:
-
-- **Second stories** – If you don’t want to disrupt the landscape of your yard and your house’s surroundings, adding a second story is an ideal way to enjoy the views from your window, and also get more space.
-- **Bathroom remodels** – Whatever your motivation to remodel your bathroom is, our bathroom remodeling experts in Carmel Valley can deliver. Install new plumbing fixtures, adding modern tiles, or mounting custom cabinets - the sky is the limit.
-- **Home additions** – Ideal for growing families in need of more space, or anyone who wish additional space for their new projects or other purposes. A [home addition in Carmel Valley](/room-additions-carmel-valley) can solve space problems, as well as enhance the functionality of your home.
-- **Kitchen remodels** – If you desire a modern, yet warm and inviting place for preparing meals and spending time with your family, our [Carmel Valley kitchen remodel](/kitchen-remodeling-carmel-valley) services are the best option.
-- **Green building** – Murray Lampert has been dedicated to green building. We do our business responsibly, which primarily means we honor the responsibility we have towards our planet.
-- **3D architectural design** – We want to make sure the design fits your style and preferences. That is why we value you input, and our staff architect will make a custom design according to your ideas. The newest technology enables us to create [architectural renderings of your project in 3D](/3d-architectural-rendering-services) – in this way, you are able to see the end result of your remodel before any work begins.
-- **Custom cabinetry** – Make the best of your storage space and add a personal touch to your kitchen with our custom-made cabinets.
-
-### Ready to Start Your Carmel Valley Home Remodel?
-
-If you have any questions about our Carmel Valley home remodeling services, call us at **(619) 285-9222**. [Our team](/about-murray-lampert-design-build-remodel#team-members) is here to answer all your questions and give you a home remodel you absolutely love!
