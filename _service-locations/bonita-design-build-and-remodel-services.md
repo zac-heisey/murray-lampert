@@ -7,16 +7,16 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <p>As the name implies, Bonita is a beautiful census-designated place located
-    in southern San Diego County. Many residents in Bonita enjoy the rural surroundings
-    of the area, particularly the myriad of parks that include Sweetwater Regional
-    &amp; County Parks, Rohr Park, and Sweetwater Reservoir. A large majority of homeowners
-    in Bonita live in housing tracts that were built between the 60's and 80's.</p><p>While
-    tract homes aren't known for their uniqueness and character, Murray Lampert's
-    <a href="https://markdowntohtml.com/san-diego-home-design-services">custom design-build
-    services</a> allow Bonita residents to express their personality, add some flair,
-    and achieve their dream home. Whether that involves a second story addition, kitchen
-    renovation, or <a href="https://markdowntohtml.com/san-diego-in-law-suites">in-law
+  content: <h2>Home Remodeling in Bonita</h2><p><br>As the name implies, Bonita is
+    a beautiful census-designated place located in southern San Diego County. Many
+    residents in Bonita enjoy the rural surroundings of the area, particularly the
+    myriad of parks that include Sweetwater Regional &amp; County Parks, Rohr Park,
+    and Sweetwater Reservoir. A large majority of homeowners in Bonita live in housing
+    tracts that were built between the 60's and 80's.</p><p>While tract homes aren't
+    known for their uniqueness and character, Murray Lampert's <a href="https://markdowntohtml.com/san-diego-home-design-services">custom
+    design-build services</a> allow Bonita residents to express their personality,
+    add some flair, and achieve their dream home. Whether that involves a second story
+    addition, kitchen renovation, or <a href="https://markdowntohtml.com/san-diego-in-law-suites">in-law
     suite expansion</a>, <a href="https://markdowntohtml.com/">Murray Lampert Design,
     Build, Remodel</a> is up to the challenge.</p><h2 id="work-with-murray-lampert-on-your-bonita-home-remodel">Work
     with Murray Lampert On Your Bonita Home Remodel</h2><p>Murray Lampert has served
