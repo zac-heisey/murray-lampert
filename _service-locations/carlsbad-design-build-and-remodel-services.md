@@ -11,7 +11,7 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h2>Carlsbad Home Remodeling Contractors</h2><p><br><a href="https://markdowntohtml.com/">Murray
+  content: <h2>Carlsbad Home Remodeling Contractors</h2><p><a href="https://markdowntohtml.com/">Murray
     Lampert Design, Build, Remodel</a> has provided the homeowners of Carlsbad with
     professional construction, architectural design, and home remodeling services
     since 1975.</p><p>Read on to learn how Murray Lampert can help you with your Carlsbad

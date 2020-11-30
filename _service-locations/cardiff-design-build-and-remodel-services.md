@@ -11,8 +11,8 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h2>Cardiff Home Remodeling</h2><p><br>Cardiff (aka Cardiff-by-the-Sea)
-    is a small beach community located in the North County, San Diego town of Encinitas.
+  content: <h2>Cardiff Home Remodeling</h2><p>Cardiff (aka Cardiff-by-the-Sea) is
+    a small beach community located in the North County, San Diego town of Encinitas.
     While it officially operates as part of the city of Encinitas, Cardiff boasts
     it's own zip code (92007) that the roughly 12,000 residents are proud to claim.</p><p>Cardiff
     was named after the Cardiff, Wales, where Frank Cullen's wife (the area's developer)
