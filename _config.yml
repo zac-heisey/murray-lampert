@@ -16,6 +16,10 @@ collections:
     title: Featured Projects
     output: true
     permalink: "/:collection/:path/"
+  service-locations:
+    title: Service Locations
+    output: true
+    permalink: "/:collection/:path/"
 
 defaults:
   - scope:

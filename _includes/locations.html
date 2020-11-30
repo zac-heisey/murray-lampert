@@ -1,0 +1,26 @@
+<section class="locations">
+
+  <div class="lock">
+
+    <div class="wrapper">
+      <!-- Service Locations Column 1 -->
+      <ul class="list">
+      {% for location in site.service-locations limit: 10 %}
+        {% if location.path contains ".md" %}
+        <li><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodeling" }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+      <!-- Service Locations Column 2 -->
+      <ul class="list">
+      {% for location in site.service-locations offset: 10 %}
+        {% if location.path contains ".md" %}
+        <li><a href="{{ location.url }}">{{ location.title | replace: "Design, Build, and Remodel Services", "Home Remodeling" }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+</section>
