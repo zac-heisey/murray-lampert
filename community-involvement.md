@@ -6,11 +6,11 @@ sections:
 - template: hero-banner
   block: hero-banner
   cta:
-    enabled: true
+    enabled: false
     color: white
     button-text: ''
     url: ''
-  heading: Murray Lampert Community Involvement
+  heading: Murray Lampert Community Involvement in San Diego
   background-image: "/v1605982058/murray-lampert/v3/placeholder-3.jpg"
   content: ''
 - template: rich-text
