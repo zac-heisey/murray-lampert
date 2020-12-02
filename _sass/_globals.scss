@@ -158,6 +158,20 @@ p {
 
 }
 
+ul {
+
+  list-style-position: inside;
+  margin-inline-start: 2rem;
+
+  li > p {
+
+    display: inline-block;
+    margin: 0.25rem 0;
+
+  }
+
+}
+
 /* Buttons */
 
 .btn {

@@ -20,13 +20,13 @@ sections:
   - question: What types of remodeling projects does Murray Lampert work on?
     answer: <p>We specialize in residential, whole-home remodeling projects that incorporate
       multiple areas of the home. Murray Lampert can help you with the following types
-      of remodeling projects in San Diego:</p><ul><li><p><a href="http://localhost:4000/san-diego-kitchen-remodels"
-      title="">Kitchen Remodels</a></p></li><li><p><a href="http://localhost:4000/san-diego-bathroom-remodels"
-      title="">Bathroom Remodels</a></p></li><li><p><a href="http://localhost:4000/san-diego-home-additions"
-      title="">Home Additions</a></p></li><li><p><a href="http://localhost:4000/san-diego-in-law-suites"
-      title="">ADUs and In-Law Suites</a></p></li><li><p><a href="http://localhost:4000/san-diego-green-home-construction"
-      title="">Green Home Construction</a></p></li><li><p><a href="http://localhost:4000/other-remodeling-services"
-      title="">Other Remodeling Services</a></p></li></ul><p>Our company <strong>does
+      of remodeling projects in San Diego:</p><ul><li><a href="http://localhost:4000/san-diego-kitchen-remodels"
+      title="">Kitchen Remodels</a></li><li><a href="http://localhost:4000/san-diego-bathroom-remodels"
+      title="">Bathroom Remodels</a></li><li><a href="http://localhost:4000/san-diego-home-additions"
+      title="">Home Additions</a></li><li><a href="http://localhost:4000/san-diego-in-law-suites"
+      title="">ADUs and In-Law Suites</a></li><li><a href="http://localhost:4000/san-diego-green-home-construction"
+      title="">Green Home Construction</a></li><li><a href="http://localhost:4000/other-remodeling-services"
+      title="">Other Remodeling Services</a></li></ul><p>Our company <strong>does
       not </strong>do any new home construction, commercial remodeling, tenant improvement,
       or any work with apartments or condos.</p>
   - question: Does Murray Lampert charge for estimates?
