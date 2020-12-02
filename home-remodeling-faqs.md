@@ -30,5 +30,10 @@ sections:
         title="" target="_blank">Other Remodeling Services</a></p></li></ul><p>Our
         company <strong>does not </strong>do any new home contsruction, commercial
         remodeling, tenant improvement, or any work with apartments or condos.</p>
+    - question: Does Murray Lampert charge for estimates?
+      answer: <p>Other than our design agreement, there are no upfront costs unless
+        there are structural issues requiring an independent consultant. <a href="/contact/"
+        title="" target="_blank">Contact us</a> for more information or to request
+        your FREE home remodeling consultation and estimate.</p>
 
 ---
