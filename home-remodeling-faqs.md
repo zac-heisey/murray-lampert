@@ -27,6 +27,8 @@ sections:
         title="" target="_blank">Home Additions</a></p></li><li><p><a href="/san-diego-in-law-suites"
         title="" target="_blank">ADUs and In-Law Suites</a></p></li><li><p><a href="/san-diego-green-home-construction"
         title="" target="_blank">Green Home Construction</a></p></li><li><p><a href="/other-remodeling-services"
-        title="" target="_blank">Other Remodeling Services</a></p></li></ul>
+        title="" target="_blank">Other Remodeling Services</a></p></li></ul><p>Our
+        company <strong>does not </strong>do any new home contsruction, commercial
+        remodeling, tenant improvement, or any work with apartments or condos.</p>
 
 ---
