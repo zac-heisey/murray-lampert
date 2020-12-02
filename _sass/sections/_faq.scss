@@ -10,6 +10,30 @@ section.faq {
     margin: 0 auto;
     padding: 1rem 2rem;
 
+    details {
+
+      padding-bottom: 2rem;
+
+      summary {
+
+        font-family: adobe-caslon-pro, Times, serif;
+        color: $white;
+        font-size: 1.25rem;
+        background-color: $blue;
+        border-radius: 5px;
+        padding: 1rem;
+        cursor: pointer;
+
+      }
+
+      summary:hover, summary:focus {
+
+        background-color: #315b7e;
+
+      }
+
+    }
+
   }
 
 }
