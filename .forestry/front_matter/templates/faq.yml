@@ -10,26 +10,33 @@ fields:
   hidden: true
   default: faq
 - name: faqs
-  type: field_group_list
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: FAQS
+  type: field_group
+  config: {}
+  fields:
+  - name: faq
+    type: field_group_list
+    fields:
+    - name: question
+      type: text
+      config:
+        required: false
+      label: Question
+      description: The question for this FAQ
+    - name: answer
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: html-blocks
+      label: Answer
+      description: The answer for this FAQ
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: FAQ
+    description: Enter the details of this FAQ
+  label: FAQs
   description: Add your FAQs here
-- name: question
-  type: text
-  config:
-    required: false
-  label: Question
-  description: Enter the question for your FAQ
-- name: answer
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: Answer
-  description: Enter the answer to your FAQ
