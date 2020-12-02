@@ -12,30 +12,21 @@ fields:
 - name: faqs
   type: field_group_list
   fields:
-  - name: faq
-    type: field_group
-    fields:
-    - name: question
-      type: text
-      config:
-        required: false
-      label: Question
-      description: The question for this FAQ
-    - name: answer
-      type: textarea
-      default: ''
-      config:
-        required: false
-        wysiwyg: true
-        schema:
-          format: html-blocks
-      label: Answer
-      description: The answer for this FAQ
+  - name: question
+    type: text
     config:
-      min: 
-      max: 
-      labelField: 
-    label: FAQ
-    description: Enter the details of this FAQ
+      required: false
+    label: Question
+    description: The question for your FAQ
+  - name: answer
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Answer
+    description: The answer for your FAQ
   label: FAQs
   description: Add your FAQs here
