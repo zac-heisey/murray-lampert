@@ -9,6 +9,14 @@ fields:
   label: block
   hidden: true
   default: faq
+- name: faqs
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: FAQS
+  description: Add your FAQs here
 - name: question
   type: text
   config:
