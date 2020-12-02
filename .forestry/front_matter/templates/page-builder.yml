@@ -37,6 +37,7 @@ fields:
   - gallery
   - team-members
   - project-list
+  - faq
   config:
     min: 
     max: 
