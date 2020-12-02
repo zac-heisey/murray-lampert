@@ -32,9 +32,9 @@ fields:
       label: Answer
       description: The answer for this FAQ
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
     label: FAQ
     description: Enter the details of this FAQ
   label: FAQs
