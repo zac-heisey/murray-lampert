@@ -1,0 +1,12 @@
+<section class="faq">
+
+  <div class="lock">
+    {% for faq in section.faqs %}
+    <details>
+      <summary>{{ faq.question }}</summary>
+      {{ faq.answer }}
+    </details>
+    {% endfor %}
+  </div>
+
+</section>

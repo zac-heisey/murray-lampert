@@ -10,11 +10,10 @@ fields:
   hidden: true
   default: faq
 - name: faqs
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
   - name: faq
-    type: field_group_list
+    type: field_group
     fields:
     - name: question
       type: text
@@ -33,9 +32,9 @@ fields:
       label: Answer
       description: The answer for this FAQ
     config:
-      min: 
-      max: 
-      labelField: 
+      min:
+      max:
+      labelField:
     label: FAQ
     description: Enter the details of this FAQ
   label: FAQs
