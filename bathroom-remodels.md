@@ -17,8 +17,8 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: "<h6>Our Specialties</h6><h2>Bathroom Remodeling</h2><p>Have you considered
-    remodeling your bathroom? Maybe you would like to expand, replace existing fixtures,
+  content: "<h6>Our Specialties</h6><h2>Bathroom Remodeling</h2><p>Considering
+    remodeling your bathroom in San Diego? Maybe you'd like to expand, replace existing fixtures,
     or make the space more functional by moving things around. Whatever bathroom renovation
     ideas you have in mind, Murray Lampert can help with our San Diego custom bathroom
     remodeling service.</p><p>Starting with a no obligation in-home consultation,
