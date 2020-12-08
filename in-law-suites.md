@@ -50,15 +50,14 @@ sections:
     time and money in the construction process.</p><p>For aging in place purposes,
     it’s important to think about health and safety features that you or your parent
     will need throughout the years. Popular safety features that you should consider
-    are:</p><ul><li><p>Bathroom aides</p></li><li><p>Home entrances without steps</p></li><li><p>Emergency
-    alert systems</p></li><li><p>Wider doorways for wheelchairs and walkers</p></li><li><p>Lower
-    kitchen cabinets</p></li><li><p>Higher electrical outlets/Lower electrical switches</p></li><li><p>Stairway
-    safety</p></li><li><p>Elevators</p></li></ul><p>We understand there is a lot to
+    are:</p><ul><li>Bathroom aides</li><li>Home entrances without steps</li><li>Emergency
+    alert systems</li><li>Wider doorways for wheelchairs and walkers</li><li>Lower
+    kitchen cabinets</li><li>Higher electrical outlets/Lower electrical switches</li><li>Stairway
+    safety</li><li>Elevators</li></ul><p>We understand there is a lot to
     consider when it comes to designing and building an an-law suite. <a href="https://murraylampert.com/">Murray
     Lampert Design, Build, Remodel</a> has the experience to guide you through the
     process and would love to answer your questions. Please <a href="https://murraylampert.com/contact">contact
-    us</a> for a complimentary in-law suite consultation.</p><ul><li><p>Testing 123</p></li><li><p>testing
-    456</p></li></ul>
+    us</a> for a complimentary in-law suite consultation.</p>
 - template: grid
   block: grid
   grid-rows:
