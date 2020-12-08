@@ -2,7 +2,7 @@
 
   <div class="lock">
 
-    {{ section.content }}
+    {{ section.content | replace: "<li><p>", "<li>" | replace: "</p></li>", "</li>" }}
 
   </div>
 
