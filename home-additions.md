@@ -1,41 +1,37 @@
 ---
 layout: blocks
-title: Bathroom Remodeling in San Diego
-description: San Diego bathroom remodeling by Murray Lampert Design, Build, Remodel.
-  Start your custom bathroom remodel in San Diego with Murray Lampert today.
-permalink: "/san-diego-bathroom-remodels"
+title: Home Additions in San Diego
+description: Custom home additions in San Diego. Room additions, second stories, and more from Murray Lampert Design, Build, Remodel. View our previous home addition projects.
+permalink: "/san-diego-home-additions"
 sections:
 - template: hero-banner
   block: hero-banner
   cta:
     enabled: false
     color: white
-  background-image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
-  heading: Bathroom Remodeling in San Diego
-  content: Expand and revitalize your master or guest bathroom with our custom San
-    Diego bathroom remodeling services
+  background-image: "/v1605129249/murray-lampert/v3/kitchen-remodeling-bg.png"
+  heading: San Diego Home Additions
+  content: Add Square Footage with a New Room, a Second Story, or an Enhancement to a Current Space
 - template: rich-text
   block: rich-text
   background-color: none
-  content: "<h6>Our Specialties</h6><h2>Bathroom Remodeling</h2><p>Considering
-    remodeling your bathroom in San Diego? Maybe you'd like to expand, replace existing fixtures,
-    or make the space more functional by moving things around. Whatever bathroom renovation
-    ideas you have in mind, Murray Lampert can help with our San Diego custom bathroom
-    remodeling service.</p><p>Starting with a no obligation in-home consultation,
-    our team of experienced home designers  and bathroom remodeling experts will listen
-    to your needs and budget. Our custom bathroom remodel services include everything
-    you need to make your dream bathroom a reality. You'll know exactly how much your
-    project will cost, how long it will take, and how the process will unfold.</p><p>From
-    permits to planning, design ideas to materials and finishes, the Murray Lampert
-    team will help guide you during every stage of your bathroom remodel in San Diego.</p>"
+  content: <h6>Our Specialties</h6><h2>Kitchen Remodeling</h2><p>Most kitchen remodeling
+    projects require multiple trades such as framing, electrical, plumbing, mechanical,
+    drywall and stucco. There are often modifications to structural walls and changes
+    to windows and doors. As a <a href="https://www2.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=458038">licensed
+    General Contractor</a>, we have the craftsmen to handle all aspects of home remodeling.
+    Cabinet companies and other kitchen remodelers are often unqualified or cut corners
+    by completing work without proper engineering and permits. Not only can this be
+    unsafe, it will also affect the sales value because of the substandard workmanship
+    and lack of inspections.</p>
 - template: grid
   block: grid
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Bathroom Project 1
+    - item: Home Addition Project 1
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
         text-overlay:
           small-heading: Small Heading
           main-content: Primary Description of Project or Image
@@ -53,7 +49,7 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Bathroom Project 2
+    - item: Home Addition Project 2
       image-info:
         image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-1.jpg"
         text-overlay:
@@ -75,7 +71,7 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Bathroom Project 3
+    - item: Home Addition Project 3
       image-info:
         image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
         text-overlay:
@@ -95,9 +91,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Bathroom Project 4
+    - item: Home Addition Project 4
       image-info:
-        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
