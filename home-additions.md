@@ -21,15 +21,15 @@ sections:
   content: '<h6>Our Specialties</h6><h2>Home Additions</h2><p>Whether you need a family
     room, great room, a new bedroom addition, a master suite, or a home office, Murray
     Lampert Design, Build, Remodel’s San Diego room addition services will design
-    and build your room addition to meet your needs and budget.</p><p>Our San Diego
+    and build your home addition to meet your needs and budget.</p><p>Our San Diego
     home addition projects begin with an in-home or virtual consultation by one of
     our residential designers. We believe the only way provide you with an accurate
     quote is by creating a design. After we discuss your needs and enter into a design
     agreement a customized plan to meet your needs and budget is carefully created.
     We then accurately design and price your project down to the finish details.<br><br>With
-    our room addition remodeling service, you know how much your improvements will
+    our home addition remodeling service, you know how much your improvements will
     cost. A common cause of dissatisfaction is when contractors do not properly budget
-    for the caliber of fixtures and finishes. Some room addition contractors intentionally
+    for the caliber of fixtures and finishes. Some home addition contractors intentionally
     come in with low priced fixtures and finishes to win a project. Later on they
     make up for the shortfall by accelerating change orders. The design/build process
     <a href="https://murraylampert.com/">Murray Lampert Design, Build, Remodel</a>
