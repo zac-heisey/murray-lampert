@@ -57,8 +57,7 @@ sections:
     consider when it comes to designing and building an an-law suite. <a href="https://murraylampert.com/">Murray
     Lampert Design, Build, Remodel</a> has the experience to guide you through the
     process and would love to answer your questions. Please <a href="https://murraylampert.com/contact">contact
-    us</a> for a complimentary in-law suite consultation.</p><ul><li><p>Testing 123</p></li><li><p>Testing
-    456</p></li><li><p>Testing 678</p></li></ul>
+    us</a> for a complimentary in-law suite consultation.</p>
 - template: grid
   block: grid
   grid-rows:
