@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Our Design-Build Services in San Diego Design
+title: Home Remodeling San Diego | Design-Build Services
 description: From kitchen and bath remodeling to whole house renovations in San Diego,
   Murray Lampert provides the best in Design-Build services. Visit to learn more.
 permalink: "/design-build-services-san-diego"
@@ -15,7 +15,18 @@ sections:
   content: Design-build delivers a home that's more you.
 - template: rich-text
   block: rich-text
-  content: "<h6>Our Process</h6><h2>Design-build is a better building experience.</h2><p>What's
+  background-color: none
+  content: "<h6>Our Expertise</h6>
+  <h2>San Diego Design, Build, and Remodeling</h2>
+  <p>Murray Lampert has been at the forefront of home remodeling innovation since the company was founded in 1975. As one of San Diego’s top-rated design-build remodeling firms, we take pride in being able to guarantee the best in quality, functionality, appeal, and return on investment. As a 4-time winner of the BBB Torch Award for Marketplace Ethics, we stand as a beacon of business integrity in the San Diego community.</p>
+
+  <p>Our design-build approach enables us to ensure transparency and faster delivery time for services, eliminate under-budgeting risks and guarantee fair cost estimation, all the while remaining in full control of all phases of the project, from design and specifications to project management and construction.</p>
+
+  <p>By perfecting an innovative method of project planning and delivery such as design-build, we have been able to provide uncompromising quality for all services, ranging from kitchen and bathroom remodels, room additions and interior design to custom cabinet construction and green building.</p>"
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: "<h6>Our Process</h6><h2>Design-build is a better home remodeling experience.</h2><p>What's
     the biggest advantage in selecting a design-build firm? Improved communication.
     When you work with a design-build firm like Murray Lampert, you will enjoy a single
     point of contract for everything from architectural and design aspects to the
@@ -24,7 +35,6 @@ sections:
     deliver a smoother project, better communication, reduced timeline, and more bang
     for your budget.</p><p>The entire design-build process is a conversation about
     what your needs are and how we can make that happen.</p>"
-  background-color: none
 - template: process-stages
   block: process-stages
   process-stages:
