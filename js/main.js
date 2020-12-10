@@ -1,4 +1,4 @@
-
+// IIFE wrapper start
 (function() {
 
   //== Load Fonts (prevent FOIT) ==//
@@ -224,4 +224,4 @@
 
   }
 
-}());
+}()); // IIFE wrapper end
