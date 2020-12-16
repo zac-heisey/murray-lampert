@@ -31,7 +31,7 @@ sections:
     of Engineered Woods for Structural Construction</p></li><li><p>Installation of
     Fluorescent Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm
     Water Pollution Control</p></li><li><p>Low Flow Toilets, Faucets and Valves</p></li><li><p>Non
-    VOC Paints and Stains</p></li></ul><p><a href="https://murraylampert.com/">Murray
+    VOC Paints and Stains</p></li></ul><p><a href="/">Murray
     Lampert Design, Build, Remodel</a> is a Green Certified firm experienced in energy
     efficient construction and healthier living. Besides the energy savings, there
     are many tax credits available to consumers who use approved products during their
@@ -39,12 +39,12 @@ sections:
     of selecting green-compliant materials and securing applicable tax credits.</p><p><strong>Upgraded
     Energy Conservation Products and Services Available:</strong></p><ul><li><p>High
     Efficiency Plumbing and HVAC</p></li><li><p>Whole House Air Circulation Systems</p></li><li><p>Wool
-    Insulation or Recycled Cotton</p></li><li><p><a href="https://murraylampert.com/battle-of-the-tape-duct-mastic-vs-foil-tape">Duct
+    Insulation or Recycled Cotton</p></li><li><p><a href="/battle-of-the-tape-duct-mastic-vs-foil-tape">Duct
     Mastic Instead of Duct Tape</a></p></li><li><p>On Demand Hot Water Systems</p></li><li><p>Photovoltaic
     Solar Systems</p></li><li><p>Passive Solar Systems</p></li></ul><p>Any one of
     these additions can help turn your current home into a <strong>green residential
     building</strong>. For more information on green construction for your home, <a
-    href="https://murraylampert.com/contact">contact Murray Lampert Design, Build,
+    href="/contact">contact Murray Lampert Design, Build,
     Remodel</a>.</p>
 - template: grid
   block: grid
