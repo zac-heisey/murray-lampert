@@ -1,7 +1,8 @@
 ---
 layout: blocks
 title: San Diego Green Home Construction
-description: Murray Lampert green home remodeling & construction. A Green Certified home building contractor. Learn more about our environmentally friendly practices.
+description: Murray Lampert green home remodeling & construction. A Green Certified
+  home building contractor. Learn more about our environmentally friendly practices.
 permalink: "/san-diego-green-home-construction"
 sections:
 - template: hero-banner
@@ -11,37 +12,40 @@ sections:
     color: white
   background-image: "/v1605982057/murray-lampert/v3/placeholder-5.jpg"
   heading: San Diego Green Home Construction
-  content: Murray Lampert is proud be to a Green Certified company, and a leading eco-friendly home remodeling contractor in San Diego.
+  content: Murray Lampert is proud be to a Green Certified company, and a leading
+    eco-friendly home remodeling contractor in San Diego.
 - template: rich-text
   block: rich-text
   background-color: none
-  content: '<h6>Our Specialties</h6><h2>Home Additions</h2><p>Whether you need a family
-    room, great room, a new bedroom addition, a master suite, or a home office, Murray
-    Lampert Design, Build, Remodel’s San Diego room addition services will design
-    and build your home addition to meet your needs and budget.</p><p>Our San Diego
-    home addition projects begin with an in-home or virtual consultation by one of
-    our residential designers. We believe the only way provide you with an accurate
-    quote is by creating a design. After we discuss your needs and enter into a design
-    agreement a customized plan to meet your needs and budget is carefully created.
-    We then accurately design and price your project down to the finish details.<br><br>With
-    our home addition remodeling service, you know how much your improvements will
-    cost. A common cause of dissatisfaction is when contractors do not properly budget
-    for the caliber of fixtures and finishes. Some home addition contractors intentionally
-    come in with low priced fixtures and finishes to win a project. Later on they
-    make up for the shortfall by accelerating change orders. The design/build process
-    <a href="https://murraylampert.com/">Murray Lampert Design, Build, Remodel</a>
-    uses will assist you in shopping for materials through our approved vendors with
-    our contractors’ discount. This adds value and minimizes surprises so your project
-    finishes on time and within budget.</p><h3>More Than Just a New Room: Adding a
-    Second Story</h3><p>With a second story, you can add space without losing valuable
-    landscaping or yard space, and sometimes even capture a view. At Murray Lampert,
-    our goal as a second story contractor in San Diego is to deliver quality, value,
-    and satisfaction.</p><p>Our second story addition service begins with an in-home
-    consultation. One of our residential designers then creates a custom plan based
-    on your individual needs, drafts detailed project specifications and quotes an
-    accurate price. You will know exactly what is included down the very last detail.<br><br>If
-    you''re looking to add space without losing valuable landscaping or yard area,
-    a custom second story addition from Murray Lampert is a great option to explore.</p>'
+  content: <h6>Our Specialties</h6><h2>Eco-Friendly Home Remodeling</h2><p>With the
+    demand for sustainable energy becoming the standard these days, Murray Lampert
+    is proud to be a leading eco-friendly home remodeling contractor in San Diego.
+    Not only is green home construction good for our planet and our local San Diego
+    community, but eco-friendly remodeling also helps to cut down on your energy costs.
+    Done right, green home construction is a win-win all around!</p><p><strong>Here
+    are just of few of the common green building practices included in our home construction
+    services (where applicable):</strong></p><ul><li><p>Recycling of construction
+    waste</p></li><li><p>Lead Paint &amp; Asbestos Testing</p></li><li><p>Upgraded
+    Fiberglass Insulation</p></li><li><p>Radiant Barrier over Roof Sheeting to Reflect
+    Heat</p></li><li><p>Energy Efficient Windows, Doors and Skylights</p></li><li><p>Use
+    of Engineered Woods for Structural Construction</p></li><li><p>Installation of
+    Fluorescent Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm
+    Water Pollution Control</p></li><li><p>Low Flow Toilets, Faucets and Valves</p></li><li><p>Non
+    VOC Paints and Stains</p></li></ul><p><a href="https://murraylampert.com/">Murray
+    Lampert Design, Build, Remodel</a> is a Green Certified firm experienced in energy
+    efficient construction and healthier living. Besides the energy savings, there
+    are many tax credits available to consumers who use approved products during their
+    home design and remodeling project. Murray Lampert can guide you through the process
+    of selecting green-compliant materials and securing applicable tax credits.</p><p><strong>Upgraded
+    Energy Conservation Products and Services Available:</strong></p><ul><li><p>High
+    Efficiency Plumbing and HVAC</p></li><li><p>Whole House Air Circulation Systems</p></li><li><p>Wool
+    Insulation or Recycled Cotton</p></li><li><p><a href="https://murraylampert.com/battle-of-the-tape-duct-mastic-vs-foil-tape">Duct
+    Mastic Instead of Duct Tape</a></p></li><li><p>On Demand Hot Water Systems</p></li><li><p>Photovoltaic
+    Solar Systems</p></li><li><p>Passive Solar Systems</p></li></ul><p>Any one of
+    these additions can help turn your current home into a <strong>green residential
+    building</strong>. For more information on green construction for your home, <a
+    href="https://murraylampert.com/contact">contact Murray Lampert Design, Build,
+    Remodel</a>.</p>
 - template: grid
   block: grid
   grid-rows:
