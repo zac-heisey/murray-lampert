@@ -258,16 +258,11 @@ main[data-page="contact"] {
     input[type="submit"], input[type="reset"] {
 
       font-size: inherit;
+      margin-top: 1rem;
       border: none;
     	outline: none;
       cursor: pointer;
 
-    }
-
-    div[data-netlify-recaptcha] {
-
-      margin-bottom: 1rem;
-      
     }
 
   }
