@@ -17,6 +17,7 @@ sections:
       Si ad corpus, quae plerumque Imaginare tecum in balineo quidam aquam fundes
       aliquod discrimen vituperiis usum alii furantur.</p>"
     application-url: https://www.ziprecruiter.com/
+    date: 2020-12-01 15:00:00 +0000
   - job-title: Job Opening 2
     job-description: "<p>Lorem ipusm dolor..quod memor sis ad communia sunt ab initio
       minima. Quod si, exempli gratia, cupidum rerum in propria sunt ceramic calicem,
@@ -27,5 +28,6 @@ sections:
       Si ad corpus, quae plerumque Imaginare tecum in balineo quidam aquam fundes
       aliquod discrimen vituperiis usum alii furantur.</p>"
     application-url: https://www.ziprecruiter.com/
+    date: 2020-12-15 05:00:00 +0000
 
 ---
