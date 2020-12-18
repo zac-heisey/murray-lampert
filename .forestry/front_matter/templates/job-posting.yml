@@ -18,6 +18,15 @@ fields:
       required: false
     label: Job Title
     description: The title of this job opening
+  - name: date
+    type: datetime
+    label: Date
+    description: Date of this job posting
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
   - name: job-description
     type: textarea
     default: ''
