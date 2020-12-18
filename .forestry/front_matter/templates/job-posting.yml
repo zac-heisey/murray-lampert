@@ -1,4 +1,43 @@
 ---
 label: Job Posting
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: job-posting
+- name: jobs
+  type: field_group_list
+  fields:
+  - name: job-title
+    type: text
+    config:
+      required: false
+    label: Job Title
+    description: The title of this job opening
+  - name: job-description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Job Description
+    description: Add a description for this job opening
+  - name: application-url
+    type: text
+    config:
+      required: false
+    description: The full URL for the job posting on ZipRecruiter, Indeed, LinkedIn,
+      etc.
+    label: Application URL
+  config:
+    min: 
+    max: 
+    labelField: job-title
+  label: Jobs
+  description: Add a list of available jobs at Murray Lampert
