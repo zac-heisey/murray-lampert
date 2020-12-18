@@ -38,6 +38,7 @@ fields:
   - team-members
   - project-list
   - faq
+  - job-posting
   config:
     min: 
     max: 
