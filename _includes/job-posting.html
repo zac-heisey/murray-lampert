@@ -1,0 +1,15 @@
+<section class="job-postings">
+
+  <div class="lock">
+
+    {% for opening in section.jobs %}
+    <h3>{{ opening.job-title }}</h3>
+    <strong>Posted On:</strong> {{ opening.date }}
+    <p>{{ opening.job-description }}</p>
+    <a href="{{ opening.application-url }}" class="btn blue" target="_blank">Apply for Position</a>
+    <hr>
+    {% endfor %}
+
+  </div>
+
+</section>
