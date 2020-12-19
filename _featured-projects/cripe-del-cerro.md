@@ -165,7 +165,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Kitchen (before & after)
-    background-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+    background-image: "/v1604083442/murray-lampert/v3/cripe-del-cerro-kitchen-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
