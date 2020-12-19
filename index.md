@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/#testing-123"
-  background-image: "/v1600533663/murray-lampert/v3/hero-bg.png"
+  background-image: "/v1608401202/murray-lampert/v3/hero-bg.png"
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
