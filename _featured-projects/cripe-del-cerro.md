@@ -2,7 +2,7 @@
 layout: featured-project
 title: Whole House Redo in Del Cero
 description: ''
-featured-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+featured-image: "/v1604083442/murray-lampert/v3/cripe-del-cerro-kitchen-1.jpg"
 project-details:
 - Design
 - Demo
@@ -153,10 +153,10 @@ sections:
           enabled: false
           button-text: ''
           url: ''
-        content: <h3>“Communication is critical to any big project, and everyone on
-          the Murray Lampert team was an expert - responding promptly to any questions
+        content: "<h3>“Communication is critical to any big project, and everyone
+          on the Murray Lampert team was an expert - responding promptly to any questions
           and keeping us constantly informed. Our beautiful project was finished on
-          time and on budget.”</h3><p><em>- Joan S. Homeowner</em></p>
+          time and on budget.”</h3><p><em>- Joan S. Homeowner</em></p>"
         heading: ''
       item-type: text
       item-span: 3
@@ -197,7 +197,11 @@ sections:
           enabled: false
           button-text: ''
           url: ''
-        content: <h3>“In the end, we're so incredibly happy with our remodel! We feel like we live in a brand new home...modern, bright, and completely in line with all our dreams. And we've now made some great connections with the Murray Lampert family - we know who we're calling if we start having new ideas!”</h3><p><em>- Mark S. Homeowner</em></p>
+        content: "<h3>“In the end, we're so incredibly happy with our remodel! We
+          feel like we live in a brand new home...modern, bright, and completely in
+          line with all our dreams. And we've now made some great connections with
+          the Murray Lampert family - we know who we're calling if we start having
+          new ideas!”</h3><p><em>- Mark S. Homeowner</em></p>"
         heading: ''
       item-type: text
       item-span: 3
@@ -211,5 +215,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: ''
+  image-right: ''
 
 ---
