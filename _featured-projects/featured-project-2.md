@@ -1,27 +1,37 @@
 ---
 layout: featured-project
-title: 'Featured Project #2'
-description: ''
-featured-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+title: Interior & Exterior Remodel in Coronado
+description: Interior & exterior remodel in Coronado, CA. View this and other featured
+  home remodeling projects from Murray Lampert.
+featured-image: "/v1608404588/murray-lampert/v3/cava-exterior-1.jpg"
 project-details:
-- Design
-- Demo
-- Pre-Construction
-- Entryway
-- Family Room
+- Architectural & Interior Design
+- Exterior Upgrades
 - Kitchen
-- Outdoor Living Space
-project-overview: "<p>Del Cerro is a community of spacious mid-century ranch homes
-  that were built in the 1950s and 1960s, across the freeway from San Diego State
-  University. After living in the home for 20 years and raising their kids, the owners
-  decided it was time for a change. But they loved the location and didn't want to
-  move, so they decided to renovate.</p><p>Almost 75% of the house was remodeled,
-  including a new entry, family room, and kitchen to totally transform the living
-  experience. The fireplace was updated, and the lighting modernized. An outdoor living
-  space was built to create an open-air room. The renovation was filled with custom
-  details, like an outdoor bar that folds down when not in use. In the kitchen, a
-  portion of the cabinets were designed for the cats and their food - a testament
-  to the skill of the custom cabinet makers we partner with.</p>"
+- Bathrooms
+- Family Room
+- Dining Area
+project-overview: "<p>The owner of this beautiful Coronado home is a retired Navy
+  captain and son of a brick mason. This inspired the blue accent colors throughout
+  the home, as well as the brick-red front door.</p><p>This whole home remodel project
+  in Coronado involved a ton of moving pieces. The project required architectural
+  and interior design, sourcing of finishes, structural engineering, permit processing
+  and construction. We basically gutted and remodeled the majority of both the exterior
+  and interior of the home.</p><p><strong>Project Highlights</strong></p><p>We built
+  a new kitchen with custom white cabinetry, quartz counters, full height subway tile
+  back-splash, new stainless steel appliances and sink. We love the timelessness and
+  bright energy of fresh white kitchens!</p><p>We added stair treads and replaced
+  handrail caps with stained wood to match the flooring perfectly. We installed new
+  white painted stair risers and installed railing spindles and posts.</p><p>In the
+  family room, the existing fireplace was refaced with red brick. We designed and
+  installed white custom entertainment cabinetry as well.</p><p>Bathrooms were remodeled
+  and updated with white custom cabinets, quartz counters, sparkling new plumbing
+  fixtures, white subway tiles with recessed niches, and a shower seat (great safety
+  feature!).</p><p>We added LED recessed light fixtures, wall sconces, pendent lights
+  and other decorative fixtures throughout the home.</p><p>When the renovation was
+  over, it was amazing to see the reaction from the clients. A lot of time, patience
+  and hard work goes into projects like these and we’re always thrilled to see the
+  smiles once everything is complete.</p>"
 sections:
 - template: grid
   block: grid
@@ -36,7 +46,7 @@ sections:
           main-content: ''
           detail: ''
           url: ''
-      video-id: P7Zmdkdvwhk
+      video-id: 63pVN58cKzE
       text-info:
         background-color: none
         cta:
@@ -53,9 +63,9 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Image 1
+    - item: Kitchen & Dining Area
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        image: "/v1608404587/murray-lampert/v3/cava-kitchen-dining-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -73,9 +83,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Image 2
+    - item: Bathroom
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        image: "/v1608404587/murray-lampert/v3/cava-bathroom-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -95,9 +105,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Image 3
+    - item: Living Room
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/v1608404588/murray-lampert/v3/cava-living-room-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -115,9 +125,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Image 4
+    - item: Front Exterior
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        image: "/v1608404588/murray-lampert/v3/cava-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -153,55 +163,9 @@ sections:
           enabled: false
           button-text: ''
           url: ''
-        content: "<h3>“Communication is critical to any big project, and everyone
-          on the Murray Lampert team was an expert - responding promptly to any questions
-          and keeping us constantly informed. Our beautiful project was finished on
-          time and on budget.”</h3><p><em>- Joan S. Homeowner</em></p>"
-        heading: ''
-      item-type: text
-      item-span: 3
-- template: carousel
-  block: carousel
-  slide:
-  - slide-title: Kitchen (before & after)
-    background-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
-    text-overlay:
-      background-color: none
-      alignment: center
-      small-heading: Del Cerro Whole House Renovation
-      main-content: Kitchen
-      detail: Before & After
-    cta:
-      enabled: false
-      color: white
-      button-text: ''
-      url: ''
-- template: grid
-  block: grid
-  grid-rows:
-  - row: 3 (text)
-    grid-items:
-    - item: Client Testimonial
-      image-info:
-        image: ''
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: sand
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        content: "<h3>“In the end, we're so incredibly happy with our remodel! We
-          feel like we live in a brand new home...modern, bright, and completely in
-          line with all our dreams. And we've now made some great connections with
-          the Murray Lampert family - we know who we're calling if we start having
-          new ideas!”</h3><p><em>- Mark S. Homeowner</em></p>"
+        content: "<h3>“The personal attention we got from Murray Lampert - the ability
+          to meet with the team, and of course, with Gregg Cantor - solidified us
+          choosing Murray Lampert.”</h3><p><em>- George Cava</em></p>"
         heading: ''
       item-type: text
       item-span: 3
