@@ -15,7 +15,7 @@
       <nav>
         <!-- Footer menu items 1-4 -->
         <ul class="menu-items">
-          {% for item in site.data.footer-nav limit:4 %}
+          {% for item in site.data.footer-nav limit: 4 %}
           <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
           </li>
@@ -23,7 +23,7 @@
         </ul>
         <!-- Footer menu items 5-8 -->
         <ul class="menu-items">
-          {% for item in site.data.footer-nav offset:4 %}
+          {% for item in site.data.footer-nav offset: 4 %}
           <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
           </li>
