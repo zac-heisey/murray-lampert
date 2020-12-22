@@ -19,4 +19,4 @@ fields:
       type: pages
       section: featured-projects
   label: Project List
-  description: Choose up to 3 featured projects to display on the main projects page.
+  description: Choose up to 4 featured projects to display on the main projects page.
