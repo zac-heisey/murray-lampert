@@ -26,7 +26,7 @@ sections:
 - template: project-list
   block: project-list
   project-list:
-  - _featured-projects/cripe-del-cerro.md
+  - _featured-projects/sokolowski-del-cerro.md
   - _featured-projects/621-i-ave-coronado.md
   - _featured-projects/featured-project-4.md
 - template: rich-text

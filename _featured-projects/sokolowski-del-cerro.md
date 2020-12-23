@@ -3,7 +3,7 @@ layout: featured-project
 title: Whole House Redo in Del Cerro
 description: Whole home remodel in Del Cerro, CA. View this and other featured home
   remodeling projects from Murray Lampert.
-featured-image: "/v1604083442/murray-lampert/v3/cripe-del-cerro-kitchen-1.jpg"
+featured-image: "/v1604083442/murray-lampert/v3/sokolowski-del-cerro-kitchen-1.jpg"
 project-details:
 - Design
 - Demo
@@ -165,7 +165,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Kitchen (before & after)
-    background-image: "/v1604083442/murray-lampert/v3/cripe-del-cerro-kitchen-1.jpg"
+    background-image: "/v1604083442/murray-lampert/v3/sokolowski-del-cerro-kitchen-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
