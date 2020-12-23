@@ -56,7 +56,7 @@ sections:
     grid-items:
     - item: Image 1
       image-info:
-        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-2.jpg"
+        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -173,7 +173,7 @@ sections:
       main-content: Kitchen
       detail: RENDERING
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Kitchen (Outcome)
     background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-3.jpg"
@@ -184,7 +184,7 @@ sections:
       main-content: Kitchen
       detail: OUTCOME
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Kitchen (Before)
     background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-3.jpg"
@@ -208,7 +208,7 @@ sections:
       main-content: Kitchen
       detail: AFTER
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Living Room (Before)
     background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-2.jpg"
@@ -219,7 +219,7 @@ sections:
       main-content: Living Room
       detail: BEFORE
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Living Room (After)
     background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-living-room-1.jpg"
@@ -230,7 +230,7 @@ sections:
       main-content: Living Room
       detail: AFTER
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Indoor / Outdoor Dining (Before)
     background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-progress-1.jpg"
@@ -241,7 +241,7 @@ sections:
       main-content: Indoor / Outdoor Dining
       detail: BEFORE
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Indoor / Outdoor Dining (After)
     background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-exterior-1.jpg"
@@ -252,7 +252,7 @@ sections:
       main-content: Indoor / Outdoor Dining
       detail: AFTER
     cta:
-      enabled: true
+      enabled: false
       color: white
 - template: call-to-action
   block: call-to-action
