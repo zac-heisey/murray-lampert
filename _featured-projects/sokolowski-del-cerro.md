@@ -56,7 +56,7 @@ sections:
     grid-items:
     - item: Image 1
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -76,7 +76,7 @@ sections:
       item-span: 2
     - item: Image 2
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-kitchen-accent-tile.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -98,7 +98,7 @@ sections:
     grid-items:
     - item: Image 3
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-sketchy-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -118,7 +118,7 @@ sections:
       item-span: 1
     - item: Image 4
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-4.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -164,48 +164,96 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - slide-title: Kitchen (before & after)
-    background-image: "/v1604083442/murray-lampert/v3/sokolowski-del-cerro-kitchen-1.jpg"
+  - slide-title: Kitchen (Rendering)
+    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-rendering-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Kitchen
-      detail: Before & After
+      detail: RENDERING
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Kitchen (Outcome)
+    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-3.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Kitchen
+      detail: OUTCOME
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Kitchen (Before)
+    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-3.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Kitchen
+      detail: BEFORE
     cta:
       enabled: false
       color: white
       button-text: ''
       url: ''
-- template: grid
-  block: grid
-  grid-rows:
-  - row: 3 (text)
-    grid-items:
-    - item: Client Testimonial
-      image-info:
-        image: ''
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: sand
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        content: "<h3>“In the end, we're so incredibly happy with our remodel! We
-          feel like we live in a brand new home...modern, bright, and completely in
-          line with all our dreams. And we've now made some great connections with
-          the Murray Lampert family - we know who we're calling if we start having
-          new ideas!”</h3><p><em>- Mark S. Homeowner</em></p>"
-        heading: ''
-      item-type: text
-      item-span: 3
+  - slide-title: Kitchen (After)
+    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-2.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Kitchen
+      detail: AFTER
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Living Room (Before)
+    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-2.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Living Room
+      detail: BEFORE
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Living Room (After)
+    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-living-room-1.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Living Room
+      detail: AFTER
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Indoor / Outdoor Dining (Before)
+    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-progress-1.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Indoor / Outdoor Dining
+      detail: BEFORE
+    cta:
+      enabled: true
+      color: white
+  - slide-title: Indoor / Outdoor Dining (After)
+    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-exterior-1.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: Del Cerro Whole House Renovation
+      main-content: Indoor / Outdoor Dining
+      detail: AFTER
+    cta:
+      enabled: true
+      color: white
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
