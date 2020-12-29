@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1602436259/murray-lampert/v3/our-services-bg.jpg"
+  background-image: "/murray-lampert/version3/our-services-bg.jpg"
   heading: The Art of Listening.<br>The Craft of Building.
   content: Design-build delivers a home that's more you.
 - template: rich-text
@@ -45,7 +45,7 @@ sections:
   process-stages:
   - stage: Stage Number 1
     stage-info:
-      image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-2.jpg"
+      image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
       text-info:
         heading: Design
         content: "<p>Our architect will collaborate with you to home in on your wants
@@ -57,7 +57,7 @@ sections:
           exactly what to expect and you'll receive a precise quote.</p>"
   - stage: Stage Number 2
     stage-info:
-      image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-1.jpg"
+      image: "/murray-lampert/version3/process-stage-placeholder-1.jpg"
       text-info:
         heading: Pre-construction
         content: "<p>Once the design has been approved by you, we'll prepare the construction
@@ -68,7 +68,7 @@ sections:
           colors, cabinets, and finishes.</p>"
   - stage: Stage Number 3
     stage-info:
-      image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-2.jpg"
+      image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
       text-info:
         heading: Construction
         content: "<p>Successful construction is about proactive communication. You
@@ -77,7 +77,7 @@ sections:
           you can expect rapid progress.</p>"
   - stage: Stage Number 4
     stage-info:
-      image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+      image: "/murray-lampert/version3/wise-bathroom.jpg"
       text-info:
         heading: Post-construction
         content: "<p>We conduct a final inspection and perform the final punch list.
@@ -152,7 +152,7 @@ sections:
   - gallery-items:
     - item: Kitchens
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/services-kitchen.jpg"
         text-overlay:
           heading: Kitchen Remodels
           content: Transform your outdated kitchen with our custom kitchen remodeling
@@ -162,7 +162,7 @@ sections:
             url: "/san-diego-kitchen-remodels"
     - item: Bathrooms
       image-info:
-        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/wise-bathroom.jpg"
         text-overlay:
           heading: Bathroom Remodels
           content: Expand and revitalize your master or guest bathroom with our custom
@@ -175,7 +175,7 @@ sections:
     gallery-items:
     - item: Home Additions
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        image: "/murray-lampert/version3/services-additions.jpg"
         text-overlay:
           heading: Home Additions
           content: Whether you need a new family room, bedroom, or a master suite,
@@ -184,7 +184,7 @@ sections:
             button-text: View Home Additions
             url: "/san-diego-home-additions"
     - image-info:
-        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/services-in-law-suites.jpg"
         text-overlay:
           heading: In-Law Suites
           content: In-law suites and granny flats are popular ways for San Diegans
@@ -197,7 +197,7 @@ sections:
     gallery-items:
     - item: Green Construction
       image-info:
-        image: "/v1603057435/murray-lampert/v3/services-green-construction.jpg"
+        image: "/murray-lampert/version3/services-green-construction.jpg"
         text-overlay:
           heading: Green Construction
           content: Murray Lampert is proud be to a Green Certified company, and a
@@ -207,7 +207,7 @@ sections:
             url: "/san-diego-green-home-construction"
     - item: Other Remodeling Services
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+        image: "/murray-lampert/version3/services-other.jpg"
         text-overlay:
           content: Interior and exterior remodels, minor updates to major renovations.
             If you have a dream remodeling project in mind, we can help make it a

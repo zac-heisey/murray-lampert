@@ -13,7 +13,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1605984902/murray-lampert/v3/pet-friendly-remodel.jpg"
+  background-image: "/murray-lampert/version3/pet-friendly-remodel.jpg"
   heading: Best Pet-Friendly Home Remodeling Features
 - template: post-meta-data
   block: post-meta-data
@@ -62,7 +62,7 @@ The same goes for carpeting options as some fibers may be harmful to your pets. 
 
 ## Fun and Useful Features
 
-![image of a small dog sitting a tent next to a cactus]({{ site.cloudinary }}/v1605984902/murray-lampert/v3/dog-tee-pee.jpg "Fun and Useful Pet-Friendly Home Features")
+![image of a small dog sitting a tent next to a cactus]({{ site.cloudinary }}/murray-lampert/version3/dog-tee-pee.jpg "Fun and Useful Pet-Friendly Home Features")
 
 Since you already remodeling for your pets, why not add some fun and useful features to your home as well. Pets love to hang out in the kitchen, and if you made sure they are safe there, why not add a feeding station or a cabinet bed.
 

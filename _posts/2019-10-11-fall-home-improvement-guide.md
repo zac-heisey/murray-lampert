@@ -15,7 +15,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1605980634/murray-lampert/v3/fall-home-improvement-ideas.jpg"
+  background-image: "/murray-lampert/version3/fall-home-improvement-ideas.jpg"
   heading: Fall Home Improvement Guide
 - template: post-meta-data
   block: post-meta-data
@@ -90,7 +90,7 @@ Fall is also a great time to run a routine home safety check. Check smoke detect
 
 If you haven’t taken the time to ensure you have adequate fresh water, batteries, flashlights, and non-perishable food items in case of a storm or power outage, take inventory now, before an emergency strikes.
 
-![Fall Landscaping in San Diego](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1570802449/murray-lampert/misc/fall-yard-dog.jpg "san diego fall landscaping")
+![Fall Landscaping in San Diego](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/fall-yard-dog.jpg "san diego fall landscaping")
 
 ## Fall Yard & Landscaping Ideas
 

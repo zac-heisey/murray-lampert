@@ -3,7 +3,7 @@ layout: featured-project
 title: Interior & Exterior Remodel in Coronado
 description: Interior & exterior remodel in Coronado, CA. View this and other featured
   home remodeling projects from Murray Lampert.
-featured-image: "/v1608404588/murray-lampert/v3/cava-exterior-1.jpg"
+featured-image: "/murray-lampert/version3/cava-exterior-1.jpg"
 project-details:
 - Architectural & Interior Design
 - Exterior Upgrades
@@ -65,7 +65,7 @@ sections:
     grid-items:
     - item: Kitchen & Dining Area
       image-info:
-        image: "/v1608404587/murray-lampert/v3/cava-kitchen-dining-1.jpg"
+        image: "/murray-lampert/version3/cava-kitchen-dining-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -85,7 +85,7 @@ sections:
       item-span: 2
     - item: Bathroom
       image-info:
-        image: "/v1608404587/murray-lampert/v3/cava-bathroom-1.jpg"
+        image: "/murray-lampert/version3/cava-bathroom-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -107,7 +107,7 @@ sections:
     grid-items:
     - item: Living Room
       image-info:
-        image: "/v1608404588/murray-lampert/v3/cava-living-room-1.jpg"
+        image: "/murray-lampert/version3/cava-living-room-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -127,7 +127,7 @@ sections:
       item-span: 1
     - item: Front Exterior
       image-info:
-        image: "/v1608404588/murray-lampert/v3/cava-exterior-1.jpg"
+        image: "/murray-lampert/version3/cava-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

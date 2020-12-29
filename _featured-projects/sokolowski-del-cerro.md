@@ -3,7 +3,7 @@ layout: featured-project
 title: Whole House Redo in Del Cerro
 description: Whole home remodel in Del Cerro, CA. View this and other featured home
   remodeling projects from Murray Lampert.
-featured-image: "/v1604083442/murray-lampert/v3/sokolowski-del-cerro-kitchen-1.jpg"
+featured-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-1.jpg"
 project-details:
 - Design
 - Demo
@@ -56,7 +56,7 @@ sections:
     grid-items:
     - item: Image 1
       image-info:
-        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-exterior-1.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -76,7 +76,7 @@ sections:
       item-span: 2
     - item: Image 2
       image-info:
-        image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-kitchen-accent-tile.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-accent-tile.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -98,7 +98,7 @@ sections:
     grid-items:
     - item: Image 3
       image-info:
-        image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-sketchy-1.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-sketchy-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -118,7 +118,7 @@ sections:
       item-span: 1
     - item: Image 4
       image-info:
-        image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-4.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-4.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -165,7 +165,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Kitchen (Rendering)
-    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-rendering-1.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-rendering-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -176,7 +176,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Kitchen (Outcome)
-    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-3.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-3.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -187,7 +187,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Kitchen (Before)
-    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-3.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-before-3.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -200,7 +200,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Kitchen (After)
-    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-kitchen-2.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-2.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -211,7 +211,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Living Room (Before)
-    background-image: "/v1608759684/murray-lampert/v3/sokolowski-del-cerro-before-2.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-before-2.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -222,7 +222,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Living Room (After)
-    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-living-room-1.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -233,7 +233,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Indoor / Outdoor Dining (Before)
-    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-progress-1.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-progress-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -244,7 +244,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Indoor / Outdoor Dining (After)
-    background-image: "/v1608759685/murray-lampert/v3/sokolowski-del-cerro-exterior-1.jpg"
+    background-image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
     text-overlay:
       background-color: none
       alignment: center

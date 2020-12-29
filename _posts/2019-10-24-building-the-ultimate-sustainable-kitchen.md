@@ -17,7 +17,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1605129249/murray-lampert/v3/kitchen-remodeling-bg.png"
+  background-image: "/murray-lampert/version3/kitchen-remodeling-bg.png"
   heading: Building a More Sustainable Kitchen
 - template: post-meta-data
   block: post-meta-data
@@ -40,7 +40,7 @@ Your kitchen likely receives some of the most foot traffic in your home. Just th
 If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-services), a great opportunity to build with [sustainability](/san-diego-green-home-construction) in mind exists in a big way. Living green doesn't have to end with simple energy conservation and efficient appliances. Check out this infographic on building the ultimate sustainable kitchen from CustomMade.com for some great ideas.
 
 <!-- Infographic from Custommade.com -->
-![infographic showing simple ways to make a kitchen more sustainable]({{ site.cloudinary }}/v1605885598/murray-lampert/v3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
+![infographic showing simple ways to make a kitchen more sustainable]({{ site.cloudinary }}/murray-lampert/version3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
 
 ## Building the Ultimate Sustainable Kitchen
 

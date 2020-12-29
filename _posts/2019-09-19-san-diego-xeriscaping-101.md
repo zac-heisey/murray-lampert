@@ -39,13 +39,13 @@ Cultivating a beautiful lawn and garden has to be one of the biggest joys in hom
 
 Xeriscaping, which joins the Greek words for “dry” and “view,” was coined by Denver’s water department during a particularly heavy drought from the late ‘70s to early ’80s. Xeriscaping is a form of landscape design that aims to reduce the need for supplemental watering by incorporating native species and low-water plants. You may think xeriscaping is only relevant for areas subject to drought but the key principles of xeriscaping can be applied to any climate.
 
-![what is xeriscaping graphic](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568908275/murray-lampert/misc/what-is-xeriscaping.png "What is Xeriscaping?")
+![what is xeriscaping graphic](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/what-is-xeriscaping.png "What is Xeriscaping?")
 
 Some people are under the misconception that xeriscaping involves cacti, brush, and barren landscapes, but through xeriscaping, you can create some lush, beautiful settings that reduce water usage by at least 60%.
 
 Using grass alternatives, flowering plants, succulents, brush and even trees, you can transform a garden or yard into an eco-friendly landscape following the basics of xeriscaping.
 
-![why xeriscaping graphic](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568908274/murray-lampert/misc/why-xeriscaping.png "Why Xeriscaping?")
+![why xeriscaping graphic](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/why-xeriscaping.png "Why Xeriscaping?")
 
 ## Basics of Xeriscaping
 

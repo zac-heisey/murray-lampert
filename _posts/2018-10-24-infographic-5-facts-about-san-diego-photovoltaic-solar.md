@@ -4,7 +4,7 @@ date: 2018-10-24 00:00:00 Z
 categories:
 - Infographics
 - Green Construction
-featured-image: https://res.cloudinary.com/zheisey/image/upload/v1540400491/murray-lampert/misc/san-diego-pv-solar-facts.png
+featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/san-diego-pv-solar-facts.png
 excerpt: Solar energy is a popular way for San Diego homeowners to take advantage
   of the region's sunny weather to help lower their utility costs. We look at 5 key
   facts about photovoltaic solar in San Diego.
@@ -16,11 +16,11 @@ Many San Diego homeowners have turned to photovoltaic (PV) solar energy as a way
 
 Below we've create a helpful infographic outlining 5 facts about photovoltaic (PV) solar in San Diego.
 
-![5 Facts About San Diego Photovoltaic (PV Solar)](https://res.cloudinary.com/zheisey/image/upload/v1540400360/murray-lampert/misc/5-Facts-About-San-Diego-Photovoltaic-_PV_-Solar.png "{{ page.title }}")
+![5 Facts About San Diego Photovoltaic (PV Solar)](https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/5-Facts-About-San-Diego-Photovoltaic-_PV_-Solar.png "{{ page.title }}")
 
 **Share this infographic on your site**
 <textarea>
-  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-pros-cons-different-adu-types/"><img src="https://res.cloudinary.com/zheisey/image/upload/v1540400360/murray-lampert/misc/5-Facts-About-San-Diego-Photovoltaic-_PV_-Solar.png" alt="5 facts about san diego photovoltaic (pv) solar infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
+  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-pros-cons-different-adu-types/"><img src="https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/5-Facts-About-San-Diego-Photovoltaic-_PV_-Solar.png" alt="5 facts about san diego photovoltaic (pv) solar infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
 </textarea>
 
 ## 5 Facts About San Diego Photovoltaic (PV) Solar

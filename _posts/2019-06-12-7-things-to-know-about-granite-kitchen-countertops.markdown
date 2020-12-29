@@ -12,7 +12,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+  background-image: "/murray-lampert/version3/services-in-law-suites.jpg"
   heading: 7 Things to Know About Granite Kitchen Countertops
 - template: post-meta-data
   block: post-meta-data
@@ -35,7 +35,7 @@ In our last post, we looked at some important [things to know about quartz kitch
 
 While quartz recently overtook it as the most popular material choice for kitchen countertops [according to Houzz](www.houzz.com/magazine/2019-us-houzz-kitchen-trends-study-stsrsivw-vs~116684987), granite still remains an extremely popular option with homeowners looking to upgrade their kitchens.
 
-![chart comparing various countertop material popularity in kitchen remodeling projects]({{ site.cloudinary }}/v1605985208/murray-lampert/v3/quartz-over-granite.png "Quartz vs. Granite Kitchen Countertops")
+![chart comparing various countertop material popularity in kitchen remodeling projects]({{ site.cloudinary }}/murray-lampert/version3/quartz-over-granite.png "Quartz vs. Granite Kitchen Countertops")
 
 Its rich beauty with a timeless look can be the centerpiece of your kitchen. Granite is an ideal material to use near your stove or oven, because it resists heat. You can expect granite to last for a long time, provided it is taken care of.
 

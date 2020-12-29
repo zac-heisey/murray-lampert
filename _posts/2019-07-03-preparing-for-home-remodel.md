@@ -11,7 +11,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1605982057/murray-lampert/v3/placeholder-5.jpg"
+  background-image: "/murray-lampert/version3/placeholder-5.jpg"
   heading: Preparing for Your Upcoming Home Remodel
 - template: post-meta-data
   block: post-meta-data

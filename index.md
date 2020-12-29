@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/design-build-services-san-diego"
-  background-image: "/v1608401202/murray-lampert/v3/hero-bg.png"
+  background-image: "/murray-lampert/version3/hero-bg.png"
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
@@ -21,7 +21,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+        image: "/murray-lampert/version3/team-placeholder.png"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -117,7 +117,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/v1549476481/murray-lampert/misc/mldbr-homepage-hero.jpg"
+        image: "/murray-lampert/misc/mldbr-homepage-hero.jpg"
         text-overlay:
           small-heading: Lorem Ipsum
           main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -140,7 +140,7 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+        image: "/murray-lampert/version3/team-placeholder.png"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -182,7 +182,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+        image: "/murray-lampert/version3/testimonials-bg.png"
         text-overlay:
           small-heading: Some Stuff Here
           main-content: Some more stuff will go right here!
@@ -202,7 +202,7 @@ sections:
       item-span: 2
     - item: Image
       image-info:
-        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/wise-bathroom.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -224,7 +224,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Johnson Testimonial 1
-    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
@@ -239,7 +239,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Johnson Testimonial 2
-    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: blue
       alignment: center
@@ -255,7 +255,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Wise Bathroom
-    background-image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+    background-image: "/murray-lampert/version3/wise-bathroom.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -277,7 +277,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: "/v1600533668/murray-lampert/v3/team-placeholder.png"
-  image-right: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+  image-left: "/murray-lampert/version3/team-placeholder.png"
+  image-right: "/murray-lampert/version3/team-placeholder.png"
 
 ---

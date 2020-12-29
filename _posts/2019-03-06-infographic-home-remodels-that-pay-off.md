@@ -4,7 +4,7 @@ date: 2019-03-06 00:00:00 Z
 categories:
 - Infographics
 - Home Remodeling
-featured-image: https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-4.jpg
+featured-image: https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/murray-lampert/mceachern/mceachern-kitchen-after-4.jpg
 excerpt: Knowing the return on investment of a home remodeling project can help you
   plan and prepare. This infographic breaks down 7 home remodels that can pay off
   for homeowners.

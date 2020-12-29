@@ -19,7 +19,7 @@ sections:
     button-text: ''
     url: ''
   heading: The Latest Trends in Bathroom Remodeling
-  background-image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+  background-image: "/murray-lampert/version3/services-other.jpg"
   content: ''
 - template: post-meta-data
   block: post-meta-data
@@ -48,7 +48,7 @@ With so many options, techniques, and materials to choose from, it's tough to kn
 
 According to Houzz's latest study on bathroom remodeling trends, modern bathroom design styles, along with white being a primary color choice for bathroom vanities, countertops, and flooring and walls, are growing in popularity.
 
-![Houzz Bathroom Remodeling Study: Styles and Colors](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573829973/murray-lampert/misc/bathroom-styles-colors.png "Houzz Bathroom Remodeling Study: Styles and Colors")
+![Houzz Bathroom Remodeling Study: Styles and Colors](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/bathroom-styles-colors.png "Houzz Bathroom Remodeling Study: Styles and Colors")
 
 ### Premium Showers Over Bathtubs
 
@@ -56,7 +56,7 @@ A major focal point of many bathroom renovation projects is the shower, where ho
 
 If a bathtub _is_ present _and_ upgraded, homeowners are opting for freestanding tubs over traditional alcove styles.
 
-![Bathtubs vs. Showers](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573830477/murray-lampert/misc/bathtub-vs-shower.jpg "Bathtubs vs. Showers")
+![Bathtubs vs. Showers](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/bathtub-vs-shower.jpg "Bathtubs vs. Showers")
 
 ### Aging in Place is a Growing Concern
 
@@ -74,13 +74,13 @@ Homeowners are increasingly viewing their bathroom as a place of relaxation and 
 
 When it comes to finishes, premium materials are en vogue, particularly when it comes to the shower. While ceramic and porcelain are head and shoulders the most common finish material used for shower walls and flooring, we're starting to see more homeowners opt for high-grade materials like marble, granite, and slate.
 
-![Premium Materials in Shower Finishes](https://res.cloudinary.com/zheisey/image/upload/f_auto/v1573831713/murray-lampert/misc/shower-materials.jpg "Premium Materials in Shower Finishes")
+![Premium Materials in Shower Finishes](https://res.cloudinary.com/zheisey/image/upload/f_auto/murray-lampert/misc/shower-materials.jpg "Premium Materials in Shower Finishes")
 
 ### Bathroom Lighting is a Critical Component
 
 Light, particularly natural light, is always a sought-after feature in any bathroom remodeling project. The ability to alter the ambiance with dimmable lighting is a popular request, as are recessed lights, shower lighting, and unique bathroom lighting options like pendant lights, chandeliers, and track lighting.
 
-![Bathroom Lighting Data](https://res.cloudinary.com/zheisey/image/upload/v1573832298/murray-lampert/misc/bathroom-lighting.jpg "Bathroom Lighting Data")
+![Bathroom Lighting Data](https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/bathroom-lighting.jpg "Bathroom Lighting Data")
 
 ### Making Small Bathrooms Look Bigger
 

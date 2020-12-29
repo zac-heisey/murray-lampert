@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+  background-image: "/murray-lampert/version3/team-placeholder.png"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
@@ -29,7 +29,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Family photo
-    background-image: "/v1600533668/murray-lampert/v3/team-placeholder.png"
+    background-image: "/murray-lampert/version3/team-placeholder.png"
     text-overlay:
       background-color: none
       alignment: center
@@ -42,7 +42,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Placeholder
-    background-image: "/v1602436549/murray-lampert/v3/process-stage-placeholder-2.jpg"
+    background-image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
     text-overlay:
       background-color: none
       alignment: center
@@ -104,8 +104,8 @@ sections:
         and San Diego 6 TV.</p><p>In his spare time, Gregg enjoys staying fit by running.
         He also enjoys family time, cooking, and Chargers football.</p>
       email: gcantor@murraylampert.com
-      image-1: "/v1603645462/murray-lampert/v3/team-member-1.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-1.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
     - name: Lisa Cantor
       title: CFO
       email: lcantor@murraylampert.com
@@ -116,8 +116,8 @@ sections:
         in the community including the school district, Make-A-Wish, and Susan B.
         Komen.</p><p>In her spare time, Lisa enjoys cooking, family time and their
         two dogs (Fred &amp; Ethel).</p>"
-      image-1: "/v1603645462/murray-lampert/v3/team-member-2.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-2.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
     - name: Rachel Cantor
       title: Director of Design
       email: rachel@murraylampert.com
@@ -131,8 +131,8 @@ sections:
         designs that integrate the clients’ needs with an efficient technique.</p><p>In
         her spare time, Rachel enjoys painting, playing volleyball, and cooking with
         her family.</p>"
-      image-1: "/v1603645462/murray-lampert/v3/team-member-2.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-2.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
   - row: Row 2
     team-members:
     - name: Patti Atwell
@@ -152,8 +152,8 @@ sections:
         Bureaus. Gregg is also co-host of The Approved Home Pro Show on 600 KOGO Radio
         and San Diego 6 TV.</p><p>In his spare time, Gregg enjoys staying fit by running.
         He also enjoys family time, cooking, and Chargers football.</p>
-      image-1: "/v1603645462/murray-lampert/v3/team-member-1.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-1.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
     - name: D'Ann Good
       title: Office Manger
       email: dgood@murraylampert.com
@@ -164,8 +164,8 @@ sections:
         in the community including the school district, Make-A-Wish, and Susan B.
         Komen.</p><p>In her spare time, Lisa enjoys cooking, family time and their
         two dogs (Fred &amp; Ethel).</p>"
-      image-1: "/v1603645462/murray-lampert/v3/team-member-2.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-2.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
     - name: Cameron Poeschel
       title: Project Director
       email: cpoeschel@murraylampert.com
@@ -179,8 +179,8 @@ sections:
         designs that integrate the clients’ needs with an efficient technique.</p><p>In
         her spare time, Rachel enjoys painting, playing volleyball, and cooking with
         her family.</p>"
-      image-1: "/v1603645462/murray-lampert/v3/team-member-2.jpg"
-      image-2: "/v1603645462/murray-lampert/v3/team-member-alt.jpg"
+      image-1: "/murray-lampert/version3/team-member-2.jpg"
+      image-2: "/murray-lampert/version3/team-member-alt.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
@@ -189,7 +189,7 @@ sections:
     button-text: ''
     url: ''
   heading: Why people like to do business with us.
-  background-image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+  background-image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
   content: ''
 - template: rich-text
   block: rich-text
@@ -224,8 +224,8 @@ sections:
     color: white
     button-text: Contact Murray Lampert
     url: "/contact/"
-  image-left: "/v1603057434/murray-lampert/v3/services-other.jpg"
-  image-right: "/v1603057435/murray-lampert/v3/services-green-construction.jpg"
+  image-left: "/murray-lampert/version3/services-other.jpg"
+  image-right: "/murray-lampert/version3/services-green-construction.jpg"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
 

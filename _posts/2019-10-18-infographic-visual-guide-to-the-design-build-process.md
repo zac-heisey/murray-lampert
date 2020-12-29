@@ -16,7 +16,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1601138428/murray-lampert/v3/placeholder-1.png"
+  background-image: "/murray-lampert/version3/placeholder-1.png"
   heading: Homeowner's Guide to San Diego ADUs
 - template: post-meta-data
   block: post-meta-data
@@ -52,11 +52,11 @@ Each project delivery method has pros and cons, but we specialize in and prefer 
 
 To further illustrate what makes design-build such a great process for executing [San Diego home remodeling](/san-diego-home-remodel-services) projects, we've put together a visual guide to the design-build process below.
 
-![Visual Guide to the Design-Build Process Infographic]({{ site.cloudinary }}/v1605889527/murray-lampert/v3/infographic-visual-guide-to-design-build.png "{{ page.title }}")
+![Visual Guide to the Design-Build Process Infographic]({{ site.cloudinary }}/murray-lampert/version3/infographic-visual-guide-to-design-build.png "{{ page.title }}")
 
 **Share this infographic on your site**
 <textarea>
-<p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://www.murraylampert.com/infographic-visual-guide-to-the-design-build-process/"><img src="{{ site.cloudinary }}/v1605889527/murray-lampert/v3/infographic-visual-guide-to-design-build.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p>
+<p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://www.murraylampert.com/infographic-visual-guide-to-the-design-build-process/"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-visual-guide-to-design-build.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p>
 </textarea>
 
 ## A Visual Guide to the Design-Build Process

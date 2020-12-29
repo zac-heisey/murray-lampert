@@ -11,7 +11,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+  background-image: "/murray-lampert/version3/services-kitchen.jpg"
   heading: This is what listening<br>looks like.
   content: Every home is a testament to the collaboration between Murray Lampert and
     our customers.
@@ -41,7 +41,7 @@ sections:
   - gallery-items:
     - item: Kitchens
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/services-kitchen.jpg"
         text-overlay:
           heading: Kitchen Remodels
           content: Transform your outdated kitchen with our custom kitchen remodeling
@@ -51,7 +51,7 @@ sections:
             url: "/san-diego-kitchen-remodels"
     - item: Bathrooms
       image-info:
-        image: "/v1601239557/murray-lampert/v3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/wise-bathroom.jpg"
         text-overlay:
           heading: Bathroom Remodels
           content: Expand and revitalize your master or guest bathroom with our custom
@@ -64,7 +64,7 @@ sections:
     gallery-items:
     - item: Home Additions
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        image: "/murray-lampert/version3/services-additions.jpg"
         text-overlay:
           heading: Home Additions
           content: Whether you need a new family room, bedroom, or a master suite,
@@ -73,7 +73,7 @@ sections:
             button-text: View Home Additions
             url: "/san-diego-home-additions"
     - image-info:
-        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/services-in-law-suites.jpg"
         text-overlay:
           heading: In-Law Suites
           content: In-law suites and granny flats are popular ways for San Diegans
@@ -86,7 +86,7 @@ sections:
     gallery-items:
     - item: Green Construction
       image-info:
-        image: "/v1603057435/murray-lampert/v3/services-green-construction.jpg"
+        image: "/murray-lampert/version3/services-green-construction.jpg"
         text-overlay:
           heading: Green Construction
           content: Murray Lampert is proud be to a Green Certified company, and a
@@ -96,7 +96,7 @@ sections:
             url: "/san-diego-green-home-construction"
     - item: Other Remodeling Services
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-other.jpg"
+        image: "/murray-lampert/version3/services-other.jpg"
         text-overlay:
           content: Interior and exterior remodels, minor updates to major renovations.
             If you have a dream remodeling project in mind, we can help make it a

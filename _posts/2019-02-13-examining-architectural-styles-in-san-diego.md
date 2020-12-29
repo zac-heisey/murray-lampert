@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Design-Build
 - Real Estate
-featured-image: https://res.cloudinary.com/zheisey/image/upload/v1539808690/murray-lampert/fischer/fischer-1278-seacoast-dr-exterior-22.jpg
+featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/fischer/fischer-1278-seacoast-dr-exterior-22.jpg
 excerpt: From Spanish to Mission, Victorian to Contemporary, San Diego offers up plenty
   of diversity when it comes to residential architecture. We outline some of the more
   popular home architecture styles in San Diego.
@@ -51,7 +51,7 @@ At the close of the 19th century, architectural sensibilities turned towards the
 
 Following the Great Depression and World War II, the United States embarked on a period of technological advancement, and the Mid-Century Modern architectural style followed along as people looked towards the future. Designers ditched exterior flourishes and moved towards using clean lines and simplistic designs. To give these homes an organic feel, architects used natural materials and large picture windows to let plenty of ambient outdoor light stream into the structure. You’ll see many examples of this style in La Jolla, Allied Gardens and Point Loma, which all saw massive growth in the middle of the 20th century.
 
-![Mid-Century Modern-style home in San Diego](https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/v1540494473/murray-lampert/mceachern/mceachern-kitchen-after-6.jpg)
+![Mid-Century Modern-style home in San Diego](https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/murray-lampert/mceachern/mceachern-kitchen-after-6.jpg)
 
 ## Contemporary
 

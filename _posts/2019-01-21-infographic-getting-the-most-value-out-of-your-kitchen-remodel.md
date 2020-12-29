@@ -40,9 +40,9 @@ There’s no substitute for hiring the right people to handle your kitchen remod
 
 For more ideas on how you can cut your kitchen remodeling costs without sacrificing quality, be sure to check out this awesome infographic from our friends at Superior Stone & Cabinet.
 
-![Getting the Most Value Out of Your Kitchen Remodel](https://res.cloudinary.com/zheisey/image/upload/v1548079485/murray-lampert/misc/kitchen-remodeling-on-a-budget.png "{{ page.title }}")
+![Getting the Most Value Out of Your Kitchen Remodel](https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/kitchen-remodeling-on-a-budget.png "{{ page.title }}")
 
 **Share this infographic on your site**
 <textarea>
-  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-getting-the-most-value-out-of-your-kitchen-remodel/"><img src="https://res.cloudinary.com/zheisey/image/upload/v1548079485/murray-lampert/misc/kitchen-remodeling-on-a-budget.png" alt="Getting the Most Value Out of Your Kitchen Remodel" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
+  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-getting-the-most-value-out-of-your-kitchen-remodel/"><img src="https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/kitchen-remodeling-on-a-budget.png" alt="Getting the Most Value Out of Your Kitchen Remodel" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
 </textarea>

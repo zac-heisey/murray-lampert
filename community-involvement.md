@@ -11,7 +11,7 @@ sections:
     button-text: ''
     url: ''
   heading: Murray Lampert Community Involvement in San Diego
-  background-image: "/v1605982058/murray-lampert/v3/placeholder-3.jpg"
+  background-image: "/murray-lampert/version3/placeholder-3.jpg"
   content: ''
 - template: rich-text
   block: rich-text

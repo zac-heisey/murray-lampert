@@ -32,7 +32,7 @@ If you research ideas for building your own bar cart at home, you might find a l
 
 ![ML-farmhouse-bar-cart.jpg](/uploads/ML-farmhouse-bar-cart.jpg "Farmhouse Bar Cart")
 
-[DIY Bar Cart in Under an Hour ](https://www.thrillist.com/lifestyle/nation/how-to-make-a-diy-custom-bar-cart-diy-plans-for-liquor-cart?media=https:https://assets3.thrillist.com/v1/image/1886690/size/tmg-facebook_share.jpg&description=I%2520picked%2520up%2520everything%2520from%2520Home%2520Depot%2520in%2520the%2520morning%2520and%2520was%2520finished%2520before%2520lunch. "DIY Bar Cart")- This might be one of our favorites!
+[DIY Bar Cart in Under an Hour ](https://www.thrillist.com/lifestyle/nation/how-to-make-a-diy-custom-bar-cart-diy-plans-for-liquor-cart?media=https:https://assets3.thrillist.com/image/1886690/size/tmg-facebook_share.jpg&description=I%2520picked%2520up%2520everything%2520from%2520Home%2520Depot%2520in%2520the%2520morning%2520and%2520was%2520finished%2520before%2520lunch. "DIY Bar Cart")- This might be one of our favorites!
 
 ![ML-bar-cart-3.jpg](/uploads/ML-bar-cart-3.jpg "Rustic Bar Cart")
 

@@ -11,7 +11,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1605982057/murray-lampert/v3/placeholder-6.jpg"
+  background-image: "/murray-lampert/version3/placeholder-6.jpg"
   heading: Home Remodeling FAQs from Murray Lampert
   content: ''
 - template: faq

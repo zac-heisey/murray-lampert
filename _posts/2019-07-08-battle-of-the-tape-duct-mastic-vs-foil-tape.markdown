@@ -14,7 +14,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1605984250/murray-lampert/v3/battle-of-the-tape.jpg"
+  background-image: "/murray-lampert/version3/battle-of-the-tape.jpg"
   heading: Choose the Right Tape for Your Next Home Improvement Project
 - template: post-meta-data
   block: post-meta-data
@@ -82,7 +82,7 @@ A word of advice with either option: **choose a high-quality product**. Again, d
 
 ## Breaking It Down: Choosing the Right Type of Tape for the Job
 
-![infographic of guide for how to choose to the right tape for home renovation projects]({{ site.cloudinary }}/v1605982932/murray-lampert/v3/infographic-choosing-the-right-tape.png "{{ page.title }}")
+![infographic of guide for how to choose to the right tape for home renovation projects]({{ site.cloudinary }}/murray-lampert/version3/infographic-choosing-the-right-tape.png "{{ page.title }}")
 
 ### Electrical Tape
 

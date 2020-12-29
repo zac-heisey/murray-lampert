@@ -2,7 +2,7 @@
 layout: featured-project
 title: 'Featured Project #3'
 description: ''
-featured-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+featured-image: "/murray-lampert/version3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
 project-details:
 - Design
 - Demo
@@ -55,7 +55,7 @@ sections:
     grid-items:
     - item: Image 1
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-additions.jpg"
+        image: "/murray-lampert/version3/services-additions.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -75,7 +75,7 @@ sections:
       item-span: 2
     - item: Image 2
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/services-in-law-suites.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -97,7 +97,7 @@ sections:
     grid-items:
     - item: Image 3
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -117,7 +117,7 @@ sections:
       item-span: 1
     - item: Image 4
       image-info:
-        image: "/v1603057434/murray-lampert/v3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/services-kitchen.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -164,7 +164,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Kitchen (before & after)
-    background-image: "/v1604083442/murray-lampert/v3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
+    background-image: "/murray-lampert/version3/crip-del-cerro-carousel-placeholder_tiigb6.jpg"
     text-overlay:
       background-color: none
       alignment: center

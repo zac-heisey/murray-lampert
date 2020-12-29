@@ -11,7 +11,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1604692385/murray-lampert/v3/accolades-bg.png"
+  background-image: "/murray-lampert/version3/accolades-bg.png"
   heading: Trust, Integrity, and Experience
   content: Our Reputation Means Everything to Us.<br>It's Been Our Foundation Since
     1975.
@@ -26,7 +26,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Julie & Richard Testimonial
-    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
@@ -38,7 +38,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Dan & Jennifer Testimonial
-    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
@@ -51,7 +51,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Stan & Gemma Testimonial
-    background-image: "/v1601138428/murray-lampert/v3/testimonials-bg.png"
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
@@ -72,7 +72,7 @@ sections:
     grid-items:
     - item: Google
       image-info:
-        image: "/v1604841110/murray-lampert/v3/google-logo.png"
+        image: "/murray-lampert/version3/google-logo.png"
         text-overlay:
           main-content: Murray Lampert Google Reviews
           url: https://www.google.com/search?q=murray+lamperty+san+diego&oq=murray+lamperty+san+diego&aqs=chrome..69i57j0.2246j0j1&sourceid=chrome&ie=UTF-8#lrd=0x80d955a57abf532f:0x409268b5dbfcff56,1,
@@ -85,7 +85,7 @@ sections:
       item-span: 1
     - item: Yelp
       image-info:
-        image: "/v1604842253/murray-lampert/v3/yelp-logo.png"
+        image: "/murray-lampert/version3/yelp-logo.png"
         text-overlay:
           url: https://www.yelp.com/biz/murray-lampert-design-build-remodel-san-diego
           main-content: Murray Lampert Yelp Reviews
@@ -98,7 +98,7 @@ sections:
       item-span: 1
     - item: Houzz
       image-info:
-        image: "/v1604841393/murray-lampert/v3/houzz-logo.png"
+        image: "/murray-lampert/version3/houzz-logo.png"
         text-overlay:
           main-content: Murray Lampert Houzz Reviews
           detail: Click to Read Reviews
@@ -111,7 +111,7 @@ sections:
       item-span: 1
     - item: GuildQuality
       image-info:
-        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel?tab=reviews
           detail: Click to Read Reviews
@@ -133,7 +133,7 @@ sections:
     grid-items:
     - item: '2020'
       image-info:
-        image: "/v1604848488/murray-lampert/v3/houzz-2020.png"
+        image: "/murray-lampert/version3/houzz-2020.png"
         text-overlay:
           main-content: Best of Houzz 2020
           detail: Client Satisfaction
@@ -145,7 +145,7 @@ sections:
       item-span: 1
     - item: '2017'
       image-info:
-        image: "/v1604848488/murray-lampert/v3/houzz-2017.png"
+        image: "/murray-lampert/version3/houzz-2017.png"
         text-overlay:
           main-content: Best of Houzz 2017
           detail: Client Satisfaction
@@ -157,7 +157,7 @@ sections:
       item-span: 1
     - item: '2015'
       image-info:
-        image: "/v1604848488/murray-lampert/v3/houzz-2015.png"
+        image: "/murray-lampert/version3/houzz-2015.png"
         text-overlay:
           main-content: Best of Houzz 2015
           detail: Client Satisfaction
@@ -169,7 +169,7 @@ sections:
       item-span: 1
     - item: '2014'
       image-info:
-        image: "/v1604848488/murray-lampert/v3/houzz-2014.png"
+        image: "/murray-lampert/version3/houzz-2014.png"
         text-overlay:
           main-content: Best of Houzz 2014
           detail: Client Satisfaction
@@ -183,7 +183,7 @@ sections:
     grid-items:
     - item: '2014'
       image-info:
-        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        image: "/murray-lampert/version3/bbb-torch-award.png"
         text-overlay:
           main-content: San Diego BBB Torch Award 2014
           detail: Winner
@@ -195,7 +195,7 @@ sections:
       item-span: 1
     - item: '2010'
       image-info:
-        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        image: "/murray-lampert/version3/bbb-torch-award.png"
         text-overlay:
           main-content: San Diego BBB Torch Award 2010
           detail: Finalist
@@ -207,7 +207,7 @@ sections:
       item-span: 1
     - item: '2008'
       image-info:
-        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        image: "/murray-lampert/version3/bbb-torch-award.png"
         text-overlay:
           main-content: San Diego BBB Torch Award 2008
           detail: Winner
@@ -219,7 +219,7 @@ sections:
       item-span: 1
     - item: '2007'
       image-info:
-        image: "/v1604869752/murray-lampert/v3/bbb-torch-award.png"
+        image: "/murray-lampert/version3/bbb-torch-award.png"
         text-overlay:
           main-content: San Diego BBB Torch Award 2007
           detail: Finalist
@@ -233,7 +233,7 @@ sections:
     grid-items:
     - item: '2020'
       image-info:
-        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2020
       text-info:
@@ -244,7 +244,7 @@ sections:
       item-span: 1
     - item: '2016'
       image-info:
-        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2016
       text-info:
@@ -255,7 +255,7 @@ sections:
       item-span: 1
     - item: '2015'
       image-info:
-        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2015
       text-info:
@@ -266,7 +266,7 @@ sections:
       item-span: 1
     - item: '2014'
       image-info:
-        image: "/v1604841393/murray-lampert/v3/guildquality-logo.png"
+        image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2014
       text-info:
@@ -286,7 +286,7 @@ sections:
     grid-items:
     - item: Thumbnail
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
       text-info:
         background-color: none
         cta:
@@ -313,7 +313,7 @@ sections:
     grid-items:
     - item: Thumbnail
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
       text-info:
         background-color: none
         cta:
@@ -340,7 +340,7 @@ sections:
     grid-items:
     - item: Thumbnail
       image-info:
-        image: "/v1603988511/murray-lampert/v3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
       text-info:
         background-color: none
         cta:
