@@ -3,7 +3,7 @@ layout: featured-project
 title: Whole House Redo in Del Cerro
 description: Whole home remodel in Del Cerro, CA. View this and other featured home
   remodeling projects from Murray Lampert.
-featured-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-1.jpg"
+featured-image: "/v1609342106/murray-lampert/version3/sokolowski-outdoor-patio-1.jpg"
 project-details:
 - Design
 - Demo
@@ -52,11 +52,31 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - row: 2 / 1
+  - row: 1 / 2
     grid-items:
-    - item: Image 1
+    - item: Blue Kitchen Accent Tile
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
+        image: "/v1609178264/murray-lampert/version3/sokolowski-del-cerro-kitchen-accent-tile.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Kitchen Range & Backsplash
+      image-info:
+        image: "/v1609342110/murray-lampert/version3/sokolowski-del-cerro-kitchen-5.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -74,9 +94,31 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Image 2
+  - row: 2 / 1
+    grid-items:
+    - item: Completed Kitchen
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-accent-tile.jpg"
+        image: "/v1609260566/murray-lampert/version3/sokolowski-del-cerro-kitchen-4.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Kitchen Design Sketch
+      image-info:
+        image: "/v1609260328/murray-lampert/version3/sokolowski-del-cerro-sketchy-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -94,46 +136,35 @@ sections:
         content: ''
       item-type: image
       item-span: 1
+  - row: 3 (image)
+    grid-items:
+    - item: Outdoor Patio
+      item-type: image
+      item-span: 3
+      image-info:
+        image: "/v1609260235/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
+      text-info:
+        background-color: none
+        cta:
+          color: blue
   - row: 1 / 2
     grid-items:
-    - item: Image 3
+    - item: Bathroom
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-sketchy-1.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+        image: "/v1609342114/murray-lampert/version3/sokolowski-del-cerro-bathroom-1.jpg"
       text-info:
         background-color: none
         cta:
           color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
       item-type: image
       item-span: 1
-    - item: Image 4
+    - item: Dining Area
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-4.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+        image: "/v1609263855/murray-lampert/version3/sokolowski-del-cerro-dining-area-1.jpg"
       text-info:
         background-color: none
         cta:
           color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
       item-type: image
       item-span: 2
   - row: 3 (text)
