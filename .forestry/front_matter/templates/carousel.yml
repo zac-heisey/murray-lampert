@@ -31,9 +31,9 @@ fields:
     fields:
     - name: background-color
       type: select
-      default: light gray
+      default: ''
       config:
-        required: true
+        required: false
         options:
         - blue
         - sand
@@ -48,7 +48,7 @@ fields:
       description: The background color of your text overlay.
     - name: alignment
       type: select
-      default: left
+      default: ''
       config:
         required: false
         options:
