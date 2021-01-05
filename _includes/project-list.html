@@ -13,26 +13,24 @@
       <div class="project">
 
         <div class="container span-2">
-          <img
-            src="{{ site.cloudinary }},w_auto{{ featured.featured-image }}"
-            srcset="
-            {{ site.cloudinary }},w_450{{ featured.featured-image }} 450w
-            "
-            sizes="
-            (max-width: 575px) 450px
-            "
-            alt="{{ featured.title }} featured remodeling project image"
-            width="800"
-            height="450"
-            loading="lazy"
-          >
+          <!-- Cloudinary image include (pull from featured image) -->
+          {%- assign image = featured.featured-image -%}
+          {%- assign alt = featured.title -%}
+
+          {% include cloudinary-image.html image=image alt=alt %}
+          <!-- End Cloudinary image include -->
         </div>
 
         <div class="container span-1">
           {% for item in featured.sections %}
             {% if item.template == "grid" %}
               {% if item.grid-rows[0].grid-items[0].image-info.image != "" %}
-              <img src="{{ site.cloudinary }}{{ item.grid-rows[0].grid-items[0].image-info.image }}" alt="">
+              <!-- Cloudinary image include (pull from first grid row image) -->
+              {%- assign image = item.grid-rows[0].grid-items[0].image-info.image -%}
+              {%- assign alt = featured.title -%}
+
+              {% include cloudinary-image.html image=image alt=alt %}
+              <!-- End Cloudinary image include -->
               {% endif %}
             {% endif %}
           {% endfor %}
