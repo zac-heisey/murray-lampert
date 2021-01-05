@@ -256,7 +256,7 @@ sections:
   - slide-title: Stan & Gema Testimonial
     background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
-      background-color: light gray
+      background-color: gray
       alignment: center
       small-heading: Customer Testmonial - Room Addition & Remodel
       main-content: We contacted 4 top contractors in the San Diego area to do our
