@@ -27,8 +27,8 @@ sections:
   block: project-list
   project-list:
   - _featured-projects/sokolowski-del-cerro.md
+  - _featured-projects/doyle-scripps-ranch.md
   - _featured-projects/621-i-ave-coronado.md
-  - _featured-projects/featured-project-4.md
 - template: rich-text
   block: rich-text
   background-color: none
