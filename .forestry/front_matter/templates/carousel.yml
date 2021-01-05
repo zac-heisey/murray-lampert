@@ -31,13 +31,13 @@ fields:
     fields:
     - name: background-color
       type: select
-      default: ''
+      default: gray
       config:
         required: false
         options:
         - blue
         - sand
-        - light gray
+        - gray
         - none
         source:
           type: simple
