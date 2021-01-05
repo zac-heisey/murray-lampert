@@ -55,11 +55,10 @@ sections:
           enabled: true
           url: "/about-murray-lampert-design-build-remodel"
           button-text: Learn More About Us
-        content: "<p>We're Murray
-          Lampert, a family-owned San Diego Design Build Remodel company that was
-          established in 1975. For over 40 years, we've been providing outstanding
-          service to San Diego homeowners. By the time we're done working together,
-          you'll feel like family.</p>"
+        content: "<p>We're Murray Lampert, a family-owned San Diego Design Build Remodel
+          company that was established in 1975. For over 40 years, we've been providing
+          outstanding service to San Diego homeowners. By the time we're done working
+          together, you'll feel like family.</p>"
         heading: Treating you like family.
       item-type: text
       item-span: 1
@@ -223,12 +222,12 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - slide-title: Johnson Testimonial 1
+  - slide-title: Johnson Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: Customer Testimonial 1
+      small-heading: Customer Testimonial - Whole Home Renovation
       main-content: "“Professionalism every step of the way. Exceptional communication
         in all aspects and phases of the project. The project was finished well ahead
         of schedule, allowing us to move back in before the start of school.”"
@@ -238,12 +237,12 @@ sections:
       color: white
       button-text: ''
       url: ''
-  - slide-title: Johnson Testimonial 2
+  - slide-title: Armida Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: blue
       alignment: center
-      small-heading: Customer Testimonial 2
+      small-heading: Customer Testimonial - Second Story & Kitchen Remodel
       main-content: "“It was a pleasure having Murray Lampert remodel my home. They
         were very attentive to any of my concerns and I couldn’t be happier with the
         the completed project. Everyone at Murray Lampert was amazing and great to
@@ -254,14 +253,21 @@ sections:
       color: white
       button-text: ''
       url: ''
-  - slide-title: Wise Bathroom
-    background-image: "/murray-lampert/version3/wise-bathroom.jpg"
+  - slide-title: Stan & Gema Testimonial
+    background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
-      background-color: none
+      background-color: light gray
       alignment: center
-      small-heading: Custom Bathrooms
-      main-content: From Soaker Tubs to Universal Design
-      detail: ''
+      small-heading: Customer Testmonial - Room Addition & Remodel
+      main-content: We contacted 4 top contractors in the San Diego area to do our
+        construction project. After the presentation of their plan, Murray Lampert
+        stood out as the best, especially with the cost of the project. The quality
+        of the work, cost, and early completion of the project makes us happy we choose
+        Murray Lampert among the other contractors. The Murray Lampert team are great
+        communicators, and they kept us informed throughout each phase of our project.
+        We’ve received a lot of positive compliments on the quality and workmanship
+        of the finished project.
+      detail: "- Stan & Gema, Spring Valley"
     cta:
       enabled: true
       color: white
