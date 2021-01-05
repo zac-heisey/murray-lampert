@@ -273,6 +273,11 @@ sections:
       color: white
       button-text: ''
       url: ''
+  - slide-title: Robert Jassoy Testimonial
+    background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
+    cta:
+      enabled: true
+      color: white
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
