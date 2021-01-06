@@ -116,13 +116,12 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/misc/mldbr-homepage-hero.jpg"
+        image: "/murray-lampert/version3/services-kitchen.jpg"
         text-overlay:
-          small-heading: Lorem Ipsum
-          main-content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-            do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          detail: Yolo Bigoté
-          url: "/#testing"
+          small-heading: San Diego Kitchen Remodels
+          main-content: Upgrade and Modernize Your Kitchen & Dining Space
+          detail: View More Kitchen Remodels
+          url: "/san-diego-kitchen-remodels"
       video-id: ''
       text-info:
         background-color: none
@@ -139,12 +138,12 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: "/murray-lampert/version3/team-placeholder.png"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-bathroom-1.jpg"
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
+          small-heading: San Diego Bathroom Remodels
+          main-content: Custom Master Bathrooms, Bath & Shower Upgrades, Tile, Lighting, and More
+          detail: See Our Bathroom Projects
+          url: "/san-diego-bathroom-remodels"
       video-id: ''
       text-info:
         background-color: none
@@ -181,12 +180,12 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/testimonials-bg.png"
+        image: "/murray-lampert/version3/sokolowski-outdoor-patio-1.png"
         text-overlay:
-          small-heading: Some Stuff Here
-          main-content: Some more stuff will go right here!
-          detail: Other stuff here too
-          url: ''
+          small-heading: Serving San Diego Since 1975
+          main-content: From Interior Design to Outdoor Living Spaces, Murray Lampert Has You Covered
+          detail: See Additional Remodeling Services
+          url: "/other-remodeling-services"
       video-id: ''
       text-info:
         background-color: none
@@ -201,7 +200,7 @@ sections:
       item-span: 2
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/placeholder-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
