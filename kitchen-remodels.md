@@ -31,13 +31,13 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Kitchen Project 1
+    - item: ADU Kitchen
       image-info:
         image: "/murray-lampert/version3/services-in-law-suites.jpg"
         text-overlay:
-          small-heading: Small Heading
-          main-content: Primary Description of Project or Image
-          detail: Some More Details
+          small-heading: ''
+          main-content: ''
+          detail: ''
           url: ''
       video-id: ''
       text-info:
@@ -51,13 +51,13 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Kitchen Project 2
+    - item: Sokolowski Kitchen Shelves, Stovetop, and Hood
       image-info:
         image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-5.jpg"
         text-overlay:
-          small-heading: Small Heading
-          main-content: Main Content or Primary Heading
-          detail: Detail Content
+          small-heading: ''
+          main-content: ''
+          detail: ''
           url: ''
       video-id: ''
       text-info:
@@ -73,7 +73,7 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Kitchen Project 3
+    - item: Doyle Kitchen Hood & Backsplash
       image-info:
         image: "/murray-lampert/version3/doyle-kitchen-after-2.jpg"
         text-overlay:
@@ -93,9 +93,93 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Kitchen Project 4
+    - item: Wise Kitchen
       image-info:
         image: "/murray-lampert/version3/services-kitchen.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+  - row: 2 / 1
+    grid-items:
+    - item: Tierrasanta Kitchen
+      image-info:
+        image: "/murray-lampert/version3/tierrasanta-kitchen-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Hutton Kitchen Hood & Backsplash
+      image-info:
+        image: "/murray-lampert/version3/hutton-kitchen-after-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: 1 / 2
+    grid-items:
+    - item: Hall Kitchen Storage
+      image-info:
+        image: "/murray-lampert/version3/hall-kitchen-after-4.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Hall Kitchen
+      image-info:
+        image: "/murray-lampert/version3/hall-kitchen-after-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
