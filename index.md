@@ -257,16 +257,13 @@ sections:
     background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: gray
-      alignment: center
+      alignment: right
       small-heading: Customer Testmonial - Room Addition & Remodel
-      main-content: We contacted 4 top contractors in the San Diego area to do our
+      main-content: "“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
         of the work, cost, and early completion of the project makes us happy we choose
-        Murray Lampert among the other contractors. The Murray Lampert team are great
-        communicators, and they kept us informed throughout each phase of our project.
-        We’ve received a lot of positive compliments on the quality and workmanship
-        of the finished project.
+        Murray Lampert among the other contractors.”"
       detail: "- Stan & Gema, Spring Valley"
     cta:
       enabled: true

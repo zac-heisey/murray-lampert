@@ -41,24 +41,23 @@ section.carousel-container {
       max-width: 750px;
       margin: 0 auto;
       padding: 1rem 2rem;
+      box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
 
       &.sand {
 
-        background-color: $sand;
-        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
+        background-color: rgba($sand, 0.75);
 
       }
 
       &.blue {
 
-        background-color: $blue;
-        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
+        background-color: rgba($blue, 0.75);
 
       }
 
-      &.none {
+      &.gray {
 
-        background: radial-gradient(rgba(76, 78, 82, 0.75), rgba(255, 255, 255, 0.01) 70%);
+        background-color: rgba($light-gray, 0.75);
 
       }
 
@@ -196,20 +195,14 @@ section.carousel-container {
 
   #controls {
 
-    display: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: absolute;
     bottom: 50px;
-    left: calc(50% - 100px);
+    left: calc(50% - 150px);
+    width: 300px;
     background-color: rgba($light-gray, 0.5);
-
-    @media (min-width: $breakpoint-sm) {
-
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 300px
-
-    }
 
     button[name="prev"],
     button[name="next"] {
