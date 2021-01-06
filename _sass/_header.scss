@@ -28,8 +28,9 @@ header#menu {
 
   }
 
-  p#tagline {
+  #tagline {
 
+    display: none;
     font-family: $heading-font;
     font-style: italic;
     font-size: 1.25rem;
@@ -39,6 +40,7 @@ header#menu {
 
     @media (min-width: $breakpoint-sm) {
 
+      display: block;
       text-align: left;
       margin-left: 1.25rem;
       margin-right: auto;
@@ -55,7 +57,7 @@ header#menu {
     bottom: -3rem;
     font-size: 1.25rem;
 
-    @media (min-width: $breakpoint-sm) {
+    @media (min-width: $breakpoint-md) {
 
       position: static;
       font-size: 1rem;
