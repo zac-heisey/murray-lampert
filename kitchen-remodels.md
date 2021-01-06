@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/kitchen-remodeling-bg.png"
+  background-image: "/murray-lampert/version3/kitchen-remodeling-bg.jpg"
   heading: Kitchen Remodeling in San Diego
   content: Refresh Your Outdated Kitchen and Modernize Your Counters, Cabinets, Fixtures,
     and Appliances
@@ -53,7 +53,7 @@ sections:
       item-span: 2
     - item: Kitchen Project 2
       image-info:
-        image: "/murray-lampert/version3/process-stage-placeholder-1.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-5.jpg"
         text-overlay:
           small-heading: Small Heading
           main-content: Main Content or Primary Heading
@@ -75,7 +75,7 @@ sections:
     grid-items:
     - item: Kitchen Project 3
       image-info:
-        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/doyle-kitchen-after-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
