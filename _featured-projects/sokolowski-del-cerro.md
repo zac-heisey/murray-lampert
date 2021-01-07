@@ -39,7 +39,7 @@ sections:
           url: ''
       video-id: P7Zmdkdvwhk
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
@@ -64,7 +64,7 @@ sections:
           url: ''
       video-id: ''
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
@@ -84,7 +84,7 @@ sections:
           url: ''
       video-id: ''
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
@@ -106,7 +106,7 @@ sections:
           url: ''
       video-id: ''
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
@@ -126,7 +126,7 @@ sections:
           url: ''
       video-id: ''
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
@@ -144,7 +144,7 @@ sections:
       image-info:
         image: "/v1609260235/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
   - row: 1 / 2
@@ -153,7 +153,7 @@ sections:
       image-info:
         image: "/v1609342114/murray-lampert/version3/sokolowski-del-cerro-bathroom-1.jpg"
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
       item-type: image
@@ -162,7 +162,7 @@ sections:
       image-info:
         image: "/v1609263855/murray-lampert/version3/sokolowski-del-cerro-dining-area-1.jpg"
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
       item-type: image
@@ -198,7 +198,7 @@ sections:
   - slide-title: Kitchen (Rendering)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-rendering-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Kitchen
@@ -209,7 +209,7 @@ sections:
   - slide-title: Kitchen (Outcome)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-3.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Kitchen
@@ -220,7 +220,7 @@ sections:
   - slide-title: Kitchen (Before)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-before-3.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Kitchen
@@ -233,7 +233,7 @@ sections:
   - slide-title: Kitchen (After)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-kitchen-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Kitchen
@@ -244,7 +244,7 @@ sections:
   - slide-title: Living Room (Before)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-before-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Living Room
@@ -255,7 +255,7 @@ sections:
   - slide-title: Living Room (After)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Living Room
@@ -266,7 +266,7 @@ sections:
   - slide-title: Indoor / Outdoor Dining (Before)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-progress-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Indoor / Outdoor Dining
@@ -277,7 +277,7 @@ sections:
   - slide-title: Indoor / Outdoor Dining (After)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Del Cerro Whole House Renovation
       main-content: Indoor / Outdoor Dining
