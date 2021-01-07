@@ -25,18 +25,31 @@ sections:
 - template: carousel
   block: carousel
   slide:
+  - slide-title: Michael & Stacey Testimonial
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      small-heading: ''
+      main-content: '“Murray Lampert completed a beautiful remodel of our master bathroom. We were completely satisfied with the process from planning, execution, to completion. This was a total cradle to grave operation, with nothing left to follow up or complete at a later date. The team was outstanding and I would recommend them to anyone looking for work to be done on or in their home!”'
+      detail: "- Michael & Stacy - Chula Vista"
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
   - slide-title: Julie & Richard Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
-      main-content: "“Professionalism every step of the way. Exceptional communication
-        in all aspects and phases of the project. The project was finished well ahead
-        of schedule, allowing us to move back in before the start of school.”"
+      main-content: "“I loved how everything went as planned and I was well-informed, every step of the way. It was a plus to have my story and photos in the SD Union Tribune! Everyone was friendly, respectful and professional.”"
       detail: "- Julie & Richard - Rancho Peñasquitos"
     cta:
       enabled: false
       color: white
+      button-text: ''
+      url: ''
   - slide-title: Dan & Jennifer Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
@@ -55,9 +68,28 @@ sections:
     text-overlay:
       background-color: sand
       alignment: left
-      main-content: "“The quality of the work, cost, and early completion of the project
-        makes us happy we choose Murray Lampert among the other contractors.”"
+      main-content: "“The quality of the work, cost, and early completion of the project makes us happy we choose Murray Lampert among the other contractors. The Murray Lampert team are great communicators, and they kept us informed throughout each phase of our project. We’ve received a lot of positive compliments on the quality and workmanship of the finished project.”"
       detail: "- Stan & Gemma - Spring Valley"
+    cta:
+      enabled: false
+      color: white
+  - slide-title: Ron & Lisa Testimonial
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      main-content: "“We hired Gregg and all the folks at Murray Lampert for our remodel and we were extremely pleased with their professionalism, communication, and quality of work. The design process was handled very well. Gregg and his team worked together to come up with plans that were practical and aesthetically pleasing without breaking the bank.”"
+      detail: "- Ron & Lisa - San Diego"
+    cta:
+      enabled: false
+      color: white
+  - slide-title: Robert Jassoy Testimonial
+    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      main-content: "“Gregg and his company did a fantastic job on our home remodel! The work was extensive, including moving walls, building a second story, bathrooms, cabinets, HVAC, tile work, etc. Highly recommend!”"
+      detail: "- Robert Jassoy - San Diego"
     cta:
       enabled: false
       color: white

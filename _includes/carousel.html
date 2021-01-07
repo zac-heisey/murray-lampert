@@ -13,6 +13,9 @@
         <p class="detail">{{ slide.text-overlay.detail }}</p>
         {% endif %}
       </div>
+      {% if slide.cta and slide.cta.enabled == true %}
+      <a class="btn {{ slide.cta.color }}" href="{{ slide.cta.url }}">{{ slide.cta.button-text }}</a>
+      {% endif %}
     </div>
     {% endfor %}
   </div>

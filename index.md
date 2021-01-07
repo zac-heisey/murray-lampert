@@ -11,9 +11,8 @@ sections:
     button-text: See How We Collaborate
     url: "/design-build-services-san-diego"
   background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-2.jpg"
-  heading: We listen first.<br>Then we design & build.
-  content: We listen so you know your home will reflect your lifestyle and design
-    style.
+  heading: Our Family<br>Your Home
+  content: We listen first, then we design & build.
 - template: grid
   block: grid
   grid-rows:
@@ -221,16 +220,15 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - slide-title: Johnson Testimonial
+  - slide-title: Julie & Richard Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: Whole Home Renovation in { location tbd }
       main-content: "“Professionalism every step of the way. Exceptional communication
         in all aspects and phases of the project. The project was finished well ahead
         of schedule, allowing us to move back in before the start of school.”"
-      detail: "- Lori & Bill Johnson"
+      detail: "- Julie & Richard - Rancho Peñasquitos"
     cta:
       enabled: false
       color: white
@@ -239,36 +237,49 @@ sections:
   - slide-title: Armida Testimonial
     background-image: "/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
-      background-color: blue
-      alignment: center
-      small-heading: Second Story & Kitchen Remodel in { location tbd }
+      background-color: sand
+      alignment: left
+      small-heading: ''
       main-content: "“It was a pleasure having Murray Lampert remodel my home. They
         were very attentive to any of my concerns and I couldn’t be happier with the
         the completed project. Everyone at Murray Lampert was amazing and great to
         work with.”"
-      detail: "- Armida"
+      detail: "- Armida - San Diego"
     cta:
       enabled: false
       color: white
       button-text: ''
       url: ''
-  - slide-title: Stan & Gema Testimonial
+  - slide-title: Stan & Gemma Testimonial
     background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
     text-overlay:
-      background-color: gray
-      alignment: right
-      small-heading: Room Addition & Remodel in Spring Valley
+      background-color: sand
+      alignment: left
+      small-heading: ''
       main-content: '“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
         of the work, cost, and early completion of the project makes us happy we choose
         Murray Lampert among the other contractors.”'
-      detail: "- Stan & Gema"
+      detail: "- Stan & Gemma - Spring Valley"
     cta:
-      enabled: true
+      enabled: false
       color: white
       button-text: ''
       url: ''
+  - slide-title: Dr. Rebecca Testimonial
+    background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
+    text-overlay:
+      background-color: sand
+      alignment: left
+      small-heading: ''
+      main-content: '“Murray Lampert has been a dream to work with from design through completion. I would pick them again for our next project.”'
+      detail: "- Dr. Rebecca - La Jolla"
+    cta:
+      enabled: true
+      color: blue
+      button-text: View Our Accolades
+      url: '/accolades'
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
@@ -279,7 +290,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: "/murray-lampert/version3/team-placeholder.png"
-  image-right: "/murray-lampert/version3/team-placeholder.png"
+  image-left: "/murray-lampert/version3/placeholder-2.jpg"
+  image-right: "/murray-lampert/version3/placeholder-3.jpg"
 
 ---
