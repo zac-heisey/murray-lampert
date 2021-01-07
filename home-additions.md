@@ -50,13 +50,13 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Home Addition Project 1
+    - item: Home Addition Second Story Stairs
       image-info:
-        image: "/murray-lampert/version3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/home-additions-6.jpg"
         text-overlay:
-          small-heading: Small Heading
-          main-content: Primary Description of Project or Image
-          detail: Some More Details
+          small-heading: ''
+          main-content: ''
+          detail: ''
           url: ''
       video-id: ''
       text-info:
@@ -70,13 +70,13 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Home Addition Project 2
+    - item: Home Addition Exterior
       image-info:
-        image: "/murray-lampert/version3/process-stage-placeholder-1.jpg"
+        image: "/murray-lampert/version3/home-additions-4.jpg"
         text-overlay:
-          small-heading: Small Heading
-          main-content: Main Content or Primary Heading
-          detail: Detail Content
+          small-heading: ''
+          main-content: ''
+          detail: ''
           url: ''
       video-id: ''
       text-info:
@@ -92,9 +92,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Home Addition Project 3
+    - item: Home Addition Indoor/Outdoor Living Area 1
       image-info:
-        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/home-additions-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -112,9 +112,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Home Addition Project 4
+    - item: Home Addition Wagner Exterior
       image-info:
-        image: "/murray-lampert/version3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/wagner-exterior-after-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -132,6 +132,48 @@ sections:
         content: ''
       item-type: image
       item-span: 2
+  - row: 2 / 1
+    grid-items:
+    - item: Home Addition Living Room
+      image-info:
+        image: "/murray-lampert/version3/home-additions-5.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Home Addition Indoor/Outdoor Living Area 2
+      image-info:
+        image: "/murray-lampert/version3/services-additions.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
