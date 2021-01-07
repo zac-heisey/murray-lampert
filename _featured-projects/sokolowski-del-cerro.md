@@ -188,7 +188,7 @@ sections:
         content: "<h3>“Communication is critical to any big project, and everyone
           on the Murray Lampert team was an expert - responding promptly to any questions
           and keeping us constantly informed. Our beautiful project was finished on
-          time and on budget.”</h3><p><em>- Joan S. Homeowner</em></p>"
+          time and on budget.”</h3><p><em>- Mark Sokolowski</em></p>"
         heading: ''
       item-type: text
       item-span: 3
