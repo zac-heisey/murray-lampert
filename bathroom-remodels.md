@@ -33,13 +33,13 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Bathroom Project 1
+    - item: McEachern Bathroom 1
       image-info:
-        image: "/murray-lampert/version3/services-other.jpg"
+        image: "/murray-lampert/version3/mceachern-bathroom-after-6.jpg"
         text-overlay:
-          small-heading: Small Heading
-          main-content: Primary Description of Project or Image
-          detail: Some More Details
+          small-heading: ''
+          main-content: ''
+          detail: ''
           url: ''
       video-id: ''
       text-info:
@@ -53,31 +53,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Bathroom Project 2
+    - item: Fischer Bathroom
       image-info:
-        image: "/murray-lampert/version3/process-stage-placeholder-1.jpg"
-        text-overlay:
-          small-heading: Small Heading
-          main-content: Main Content or Primary Heading
-          detail: Detail Content
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-      item-type: image
-      item-span: 1
-  - row: 1 / 2
-    grid-items:
-    - item: Bathroom Project 3
-      image-info:
-        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/fischer-bathroom-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -95,7 +73,29 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Bathroom Project 4
+  - row: 1 / 2
+    grid-items:
+    - item: Hutton Bathroom Vanity
+      image-info:
+        image: "/murray-lampert/version3/hutton-bathroom-after-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Wise Bathroom
       image-info:
         image: "/murray-lampert/version3/wise-bathroom.jpg"
         text-overlay:
@@ -115,6 +115,110 @@ sections:
         content: ''
       item-type: image
       item-span: 2
+  - row: 1 / 1 / 1
+    grid-items:
+    - item: Powers Bathroom Sink
+      image-info:
+        image: "/murray-lampert/version3/powers-bathroom-after-3.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Powers Bathroom Shower Tile
+      image-info:
+        image: "/murray-lampert/version3/powers-bathroom-after-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Powers Bathroom Tub
+      image-info:
+        image: "/murray-lampert/version3/powers-bathroom-after-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: 2 / 1
+    grid-items:
+    - item: Cava Bathroom Vanity
+      image-info:
+        image: "/murray-lampert/version3/cava-bathroom-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Cava Bathroom Shower
+      image-info:
+        image: "/murray-lampert/version3/cava-bathroom-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
 - template: call-to-action
   block: call-to-action
   layout: Full-Width

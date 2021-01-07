@@ -19,7 +19,7 @@ sections:
     button-text: ''
     url: ''
   heading: The Latest Trends in Bathroom Remodeling
-  background-image: "/murray-lampert/version3/services-other.jpg"
+  background-image: "/murray-lampert/version3/mceachern-bathroom-after-6.jpg"
   content: ''
 - template: post-meta-data
   block: post-meta-data
