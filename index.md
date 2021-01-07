@@ -10,7 +10,7 @@ sections:
     color: white
     button-text: See How We Collaborate
     url: "/design-build-services-san-diego"
-  background-image: "/murray-lampert/version3/hero-bg.png"
+  background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-2.jpg"
   heading: We listen first.<br>Then we design & build.
   content: We listen so you know your home will reflect your lifestyle and design
     style.
@@ -226,7 +226,7 @@ sections:
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: Customer Testimonial - Whole Home Renovation
+      small-heading: Whole Home Renovation in { location tbd }
       main-content: "“Professionalism every step of the way. Exceptional communication
         in all aspects and phases of the project. The project was finished well ahead
         of schedule, allowing us to move back in before the start of school.”"
@@ -241,7 +241,7 @@ sections:
     text-overlay:
       background-color: blue
       alignment: center
-      small-heading: Customer Testimonial - Second Story & Kitchen Remodel
+      small-heading: Second Story & Kitchen Remodel in { location tbd }
       main-content: "“It was a pleasure having Murray Lampert remodel my home. They
         were very attentive to any of my concerns and I couldn’t be happier with the
         the completed project. Everyone at Murray Lampert was amazing and great to
@@ -257,13 +257,13 @@ sections:
     text-overlay:
       background-color: gray
       alignment: right
-      small-heading: Customer Testmonial - Room Addition & Remodel
-      main-content: "“We contacted 4 top contractors in the San Diego area to do our
+      small-heading: Room Addition & Remodel in Spring Valley
+      main-content: '“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
         of the work, cost, and early completion of the project makes us happy we choose
-        Murray Lampert among the other contractors.”"
-      detail: "- Stan & Gema, Spring Valley"
+        Murray Lampert among the other contractors.”'
+      detail: "- Stan & Gema"
     cta:
       enabled: true
       color: white
