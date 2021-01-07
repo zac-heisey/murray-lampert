@@ -61,6 +61,12 @@ section.carousel-container {
 
       }
 
+      &.none {
+
+        box-shadow: none;
+
+      }
+
       &.right {
 
         text-align: right;
