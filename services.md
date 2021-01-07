@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/our-services-bg.jpg"
+  background-image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
   heading: The Art of Listening.<br>The Craft of Building.
   content: Design-build delivers a home that's more you.
 - template: rich-text
@@ -43,9 +43,9 @@ sections:
 - template: process-stages
   block: process-stages
   process-stages:
-  - stage: Stage Number 1
+  - stage: Design Stage
     stage-info:
-      image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
+      image: "/murray-lampert/version3/sokolowski-del-cerro-sketchy-1.jpg"
       text-info:
         heading: Design
         content: "<p>Our architect will collaborate with you to home in on your wants
@@ -55,9 +55,9 @@ sections:
           asbestos, and send a camera down the sewer lines. We do this upfront to
           reduct any surprises later in the project. The final goal: you will know
           exactly what to expect and you'll receive a precise quote.</p>"
-  - stage: Stage Number 2
+  - stage: Pre-construction Stage
     stage-info:
-      image: "/murray-lampert/version3/process-stage-placeholder-1.jpg"
+      image: "/murray-lampert/version3/placeholder-2.jpg"
       text-info:
         heading: Pre-construction
         content: "<p>Once the design has been approved by you, we'll prepare the construction
@@ -66,18 +66,18 @@ sections:
           party, and we keep you updated throughout. At the same time, your interior
           designer will work with you to select details like tiles, flooring, paint
           colors, cabinets, and finishes.</p>"
-  - stage: Stage Number 3
+  - stage: Construction Stage
     stage-info:
-      image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
+      image: "/murray-lampert/version3/placeholder-5.jpg"
       text-info:
         heading: Construction
         content: "<p>Successful construction is about proactive communication. You
           can expect weekly progress meetings with your project manager and almost
           daily email updates with photos. Because we handle all aspects of the construction,
           you can expect rapid progress.</p>"
-  - stage: Stage Number 4
+  - stage: Post-construction Stage
     stage-info:
-      image: "/murray-lampert/version3/wise-bathroom.jpg"
+      image: "/murray-lampert/version3/accolades-bg.jpg"
       text-info:
         heading: Post-construction
         content: "<p>We conduct a final inspection and perform the final punch list.
