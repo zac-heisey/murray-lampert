@@ -65,6 +65,13 @@ img {
 
 /* Common Styles */
 
+/* Set default scroll behavior */
+html {
+
+  scroll-behavior: smooth;
+
+}
+
 /* Initially load system font while custom fonts load */
 body, h1, h2, h3 {
 
