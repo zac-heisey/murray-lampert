@@ -197,7 +197,7 @@ sections:
     gallery-items:
     - item: Green Construction
       image-info:
-        image: "/murray-lampert/version3/services-green-construction.jpg"
+        image: "/murray-lampert/version3/green-construction-2.jpg"
         text-overlay:
           heading: Green Construction
           content: Murray Lampert is proud be to a Green Certified company, and a

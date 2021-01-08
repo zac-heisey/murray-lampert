@@ -86,7 +86,7 @@ sections:
     gallery-items:
     - item: Green Construction
       image-info:
-        image: "/murray-lampert/version3/services-green-construction.jpg"
+        image: "/murray-lampert/version3/green-construction-2.jpg"
         text-overlay:
           heading: Green Construction
           content: Murray Lampert is proud be to a Green Certified company, and a
@@ -96,7 +96,7 @@ sections:
             url: "/san-diego-green-home-construction"
     - item: Other Remodeling Services
       image-info:
-        image: "/murray-lampert/version3/mceachern-bathroom-after-6.jpg"
+        image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
         text-overlay:
           content: Interior and exterior remodels, minor updates to major renovations.
             If you have a dream remodeling project in mind, we can help make it a
