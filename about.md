@@ -250,8 +250,8 @@ sections:
     color: white
     button-text: Contact Murray Lampert
     url: "/contact/"
-  image-left: "/murray-lampert/version3/mceachern-bathroom-after-6.jpg"
-  image-right: "/murray-lampert/version3/services-green-construction.jpg"
+  image-left: "/murray-lampert/version3/mldbr-team-micah-architect.jpg"
+  image-right: "/murray-lampert/version3/mldbr-team-alyson-designer-2.jpg"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
 
