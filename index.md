@@ -11,7 +11,7 @@ sections:
     button-text: See How We Collaborate
     url: "/design-build-services-san-diego"
   background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-2.jpg"
-  heading: Our Family<br>Your Home
+  heading: Our Family. Your Home.
   content: We listen first, then we design & build.
 - template: grid
   block: grid
@@ -20,7 +20,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/team-placeholder.png"
+        image: "/murray-lampert/version3/mldbr-team-bbb.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
