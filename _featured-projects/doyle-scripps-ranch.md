@@ -113,29 +113,6 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-  - row: 3 (text)
-    grid-items:
-    - item: Client Testimonial
-      image-info:
-        image: ''
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: sand
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        content: "<h3>“Lorem ipsum say stuff that is nice right here.”</h3><p><em>-
-          Doyle</em></p>"
-        heading: ''
-      item-type: text
-      item-span: 3
 - template: carousel
   block: carousel
   slide:
