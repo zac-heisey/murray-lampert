@@ -4,10 +4,27 @@ title: Scripps Ranch Kitchen & Living Room Upgrade
 description: ''
 featured-image: "/murray-lampert/version3/doyle-kitchen-after-1.jpg"
 project-details:
-- Detail 1
-- Detail 2
-- Detail 3
-project-overview: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+- Located in Scripps Ranch
+- Built in 1971
+- Kitchen Addition
+- Open Floor Plan
+- Indoor/Outdoor Updates
+- Transitional Design Style
+project-overview: <p>Scripps Ranch is a beautiful suburban area that is sought after
+  by families for its tight-knit community. Located just Interstate 15, it is a great
+  centralized location in San Diego. The homeowners for this project have spent most
+  of their lives here raising their children and decided to make the far move (up
+  the street) to downsize, leaving their long term home to their son and his family.
+  They were extremely close to the prior homeowner, who was a dear friend and neighbor
+  of theirs for many years. They were excited to have the opportunity to purchase
+  the 1971 property and remodel it to be their forever home.</p><p class="MsoNormal">The
+  entire home was renovated, as was the landscaping. This included a small addition
+  to the back side of the house to accommodate a larger kitchen. We designed a new
+  space plan to help create a more open floor plan as they love entertaining. Adding
+  large sliding doors to the communal area helped create that nice indoor/outdoor
+  feeling the homeowners were hoping for. Using materials and finishes of the transitional
+  style, we were able to create a comfortable place for the homeowners to create new
+  memories in.</p>
 sections:
 - template: grid
   block: grid
@@ -114,7 +131,8 @@ sections:
           enabled: false
           button-text: ''
           url: ''
-        content: "<h3>“Lorem ipsum say stuff that is nice right here.”</h3><p><em>- Doyle</em></p>"
+        content: "<h3>“Lorem ipsum say stuff that is nice right here.”</h3><p><em>-
+          Doyle</em></p>"
         heading: ''
       item-type: text
       item-span: 3
