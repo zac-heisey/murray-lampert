@@ -40,7 +40,14 @@ footer {
   nav {
 
     display: flex;
+    flex-direction: column;
     margin-bottom: 1rem;
+
+    @media (min-width: 425px) {
+
+      flex-direction: row;
+
+    }
 
     ul.menu-items {
 
