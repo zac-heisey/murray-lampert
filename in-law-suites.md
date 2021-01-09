@@ -105,26 +105,6 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Starks ADU Casita Exterior
-      image-info:
-        image: "/murray-lampert/version3/starks-adu-exterior-1.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-      item-type: image
-      item-span: 1
     - item: Starks ADU Casita Kitchen 1
       image-info:
         image: "/murray-lampert/version3/starks-adu-kitchen-1.jpg"
@@ -144,9 +124,7 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 2
-  - row: 3 (image)
-    grid-items:
+      item-span: 1
     - item: Starks ADU Casita Kitchen 2
       image-info:
         image: "/murray-lampert/version3/starks-adu-kitchen-2.jpg"
@@ -166,7 +144,49 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 3
+      item-span: 2
+  - row: 2 / 1
+    grid-items:
+    - item: Starks ADU Casita Exterior
+      image-info:
+        image: "/murray-lampert/version3/starks-adu-exterior-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Kowalewski ADU Garage Conversion
+      image-info:
+        image: "/murray-lampert/version3/kowalewski-adu-after-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
