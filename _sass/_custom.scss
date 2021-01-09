@@ -4,9 +4,28 @@
 
 main[data-page="about"] {
 
+  section.hero-banner:first-of-type {
+
+    background-position: center top;
+
+  }
+
   section.hero-banner:not(:first-of-type) + section.rich-text {
 
     margin-top: 0;
+
+  }
+
+  section.carousel-container {
+
+    max-width: 1200px;
+    margin: 4rem auto;
+
+    .carousel .slide {
+
+      background-position: center top;
+
+    }
 
   }
 
