@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/murray-lampert/version3/team-placeholder.png"
+  background-image: "/murray-lampert/version3/mldbr-team-1.png"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
@@ -28,12 +28,12 @@ sections:
 - template: carousel
   block: carousel
   slide:
-  - slide-title: Family photo
-    background-image: "/murray-lampert/version3/team-placeholder.png"
+  - slide-title: Gregg, Lisa, and Rachel Cantor
+    background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"
     text-overlay:
       background-color: none
       alignment: center
-      small-heading: Murray Lampert
+      small-heading: Meet the Cantors
       main-content: 4 Generations of Design-Build Expertise
       detail: ''
     cta:
@@ -41,13 +41,39 @@ sections:
       color: white
       button-text: ''
       url: ''
-  - slide-title: Placeholder
-    background-image: "/murray-lampert/version3/process-stage-placeholder-2.jpg"
+  - slide-title: Design Team
+    background-image: "/murray-lampert/version3/mldbr-team-designers-1.jpg"
     text-overlay:
       background-color: none
       alignment: center
-      small-heading: Small Heading
-      main-content: Some Fancy Words Will Eventually Go Right Here
+      small-heading: ''
+      main-content: ''
+      detail: ''
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
+  - slide-title: Team On Jobsite
+    background-image: "/murray-lampert/version3/mldbr-team-on-jobsite.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: ''
+      main-content: ''
+      detail: ''
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
+  - slide-title: Matt and Danny
+    background-image: "/murray-lampert/version3/mldbr-team-matt-and-danny.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: ''
+      main-content: ''
       detail: ''
     cta:
       enabled: false
