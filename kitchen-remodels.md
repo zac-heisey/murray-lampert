@@ -31,9 +31,9 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: ADU Kitchen
+    - item: Hall Kitchen Full View
       image-info:
-        image: "/murray-lampert/version3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/hall-kitchen-after-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -177,7 +177,7 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Hall Kitchen
+    - item: Hall Kitchen Sink, Stove, and Backsplash
       image-info:
         image: "/murray-lampert/version3/hall-kitchen-after-2.jpg"
         text-overlay:
