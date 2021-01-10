@@ -83,5 +83,17 @@ sections:
         content: ''
       item-type: image
       item-span: 3
-
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  heading: Ready to start the conversation?
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: ''
+  image-right: ''
+  
 ---
