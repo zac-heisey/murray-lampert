@@ -115,7 +115,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
         text-overlay:
           small-heading: San Diego Kitchen Remodels
           main-content: Upgrade and Modernize Your Kitchen & Dining Space

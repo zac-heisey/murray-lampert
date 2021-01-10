@@ -11,7 +11,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/services-kitchen.jpg"
+  background-image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
   heading: This is what listening<br>looks like.
   content: Every home is a testament to the collaboration between Murray Lampert and
     our customers.
@@ -41,7 +41,7 @@ sections:
   - gallery-items:
     - item: Kitchens
       image-info:
-        image: "/murray-lampert/version3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
         text-overlay:
           heading: Kitchen Remodels
           content: Transform your outdated kitchen with our custom kitchen remodeling

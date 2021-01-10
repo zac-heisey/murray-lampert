@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/kitchen-remodeling-bg.jpg"
+  background-image: "/murray-lampert/version3/wise-kitchen-after-2.jpg"
   heading: Kitchen Remodeling in San Diego
   content: Refresh Your Outdated Kitchen and Modernize Your Counters, Cabinets, Fixtures,
     and Appliances
@@ -95,7 +95,7 @@ sections:
       item-span: 1
     - item: Wise Kitchen
       image-info:
-        image: "/murray-lampert/version3/services-kitchen.jpg"
+        image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
