@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/wise-bathroom.jpg"
+  background-image: "/murray-lampert/version3/wise-bathroom-after-1.jpg"
   heading: Bathroom Remodeling in San Diego
   content: Expand and revitalize your master or guest bathroom with our custom San
     Diego bathroom remodeling services
@@ -97,7 +97,7 @@ sections:
       item-span: 1
     - item: Wise Bathroom
       image-info:
-        image: "/murray-lampert/version3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/wise-bathroom-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -162,7 +162,7 @@ sections:
             url: "/san-diego-kitchen-remodels"
     - item: Bathrooms
       image-info:
-        image: "/murray-lampert/version3/wise-bathroom.jpg"
+        image: "/murray-lampert/version3/wise-bathroom-after-1.jpg"
         text-overlay:
           heading: Bathroom Remodels
           content: Expand and revitalize your master or guest bathroom with our custom
