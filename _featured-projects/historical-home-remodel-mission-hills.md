@@ -1,6 +1,6 @@
 ---
 layout: featured-project
-title: Historical Home Remodel in Mission Hills
+title: Historical Remodel in Mission Hills
 description: Historical home remodel in Mission Hills, CA. View this and other featured
   home remodeling projects from Murray Lampert.
 featured-image: "/murray-lampert/version3/berry-exterior-after-1.jpg"
@@ -13,7 +13,18 @@ project-details:
 - Family Room with Custom Entertainment Cabinetry
 - Preservation of Original Staircase
 - Refacing of Existing Fireplace Masonry
-project-overview: "<p>REPLACE ME!!</p>"
+project-overview: <p>Architectural design, structural engineering, historical review,
+  permit processing and construction were all part of a whole-home renovation of this
+  1909 Craftsman in Mission Hills.<br><br>This was a true "soup to nuts" home remodeling
+  project and included new wood doors and window installations, replacing of all the
+  horizontal redwood siding, installing a new 50-year architectural shingle roof and
+  completely gutting the full interior of the home.<br><br>The kitchen was renovated
+  with distressed finish wood cabinets, granite countertops, commercial-grade appliances,
+  a farmhouse sink, and a full-height tile and stone backsplash. In the formal dining
+  room, the original wood floors were restored to their former glory, and a new bay
+  window extension offered ample room for a custom china cabinet.</p><p>Our team also
+  brought a non-permitted room addition up to code, which now serves as a wonderful
+  sitting/reading room for the homeowners.</p>
 sections:
 - template: grid
   block: grid
