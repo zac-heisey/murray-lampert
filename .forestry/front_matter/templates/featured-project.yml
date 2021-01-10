@@ -55,3 +55,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- _featured-projects/point-loma-garage-to-adu-conversion.md
