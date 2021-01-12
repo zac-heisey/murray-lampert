@@ -1,15 +1,36 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Getting the Most Value Out of Your Kitchen Remodel
 date: 2019-01-21 00:00:00 Z
 categories:
 - Infographics
 - Kitchen Remodeling
-featured-image: "/uploads/wise-kitchen-after-5.jpg"
-excerpt: When it comes to San Diego kitchen remodels, it is possible to spend less
+description: When it comes to San Diego kitchen remodels, it is possible to spend less
   while getting more from your investment. This infographic shows how to get the most
   value from your next kitchen remodel.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: Learn how to get the most bang for your buck when it comes to kitchen remodeling.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/hall-kitchen-after-2.png"
+  heading: Getting the Most Value Out of Your Kitchen Remodel
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 ---
 
 Kitchen remodels are one of the most popular and cost-effective places to invest your home remodeling dollar. For one, a remodeled kitchen is a major boon to your home’s value and curb appeal. It’s the home project with the greatest return-on-investment when the time comes to sell your home.

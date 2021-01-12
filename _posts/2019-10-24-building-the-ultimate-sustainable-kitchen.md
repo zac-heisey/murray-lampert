@@ -42,6 +42,11 @@ If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-se
 <!-- Infographic from Custommade.com -->
 ![infographic showing simple ways to make a kitchen more sustainable]({{ site.cloudinary }}/murray-lampert/version3/sustainable-kitchen-infographic.jpg "{{ page.title }}")
 
+**Share this infographic on your site**
+<textarea>
+<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/sustainable-kitchen-infographic.jpg" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
+</textarea>
+
 ## Building the Ultimate Sustainable Kitchen
 
 ### The Environmental Impact of Construction & Renovation

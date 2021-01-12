@@ -1,15 +1,37 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Home Remodels That Pay Off
 date: 2019-03-06 00:00:00 Z
 categories:
 - Infographics
 - Home Remodeling
-featured-image: https://res.cloudinary.com/zheisey/image/upload/c_fill,h_700,w_1000/murray-lampert/mceachern/mceachern-kitchen-after-4.jpg
-excerpt: Knowing the return on investment of a home remodeling project can help you
+description: Knowing the return on investment of a home remodeling project can help you
   plan and prepare. This infographic breaks down 7 home remodels that can pay off
   for homeowners.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: See which home remodeling projects pay off...and which you should put off.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/wise-kitchen-after-2.png"
+  heading: 7 Home Remodeling Projects that Pay Off
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact/"
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
 _This infographic comes from the team at Reclaimed Designworks_
@@ -50,4 +72,4 @@ Not only does new siding enhance the look of your property, it can also lower yo
 
 **7) Building a Deck or Patio**
 
-More and more homeowners are beginning to see their backyard patios, [decks](/the-pros-guide-to-deck-restoration/), and other outdoor areas as extensions of their interior living spaces. Homes featuring customized, well-designed [outdoor living spaces](/san-diego-outdoor-living-space-design) are more desirable to both homeowners and potential buyers. 
+More and more homeowners are beginning to see their backyard patios, [decks](/the-pros-guide-to-deck-restoration/), and other outdoor areas as extensions of their interior living spaces. Homes featuring customized, well-designed [outdoor living spaces](/san-diego-outdoor-living-space-design) are more desirable to both homeowners and potential buyers.

@@ -56,7 +56,7 @@ To further illustrate what makes design-build such a great process for executing
 
 **Share this infographic on your site**
 <textarea>
-<p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://www.murraylampert.com/infographic-visual-guide-to-the-design-build-process/"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-visual-guide-to-design-build.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p>
+<p><a href="http://www.murraylampert.com/infographic-visual-guide-to-the-design-build-process/"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-visual-guide-to-design-build.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a></p>
 </textarea>
 
 ## A Visual Guide to the Design-Build Process
