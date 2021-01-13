@@ -165,17 +165,18 @@ p {
 
 }
 
+/* Lists */
+
 ul {
 
   list-style-position: inside;
   margin-inline-start: 2rem;
 
-  li > p {
+}
 
-    display: inline-block;
-    margin: 0.25rem 0;
+li {
 
-  }
+  margin-bottom: 0.5rem;
 
 }
 
