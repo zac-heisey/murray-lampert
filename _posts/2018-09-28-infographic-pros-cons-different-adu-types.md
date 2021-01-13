@@ -41,7 +41,7 @@ To help get you started, we’ve put together a high-level overview of some comm
 
 **Share this infographic on your site**
 <textarea>
-<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/murray-lampert/version3/infographic-pros-cons-different-adu-types.png" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
+<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-pros-cons-different-adu-types.png" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
 </textarea>
 
 ## Pros and Cons of Different ADU Types

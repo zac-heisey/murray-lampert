@@ -1,30 +1,51 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - What’s In a Door? Everything You Need to Know to Pick the Right
   One
 date: 2014-12-31 14:00:42 Z
-permalink: "/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/"
 categories:
 - Interior Design
 - Infographics
-excerpt: Choosing a door to compliment your home remodeling project can be tough.
+description: Choosing a door to compliment your home remodeling project can be tough.
   Murray Lampert has an infographic to help you choose the perfect door.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: The right door can make all the difference when it comes to a remodeling project. Here's how to make sure you choose the right one.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/wise-exterior-after-1.png"
+  heading: What's in a Door? Everything - Choose One Wisely
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.
 
-![Choosing a Door Infographic](/uploads/1411_infographic-murray-lampert-types-of-doors.jpg "{{ page.title }}")
+![Choosing a Door Infographic]({{ site.cloudinary }}/murray-lampert/version3/infographic-whats-in-a-door.jpg "{{ page.title }}")
 
-### Share This Door Infographic On Your Site
+**Share this infographic on your site**
+<textarea>
+<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-whats-in-a-door.jpg" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
+</textarea>
 
-<textarea><p><strong>Please include attribution to <a href="http://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="http://murraylampert.com/infographic-whats-in-a-door-everything-you-need-to-know-to-pick-the-right-one/"><img src="http://murraylampert.com/uploads/1411_infographic-murray-lampert-types-of-doors.jpg" alt=What’s In a Door? Everything You Need to Know to Pick the Right One" width="802" height="4909" border="0" /></a></p></textarea>
-
-#### What’s In a Door? Everything You Need to Know to Pick the Right One
+### Keys to Selecting the Right Type of Door
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.
-
----
 
 <strong>Popular Types of Doors</strong>
 <ul>
@@ -33,7 +54,6 @@ Doors can add style and sophistication to your home, but how do you choose the r
 	<li>French: Framed around transparent or fogged glass, French doors add style to a room entrance and maximize light.</li>
 	<li>Folding doors: Vary popular in San Diego due to the indoor outdoor space trend.</li>
 </ul>
----
 
 <strong>Material Matters</strong>
 
@@ -100,7 +120,6 @@ What your door is made of is an important decision. Each material has its own un
 </ul>
 </li>
 </ul>
----
 
 <strong>Customization Options</strong>
 <ul>
@@ -112,7 +131,6 @@ What your door is made of is an important decision. Each material has its own un
 	<li>Framing and Trim</li>
 	<li>Color and Stain</li>
 </ul>
----
 
 <strong>Open the Door of Possibilities: Some Tips</strong>
 <ul>
@@ -120,6 +138,3 @@ What your door is made of is an important decision. Each material has its own un
 	<li>Understand colors: Wood stain can provide an elegant look, but choosing the color wisely will make a lasting impression on your home’s curb appeal. Consider your home’s overall color scheme, including any landscaping elements.</li>
 	<li>Be mindful of your home’s style and personality: a modern home with bright colors may not mix well with a rustic, old-style door. Keep your options open, but take visual cues from the rest of your house to find the door that’s right for you.</li>
 </ul>
----
-
-Brought to you by Murray Lampert Construction | murraylampert.com

@@ -42,7 +42,7 @@ Below we compare a variety of common home remodeling projects in 3 key Californi
 
 **Share this infographic on your site**
 <textarea>
-<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/murray-lampert/version3/infographic-comparing-real-remodeling-costs-in-california.png" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
+<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/infographic-comparing-real-remodeling-costs-in-california.png" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
 </textarea>
 
 ## Comparing Real Remodeling Costs in California
