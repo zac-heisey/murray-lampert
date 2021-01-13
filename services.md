@@ -184,7 +184,7 @@ sections:
             button-text: View Home Additions
             url: "/san-diego-home-additions"
     - image-info:
-        image: "/murray-lampert/version3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/fischer-kitchen-after-1.jpg"
         text-overlay:
           heading: In-Law Suites
           content: In-law suites and granny flats are popular ways for San Diegans

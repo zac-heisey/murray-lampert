@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/services-in-law-suites.jpg"
+  background-image: "/murray-lampert/version3/fischer-kitchen-after-1.jpg"
   heading: San Diego In-Law Suites & ADUs
   content: Granny Flats, In-Law Suites, and ADUs are Extremely Popular in San Diego
 - template: rich-text
@@ -65,7 +65,7 @@ sections:
     grid-items:
     - item: ADU Kitchen
       image-info:
-        image: "/murray-lampert/version3/services-in-law-suites.jpg"
+        image: "/murray-lampert/version3/fischer-kitchen-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -12,7 +12,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/services-in-law-suites.jpg"
+  background-image: "/murray-lampert/version3/fischer-kitchen-after-1.jpg"
   heading: 7 Things to Know About Granite Kitchen Countertops
 - template: post-meta-data
   block: post-meta-data
