@@ -4,7 +4,7 @@ date: 2018-06-20 00:00:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/contractor-referral-services.jpg"
-excerpt: Home contractor referral services and platforms can be helpful, but they
+description: Home contractor referral services and platforms can be helpful, but they
   should also be used with caution. Learn about the good and bad of contractor referral
   platforms.
 author: Gregg Cantor

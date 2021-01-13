@@ -4,7 +4,7 @@ date: 2019-06-05 14:30:00 Z
 categories:
 - Kitchen Remodeling
 featured-image: "/uploads/pelander-kitchen-1.jpg"
-excerpt: Quartz countertops are a popular option for kitchen remodels. Before making
+description: Quartz countertops are a popular option for kitchen remodels. Before making
   the final choice to go with quartz, check out these 7 things to know about quartz
   kitchen countertops.
 author: Gregg Cantor

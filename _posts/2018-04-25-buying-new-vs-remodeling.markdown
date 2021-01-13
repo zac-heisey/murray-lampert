@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Real Estate
 featured-image: "/uploads/buy-new-vs-remodel.jpg"
-excerpt: There are both pros and cons to buying a new home and remodeling your current
+description: There are both pros and cons to buying a new home and remodeling your current
   one. We cover some of the benefits and drawbacks to both options to help you make
   an informed decision.
 author: Gregg Cantor

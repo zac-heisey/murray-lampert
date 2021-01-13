@@ -4,7 +4,7 @@ date: 2018-05-21 00:00:00 Z
 categories:
 - Kitchen Remodeling
 featured-image: "/uploads/cava-621-i-ave-kd-35.jpg"
-excerpt: Need kitchen countertop ideas? We examine the most popular kitchen countertop
+description: Need kitchen countertop ideas? We examine the most popular kitchen countertop
   materials, along with some pros and cons of each type of kitchen countertop.
 author: Gregg Cantor
 layout: blocks

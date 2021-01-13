@@ -5,7 +5,7 @@ date: 2017-11-21 21:58:00 Z
 categories:
 - Community
 featured-image: "/uploads/home-construction-giving-tuesday.jpg"
-excerpt: 'This #GivingTuesday, consider donating to these 5 nonprofits dedicated to
+description: 'This #GivingTuesday, consider donating to these 5 nonprofits dedicated to
   building and renovating homes in both San Diego and beyond.'
 author: Gregg Cantor
 layout: blocks

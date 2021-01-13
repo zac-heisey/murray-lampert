@@ -4,7 +4,7 @@ date: 2019-04-03 14:20:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/rising-energy-bills.jpg"
-excerpt: How do you know when it’s time to replace and upgrade your windows? Here
+description: How do you know when it’s time to replace and upgrade your windows? Here
   are 7 clear indicators your home is in need of new windows.
 author: Gregg Cantor
 layout: blocks

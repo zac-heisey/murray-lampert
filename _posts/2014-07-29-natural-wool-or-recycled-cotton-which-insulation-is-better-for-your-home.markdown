@@ -5,7 +5,7 @@ permalink: "/natural-wool-or-recycled-cotton-which-insulation-is-better-for-your
 categories:
 - Home DIY Tips
 - Green Construction
-excerpt: Both natural wool and recycled cotton are great option for eco-friendly home
+description: Both natural wool and recycled cotton are great option for eco-friendly home
   insulation. Murray Lampert Design, Build, Remodel discusses each in further detail.
 author: Gregg Cantor
 layout: blocks

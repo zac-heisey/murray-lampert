@@ -4,7 +4,7 @@ date: 2017-12-20 00:00:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/thermostat.png"
-excerpt: Energy efficiency has never been easier. Read these DIY home maintenance
+description: Energy efficiency has never been easier. Read these DIY home maintenance
   strategies to low your San Diego energy bill this winter.
 author: Gregg Cantor
 layout: blocks

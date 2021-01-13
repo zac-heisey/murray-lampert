@@ -4,7 +4,7 @@ date: 2018-02-09 14:55:00 Z
 categories:
 - Interior Design
 featured-image: "/uploads/mehdizadeh-rendering8.png"
-excerpt: Understanding the importance of lighting in the interior design of your San
+description: Understanding the importance of lighting in the interior design of your San
   Diego home will help you take full advantage of its aesthetic. Plus, learn our top
   tips for enhancing the lighting in your home.
 author: Gregg Cantor

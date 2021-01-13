@@ -5,7 +5,7 @@ permalink: "/how-much-will-my-home-remodeling-project-cost/"
 categories:
 - Home Remodeling
 featured-image: "/uploads/gallery/before-after/metcalf9_wafter.jpg"
-excerpt: Home remodeling costs vary greatly depending on project location, size, scope,
+description: Home remodeling costs vary greatly depending on project location, size, scope,
   finishes, and more. Murray Lampert helps highlight some of the contributing cost
   factors.
 author: Gregg Cantor

@@ -4,7 +4,7 @@ date: 2019-02-27 14:30:00 Z
 categories:
 - In-law Suites
 featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/accessory-dwelling-units-ADU-CA.jpg
-excerpt: While they were previously thought of as exotic additions or quirky living
+description: While they were previously thought of as exotic additions or quirky living
   spaces, many San Diego homeowners are capitalizing on the ADU movement. As popularity
   rises, so does creativity.
 author: Gregg Cantor

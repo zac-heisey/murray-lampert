@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Community
 featured-image: "/uploads/home-improvement-remodeling-blogs.jpg"
-excerpt: At Murray Lampert, we're always on the lookout for helpful resources to share
+description: At Murray Lampert, we're always on the lookout for helpful resources to share
   with homeowners. Here are 6 of our favorite home improvement & remodeling blogs
   to follow - besides our own, of course!
 author: Gregg Cantor

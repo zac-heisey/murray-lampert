@@ -5,7 +5,7 @@ categories:
 - Outdoor Spaces
 - In-law Suites
 featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/log-cabin-adu.jpg
-excerpt: Granny Flats and Accessory Dwelling Units (ADUs) can come in all shapes,
+description: Granny Flats and Accessory Dwelling Units (ADUs) can come in all shapes,
   sizes, and styles. If you're the outdoorsy type, a small log cabin can make a great
   ADU to your primary residence.
 author: Gregg Cantor

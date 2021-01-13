@@ -5,7 +5,7 @@ categories:
 - Green Construction
 - Home DIY Tips
 featured-image: "/uploads/greening-outdoor-space.jpg"
-excerpt: San Diego homeowners are wise to make the most of their outdoor space by
+description: San Diego homeowners are wise to make the most of their outdoor space by
   creating livable environments that are low maintenance - allowing them to spend
   more time enjoying the outdoors than doing yard work.
 author: Gregg Cantor

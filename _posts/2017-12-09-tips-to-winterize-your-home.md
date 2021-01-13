@@ -5,7 +5,7 @@ categories:
 - Home DIY Tips
 - Green Construction
 featured-image: "/uploads/winterize-your-home.png"
-excerpt: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
+description: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
   your home will keep you safe while reducing energy!
 author: Gregg Cantor
 layout: blocks

@@ -4,7 +4,7 @@ date: 2018-03-08 00:00:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/pexels-photo-279719.jpeg"
-excerpt: Thinking about starting a San Diego home improvement project but not sure
+description: Thinking about starting a San Diego home improvement project but not sure
   how to finance it? Consider these 7 options to finance your next home remodeling
   project.
 author: Gregg Cantor

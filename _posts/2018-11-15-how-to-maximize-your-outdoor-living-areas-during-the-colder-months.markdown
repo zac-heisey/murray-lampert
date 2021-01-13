@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Outdoor Spaces
 featured-image: "/uploads/winter-outdoor-living-space-tips.jpg"
-excerpt: Cold weather is coming, and with it the desire to huddle up indoors. Resist
+description: Cold weather is coming, and with it the desire to huddle up indoors. Resist
   the temptation with these 7 tips to cozy up your outdoor living spaces for winter.
 author: Gregg Cantor
 layout: blocks

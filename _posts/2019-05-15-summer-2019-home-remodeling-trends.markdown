@@ -4,7 +4,7 @@ date: 2019-05-15 16:40:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/buy-new-vs-remodel.jpg"
-excerpt: Summer is here and we're excited to share the 5 home remodeling trends we
+description: Summer is here and we're excited to share the 5 home remodeling trends we
   believe will be huge this season. Check out our Summer 2019 home remodeling trends.
 author: Gregg Cantor
 layout: blocks

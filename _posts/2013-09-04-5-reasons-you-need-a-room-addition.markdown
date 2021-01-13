@@ -5,7 +5,7 @@ permalink: "/5-reasons-you-need-a-room-addition/"
 categories:
 - Home Additions
 featured-image: "/uploads/room-additions-1.jpg"
-excerpt: Sometimes it's better to expand your existing space with a room addition,
+description: Sometimes it's better to expand your existing space with a room addition,
   rather than move to a bigger home. Here are 5 good reasons to consider a room addition.
 author: Gregg Cantor
 layout: blocks

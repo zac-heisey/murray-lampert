@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Major Renovation
 featured-image: "/uploads/7-things-to-know-historic-home-renovation.jpg"
-excerpt: Renovating an old, historic home can be extremely rewarding. But navigating
+description: Renovating an old, historic home can be extremely rewarding. But navigating
   the ins and outs of historic home renovation isn't easy. Here are 7 things to know
   before renovating an historic home.
 author: Gregg Cantor

@@ -5,7 +5,7 @@ permalink: "/cool-landscaping-trends-for-warm-san-diego-nights/"
 categories:
 - Outdoor Spaces
 featured-image: "/uploads/cool-landscaping-trends.jpg"
-excerpt: Make the most of your San Diego outdoor living space with these hot landscaping
+description: Make the most of your San Diego outdoor living space with these hot landscaping
   trends to keep your outdoor space cool.
 author: Gregg Cantor
 layout: blocks

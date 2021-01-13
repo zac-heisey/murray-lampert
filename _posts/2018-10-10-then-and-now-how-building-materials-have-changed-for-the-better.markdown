@@ -5,7 +5,7 @@ categories:
 - Green Construction
 - Home Remodeling
 featured-image: "/uploads/buiding-materials-then-and-now.jpg"
-excerpt: Building materials used 20+ years ago were not as safe as they are today.
+description: Building materials used 20+ years ago were not as safe as they are today.
   If you are planning on renovating an older home, it's important to understand how
   to do it safely.
 author: Gregg Cantor

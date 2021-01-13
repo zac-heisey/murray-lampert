@@ -5,7 +5,7 @@ permalink: "/green-home-improvements-a-beginners-guide/"
 categories:
 - Green Construction
 featured-image: "/uploads/green-home-improvements-beginners-guide.jpg"
-excerpt: The green movement also includes tackling various green home improvement
+description: The green movement also includes tackling various green home improvement
   projects to increase the efficiency and environmental impact of your home.
 author: Gregg Cantor
 layout: blocks

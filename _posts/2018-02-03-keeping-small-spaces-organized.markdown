@@ -4,7 +4,7 @@ date: 2018-02-03 01:22:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/keep-small-spaces-organized.png"
-excerpt: If you live in a small San Diego home, these tips will help you keep your
+description: If you live in a small San Diego home, these tips will help you keep your
   home organized and clutter free. It's all about utilizing the space you have! Click
   to read our creative tips for maximizing space.
 author: 'Gregg Cantor '

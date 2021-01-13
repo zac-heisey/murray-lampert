@@ -1,15 +1,37 @@
 ---
+layout: blocks
 title: 2018 Home Remodeling Trends
 date: 2018-02-22 00:00:00 Z
 categories:
 - Home Remodeling
 - Home DIY Tips
 - Guides
-featured-image: "/uploads/wise-living-room-render-1.jpg"
-excerpt: Check out the top home remodeling trends in 2018 from kitchens and baths,
+description: Check out the top home remodeling trends in 2018 from kitchens and baths,
   to interior design and outdoor living spaces. Read the full guide at MurrayLampert.com
-author: Gregg Cantor
-layout: blocks
+secondary-heading: We examine what are likely to be the most popular home remodeling trends of 2018.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/wise-bathroom-after-3.jpg"
+  heading: 2018 Home Remodeling Trends
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
 ## 2018 Will Be the Year of Home efficiency

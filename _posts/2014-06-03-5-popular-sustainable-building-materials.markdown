@@ -4,7 +4,7 @@ date: 2014-06-03 08:00:00 Z
 permalink: "/5-popular-sustainable-building-materials/"
 categories:
 - Green Construction
-excerpt: From bamboo to paper, Murray Lampert Design, Build, Remodel covers 5 popular
+description: From bamboo to paper, Murray Lampert Design, Build, Remodel covers 5 popular
   sustainable building materials for your next green construction project.
 author: Gregg Cantor
 layout: blocks

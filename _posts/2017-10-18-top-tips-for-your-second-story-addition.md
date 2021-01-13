@@ -4,7 +4,7 @@ date: 2017-10-18 22:06:00 Z
 categories:
 - Home Additions
 featured-image: "/uploads/second-story-remodel.png"
-excerpt: Need more space for your family in San Diego without increasing your homes’
+description: Need more space for your family in San Diego without increasing your homes’
   overall footprint? Read our tips for second story additions before deciding if it
   is the right option for you.
 author: Gregg Cantor

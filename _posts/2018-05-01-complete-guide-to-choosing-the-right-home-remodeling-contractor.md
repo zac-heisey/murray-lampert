@@ -5,7 +5,7 @@ categories:
 - Home Remodeling
 - Guides
 featured-image: "/uploads/q2-content-pillar-graphic.png"
-excerpt: This comprehensive guide will help homeowners find, vet, and work with the
+description: This comprehensive guide will help homeowners find, vet, and work with the
   right remodeling contractor for their renovation project. Check it out here!
 author: Gregg Cantor
 layout: blocks

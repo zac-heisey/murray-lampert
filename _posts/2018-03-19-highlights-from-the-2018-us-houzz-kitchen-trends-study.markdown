@@ -4,7 +4,7 @@ date: 2018-03-19 21:13:00 Z
 categories:
 - Kitchen Remodeling
 featured-image: "/uploads/2018-us-houzz-kitchen-trends-study.png"
-excerpt: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for homeowners
+description: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for homeowners
   and remodelers alike. We highlight a few of the main takeaways from this year's
   study.
 author: Gregg Cantor

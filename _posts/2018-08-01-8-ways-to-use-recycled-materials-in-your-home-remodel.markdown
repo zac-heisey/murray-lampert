@@ -5,7 +5,7 @@ categories:
 - Green Construction
 - Home Remodeling
 featured-image: "/uploads/recycled-materials-in-home-remodel.jpg"
-excerpt: Here are 8 ways for homeowners to go green and utilized recycled materials
+description: Here are 8 ways for homeowners to go green and utilized recycled materials
   in their next home remodeling project.
 author: Gregg Cantor
 layout: blocks

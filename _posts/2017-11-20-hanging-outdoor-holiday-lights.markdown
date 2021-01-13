@@ -6,7 +6,7 @@ categories:
 - Outdoor Spaces
 - Community
 featured-image: "/uploads/holiday-lights.png"
-excerpt: Being festive has never been easier with these 8 essential tips for hanging
+description: Being festive has never been easier with these 8 essential tips for hanging
   holiday lights outside your San Diego home from Murray Lampert Design, Build, Remodel.
 author: Gregg Cantor
 layout: blocks

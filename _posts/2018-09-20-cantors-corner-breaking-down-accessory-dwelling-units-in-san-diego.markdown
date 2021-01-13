@@ -5,7 +5,7 @@ categories:
 - Cantor's Corner
 - In-law Suites
 featured-image: "/uploads/cantors-corner.png"
-excerpt: The Affordable Housing Act of 2016 paved the way for more relaxed rules and
+description: The Affordable Housing Act of 2016 paved the way for more relaxed rules and
   regulations on ADUs (Accessory Dwelling Units), especially in areas with housing
   shortages such as San Diego County.
 author: Gregg Cantor

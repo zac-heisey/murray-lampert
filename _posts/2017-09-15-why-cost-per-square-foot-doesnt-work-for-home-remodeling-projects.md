@@ -6,7 +6,7 @@ categories:
 - Home Remodeling
 layout: blocks
 featured-image: "/uploads/cost-per-square-foot.jpg"
-excerpt: There are many factors that impact remodeling costs in San Diego. Learn why
+description: There are many factors that impact remodeling costs in San Diego. Learn why
   cost per square foot isn't accurate in estimating your remodeling project costs.
 author: Gregg Cantor
 ---

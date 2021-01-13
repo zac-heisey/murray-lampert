@@ -4,7 +4,7 @@ date: 2018-10-17 13:02:00 Z
 categories:
 - Home DIY Tips
 featured-image: "/uploads/stormwater-management.jpg"
-excerpt: Proper stormwater management is an oft-forgotten responsibility of many homeowners.
+description: Proper stormwater management is an oft-forgotten responsibility of many homeowners.
   Learn more stormwater management to prevent flooding, reduce erosion, and protect
   your home.
 author: Gregg Cantor

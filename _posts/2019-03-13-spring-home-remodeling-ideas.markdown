@@ -4,7 +4,7 @@ date: 2019-03-13 18:35:00 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/spring-home-remodeling-ideas.jpg"
-excerpt: Now's the time to start thinking about those projects you’ve put off all
+description: Now's the time to start thinking about those projects you’ve put off all
   winter. Here are 8 home remodeling projects to freshen up your home this spring.
 author: Gregg Cantor
 layout: blocks

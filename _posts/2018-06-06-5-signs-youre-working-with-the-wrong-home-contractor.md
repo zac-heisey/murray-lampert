@@ -4,7 +4,7 @@ date: 2018-06-06 00:00:01 Z
 categories:
 - Home Remodeling
 featured-image: "/uploads/contractor.jpg"
-excerpt: Having trouble working with or selecting a remodeling contractor? Here are
+description: Having trouble working with or selecting a remodeling contractor? Here are
   5 signs you're working with (or about to work with) the wrong home remodeling contractor.
 author: Gregg Cantor
 layout: blocks

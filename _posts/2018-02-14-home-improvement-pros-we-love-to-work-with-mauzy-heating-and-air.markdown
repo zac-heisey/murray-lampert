@@ -4,7 +4,7 @@ date: 2018-02-14 18:50:00 Z
 categories:
 - Community
 featured-image: "/uploads/mauzy-team-photo.png"
-excerpt: Murray Lampert loves supporting other local home improvement professionals.
+description: Murray Lampert loves supporting other local home improvement professionals.
   When it comes to HVAC, look no further than Mauzy Heating and Air! Click to read
   why we love working with this San Diego based company.
 author: 'Gregg Cantor '

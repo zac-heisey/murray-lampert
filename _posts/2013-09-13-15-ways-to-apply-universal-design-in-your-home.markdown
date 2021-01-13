@@ -4,7 +4,7 @@ date: 2013-09-13 09:00:00 Z
 permalink: "/15-ways-to-apply-universal-design-in-your-home/"
 categories:
 - Universal Design
-excerpt: We share 15 ways that modern homes can implement universal design principles
+description: We share 15 ways that modern homes can implement universal design principles
   to increase accessibility and comfort for residents with and without disabilities
 author: Gregg Cantor
 layout: blocks
