@@ -1,26 +1,48 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Comparing Real Remodeling Costs in California
 date: 2018-08-22 00:08:00 Z
 categories:
 - Real Estate
 - Infographics
-featured-image: "/uploads/comparing-real-remodeling-costs-in-california-header.png"
-excerpt: Owning a home in California can be expensive, but how do remodeling costs
+description: Owning a home in California can be expensive, but how do remodeling costs
   compare across different real estate markets in the state? We compare remodeling
   costs in San Francisco, Los Angeles, and San Diego.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: We compare remodeling project costs in San Francisco, Los Angeles, and San Diego.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-3.png"
+  heading: Comparing Home Remodeling Project Costs in California
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
 It’s no secret that real estate and housing costs in California are high, especially for buyers in the market for new homes. If the sticker shock of new home prices in California have you rethinking a move, it pays to consider whether or a not a remodeling project might be a viable option.
 
 Below we compare a variety of common home remodeling projects in 3 key California housing markets: San Francisco, Los Angeles, and San Diego. If you’re looking for more remodeling cost info, check out our [San Diego Home Remodeling Cost Calculator](/san-diego-home-remodeling-cost-calculator/) to learn how much your project may cost before you move forward.
 
-![Visual Guide to the Design-Build Process Infographic](/uploads/infographic-comparing-real-remodeling-costs-in-california.png "{{ page.title }}")
+![Visual Guide to the Design-Build Process Infographic]({{ site.cloudinary }}/murray-lampert/version3/infographic-comparing-real-remodeling-costs-in-california.png "{{ page.title }}")
 
 **Share this infographic on your site**
 <textarea>
-  <p><strong>Please include attribution to <a href="https://www.murraylampert.com/">Murray Lampert Design, Build, Remodel</a> with this infographic.</strong></p><p><a href="https://www.murraylampert.com/infographic-comparing-real-remodeling-costs-in-california/"><img src="https://www.murraylampert.com/uploads/infographic-comparing-real-remodeling-costs-in-california.png" alt="visual guide to the design-build process infographic" title="{{ page.title }}" width="802" height="4909" border="0" /></a></p>
+<p><a href="{{ site.url }}{{ page.url }}" target="_blank"><img src="{{ site.cloudinary }}/murray-lampert/version3/murray-lampert/version3/infographic-comparing-real-remodeling-costs-in-california.png" alt="{{ page.title }} infographic" title="{{ page.title }}" style="width: 100%; max-width: 800px; height: auto; border: 0;" /></a></p><p>Source: <a href="http://www.murraylampert.com/" target="_blank">Murray Lampert Design, Build, Remodel</a></p>
 </textarea>
 
 ## Comparing Real Remodeling Costs in California

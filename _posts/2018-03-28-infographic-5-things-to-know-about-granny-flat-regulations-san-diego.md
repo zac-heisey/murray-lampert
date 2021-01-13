@@ -1,29 +1,49 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - 5 Things to Know About Granny Flat Regulations in San Diego
 date: 2018-03-28 00:00:00 Z
 categories:
 - In-law Suites
 - Infographics
-featured-image: "/uploads/ADU-sketch-hausable.png"
-excerpt: In this animated infographic, we outline 5 important things homeowners should
+description: In this animated infographic, we outline 5 important things homeowners should
   know about recent changes to ADU regulations in San Diego.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: It can be tough keeping up with the changing rules and regulations for San Diego ADUs. This animated infographic can help!
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.png"
+  heading: 5 Things to Know About Granny Flat Regulations in San Diego
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
 The popularity of Accessory Dwelling Units (ADUs) - also known as "granny flats" or "in-law suites" - continues to grow in California. The state saw a **63% increase in approved ADU construction permits in 2017** compared to 2016.
 
 In San Diego, that [increase jumps to 71%](https://www.10news.com/news/california-sees-rise-in-granny-flat-construction), mainly due to recently loosened regulations and a simplified permitting process for qualified homeowners. In the animated infographic below, we break down 5 important things that homeowners should know about the recent changes to state and city regulations for ADUs before starting construction on their new [San Diego granny flat](/san-diego-in-law-suites).
 
-<div class="spacing"></div>
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/93rf4U-gUNM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<lite-youtube videoid="93rf4U-gUNM" style="background-image: url('https://i.ytimg.com/vi/{{ item.video-id }}/hqdefault.jpg');">
+</lite-youtube>
 
 **Want to share this animated infographic on your website? Copy + paste the code below - enjoy!**
 <textarea style="width:100;height:200">
-  <p>This animated infographic was created by <a href='https://www.murraylampert.com'>Murray Lampert Design, Build, Remodel</a>.</p><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/93rf4U-gUNM?rel=0&amp;showinfo=0" frameborder="0" title="{{ page.title }}" alt="animated infographic of san diego granny flat regulations" allowfullscreen></iframe>
+<p>This animated infographic was created by <a href='https://www.murraylampert.com'>Murray Lampert Design, Build, Remodel</a>.</p><br />
+<iframe width="560" height"315" src="https://www.youtube.com/embed/93rf4U-gUNM?rel=0&amp;showinfo=0" frameborder="0" title="{{ page.title }}" alt="animated infographic of san diego granny flat regulations" allowfullscreen></iframe>
 </textarea>
 
 ### 5 Things to Know About Granny Flat Regulations in San Diego

@@ -2,7 +2,7 @@
 
   <div class="lock">
     <!-- Pulls from content area of Forestry/post file -->
-    {{ page.content }}
+    {{ page.content | replace: "<li><p>", "<li>" | replace: "</p></li>", "</li>" }}
 
   </div>
 

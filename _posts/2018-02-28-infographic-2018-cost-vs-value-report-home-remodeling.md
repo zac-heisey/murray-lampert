@@ -1,32 +1,41 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - 2018 Cost vs. Value Report of Common Home Remodeling Projects
 date: 2018-02-28 00:00:00 Z
 categories:
 - Home Remodeling
 - Infographics
-featured-image: "/uploads/cost-vs-value-2018-logo.png"
-excerpt: We created an animated infographic of 5 key takeaways from this years' Cost
+description: Here are the 5 key takeaways from this years' Cost
   vs. Value report from Remodeling Magazine, plus insights for San Diego homeowners.
-author: Gregg Cantor
-layout: blocks
+secondary-heading: Check out our 5 key takeaways from the 2018 Cost vs. Value report from Remodeling Magazine.
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/2018-cost-vs-value.png"
+  heading: 2018 Cost vs. Value Report of Common Home Remodeling Projects
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 ---
 
-This [year's Cost vs. Value Report ](http://www.remodeling.hw.net/cost-vs-value/2018/) from Remodeling Magazine reports an overall decline cost-value ratio compared to 2017 (56.8% vs. 64.3%). The report looks at 21 popular [home remodeling](https://murraylampert.com/san-diego-home-remodel-services) projects and examines the value they retain across 100 U.S. markets. While the 2018 report shows a lower rate of return on average across all project types and markets, there are some positives to highlight for homeowners looking to start a remodeling project this year - especially on the West Coast.
+This [year's Cost vs. Value Report ](http://www.remodeling.hw.net/cost-vs-value/2018/) from Remodeling Magazine reports an overall decline cost-value ratio compared to 2017 (56.8% vs. 64.3%). The report looks at 21 popular [home remodeling](/design-build-services-san-diego) projects and examines the value they retain across 100 U.S. markets. While the 2018 report shows a lower rate of return on average across all project types and markets, there are some positives to highlight for homeowners looking to start a remodeling project this year - especially on the West Coast.
 
-**In the animated infographic below, we share some key points from this year's report.**
-
-<div class="spacing"></div>
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jzFu2N95UmA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-**Want to share this animated infographic on your website? Copy + paste the code below - enjoy!**
-<textarea style="width:100;height:200">
-  <p>This animated infographic was created by <a href='https://www.murraylampert.com'>Murray Lampert Design, Build, Remodel</a>.</p><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jzFu2N95UmA?rel=0&amp;showinfo=0" frameborder="0" title="2018 Home Remodeling Cost vs. Value Report Animated Infographic" alt="animated infographic of 2018 cost vs. value of common home remodeling projects" allowfullscreen></iframe>
-</textarea>
-
-### Our Top 5 Takeaways from the 2018 Cost vs. Value Report Home Remodeling Report
+### 5 Takeaways from the 2018 Cost vs. Value Report
 
 1. **Replace Doors, Windows, and Siding for High Recoups** - Swapping out or upgrading your garage door, entry door, siding, or vinyl windows are all small, weekend projects that won’t break the bank and have a high cost recoup percentage (74% - 98%).
 
@@ -46,6 +55,6 @@ This [year's Cost vs. Value Report ](http://www.remodeling.hw.net/cost-vs-value/
 
 - San Diego continues to post solid numbers in these Cost vs. Value reports, with more of the same in 2018. As you can see below, San Diego homeowners enjoy favorable cost recouped percentages vs. both the regional and national averages.
 
-![table of cost vs. value data for home remodeling in San Diego](/uploads/san-diego-cost-vs-value-data-2018.png "San Diego 2018 Remodeling Cost vs. Value Data")
+![table of cost vs. value data for home remodeling in San Diego]({{ site.cloudinary }}/murray-lampert/version3/san-diego-cost-vs-value-data-2018.png "San Diego 2018 Remodeling Cost vs. Value Data")
 
-Looking for more remodeling trends? Our complete [2018 Home Remodeling Trends](/2018-home-remodeling-trends/) guide has you covered! Check out some of our other infographics highlighting previous Cost vs. Value reports from [2014](https://murraylampert.com/to-remodel-or-not-to-remodel-cost-vs-value-in-2014-infographic/) and [2015](https://murraylampert.com/infographic-luxury-living-cost-vs-value-home-improvements-2/) as well.
+Looking for more remodeling trends? Our complete [2018 Home Remodeling Trends](/2018-home-remodeling-trends/) guide has you covered!
