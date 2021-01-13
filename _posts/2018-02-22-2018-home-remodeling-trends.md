@@ -34,13 +34,11 @@ sections:
 
 ---
 
-## 2018 Will Be the Year of Home efficiency
-
 As we begin a new year, it's a great time to consider those home improvement projects you've been putting off. Upgrades to your home's aesthetic appeal and functionality will not only increase its overall value, but it also provides a additional ease and comfort to your everyday life.
 
 For the busy homeowner, knowing where to start with your [home remodeling](/san-diego-home-remodel-services) project can be challenging. A great way to come up with ideas and inspiration is to understand the latest trends, particularly those which are likely to stick around after 2018 and beyond. The last thing any homeowner wants is to invest in custom redesign or remodeling project, only to have it go out of style shortly after.
 
-In this in-depth guide, we'll share with you the latest home remodeling trends that we believe will stand the test of time. We hope you draw inspiration from some of these [home design](/san-diego-home-design-services) and remodeling ideas, and gain actionable insights about some of the hottest trends in the industry.
+In this in-depth guide, we'll share with you the latest home remodeling trends that we believe will stand the test of time. We hope you draw inspiration from some of these home design and remodeling ideas, and gain actionable insights about some of the hottest trends in the industry.
 
 At [Murray Lampert Design, Build, Remodel](/), we do our best to offer valuable information to our community through useful articles, guides, tutorials, and expert insights. If you find this guide useful, please share it with your family and friends, or let us know what you think on [Facebook](https://facebook.com/MurrayLampertDBR/), [Twitter](https://twitter.com/murraylampert), or [Houzz](https://www.houzz.com/pro/gcantor/murray-lampert-design-build-remodel).
 
@@ -56,7 +54,7 @@ There are few things that can brighten up a home as much as a freshly remodeled 
 
 2018 will see some [popular design ideas](http://mayaconstructioninc.com/blog/remarkable-kitchen-design-ideas) expanded upon to create entire kitchen themes. Best of all, many of these kitchen remodel trends can be adjusted to fit any budget and completed in a fairly fast timeframe. Without further ado, here are the top 6 [San Diego kitchen remodeling](/san-diego-kitchen-remodeling-services) trends we see on the horizon for 2018.
 
-![image of remodeled kitchen in Coronado](https://d33wubrfki0l68.cloudfront.net/e0ef5bbd221921e1761675005f854ab18f37138a/a903f/uploads/cava-621-i-ave-kd-33.jpg "Hot Kitchen Trends in 2018")
+![image of Hall remodeled kitchen]({{ site.cloudinary }}/murray-lampert/version3/hall-kitchen-after-3.jpg "Hot Kitchen Trends in 2018")
 
 **1) Smart Kitchens**
 
@@ -80,7 +78,7 @@ One of the most noticeable trends that is sweeping San Diego in kitchen remodeli
 
 Pendant lights will be featured heavily over islands and bar areas. There are several ways that people decide to hang the lights, whether it be varying heights or custom integration to allow visual layering to the foreground. Working with an interior designer to choose pendant lighting is key. You’ll want to choose fixtures that will outlast the latest fads. This kitchen remodel idea is picking up more steam with each passing day, and is relatively inexpensive.
 
-![image of custom kitchen remodel](https://d33wubrfki0l68.cloudfront.net/26af467379ac856df7a754c59f03114a31a24a93/d4bb9/uploads/gallery/kitchens/dang-tran-kitchen2a.jpg "Pendant Lighting, Stainless Steel, and Open Kitchen Concepts")
+![image of Dang Tran kitchen remodel]({{ site.cloudinary }}/murray-lampert/version3/dang-tran-kitchen-after-1.jpg "2018 Kitchen Remodeling Trends")
 
 **4) Open Shelving Concept**
 
@@ -106,7 +104,7 @@ Bathrooms are often overlooked when it comes to home remodeling. They are often 
 
 From color schemes to styles of toilets and tubs, there is plenty of room for creativity in a bathroom remodel. The remodeling process has begun to encompass full floor plans, so bathrooms are high on the priority list. 2018 is said to be the year of bathroom remodels, and homeowners are craving peaceful, tranquil spaces that stand out from the typical wash rooms you see.
 
-![image of white bathroom with minimal grout lines](https://d33wubrfki0l68.cloudfront.net/803a16d509de1a5d8e30d166842771d41025accd/946ea/uploads/cava-621-i-ave-kd-13.jpg "Plain and Simple Bathroom Designs in 2018")
+![image of white bathroom with minimal grout lines]({{ site.cloudinary }}/murray-lampert/version3/cava-bathroom-2.jpg "2018 Bathroom Remodeling Trends")
 
 **1) Plain and Simple Design**
 
@@ -162,7 +160,7 @@ We predict this to be a huge trend in 2018 because outdoor living spaces are inc
 
 When considering a second story addition, it’s important to find a design-build firm that is an expert in the process. This kind of home remodel requires structural engineering knowledge, permitting, and excellent project management.
 
-![image of San Diego second story home addition](https://murraylampert.com/uploads/2013/09/ML-interior_hero-second_stories.jpg "Second Story Addition Project in San Diego")
+![image of San Diego second story home addition]({{ site.cloudinary }}/murray-lampert/version3/home-additions-4.jpg "2018 Home Addition Trends")
 
 **Smart Lighting**
 
@@ -178,7 +176,7 @@ This option is a necessary one for any growing or multi-generation family. This 
 
 The need for better accessibility in San Diego homes is a result of older generations moving in with loved ones, as well as expanding on the ever popular open-floor plan. Common accommodations typically involve widening doorways, leveling showers and removing tub walls, decreasing steepness of steps, and adding custom yet stylish handrails where needed. Aging in place accommodations can even mean complete [in-law suite](https://murraylampert.com/san-diego-in-law-suites) renovations. This will add value to a home as well as open up many spaces that are typically closed off from the rest of the room.
 
-![image of granny flat in San Diego](https://murraylampert.com/uploads/granny-flat-in-law-suite-san-diego.jpg "Popularity of In-Law Suites is Growing in San Diego")
+![image of Starks granny flat in San Diego]({{ site.cloudinary }}/murray-lampert/version3/starks-adu-kitchen-2.jpg "Popularity of In-Law Suites is Growing in San Diego")
 
 **Mudrooms**
 
@@ -213,8 +211,6 @@ It's important to understand how changing trends will impact the future look of 
 **Natural Wood**
 
 Natural wood elements liven up a room with minimal effort. The calming and grounding tones of wood offer a peaceful yet structured feel. Wood, in general, is something that has seen a growing popularity in many aspects of home design. Ideally, natural wood should be used to accent the main features in a room. Let’s not go overboard!
-
-![image of home with white wood beam ceiling](https://murraylampert.com/uploads/hero_remodel.jpg "Natural Wood from Top to Bottom")
 
 Natural wooden mantles can provide a delicate touch to any living room setup. Wood furniture provides a pleasant tone, and can match most any color scheme you choose. Two story homes can add a gorgeous natural handrail for the stairs, or you can even opt for a wooden staircase entirely. There are many opportunities to incorporate natural wood within your San Diego home.
 
@@ -256,7 +252,7 @@ A [great outdoor living space](https://murraylampert.com/san-diego-outdoor-livin
 
 There are certainly a ton of tried-and-true design ideas for an outdoor space that have stood the test of time. Many of these ideas, such as decks, patios, and fire-pits will continue to grow in 2018. The similarity between the traditional outdoor living space ideas and the trends of 2018 is how they are creatively being used to better take advantage of technology and smaller landscapes. Here’s our take on some of the hottest outdoor living space trends for 2018.
 
-![image of San Diego outdoor living space](https://d33wubrfki0l68.cloudfront.net/747ada2dbb12fdb9ca9b4116aed6ce1f7ac5e4cc/5c9a3/uploads/gallery/outdoor-spaces/outdoor-spaces-08.jpg "Outdoor Living is Always In Style in San Diego")
+![image of San Diego outdoor living space]({{ site.cloudinary }}/murray-lampert/version3/services-additions.jpg "Outdoor Living is Always in Style in San Diego")
 
 **Outdoor Fireplaces**
 
@@ -282,9 +278,9 @@ Homeowners in San Diego have caught on to the numerous environmental benefits of
 
 Homeowners are getting educated on the benefits of using plant-life that thrives in our coastal desert climate and are following suit. Combine that with the rise in popularity with succulents and cacti, and you’ve got yourself a trend that will be standing the test of time.
 
-**Alfresco Kitchens**
+![image of xericape landscape]({{ site.cloudinary }}/murray-lampert/version3/xeriscaping-101.jpg "2018 Kitchen Remodeling Trends")
 
-![image of outdoor kitchen and grill](/uploads/gallery/outdoor-spaces/stone-outdoor-kitchen.jpg "Outdoor Kitchens Remain Popular in 2018")
+**Alfresco Kitchens**
 
 Once upon a time, alfresco kitchens were coveted by nearly every homeowner. They fell out of fashion in recent years, however, as homeowners struggled to justify the additional space, cost, and maintenance of an outdoor kitchen. With the growing trend of stay-at-home entertainment, we think 2018 will see many San Diego homes incorporating an Alfresco kitchen to bring the party outside.
 
@@ -294,8 +290,6 @@ Outdoor dining is growing tremendously in popularity. This outdoor trend goes we
 
 Water features have been a mainstay trend for many years. 2018 will see a growth in the diversity and creativity in how water features are incorporated and used. Many water features can even be controlled through an app.
 
-![image of backyard water feature](/uploads/webb-pool-wide.jpg "Water Features Remain an Outdoor Living Trend")
-
 Fountains, koi ponds, water falls, and [bubbling rocks](http://www.bluethumbponds.com/bubbling-rocks.html) will continue to be the top water feature choices for 2018. San Diego, in particular, has a great climate that allows these features to stay looking their best. Natural stone materials can be used to greatly increase the aesthetic appeal of these features. There is a ton of room for creativity with this trend.
 
 Outdoor living areas not only create a environment for entertaining and family memories, but they expand your living space and add value to your home. There is nothing worse than a beautiful San Diego home with a boring, unused outdoor area. The trends of 2018 point to full inclusion of technology, as well as customization of classic ideas. An outdoor living space can sell a home by itself if done correctly. San Diego features a gorgeous climate, and the homes in the area should have outdoor living spaces that take advantage of this.
@@ -303,4 +297,4 @@ Outdoor living areas not only create a environment for entertaining and family m
 ---
 
 #### Want your own copy of our 2018 Home Remodeling Trends guide? Get the full PDF version here:
-<a class="button default" href="https://murraylampert.com/uploads/2018-home-remodeling-trends.pdf" download>Download Guide</a>
+<a href="https://murraylampert.com/uploads/2018-home-remodeling-trends.pdf" download>Download Guide</a>
