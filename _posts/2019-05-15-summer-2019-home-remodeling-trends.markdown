@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: Summer 2019 Home Remodeling Trends
 date: 2019-05-15 16:40:00 Z
 categories:
 - Home Remodeling
-
 description: Summer is here and we're excited to share the 5 home remodeling trends we
   believe will be huge this season. Check out our Summer 2019 home remodeling trends.
 sections:
@@ -12,8 +12,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading:
+  background-image: "/murray-lampert/version3/stock-summer-remodeling-trends.jpg"
+  heading: Summer 2019 Home Remodeling Trends
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -29,9 +29,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 [Home remodeling trends and style guides](/4-home-remodeling-trends-to-watch-for-2019/) are everywhere; there’s no escaping them. We live in a world that never stops rolling with suggestions, tips, tricks, and pointers. But, as a design-build group, we see a lot of trends happening first hand, because – well –we work in and on homes! Many of these trends are not our taste, but there are still dozens that excite us. Over the last few months we’ve been observing the style choices on both Instagram and in the San Diego area, and as trend watchers, we think it’s safe to say we have an excellent list of trend concepts that will be quite popular as we move into summer. Check them out below!

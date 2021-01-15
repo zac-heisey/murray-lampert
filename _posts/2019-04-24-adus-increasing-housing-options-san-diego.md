@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: ADUs Increasing Housing Options in San Diego
 date: 2019-04-24 00:00:01 Z
 categories:
 - In-law Suites
-
 description: Murray Lampert was recently featured in an ABC 10 segment about how Accessory
   Dwelling Units (ADUs) are increasing housing options in San Diego. Check out the
   segment here.
@@ -13,8 +13,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  background-image: "/murray-lampert/version3/kowalewski-exterior-after-1.jpg"
+  heading: ADUs Increasing Housing Options in San Diego
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -30,9 +30,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 San Diego Mayor Kevin Faulkner has touted ADUs (Accessory Dwelling Units) as "some of the fastest housing options that we bring for renters, for families, for seniors." As part of [ABC 10's "Making It In San Diego" series](https://www.10news.com/news/making-it-in-san-diego/making-it-in-san-diego-granny-flat-permits-soar), this recent segment looks at whether or not relaxed local regulations and slashed fees have made a difference for homeowners looking to [add an in-law suite](/san-diego-in-law-suites) to their property.
@@ -43,6 +40,5 @@ Between 2016 and 2018, ADU permits in the city of San Diego increased over 1,000
 
 **Watch the full segment from San Diego ABC 10 below:**
 
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ghhPhEmTEgQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<lite-youtube videoid="ghhPhEmTEgQ" style="background-image: url('https://i.ytimg.com/vi/ghhPhEmTEgQ/hqdefault.jpg');">
+</lite-youtube>

@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: 10 Examples of Unique Accessory Dwellings
 date: 2019-02-27 14:30:00 Z
 categories:
 - In-law Suites
-
 description: While they were previously thought of as exotic additions or quirky living
   spaces, many San Diego homeowners are capitalizing on the ADU movement. As popularity
   rises, so does creativity.
@@ -13,8 +13,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  background-image: "/murray-lampert/version3/starks-adu-exterior-1.jpg"
+  heading: 10 Examples of Unique Accessory Dwellings
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -30,9 +30,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 When you hear the term Accessory Dwelling Unit for the first time, it may not ring an immediate bell. However, once you see the pictures and note the examples, you will immediately recognize the extra living spaces that are becoming so popular. Some of the many types you have likely come across include tiny homes in the backyard, studio apartments inside garages and converted barns with loft sleeping spaces.
@@ -73,13 +70,13 @@ Sometimes unused space is the best way to create an ADU. If you have a large eno
 
 ![backyard guest home adu](http://www.websterwilson.com/assets/img/work/work01_01.jpg "Modern Backyard Guest Home")
 
-This [backyard guest suite](http://www.websterwilson.com/work_ADUPortland.html) was built from the ground up in the backyard of a Portland, Oregon, home. It mirrors the architecture of the main house and looks more like an original extension of the home than a later addition. It boasts its own entrances, including a front door to the suite and an entrance to the backyard. Inside, the designers paired clean contemporary lines, large windows, wooden accents and white walls to create a cozy look. 
+This [backyard guest suite](http://www.websterwilson.com/work_ADUPortland.html) was built from the ground up in the backyard of a Portland, Oregon, home. It mirrors the architecture of the main house and looks more like an original extension of the home than a later addition. It boasts its own entrances, including a front door to the suite and an entrance to the backyard. Inside, the designers paired clean contemporary lines, large windows, wooden accents and white walls to create a cozy look.
 
 ### 7. The Cully ADU
 
 ![converted garage adu](https://mdjsj2j9du28uz4x3olr7ukm-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/cully-adu-01-700x467.jpg "Converted Garage ADU")
 
-When this family realized they weren’t making regular use of their detached garage, they decided to spruce things up a bit. They hired a construction company to convert the garage into a [480-square-foot guest area](https://hammerandhand.com/portfolio/cully-adu/) for entertaining and relaxation. The guest suite features white walls, with plenty of windows to let in natural light. The sloping ceilings also help to open up the space and make it feel roomy. 
+When this family realized they weren’t making regular use of their detached garage, they decided to spruce things up a bit. They hired a construction company to convert the garage into a [480-square-foot guest area](https://hammerandhand.com/portfolio/cully-adu/) for entertaining and relaxation. The guest suite features white walls, with plenty of windows to let in natural light. The sloping ceilings also help to open up the space and make it feel roomy.
 
 ### 8. Craftsman Mother-In-Law Suite
 
@@ -97,7 +94,7 @@ This [Craftsman-styled mother-in-law suite](https://www.houzz.com/photos/mother-
 
 ![efficient two-floor accessory dwelling unit](https://mdjsj2j9du28uz4x3olr7ukm-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/Super-Efficient-ADU-021-700x710.jpg "Efficient Two-Floor ADU")
 
-Designers built this [two-floor unit](https://hammerandhand.com/portfolio/super-efficient-adu/) to be high on function and low on cost, while utilizing as small a footprint as possible. The unit features a traditional exterior that hides a more modern interior composed of clean lines, hardwood floors, black kitchen cabinets, stainless steel appliances and a beautiful curved staircase. Upstairs, there is a bathroom, laundry area and bedroom. 
+Designers built this [two-floor unit](https://hammerandhand.com/portfolio/super-efficient-adu/) to be high on function and low on cost, while utilizing as small a footprint as possible. The unit features a traditional exterior that hides a more modern interior composed of clean lines, hardwood floors, black kitchen cabinets, stainless steel appliances and a beautiful curved staircase. Upstairs, there is a bathroom, laundry area and bedroom.
 
 ### 10. Guest Room Above Garage
 

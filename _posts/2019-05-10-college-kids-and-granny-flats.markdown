@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: College Kids and Granny Flats
 date: 2019-05-10 22:16:00 Z
 categories:
 - In-law Suites
-
 description: Granny flats are a great option for homeowners with college-aged children
   returning home between semesters. They offer privacy, independence, and preview
   of what life on their own is truly like.
@@ -13,8 +13,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  background-image: "/murray-lampert/version3/stock-college-kids-granny-flats.jpg"
+  heading: College Kids and Granny Flats
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -30,16 +30,13 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 _Ahh, tis’ the season, and we can see it & smell it now_. A pile of sweaty underwear, dozens of stinky socks, and countless odor infused t-shirts; all sitting right at the door of the laundry room. It’s the time of year where the water bill goes up, the grocery cart appears twice as full at check out, and all of the space and freedom that you had as an empty nester becomes temporarily occupied by your beautiful, college-aged children who are now home for summer vacation. And while having your kids home means a time to catch up and enjoy some well-needed family time, thoughts & concerns regarding your child’s independence and transition into functioning adulthood may be at hand.
 
 If you’re looking to provide an exceptional, life-learning summer for your children that will benefit the kids in the short run and yourself in the long run, we highly suggest that you look into [building a granny flat](/simple-homeowners-guide-to-san-diego-granny-flats/) on your property before summer strikes. Over the last five years, granny flats have taken over San Diego by a storm, and the way that they can benefit families and their finances has been remarkable. Granny flats provide consistent independence that your young-adult children need, and also provide you with a phenomenal piece of added value to your property at large.
 
-![type of accessory dwelling units](/uploads/ADU-sketch-hausable.png "types of accessory dwelling units")
+![type of accessory dwelling units]({{ site.cloudinary }}/murray-lampert/version3/adu-types-hausable.png "types of accessory dwelling units")
 
 [Granny flats](/3-things-to-know-about-granny-flat/), which are also known as “accessory dwelling units” or ADUs, are great for college students for a multitude of reasons. At the core, granny flats teach young adults life’s most basic skills at a conservative starting point. From buying their own groceries to cooking their own food to washing their own clothes to cleaning their own space, granny flats show young-adults what it’s like to not have mom & dad pick up after them, all while having mom & dad right next door. Granny flats give college students a chance to pick up right where they left off during their transition into adulthood at school, and show them new versions of independence that they can’t experience on campus.
 

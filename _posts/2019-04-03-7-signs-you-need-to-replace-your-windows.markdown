@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: 7 Signs You Need to Replace Your Windows
 date: 2019-04-03 14:20:00 Z
 categories:
 - Home Remodeling
-
 description: How do you know when it’s time to replace and upgrade your windows? Here
   are 7 clear indicators your home is in need of new windows.
 sections:
@@ -12,8 +12,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  background-image: "/murray-lampert/version3/berry-exterior-after-2.jpg"
+  heading: 7 Signs You Need to Replace Your Windows
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -29,9 +29,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 Windows sometimes appear like they have voices that talk to you as they age. They bend and warp. They get damaged or broken. They let in the outside weather and don’t trap heat from the inside like they once provided comfort.
@@ -88,15 +85,13 @@ Energy efficient [double pane windows](https://www.4feldco.com/articles/benefits
 
 Condensation. Yuck. While not every form of it is inherently bad, it’s not exactly pleasing to the eyes and can indicate more severe problems with the home.
 
-![window with condensation](/uploads/window-condensation.jpg)
-
 Do you regularly notice fog or other condensation build up on your glass? Some of this is natural on a particularly cold day, but excess build up is a red flag.
 
 Condensation that builds up between two panes of glass is telling that the seals are no longer effective in keeping out moisture. The windows will only continue to get more leaky, so it’s important to consider replacements as soon as possible.
 
-## 6. Your Furniture Is Fading 
+## 6. Your Furniture Is Fading
 
-Though you may not believe it’s directly related, furniture and other household items like carpet that are by a window can fade as a result of your windows. 
+Though you may not believe it’s directly related, furniture and other household items like carpet that are by a window can fade as a result of your windows.
 
 Single pane glass doesn’t do near as effective of a job at keeping out UV rays. These sun rays are very hard on material and fade colors over time.
 
@@ -113,8 +108,6 @@ There’s a reason double pane windows are preferred over single pane windows, t
 If you’re finding it harder to locate replacement parts, or find a knowledgeable repairman that can service them, perhaps it’s time to consider an upgrade.
 
 ### If You Notice These Signs, It’s Time to Replace Your Windows
-
-![exterior of home windows](/uploads/replace-your-windows.jpg)
 
 In the end, the eye test doesn’t lie. If the windows look bad, they’re hurting your curb appeal and it’s time to update.
 
