@@ -38,7 +38,7 @@ layout: blocks
 
 The Affordable Housing Act of 2016 paved the way for more relaxed rules and regulations on ADUs (Accessory Dwelling Units), commonly known as "in-law suites" or "companion units." California's housing shortage has led to a surge in ADU popularity, especial in areas of Southern California like Los Angeles and San Diego. In 2017, San Diego saw a 71% increase in ADU permits compared to the previous year.
 
-At [Murray Lamper Design, Build, Remodel](/), we've received tons of inquiries recently from homeowners looking to build ADUs as a way to keep loved ones close or subsidize their home mortgages with an on-site rental property. If you're interested in learning more about building an [in-law suite in San Diego](/san-diego-in-law-suites), [reach out to our team today](#quick-contact).
+At [Murray Lamper Design, Build, Remodel](/), we've received tons of inquiries recently from homeowners looking to build ADUs as a way to keep loved ones close or subsidize their home mortgages with an on-site rental property. If you're interested in learning more about building an [in-law suite in San Diego](/san-diego-in-law-suites), [reach out to our team today](/contact).
 
 **Check out this edition of Cantor's Corner below:**
 

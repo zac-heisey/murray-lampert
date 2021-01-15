@@ -53,4 +53,4 @@ Often times, different builders will give a different price for cost per square 
 
 Protect yourself as a homeowner by avoiding the question, “What is the cost per square foot on my remodel?” Most builders don’t like to answer this question because they know it is an inaccurate representation of the actual cost. A good builder will put more thought into your home and tell you what is realistic for your budget and what you want to achieve. Be sure to ask your builder how they determine the remodeling costs of a project before you start!
 
-If you have any questions about your [San Diego home remodel](/san-diego-home-remodel-services), contact Murray Lampert or reach out for a [free in-home consultation](#quick-contact)!
+If you have any questions about your [San Diego home remodel](/san-diego-home-remodel-services), contact Murray Lampert or reach out for a [free in-home consultation](/contact)!

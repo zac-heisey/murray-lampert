@@ -36,7 +36,7 @@ layout: blocks
 
 When it comes to choosing a material for their kitchen countertops, homeowners have no shortage of options. Depending on taste, style, and budget, there's a kitchen countertop material to perfectly complement any [kitchen remodel](/san-diego-kitchen-remodeling-services).
 
-Below we've outlined some of the most popular materials for kitchen countertops, along with some pros and cons of each material. If need some help choosing the right kitchen countertop for your remodeling project, our team is always here to help - [feel free to contact us with any questions!](#quick-contact)
+Below we've outlined some of the most popular materials for kitchen countertops, along with some pros and cons of each material. If need some help choosing the right kitchen countertop for your remodeling project, our team is always here to help - [feel free to contact us with any questions!](/contact)
 
 ### Quartz Kitchen Countertops
 

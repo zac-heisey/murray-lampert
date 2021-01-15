@@ -70,4 +70,4 @@ Before changing anything about a historic home, walk through it to get a feel fo
 
 When you buy a home, no matter the age or type, you want to buy it, remodel it and live in it with confidence. A [complete home inspection](/cantors-corner-permits-and-inspections/) gives you that peace of mind, because you know you’re aware of all the property’s problem areas. Things such as wood rot, mold, radon and lead are common in older homes, so be sure the home inspector checks for them in every corner, nook and cranny.
 
-No matter the age of your home, Murray Lampert Design, Build, Remodel is here to help bring out its best. [Reach out](#quick-contact) for help with [renovating your historic property](/featured-projects/historical-home-remodel-mission-hills/).
+No matter the age of your home, Murray Lampert Design, Build, Remodel is here to help bring out its best. [Reach out](/contact) for help with [renovating your historic property](/featured-projects/historical-home-remodel-mission-hills/).

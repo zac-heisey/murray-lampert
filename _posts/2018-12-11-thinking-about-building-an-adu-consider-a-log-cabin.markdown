@@ -54,4 +54,4 @@ The most tangible benefit of adding a log home on your property is that you incr
 
 It also enhances the appeal of your property when the time to sell, drawing professionals and business buyers, especially if your cabin is used as an office or work area. The presence of a log cabin on your land could easily add 5% to your total home value, according to Cabinmaster.
 
-Choosing to build a log cabin ADU is a unique way to add space, value, and character to your property. Log cabins are energy-efficient and easy to maintain, particularly when combined with the pared down floor plan of an ADU. If you're interested in learning more about building _your_ perfect [ADU in San Diego](/san-diego-in-law-suites), [reach out to our team today](#quick-contact)!
+Choosing to build a log cabin ADU is a unique way to add space, value, and character to your property. Log cabins are energy-efficient and easy to maintain, particularly when combined with the pared down floor plan of an ADU. If you're interested in learning more about building _your_ perfect [ADU in San Diego](/san-diego-in-law-suites), [reach out to our team today](/contact)!

@@ -77,4 +77,4 @@ A permanent or retractable roof over your patio or deck provides many benefits. 
 
 You may not have to pack away your bathing suits for the winter if you invest in a hot tub. On milder evenings, this provides you an opportunity to unwind and relax. Your guests will also enjoy the benefits of warming up in a hot bath under the stars. 
 
-Combine two or more of these solutions to put together the winter patio of your dreams. Your outdoor living spaces can be warm and cozy this season with a little help from Murray Lampert Design, Build, Remodel. [Contact us today and schedule your free consultation](#quick-contact).
+Combine two or more of these solutions to put together the winter patio of your dreams. Your outdoor living spaces can be warm and cozy this season with a little help from Murray Lampert Design, Build, Remodel. [Contact us today and schedule your free consultation](/contact).

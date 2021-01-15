@@ -70,4 +70,4 @@ Your home’s siding does a lot more than bring together the overall appearance 
 
 Much like your kitchen, the [bathroom](/san-diego-bathroom-remodeling-services) is another commonly used room in the house, which means it needs to look great and be as functional as possible. A new toilet, lights and vanity can make your bathroom look and feel brand new. No matter how you choose to renew the aesthetic of your bathroom, just make sure you’ve got proper ventilation for steam so you don’t have to deal with issues such as mold and mildew, which can lead to a number of other avoidable problems.
 
-Are you getting excited about increasing the value of your home without increasing your debt? [Reach out to us](#quick-contact) here at Murray Lampert Design, Build, Remodel for a free, in-home remodeling consultation.
+Are you getting excited about increasing the value of your home without increasing your debt? [Reach out to us](/contact) here at Murray Lampert Design, Build, Remodel for a free, in-home remodeling consultation.
