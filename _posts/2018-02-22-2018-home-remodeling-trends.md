@@ -52,7 +52,7 @@ Enjoy!
 
 There are few things that can brighten up a home as much as a freshly remodeled kitchen. The kitchen is undoubtedly the major selling point of a home, as well as a focal point for valuable family time.
 
-2018 will see some [popular design ideas](http://mayaconstructioninc.com/blog/remarkable-kitchen-design-ideas) expanded upon to create entire kitchen themes. Best of all, many of these kitchen remodel trends can be adjusted to fit any budget and completed in a fairly fast timeframe. Without further ado, here are the top 6 [San Diego kitchen remodeling](/san-diego-kitchen-remodeling-services) trends we see on the horizon for 2018.
+2018 will see some [popular design ideas](https://mayaconstructioninc.com/blog/remarkable-kitchen-design-ideas) expanded upon to create entire kitchen themes. Best of all, many of these kitchen remodel trends can be adjusted to fit any budget and completed in a fairly fast timeframe. Without further ado, here are the top 6 [San Diego kitchen remodeling](/san-diego-kitchen-remodeling-services) trends we see on the horizon for 2018.
 
 ![image of Hall remodeled kitchen]({{ site.cloudinary }}/murray-lampert/version3/hall-kitchen-after-3.jpg "Hot Kitchen Trends in 2018")
 
@@ -120,7 +120,7 @@ Consider [water-safe wood flooring](https://www.thespruce.com/best-and-worst-flo
 
 **3) Industrial Design**
 
-[Industrial design](http://www.architectureartdesigns.com/30-inspiring-industrial-bathroom-ideas/), in general, has been one of the hottest trends in home remodeling in recent years. The bathroom is no different. This design aims to create the look of an imperfect environment. Within this imperfect look, it is a completely elegant and structured design. Industrial design adds a sense of masculinity to a room, which can be unexpected in a bathroom space.
+[Industrial design](https://www.architectureartdesigns.com/30-inspiring-industrial-bathroom-ideas/), in general, has been one of the hottest trends in home remodeling in recent years. The bathroom is no different. This design aims to create the look of an imperfect environment. Within this imperfect look, it is a completely elegant and structured design. Industrial design adds a sense of masculinity to a room, which can be unexpected in a bathroom space.
 
 Bricks and exposed pipes are usually heavily emphasized in an industrial look. You can opt for waxed concrete flooring to provide that key unfinished aspect that gives industrial design its homage. Add a few decorations using rustic wood, and your bathroom is sure to be a modern, industrial masterpiece.
 
@@ -188,9 +188,9 @@ The mudroom can also double as a laundry space. Within the room, a families dirt
 
 No longer will the basement be considered a simple storage facility, laundry room, or dark space haunted by ghosts!  With the desire for relaxation at home growing by the day, 2018 will surely continue a unique trend of remodeling basements to be a place of leisure and entertainment.
 
-These [luxury basements](http://www.homeepiphany.com/27-luxury-finished-basement-designs/) often include a bar, bathroom addition, sitting area, and a simple dining area. Luxury basements can be juiced up further with extensive industrial or rustic décor additions. They don’t always need to be a man-cave, but many homeowners are opting to create them as such. Many San Diego’s choose to renovate their basements for rental property use. Let’s face it, San Diego is one of the most beautiful destinations in the country, and this can be a huge payoff.
+These [luxury basements](https://www.homeepiphany.com/27-luxury-finished-basement-designs/) often include a bar, bathroom addition, sitting area, and a simple dining area. Luxury basements can be juiced up further with extensive industrial or rustic décor additions. They don’t always need to be a man-cave, but many homeowners are opting to create them as such. Many San Diego’s choose to renovate their basements for rental property use. Let’s face it, San Diego is one of the most beautiful destinations in the country, and this can be a huge payoff.
 
-![image of luxury basement with full bar](http://homeepiphany.s3.amazonaws.com/wp-content/uploads/2015/07/27-Luxury-Finished-Basement-Designs-3.jpg "Luxury Basements are a 2018 Remodeling Trend")
+![image of luxury basement with full bar](https://homeepiphany.s3.amazonaws.com/wp-content/uploads/2015/07/27-Luxury-Finished-Basement-Designs-3.jpg "Luxury Basements are a 2018 Remodeling Trend")
 
 **Master Suites**
 
@@ -226,9 +226,9 @@ Metallics can be used to outline most aspects of your home. They work great arou
 
 **Dark Colors**
 
-It has been a while since dark colors were in style. Recent years have focused on white, cozy colors and neutral tones. 2018 will finally see the revival of [darker, more moody tones](http://www.hgtv.com/design-blog/design/moody-blues-greens-grays-decorating-with-blackish-paint-colors).
+It has been a while since dark colors were in style. Recent years have focused on white, cozy colors and neutral tones. 2018 will finally see the revival of [darker, more moody tones](https://www.hgtv.com/design-blog/design/moody-blues-greens-grays-decorating-with-blackish-paint-colors).
 
-![image of gray interior design](http://cdn.home-designing.com/wp-content/uploads/2013/03/grey-beach-house-2.jpg "Dark Colors Like Gray Will Be Big in 2018")
+![image of gray interior design](https://cdn.home-designing.com/wp-content/uploads/2013/03/grey-beach-house-2.jpg "Dark Colors Like Gray Will Be Big in 2018")
 
 Violets, dark blues, dark grays, and burgundies are all heavily trending as we head into 2018. The big theme behind this is contradicting tones between the interior wall colors and the furniture and accents within a room. Dark walls should make for light colored furniture selection. Lighter colored walls will pave the way for dark, aggressively toned furniture. This allows an aesthetic quarrel to happen that ends up being very pleasing to the eye.
 
@@ -290,7 +290,7 @@ Outdoor dining is growing tremendously in popularity. This outdoor trend goes we
 
 Water features have been a mainstay trend for many years. 2018 will see a growth in the diversity and creativity in how water features are incorporated and used. Many water features can even be controlled through an app.
 
-Fountains, koi ponds, water falls, and [bubbling rocks](http://www.bluethumbponds.com/bubbling-rocks.html) will continue to be the top water feature choices for 2018. San Diego, in particular, has a great climate that allows these features to stay looking their best. Natural stone materials can be used to greatly increase the aesthetic appeal of these features. There is a ton of room for creativity with this trend.
+Fountains, koi ponds, water falls, and [bubbling rocks](https://www.bluethumbponds.com/bubbling-rocks.html) will continue to be the top water feature choices for 2018. San Diego, in particular, has a great climate that allows these features to stay looking their best. Natural stone materials can be used to greatly increase the aesthetic appeal of these features. There is a ton of room for creativity with this trend.
 
 Outdoor living areas not only create a environment for entertaining and family memories, but they expand your living space and add value to your home. There is nothing worse than a beautiful San Diego home with a boring, unused outdoor area. The trends of 2018 point to full inclusion of technology, as well as customization of classic ideas. An outdoor living space can sell a home by itself if done correctly. San Diego features a gorgeous climate, and the homes in the area should have outdoor living spaces that take advantage of this.
 
