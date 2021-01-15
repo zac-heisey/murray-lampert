@@ -1,23 +1,43 @@
 ---
+layout: blocks
 title: Beware These 10 Hidden Costs During Your Home Remodel
 date: 2019-05-22 14:40:00 Z
 categories:
 - Home Remodeling
-featured-image: "/uploads/cash.jpeg"
 description: There is a lot to account for during a home remodel, and there's a good chance
   that unexpected costs will pop up. We identify 10 common hidden home remodeling
   costs to help you avoid them.
-author: Gregg Cantor
-layout: blocks
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-6.jpg"
+  heading: Beware These 10 Hidden Costs During Your Home Remodel
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
 ---
 
-Whether you’ve decided to add value to your home or need to turn your study into a nursery, you’ve finally decided it’s time to remodel. Unfortunately, no matter how hard you plan, you're destined to hit some roadblocks. 
+Whether you’ve decided to add value to your home or need to turn your study into a nursery, you’ve finally decided it’s time to remodel. Unfortunately, no matter how hard you plan, you're destined to hit some roadblocks.
 
 At [Murray Lampert Design, Build, Remodel](/), we understand how some renovation costs can sneak up on you and ruin your budget. Here are 10 of the most common hidden home remodeling costs we’ve encountered, and the best ways we’ve found to avoid them.
 
 ## 1. Demolition
 
-When planning major structural changes to your home, it’s inevitable that you’re going to need to throw some stuff away. As you tear down sheetrock, rip up carpet or take off countertops, you end up with a lot of debris. 
+When planning major structural changes to your home, it’s inevitable that you’re going to need to throw some stuff away. As you tear down sheetrock, rip up carpet or take off countertops, you end up with a lot of debris.
 
 Before work can begin, you may need to hire a demolition crew, and as they remove more and more, you should factor in dumpster rental and removal. Since curbside pickup will likely ignore large trash you leave at the side of the road, finding alternative methods of disposal is imperative.
 
@@ -30,7 +50,7 @@ As you start tearing into your walls and floor, you might come face to face with
 - Rot
 - Insect destruction
 - Lead contamination
-- Asbestos 
+- Asbestos
 
 When these problems crop up, they can be especially harmful due to exposure issues and may even add to costs if your house requires fumigation or expensive waste removal. To top it off, once those issues are addressed, you still have to finish construction!
 
@@ -42,7 +62,7 @@ Even if you don’t need to find other arrangements, your pets will need to sinc
 
 ## 4. Your Stuff
 
-It’s not just a matter of finding a place to put those who live in your house. Depending on the scope of your project, you may find it necessary to empty entire rooms of furniture and decorations, leaving you with little room to keep everything secure. 
+It’s not just a matter of finding a place to put those who live in your house. Depending on the scope of your project, you may find it necessary to empty entire rooms of furniture and decorations, leaving you with little room to keep everything secure.
 
 If there isn’t a place to put all of your belongings, you may need to consider storage facilities. If they still need to be accessible, you can rent an on-site container to keep everything locked up for the duration of construction.
 
