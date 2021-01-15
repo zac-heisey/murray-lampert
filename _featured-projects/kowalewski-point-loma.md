@@ -3,7 +3,7 @@ layout: featured-project
 title: Point Loma Garage to ADU Conversion
 description: Garage to ADU conversion in Point Loma, CA. View this and other featured
   home remodeling projects from Murray Lampert.
-featured-image: "/v1610304391/murray-lampert/version3/kowalewski-adu-after-2.jpg"
+featured-image: "/murray-lampert/version3/kowalewski-kitchen-after-1.jpg"
 project-details:
 - Point Loma Neighborhood
 - "~500 Square Feet"
@@ -14,10 +14,11 @@ sections:
 - template: grid
   block: grid
   grid-rows:
-  - grid-items:
+  - row: 1 / 2
+    grid-items:
     - item: Kowalewski Bedroom
       image-info:
-        image: "/v1610304391/murray-lampert/version3/kowalewski-adu-after-3.jpg"
+        image: "/murray-lampert/version3/kowalewski-adu-after-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -35,9 +36,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: 'Kowalewski Kitchen '
+    - item: Kowalewski Kitchen 1
       image-info:
-        image: "/v1610304391/murray-lampert/version3/kowalewski-adu-after-2.jpg"
+        image: "/murray-lampert/version3/kowalewski-kitchen-after-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -55,12 +56,11 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    row: 1 / 2
-  - row: 3 (image)
+  - row: 2 / 1
     grid-items:
     - item: Kowalewski Living Room & Kitchen
       image-info:
-        image: "/v1610229682/murray-lampert/version3/kowalewski-adu-after-1.jpg"
+        image: "/murray-lampert/version3/kowalewski-adu-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -77,7 +77,69 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 3
+      item-span: 2
+    - item: Kowalewski Bathroom
+      image-info:
+        image: "/murray-lampert/version3/kowalewski-bathroom-after-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: 1 / 2
+    grid-items:
+    - item: Kowalewski Kitchen 1
+      image-info:
+        image: "/murray-lampert/version3/kowalewski-adu-after-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Kowalewski Exterior
+      image-info:
+        image: "/murray-lampert/version3/kowalewski-exterior-after-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
