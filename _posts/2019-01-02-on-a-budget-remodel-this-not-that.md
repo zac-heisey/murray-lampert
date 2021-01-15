@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: On a Budget? Remodel This, Not That
 date: 2019-01-02 00:00:01 Z
 categories:
 - Home Remodeling
-
 description: Remodeling on a budget is tough, especially if your goal is to realize a
   significant return on your investment. If your budget is tight and you want to increase
   the value of your home, we have a few remodeling projects that you should look to
@@ -14,8 +14,8 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  background-image: "/murray-lampert/version3/placeholder-1.jpg"
+  heading: On a Budget? Remodel This, Not That
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -58,9 +58,9 @@ For added curb appeal and overall aesthetics, pay attention to how your landscap
 
 One of the biggest perks of owning a home is having a yard. You can maximize that space and boost your home’s value by building a deck on your property. Decks are great for entertaining guests, holding family dinners or just relaxing. Such versatility means that future potential buyers can envision using the space however they wish.
 
-## [Kitchen Renovation](/san-diego-kitchen-remodeling-services)
+## Kitchen Renovation
 
-Some families spend more time in the kitchen than they do in any other room in the house. That’s why you should definitely focus on making your kitchen as gorgeous and functional as possible. Rather than doing a complete overhaul, the best use of your money is making small changes, such as putting new knobs on your cabinet doors, installing new plumbing fixtures, re-laminating your counters and getting appliances that are energy efficient.
+Some families spend more time in the kitchen than they do in any other room in the house. That’s why you should definitely focus on [making your kitchen as gorgeous and functional as possible](/san-diego-kitchen-remodels). Rather than doing a complete overhaul, the best use of your money is making small changes, such as putting new knobs on your cabinet doors, installing new plumbing fixtures, re-laminating your counters and getting appliances that are energy efficient.
 
 ## New Siding
 
@@ -68,6 +68,6 @@ Your home’s siding does a lot more than bring together the overall appearance 
 
 ## Updated Bathroom
 
-Much like your kitchen, the [bathroom](/san-diego-bathroom-remodeling-services) is another commonly used room in the house, which means it needs to look great and be as functional as possible. A new toilet, lights and vanity can make your bathroom look and feel brand new. No matter how you choose to renew the aesthetic of your bathroom, just make sure you’ve got proper ventilation for steam so you don’t have to deal with issues such as mold and mildew, which can lead to a number of other avoidable problems.
+Much like your kitchen, the [bathroom](/san-diego-bathroom-remodels) is another commonly used room in the house, which means it needs to look great and be as functional as possible. A new toilet, lights and vanity can make your bathroom look and feel brand new. No matter how you choose to renew the aesthetic of your bathroom, just make sure you’ve got proper ventilation for steam so you don’t have to deal with issues such as mold and mildew, which can lead to a number of other avoidable problems.
 
 Are you getting excited about increasing the value of your home without increasing your debt? [Reach out to us](/contact) here at Murray Lampert Design, Build, Remodel for a free, in-home remodeling consultation.

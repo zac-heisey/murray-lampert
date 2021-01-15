@@ -1,10 +1,9 @@
 ---
-title: 'Home Improvement Pro''s We Love to Work With: Christian Brothers Emergency
-  Building Services'
+layout: blocks
+title: 'Home Improvement Pros We Love to Work With: Christian Brothers Emergency Building Services'
 date: 2019-01-30 00:00:00 Z
 categories:
 - Community
-
 description: Christian Brothers is our preferred partner when it comes to helping clients
   with fire, flood, mold, or any other type of emergency building service. Check out
   our recent discussion with CEO Gabe Matthews.
@@ -15,7 +14,7 @@ sections:
     enabled: false
     color: white
   background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: 
+  heading: Home Improvement Pros We Love to Work With - Christian Brothers Emergency Building Services
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -31,9 +30,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 
-
-
-layout: blocks
 ---
 
 When it comes to fire and flood damage in San Diego, our go-to partner is [Christian Brothers Emergency Building Services](http://waterdamagesd.com/). Our partnership with the Christian Brothers team is relatively new compared to some of the other home improvement specialists we work with, but our early experiences have already proven to us that they are the most reputable, experienced, and professional Emergency Building Services company in San Diego.
@@ -54,9 +50,8 @@ Hands-down, it has to be our people. A lot of businesses like to tout the “fam
 
 When it comes to customer service, we have an “old school” approach. We communicate with our customers throughout the entire process, putting a premium on customer service in each and every conversation we have with customers. Other emergency service companies come out of the gates hard to earn your business, but wind up treating you (and the rest of their customers) like a number. We try hard to focus on customer service all the way through the entire process.
 
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/G3atYV33tgA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<lite-youtube videoid="G3atYV33tgA" style="background-image: url('https://i.ytimg.com/vi/G3atYV33tgA/hqdefault.jpg');">
+</lite-youtube>
 
 **What does a typical Christian Brothers project look like in terms of process, timeline, etc.?**
 
