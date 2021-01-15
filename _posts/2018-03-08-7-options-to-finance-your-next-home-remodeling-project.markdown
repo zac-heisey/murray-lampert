@@ -3,11 +3,35 @@ title: 7 Options to Finance Your Next Home Remodeling Project
 date: 2018-03-08 00:00:00 Z
 categories:
 - Home Remodeling
-featured-image: "/uploads/pexels-photo-279719.jpeg"
+
 description: Thinking about starting a San Diego home improvement project but not sure
   how to finance it? Consider these 7 options to finance your next home remodeling
   project.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

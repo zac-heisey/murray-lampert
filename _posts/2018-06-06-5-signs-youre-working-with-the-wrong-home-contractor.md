@@ -3,10 +3,34 @@ title: 5 Signs You're Working with the Wrong Home Contractor
 date: 2018-06-06 00:00:01 Z
 categories:
 - Home Remodeling
-featured-image: "/uploads/contractor.jpg"
+
 description: Having trouble working with or selecting a remodeling contractor? Here are
   5 signs you're working with (or about to work with) the wrong home remodeling contractor.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

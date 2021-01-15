@@ -4,11 +4,35 @@ date: 2018-11-28 16:24:00 Z
 categories:
 - Green Construction
 - Home DIY Tips
-featured-image: "/uploads/greening-outdoor-space.jpg"
+
 description: San Diego homeowners are wise to make the most of their outdoor space by
   creating livable environments that are low maintenance - allowing them to spend
   more time enjoying the outdoors than doing yard work.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

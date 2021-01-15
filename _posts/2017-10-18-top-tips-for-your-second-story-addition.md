@@ -3,11 +3,35 @@ title: Top Tips for Your Second Story Addition
 date: 2017-10-18 22:06:00 Z
 categories:
 - Home Additions
-featured-image: "/uploads/second-story-remodel.png"
+
 description: Need more space for your family in San Diego without increasing your homes’
   overall footprint? Read our tips for second story additions before deciding if it
   is the right option for you.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

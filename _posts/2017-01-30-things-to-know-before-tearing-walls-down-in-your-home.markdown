@@ -8,10 +8,34 @@ tags:
 - major renovation
 - construction
 layout: blocks
-featured-image: "/uploads/tear-down-walls.jpg"
+
 description: Tearing down a wall in your home is no small task. It requires planning and
   expertise. Here are some things to know before tearing down a wall in your home.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 ---
 
 Many homeowners have at one point or another considered tearing down a wall to extend a narrow room, connect two rooms or simply adapt the floor to their needs. Tearing down a wall opens up a lot of design options.

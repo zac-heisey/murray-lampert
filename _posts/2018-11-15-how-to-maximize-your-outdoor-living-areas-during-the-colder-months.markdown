@@ -4,10 +4,34 @@ date: 2018-11-15 14:32:00 Z
 categories:
 - Home Remodeling
 - Outdoor Spaces
-featured-image: "/uploads/winter-outdoor-living-space-tips.jpg"
+
 description: Cold weather is coming, and with it the desire to huddle up indoors. Resist
   the temptation with these 7 tips to cozy up your outdoor living spaces for winter.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

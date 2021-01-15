@@ -4,10 +4,34 @@ date: 2017-12-09 19:30:00 Z
 categories:
 - Home DIY Tips
 - Green Construction
-featured-image: "/uploads/winterize-your-home.png"
+
 description: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
   your home will keep you safe while reducing energy!
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

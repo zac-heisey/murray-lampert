@@ -4,11 +4,35 @@ date: 2018-04-25 00:00:00 Z
 categories:
 - Home Remodeling
 - Real Estate
-featured-image: "/uploads/buy-new-vs-remodel.jpg"
+
 description: There are both pros and cons to buying a new home and remodeling your current
   one. We cover some of the benefits and drawbacks to both options to help you make
   an informed decision.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

@@ -3,11 +3,35 @@ title: College Kids and Granny Flats
 date: 2019-05-10 22:16:00 Z
 categories:
 - In-law Suites
-featured-image: "/uploads/college-kids-granny-flats.jpg"
+
 description: Granny flats are a great option for homeowners with college-aged children
   returning home between semesters. They offer privacy, independence, and preview
   of what life on their own is truly like.
-author: Murray Lampert Team
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

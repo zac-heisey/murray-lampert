@@ -4,10 +4,34 @@ date: 2018-01-03 08:30:51 Z
 permalink: "/green-home-improvements-a-beginners-guide/"
 categories:
 - Green Construction
-featured-image: "/uploads/green-home-improvements-beginners-guide.jpg"
+
 description: The green movement also includes tackling various green home improvement
   projects to increase the efficiency and environmental impact of your home.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

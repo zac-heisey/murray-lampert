@@ -4,10 +4,34 @@ date: 2018-05-01 00:00:00 Z
 categories:
 - Home Remodeling
 - Guides
-featured-image: "/uploads/q2-content-pillar-graphic.png"
+
 description: This comprehensive guide will help homeowners find, vet, and work with the
   right remodeling contractor for their renovation project. Check it out here!
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

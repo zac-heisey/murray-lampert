@@ -4,11 +4,35 @@ date: 2018-08-08 00:00:00 Z
 categories:
 - Home Remodeling
 - Community
-featured-image: "/uploads/home-improvement-remodeling-blogs.jpg"
+
 description: At Murray Lampert, we're always on the lookout for helpful resources to share
   with homeowners. Here are 6 of our favorite home improvement & remodeling blogs
   to follow - besides our own, of course!
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

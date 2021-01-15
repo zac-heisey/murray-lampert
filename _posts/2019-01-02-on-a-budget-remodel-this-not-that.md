@@ -3,12 +3,36 @@ title: On a Budget? Remodel This, Not That
 date: 2019-01-02 00:00:01 Z
 categories:
 - Home Remodeling
-featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/on-a-budget.jpg
+
 description: Remodeling on a budget is tough, especially if your goal is to realize a
   significant return on your investment. If your budget is tight and you want to increase
   the value of your home, we have a few remodeling projects that you should look to
   first.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

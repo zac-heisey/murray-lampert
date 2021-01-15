@@ -5,11 +5,35 @@ categories:
 - Home Remodeling
 - Design-Build
 - Real Estate
-featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/fischer/fischer-1278-seacoast-dr-exterior-22.jpg
+
 description: From Spanish to Mission, Victorian to Contemporary, San Diego offers up plenty
   of diversity when it comes to residential architecture. We outline some of the more
   popular home architecture styles in San Diego.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

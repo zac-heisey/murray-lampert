@@ -3,10 +3,34 @@ title: Summer 2019 Home Remodeling Trends
 date: 2019-05-15 16:40:00 Z
 categories:
 - Home Remodeling
-featured-image: "/uploads/buy-new-vs-remodel.jpg"
+
 description: Summer is here and we're excited to share the 5 home remodeling trends we
   believe will be huge this season. Check out our Summer 2019 home remodeling trends.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading:
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 
@@ -14,7 +38,7 @@ layout: blocks
 
 ## Trend #1: Funky Colored Cabinets
 ![dark green cabinets with black countertop](https://i.pinimg.com/564x/d2/2a/d0/d22ad0c365740664668335b6f3c9ad97.jpg)
-Funky is a rather subjective statement; it just depends on who you ask. Regardless, for the last twenty-or-so years, cabinets have either been painted white or kept their natural wood grain. Thus– going against the grain means painting your cabinets. We personally love this deep green, and have seen it take popular social media sites like Instagram & Pinterest by a storm. Pairing it with a vintage-styled runner isn’t a bad choice either. With that said: step outside of your comfort zone, try a color that resonates with your lifestyle, and see how much it tones down the overall feeling of your kitchen. 
+Funky is a rather subjective statement; it just depends on who you ask. Regardless, for the last twenty-or-so years, cabinets have either been painted white or kept their natural wood grain. Thus– going against the grain means painting your cabinets. We personally love this deep green, and have seen it take popular social media sites like Instagram & Pinterest by a storm. Pairing it with a vintage-styled runner isn’t a bad choice either. With that said: step outside of your comfort zone, try a color that resonates with your lifestyle, and see how much it tones down the overall feeling of your kitchen.
 
 ## Trend #2: Concrete Countertops
 ![concrete countertop on modern, rustic kitchen island](https://i.pinimg.com/564x/4f/af/5a/4faf5a6f8e1e42215312a4479048e6bc.jpg)

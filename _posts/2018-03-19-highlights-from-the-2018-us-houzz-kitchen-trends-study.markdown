@@ -3,11 +3,35 @@ title: Highlights from the 2018 U.S. Houzz Kitchen Trends Study
 date: 2018-03-19 21:13:00 Z
 categories:
 - Kitchen Remodeling
-featured-image: "/uploads/2018-us-houzz-kitchen-trends-study.png"
+
 description: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for homeowners
   and remodelers alike. We highlight a few of the main takeaways from this year's
   study.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

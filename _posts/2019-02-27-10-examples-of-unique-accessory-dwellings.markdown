@@ -3,11 +3,35 @@ title: 10 Examples of Unique Accessory Dwellings
 date: 2019-02-27 14:30:00 Z
 categories:
 - In-law Suites
-featured-image: https://res.cloudinary.com/zheisey/image/upload/murray-lampert/misc/accessory-dwelling-units-ADU-CA.jpg
+
 description: While they were previously thought of as exotic additions or quirky living
   spaces, many San Diego homeowners are capitalizing on the ADU movement. As popularity
   rises, so does creativity.
-author: Gregg Cantor
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

@@ -3,7 +3,7 @@ title: Our Favorite DIY Projects for Hands-on Homeowners
 date: 2018-03-05 09:51:00 Z
 categories:
 - Home DIY Tips
-featured-image: "/uploads/diy-projects.png"
+
 description: If you love weekend projects around the house, we have plenty of simple and
   affordable Home DIY ideas to keep you busy. Click to read more!
 author: 'Gregg Cantor '

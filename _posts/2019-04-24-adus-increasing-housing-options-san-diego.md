@@ -3,11 +3,35 @@ title: ADUs Increasing Housing Options in San Diego
 date: 2019-04-24 00:00:01 Z
 categories:
 - In-law Suites
-featured-image: "/uploads/adu-segment-abc-10.png"
+
 description: Murray Lampert was recently featured in an ABC 10 segment about how Accessory
   Dwelling Units (ADUs) are increasing housing options in San Diego. Check out the
   segment here.
-author: Murray Lampert Team
+sections:
+- template: hero-banner
+  block: hero-banner
+  cta:
+    enabled: false
+    color: white
+  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  heading: 
+- template: post-meta-data
+  block: post-meta-data
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 
