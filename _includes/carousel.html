@@ -24,13 +24,13 @@
   {% if section.slide.size > 1 %}
   <div id="controls">
     <!-- Left Arrow -->
-    <button class="icon-left-arrow" type="button" name="prev"></button>
+    <button class="icon-left-arrow" type="button" name="prev" arial-label="Left Arrow"></button>
     <!-- Indicator Dots -->
     {% for slide in section.slide %}
     <span class="dot{% if forloop.index == 1 %} active{% endif %}" data-dot="{{ forloop.index }}"></span>
     {% endfor %}
     <!-- Right Arrow -->
-    <button class="icon-right-arrow" type="button" name="next"></button>
+    <button class="icon-right-arrow" type="button" name="next" arial-label="Right Arrow"></button>
   </div>
   {% endif %}
 
