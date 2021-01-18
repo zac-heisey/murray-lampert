@@ -3,7 +3,7 @@
   <div class="carousel">
 
     {% for slide in section.slide %}
-    <div class="slide" style="background-image: url('{{ site.cloudinary }}{{ slide.background-image }}')" data-slide="{{ forloop.index }}" {% if forloop.index != 1 %} hidden{% endif %}>
+    <div class="slide" {% if slide.background-image != '' %} style="background-image: url('{{ site.cloudinary }}{{ slide.background-image }}')" {% else %} style="background-color: #d5d4d2" {% endif %} data-slide="{{ forloop.index }}" {% if forloop.index != 1 %} hidden{% endif %}>
       <div class="text-overlay {{ slide.text-overlay.background-color }} {{ slide.text-overlay.alignment }}">
         {% if slide.text-overlay.small-heading %}
         <p class="small-heading">{{ slide.text-overlay.small-heading }}</p>

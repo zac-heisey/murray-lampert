@@ -26,7 +26,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Michael & Stacey Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -39,7 +39,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Julie & Richard Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -51,7 +51,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Dan & Jennifer Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -64,7 +64,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Stan & Gemma Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -74,7 +74,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Ron & Lisa Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -84,7 +84,7 @@ sections:
       enabled: false
       color: white
   - slide-title: Robert Jassoy Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
