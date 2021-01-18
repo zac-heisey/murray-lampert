@@ -119,7 +119,7 @@ sections:
   - slide-title: Kitchen (Before) 1
     background-image: "/murray-lampert/version3/doyle-kitchen-before-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Kitchen
@@ -130,7 +130,7 @@ sections:
   - slide-title: Kitchen (After) 1
     background-image: "/murray-lampert/version3/doyle-kitchen-after-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Kitchen
@@ -141,7 +141,7 @@ sections:
   - slide-title: Kitchen (Before) 2
     background-image: "/murray-lampert/version3/doyle-kitchen-before-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Kitchen
@@ -152,7 +152,7 @@ sections:
   - slide-title: Kitchen (After) 2
     background-image: "/murray-lampert/version3/doyle-kitchen-after-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Kitchen
@@ -163,7 +163,7 @@ sections:
   - slide-title: Living Room (Before)
     background-image: "/murray-lampert/version3/doyle-living-room-before-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Living Room
@@ -174,7 +174,7 @@ sections:
   - slide-title: Living Room (After)
     background-image: "/murray-lampert/version3/doyle-living-room-after-1.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Living Room
@@ -185,7 +185,7 @@ sections:
   - slide-title: Exterior (Before)
     background-image: "/murray-lampert/version3/doyle-exterior-before-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Exterior
@@ -196,7 +196,7 @@ sections:
   - slide-title: Exterior (After)
     background-image: "/murray-lampert/version3/doyle-exterior-after-2.jpg"
     text-overlay:
-      background-color: none
+      background-color: gray
       alignment: center
       small-heading: Scripps Ranch Home Remodel
       main-content: Exterior
