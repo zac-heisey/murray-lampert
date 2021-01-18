@@ -1,8 +1,6 @@
-# Murray Lampert Design, Build, Remodel
+# Murray Lampert Design Build Remodel
 
-## Website v3 (In Progress)
-
-**URL:** [murraylampert.com](https://murraylampert.com)
+## [https://murraylampert.com](https://murraylampert.com)
 
 **Stack:**
 - [Jekyll](https://jekyllrb.com/)
