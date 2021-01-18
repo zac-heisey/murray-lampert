@@ -67,13 +67,16 @@ header#menu {
 
   }
 
-  a#menu-icon {
+  button#menu-icon {
 
+    appearance: none;
+    background: none;
     position: relative;
     flex-shrink: 0;
     width: 30px;
     height: 30px;
     margin-left: 2rem;
+    border: none;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
     -o-transform: rotate(0deg);
