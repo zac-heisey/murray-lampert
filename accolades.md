@@ -107,7 +107,7 @@ sections:
         image: "/murray-lampert/version3/google-logo.png"
         text-overlay:
           main-content: Murray Lampert Google Reviews
-          url: https://www.google.com/search?q=murray+lamperty+san+diego&oq=murray+lamperty+san+diego&aqs=chrome..69i57j0.2246j0j1&sourceid=chrome&ie=UTF-8#lrd=0x80d955a57abf532f:0x409268b5dbfcff56,1,
+          url: https://www.google.com/search?q=murray+lampert+san+diego&oq=murray+lampert+san+diego&aqs=chrome..69i57j0.2246j0j1&sourceid=chrome&ie=UTF-8#lrd=0x80d955a57abf532f:0x409268b5dbfcff56,1,
           detail: Click to Read Reviews
       text-info:
         background-color: none
