@@ -25,8 +25,8 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
             <input name='phone' placeholder='PHONE' type='tel' required>
             <input name='address' placeholder='YOUR ADDRESS' type='text' required>
             <input name='zipcode' placeholder='YOUR ZIP CODE' type='text' onfocusout="validateZip()" required>
-            <select name='area-of-interest' placeholder='AREA OF INTEREST' onfocusout="aduBudget()" required>
-              <option value="" disabled selected>AREA OF INTEREST</option>
+            <select name='type-of-project' placeholder='TYPE OF PROJECT' onfocusout="aduBudget()" required>
+              <option value="" disabled selected>TYPE OF PROJECT</option>
               <option value="Total Renovation">Total Renovation</option>
               <option value="Room Addition">Room Addition</option>
               <option value="Second Story">Second Story</option>
@@ -36,13 +36,10 @@ excerpt: Murray Lampert Design, Build, Remodel in San Diego. Contact us today fo
               <option value="Indoor Outdoor">Indoor / Outdoor</option>
               <option value="Other">Other</option>
             </select>
-            <select name='expected-time-frame' placeholder='EXPECTED TIME FRAME' required>
-              <option value="" disabled selected>EXPECTED TIME FRAME</option>
-              <option value="ASAP">ASAP</option>
-              <option value="3 months">3 Months</option>
-              <option value="6 months">6 Months</option>
-              <option value="1 year">1 Year</option>
-              <option value="More than a year">More than a year</option>
+            <select name='previous-remodel' placeholder='HAVE YOU DONE A REMODEL BEFORE?' required>
+              <option value="" disabled selected>HAVE YOU DONE A REMODEL BEFORE?</option>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
             </select>
             <select name='project-budget' placeholder='WHAT IS YOUR BUDGET?' required>
               <option value="" disabled selected>WHAT IS YOUR BUDGET?</option>
