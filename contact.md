@@ -33,8 +33,8 @@ description: Contact Murray Lampert Design, Build, Remodel for a free in-home or
 
         <div class="right">
           <p class="small-heading">Project Info</p>
-          <select name='area-of-interest' placeholder='Area of Interest' required>
-            <option value="" disabled selected>Area of Interest</option>
+          <select name='type-of-project' placeholder='Type of Project' required>
+            <option value="" disabled selected>Type of Project</option>
             <option value="Total Renovation">Total Renovation</option>
             <option value="Room Addition">Room Addition</option>
             <option value="Second Story">Second Story</option>
@@ -44,8 +44,8 @@ description: Contact Murray Lampert Design, Build, Remodel for a free in-home or
             <option value="Indoor Outdoor">Indoor / Outdoor</option>
             <option value="Other">Other</option>
           </select>
-          <select name='expected-time-frame' placeholder='Expected Time Frame' required>
-            <option value="" disabled selected>Expected Time Frame</option>
+          <select name='previous-remodel' placeholder='Have You Done a Remodel Before?' required>
+            <option value="" disabled selected>Have You Done a Remodel Before?</option>
             <option value="ASAP">ASAP</option>
             <option value="3 months">3 Months</option>
             <option value="6 months">6 Months</option>
@@ -60,12 +60,12 @@ description: Contact Murray Lampert Design, Build, Remodel for a free in-home or
             <option value="$300k - $500k">$300,000 - $500,000</option>
             <option value="$500k+">$500,000+</option>
           </select>
-          <select name='financing' placeholder='Will You Need Financing?'>
-            <option value="" disabled selected>Will You Need Financing?</option>
+          <select name='financing' placeholder='Are You Interested in Financing?' required>
+            <option value="" disabled selected>Are You Interested in Financing?</option>
             <option value="Yes">Yes</option>
             <option value="No">No</option>
           </select>
-          <select name='referral-source' placeholder='How Did You Find Us?'>
+          <select name='referral-source' placeholder='How Did You Find Us?' required>
             <option value="" disabled selected>How Did You Find Us?</option>
             <option value="Online Search">Online Search (Google, Bing, Yahoo, etc.)</option>
             <option value="Online Referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
