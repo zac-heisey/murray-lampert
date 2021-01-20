@@ -46,11 +46,8 @@ description: Contact Murray Lampert Design, Build, Remodel for a free in-home or
           </select>
           <select name='previous-remodel' placeholder='Have You Done a Remodel Before?' required>
             <option value="" disabled selected>Have You Done a Remodel Before?</option>
-            <option value="ASAP">ASAP</option>
-            <option value="3 months">3 Months</option>
-            <option value="6 months">6 Months</option>
-            <option value="1 year">1 Year</option>
-            <option value="More than a year">More than a year</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
           </select>
           <select name='project-budget' placeholder='What is Your Budget?' required>
             <option value="" disabled selected>What is Your Budget?</option>
