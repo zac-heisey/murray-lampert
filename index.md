@@ -221,7 +221,7 @@ sections:
   block: carousel
   slide:
   - slide-title: Julie & Richard Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
