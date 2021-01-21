@@ -194,6 +194,7 @@ sections:
       item-span: 3
 - template: carousel
   block: carousel
+  default-background-image: ''
   slide:
   - slide-title: Kitchen (Rendering)
     background-image: "/murray-lampert/version3/sokolowski-del-cerro-rendering-1.jpg"

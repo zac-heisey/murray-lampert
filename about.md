@@ -27,6 +27,7 @@ sections:
     the time we're done working together, you'll feel like family too.</p>"
 - template: carousel
   block: carousel
+  default-background-image: ''
   slide:
   - slide-title: Gregg, Lisa, and Rachel Cantor
     background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"

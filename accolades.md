@@ -24,6 +24,7 @@ sections:
     1975.</p>"
 - template: carousel
   block: carousel
+  default-background-image: "/murray-lampert/version3/testimonials-bg.png"
   slide:
   - slide-title: Michael & Stacey Testimonial
     background-image: ''

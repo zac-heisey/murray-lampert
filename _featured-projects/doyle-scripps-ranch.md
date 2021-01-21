@@ -115,6 +115,7 @@ sections:
       item-span: 1
 - template: carousel
   block: carousel
+  default-background-image: ''
   slide:
   - slide-title: Kitchen (Before) 1
     background-image: "/murray-lampert/version3/doyle-kitchen-before-1.jpg"

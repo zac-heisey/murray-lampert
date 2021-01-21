@@ -221,6 +221,7 @@ sections:
       item-span: 1
 - template: carousel
   block: carousel
+  default-background-image: "/murray-lampert/version3/testimonials-bg.png"
   slide:
   - slide-title: Julie & Richard Testimonial
     background-image: ''
@@ -283,7 +284,6 @@ sections:
       color: blue
       button-text: View Our Accolades
       url: "/accolades"
-  default-background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
