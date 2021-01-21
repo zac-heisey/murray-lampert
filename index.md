@@ -140,7 +140,8 @@ sections:
         image: "/murray-lampert/version3/sokolowski-del-cerro-bathroom-1.jpg"
         text-overlay:
           small-heading: San Diego Bathroom Remodels
-          main-content: Custom Master Bathrooms, Bath & Shower Upgrades, Tile, Lighting, and More
+          main-content: Custom Master Bathrooms, Bath & Shower Upgrades, Tile, Lighting,
+            and More
           detail: See Our Bathroom Projects
           url: "/san-diego-bathroom-remodels"
       video-id: ''
@@ -182,7 +183,8 @@ sections:
         image: "/murray-lampert/version3/sokolowski-outdoor-patio-1.png"
         text-overlay:
           small-heading: Serving San Diego Since 1975
-          main-content: From Interior Design to Outdoor Living Spaces, Murray Lampert Has You Covered
+          main-content: From Interior Design to Outdoor Living Spaces, Murray Lampert
+            Has You Covered
           detail: See Additional Remodeling Services
           url: "/other-remodeling-services"
       video-id: ''
@@ -235,7 +237,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Armida Testimonial
-    background-image: "/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
@@ -251,16 +253,16 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Stan & Gemma Testimonial
-    background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
       small-heading: ''
-      main-content: '“We contacted 4 top contractors in the San Diego area to do our
+      main-content: "“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
         of the work, cost, and early completion of the project makes us happy we choose
-        Murray Lampert among the other contractors.”'
+        Murray Lampert among the other contractors.”"
       detail: "- Stan & Gemma - Spring Valley"
     cta:
       enabled: false
@@ -268,18 +270,20 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Dr. Rebecca Testimonial
-    background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
+    background-image: ''
     text-overlay:
       background-color: sand
       alignment: left
       small-heading: ''
-      main-content: '“Murray Lampert has been a dream to work with from design through completion. I would pick them again for our next project.”'
+      main-content: "“Murray Lampert has been a dream to work with from design through
+        completion. I would pick them again for our next project.”"
       detail: "- Dr. Rebecca - La Jolla"
     cta:
       enabled: true
       color: blue
       button-text: View Our Accolades
-      url: '/accolades'
+      url: "/accolades"
+  default-background-image: "/v1609178256/murray-lampert/version3/testimonials-bg.png"
 - template: call-to-action
   block: call-to-action
   layout: 3-Column
