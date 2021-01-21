@@ -1,3 +1,4 @@
+<!-- See: https://web.dev/codelab-specifying-multiple-slot-widths/ -->
 <img
   src="{{ site.cloudinary }},w_auto{{ include.image }}"
   srcset="
@@ -7,10 +8,9 @@
   {{ site.cloudinary }},w_1200{{ include.image }} 1200w
   "
   sizes="
-  (max-width: 575px) 576px,
-  (max-width: 767px) 768px,
-  (max-width: 991px) 992px,
-  (max-width: 1199px) 1200px
+  (max-width: 992px) 100vw,
+  (max-width: 1200px) 50vw,
+  1200px
   "
   alt="{{ include.alt }}"
   width="800"
