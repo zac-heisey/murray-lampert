@@ -1,4 +1,4 @@
-/* Call to Action */
+/* Carousel */
 
 section.carousel-container {
 
@@ -47,7 +47,7 @@ section.carousel-container {
 
     // Enable horizontal touch scrolling on applicable devices
 
-    @media only screen and (max-width: $breakpoint-sm) and (hover: none) and (pointer: none) {
+    @media only screen and (max-width: $breakpoint-sm) and (hover: none) {
 
     overflow: scroll hidden;
 
@@ -320,7 +320,7 @@ section.carousel-container {
 
   }
 
-  @media only screen and (max-width: $breakpoint-sm) and (hover: none) and (pointer: none) {
+  @media only screen and (max-width: $breakpoint-sm) and (hover: none) {
 
     .arrow-buttons, .dots .dot {
 
