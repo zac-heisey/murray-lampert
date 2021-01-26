@@ -22,15 +22,19 @@
 
   <!-- Controls -->
   {% if section.slide.size > 1 %}
-  <div id="controls">
+  <div class="arrow-buttons">
     <!-- Left Arrow -->
     <button class="icon-left-arrow" type="button" name="prev" aria-label="Left Arrow"></button>
-    <!-- Indicator Dots -->
+    <!-- Right Arrow -->
+    <button class="icon-right-arrow" type="button" name="next" aria-label="Right Arrow"></button>
+  </div>
+
+  <!-- Indicator Dots -->
+  <div class="dots">
+    <p><- Scroll to View More -></p>
     {% for slide in section.slide %}
     <span class="dot{% if forloop.index == 1 %} active{% endif %}" data-dot="{{ forloop.index }}"></span>
     {% endfor %}
-    <!-- Right Arrow -->
-    <button class="icon-right-arrow" type="button" name="next" aria-label="Right Arrow"></button>
   </div>
   {% endif %}
 
