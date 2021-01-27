@@ -15,16 +15,12 @@ header#menu {
 
   }
 
-  a#header-logo {
+  a#header-logo img {
 
-    min-width: 80px;
-    max-width: 150px;
-
-    img {
-
-      width: 100%;
-
-    }
+    width: 100%;
+    min-width: 100px;
+    max-width: 200px;
+    margin-left: -1rem;
 
   }
 
@@ -183,7 +179,7 @@ header#menu {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(0,0,0, 0.9);
+    background-color: rgba($dark-gray, 0.9);
     overflow-y: hidden;
     transition: 0.5s;
     z-index: 1;
