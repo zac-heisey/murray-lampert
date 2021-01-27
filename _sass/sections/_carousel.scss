@@ -259,15 +259,15 @@ section.carousel-container {
 
       button[name="prev"] {
 
-        bottom: 50%;
-        left: 10%;
+        bottom: calc(50% - 25px);
+        left: calc((75% - 750px) / 2);
 
       }
 
       button[name="next"] {
 
-        bottom: 50%;
-        right: 10%;
+        bottom: calc(50% - 25px);
+        right: calc((75% - 750px) / 2);
 
       }
 
@@ -295,7 +295,7 @@ section.carousel-container {
 
     @media (min-width: $breakpoint-sm) {
 
-      justify-content: space-between;
+      justify-content: space-around;
       left: calc(50% - 150px);
       width: 300px;
       bottom: 65px;
