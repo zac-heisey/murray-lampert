@@ -110,7 +110,7 @@
       nextSlide.classList.add('next-entering');
 
       // Update active dots
-      dots.forEach( dot => {
+      dots.forEach(dot => {
 
         dot.classList.remove('active');
 
@@ -139,7 +139,7 @@
       previousSlide.classList.add('previous-entering');
 
       // Update active dots
-      dots.forEach( dot => {
+      dots.forEach(dot => {
 
         dot.classList.remove('active');
 
@@ -151,9 +151,53 @@
 
     };
 
+    // Jump to slide based on clicked dot
+    function jumpToSlide(event) {
+
+      // If click was on currently active dot, bail
+      if (event.target.classList.contains('active')) return;
+
+      // Update active dots
+      dots.forEach(dot => {
+
+        dot.classList.remove('active');
+
+        if (dot === event.target) {
+          dot.classList.add('active');
+        }
+
+      });
+
+      // Show correct slide based on active dot
+      Array.from(document.querySelectorAll('.slide')).forEach(slide => {
+
+        if (slide.getAttribute('data-slide') === event.target.getAttribute('data-dot')) {
+
+          slide.hidden = false;
+
+        }
+
+        else {
+
+          slide.hidden = true;
+
+        }
+
+      });
+
+    };
+
     // Listen for clicks on Prev & Next buttons
     prevButton.addEventListener('click', showPreviousSlide, false);
     nextButton.addEventListener('click', showNextSlide, false);
+
+    // Listen for clicks on dots
+    dots.forEach(function(dot) {
+
+      dot.addEventListener('click', jumpToSlide, false);
+
+    });
+
 
     // Add/remove necessary classes after animation
     carousel.addEventListener('animationend', function(event) {
@@ -185,7 +229,7 @@
     // Toggle Bios
     function toggleBios(event) {
 
-      teamMemberBios.forEach( bio => {
+      teamMemberBios.forEach(bio => {
 
         // If team member bio matches focused container, show bio
         if (bio.getAttribute('data-name') === document.activeElement.getAttribute('data-name')) {
