@@ -191,6 +191,7 @@ li {
   line-height: 1.5;
   letter-spacing: 1px;
   padding: 0.75rem;
+  border-radius: 5px;
   transition: color 0.25s, background-color 0.25s, border-color 0.25s;
 
   @media (min-width: $breakpoint-sm) {
@@ -220,6 +221,19 @@ li {
     &:hover, &:focus {
 
       background-color: $light-gray;
+
+    }
+
+  }
+
+  &.gray {
+
+    background-color: $dark-gray;
+    color: $white;
+
+    &:hover, &:focus {
+
+      background-color: #3b3c40;
 
     }
 

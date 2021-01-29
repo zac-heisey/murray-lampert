@@ -3,6 +3,13 @@
 header#menu {
 
   position: relative;
+  margin-bottom: 3rem; // Make room for CTA buttons (96px total)
+
+  @media (min-width: $breakpoint-md) {
+
+    margin: 0;
+
+  }
 
   .lock {
 
@@ -26,36 +33,40 @@ header#menu {
 
   #tagline {
 
-    font-family: $heading-font;
-    font-style: italic;
+    font-family: $body-font;
+    color: $blue;
     font-size: 1rem;
     text-align: left;
-    margin: 0 1rem;
-    white-space: nowrap;
-
 
     @media (min-width: $breakpoint-sm) {
 
       font-size: 1.25rem;
-      margin: 0 auto 0 1.25rem;
+      margin: 5rem auto 0 -1rem;
 
     }
 
   }
 
-  a.btn.blue {
+  a.btn {
 
+    display: block;
     position: absolute;
     left: 0;
     right: 0;
     bottom: -3rem;
-    font-size: 1.25rem;
+    border-radius: 0;
+
+    &:nth-of-type(2) {
+
+      bottom: -6rem;
+
+    }
 
     @media (min-width: $breakpoint-md) {
 
       position: static;
-      font-size: 1rem;
-      margin: 0 1rem;
+      margin: 1rem;
+      border-radius: 5px;;
 
     }
 
