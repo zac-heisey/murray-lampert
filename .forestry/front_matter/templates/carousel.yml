@@ -14,8 +14,9 @@ fields:
   config:
     maxSize: 64
   label: Default Background Image
-  description: Choose a default background image for your carousel to display if individual
-    slide images are not chosen.
+  description: 'Choose a default background image for your carousel to display if
+    individual slide images are not chosen.<br><br><em>Ideal size: 1200 x 675 (16:0
+    aspect ratio)</em>'
 - name: slide
   type: field_group_list
   fields:
@@ -30,7 +31,8 @@ fields:
     config:
       maxSize: 64
     label: Background Image
-    description: Choose an image as the background for your slide.
+    description: 'Choose an image as the background for your slide.<br><br><em>Ideal
+      size: 1200 x 675 (16:0 aspect ratio)</em>'
     default: ''
   - name: text-overlay
     type: field_group
