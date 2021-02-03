@@ -1,6 +1,7 @@
 ---
 layout: featured-project
-title: Point Loma Remodel
+title: Complete Home Overhaul
+location: Point Loma, CA
 description: Complete home remodel in Point Loma, CA. View this and other featured
   home remodeling projects from Murray Lampert.
 featured-image: "/murray-lampert/version3/wise-exterior-after-1.jpg"

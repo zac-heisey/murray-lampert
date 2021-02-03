@@ -41,6 +41,7 @@
             <div class="overlay"></div>
             <span class="project-number">{{ project-number | prepend: "0" }}</span>
             <h2>{{ featured.title }}</h2>
+            <p class="location">{{ featured.location }}</p>
             <div>{{ featured.project-overview | truncate: 345 }}</div>
             <a class="btn blue" href="{{ featured.url }}">View Project</a>
           </div>

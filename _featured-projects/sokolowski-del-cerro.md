@@ -1,6 +1,7 @@
 ---
 layout: featured-project
-title: Whole House Redo in Del Cerro
+title: Whole House Redo
+location: Del Cerro, CA
 description: Whole home remodel in Del Cerro, CA. View this and other featured home
   remodeling projects from Murray Lampert.
 featured-image: "/v1609342106/murray-lampert/version3/sokolowski-outdoor-patio-1.jpg"
