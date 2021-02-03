@@ -28,7 +28,8 @@ fields:
   type: file
   config:
     maxSize: 64
-  description: Choose an existing image or upload a new one.
+  description: 'Choose an existing image or upload a new one.<br><br><em>Ideal size:
+    1200 x 675 (16:9 aspect ratio)</em>'
   label: Image (Left)
   showOnly:
     field: layout
@@ -37,7 +38,8 @@ fields:
   type: file
   config:
     maxSize: 64
-  description: Choose an existing image or upload a new one.
+  description: 'Choose an existing image or upload a new one.<br><br><em>Ideal size:
+    1200 x 675 (16:9 aspect ratio)</em>'
   label: Image (Right)
   showOnly:
     field: layout
