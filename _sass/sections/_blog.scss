@@ -37,7 +37,7 @@ section.blog {
           position: absolute;
           top: 2.5rem;
           left: 2rem;
-          color: $sand;
+          color: rgba($sand, 0.75);
           font-family: $heading-font;
           font-size: clamp(3.815rem, 6vw, 5rem)
 

@@ -12,7 +12,7 @@ section.process-stages {
 
     .lock {
 
-      max-width: 1240px;
+      max-width: 1040px;
       margin: 0 auto;
       padding: 2rem;
 
@@ -120,7 +120,7 @@ section.process-stages {
 
           position: relative;
           padding-bottom: 0.5rem;
-          background-size: 8% 4px;
+          background-size: 40px 4px;
           background-repeat: no-repeat;
           background-position: bottom left;
           background-image: linear-gradient(to right, $dark-gray 0%, $dark-gray 100%);
@@ -131,9 +131,9 @@ section.process-stages {
         .stage-number {
 
           position: absolute;
-          top: -5.25rem;
+          top: -7.25rem;
           left: -2.25rem;
-          font-size: 7rem;
+          font-size: 9rem;
           font-weight: 100;
           z-index: -1;
 
