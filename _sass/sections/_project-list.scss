@@ -101,6 +101,12 @@ section.project-list {
         padding: 2rem;
         z-index: 2;
 
+        @media (min-width: $breakpoint-md) {
+
+          padding: 2rem 5rem;
+
+        }
+
         h2 {
 
           position: relative;
@@ -117,14 +123,20 @@ section.project-list {
         .project-number {
 
           position: absolute;
-          top: -2rem;
-          left: 0.5rem;
-          color: $sand;
+          top: -1rem;
+          left: 1rem;
+          color: rgba($sand, 0.65);
           font-family: $heading-font;
           font-size: 10rem;
           font-weight: 100;
           opacity: 0.65;
           z-index: -1;
+
+          @media (min-width: $breakpoint-md) {
+
+            top: -2rem;
+
+          }
 
         }
 
@@ -134,8 +146,8 @@ section.project-list {
           position: absolute;
           left: -22rem;
           background-color: rgba(209, 204, 197, 0.65);
-          width: 350px;
-          height: 500px;
+          width: 400px;
+          height: 550px;
 
         }
 

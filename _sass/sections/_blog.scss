@@ -35,11 +35,11 @@ section.blog {
         .post-date-lg {
 
           position: absolute;
-          top: 2.5rem;
+          top: 1.5rem;
           left: 2rem;
-          color: rgba($sand, 0.75);
+          color: rgba($sand, 0.65);
           font-family: $heading-font;
-          font-size: clamp(3.815rem, 6vw, 5rem)
+          font-size: clamp(5rem, 10vw, 7rem);
 
         }
 
