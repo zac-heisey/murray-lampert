@@ -101,6 +101,16 @@ main[data-page*="_featured-projects"] {
 
         }
 
+        .text .location {
+
+          position: relative;
+          color: $sand;
+          font-size: 1.25rem;
+          font-style: italic;
+          margin: 0;
+
+        }
+
         .text .detail {
 
           font-style: italic;
