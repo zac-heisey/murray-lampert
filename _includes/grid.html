@@ -8,7 +8,7 @@
       {% if item.item-type == "video" %}
       <!-- If grid item is a video -->
 
-      <lite-youtube videoid="{{ item.video-id }}" style="background-image: url('https://i.ytimg.com/vi/{{ item.video-id }}/hqdefault.jpg');">
+      <lite-youtube videoid="{{ item.video-id }}" {% if page.path == 'index.md' %} style="background-image: url('{{ site.cloudinary }}/murray-lampert/version3/wagner-exterior-after-4.jpg');" {% else %} style="background-image: url('https://i.ytimg.com/vi/{{ item.video-id }}/hqdefault.jpg');" {% endif %}>
       </lite-youtube>
 
       {% elsif item.item-type == "image" %}
