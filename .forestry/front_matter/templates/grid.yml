@@ -40,9 +40,9 @@ fields:
         - text
         source:
           type: simple
-          section:
-          file:
-          path:
+          section: 
+          file: 
+          path: 
       label: Item Type
       description: Choose the media type for your grid item (image, video, or text)
     - name: item-span
@@ -56,9 +56,9 @@ fields:
         - 3
         source:
           type: simple
-          section:
-          file:
-          path:
+          section: 
+          file: 
+          path: 
       label: Item Span
       description: Choose the span width of your grid item (1 (33%), 2 (66%), or 3
         (100%))
@@ -122,8 +122,8 @@ fields:
         config:
           maxSize: 64
         label: Video Cover Image
-        description: 'Select a cover image for your video.<br><br><em>Ideal size: 1200
-          x 675 (16:9 aspect ratio)</em>'
+        description: 'Select a cover image for your video.<br><br><em>Ideal size:
+          1200 x 675 (16:9 aspect ratio)</em>'
       - name: video-id
         type: text
         config:
@@ -166,9 +166,9 @@ fields:
           - none
           source:
             type: simple
-            section:
-            file:
-            path:
+            section: 
+            file: 
+            path: 
         label: Background Color
         description: Select a background color for your text grid item
       - name: cta
@@ -189,9 +189,9 @@ fields:
             - blue
             source:
               type: simple
-              section:
-              file:
-              path:
+              section: 
+              file: 
+              path: 
           label: Color
           description: Select a background color for your CTA button
           showOnly:
@@ -222,12 +222,12 @@ fields:
         field: item-type
         value: text
     config:
-      min:
-      max:
+      min: 
+      max: 
       labelField: item
     label: Grid Items
   config:
-    min:
-    max:
+    min: 
+    max: 
     labelField: row
   label: Grid Rows
