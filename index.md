@@ -96,7 +96,9 @@ sections:
           main-content: ''
           detail: ''
           url: ''
-      video-id: wSTKUOXIAms
+      video-info:
+        video-cover-image: "/murray-lampert/version3/wagner-exterior-after-4.jpg"
+        video-id: wSTKUOXIAms
       text-info:
         background-color: none
         cta:

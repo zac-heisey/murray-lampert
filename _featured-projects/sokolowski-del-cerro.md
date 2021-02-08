@@ -38,7 +38,9 @@ sections:
           main-content: ''
           detail: ''
           url: ''
-      video-id: P7Zmdkdvwhk
+      video-info:
+        video-cover-image: ''
+        video-id: P7Zmdkdvwhk
       text-info:
         background-color: gray
         cta:

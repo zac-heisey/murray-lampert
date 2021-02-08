@@ -47,7 +47,9 @@ sections:
           main-content: ''
           detail: ''
           url: ''
-      video-id: 63pVN58cKzE
+      video-info:
+        video-cover-image: ''
+        video-id: 63pVN58cKzE
       text-info:
         background-color: none
         cta:
