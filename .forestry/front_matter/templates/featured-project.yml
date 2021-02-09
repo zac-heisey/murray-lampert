@@ -23,6 +23,10 @@ fields:
   name: description
   label: Description
   description: Quick description of this featured project.
+- type: text
+  name: project-number
+  label: Project Number
+  description: Project number of this featured project.
 - name: featured-image
   type: file
   config:
@@ -58,5 +62,5 @@ fields:
   - grid
   - gallery
   config:
-    min: 
-    max: 
+    min:
+    max:
