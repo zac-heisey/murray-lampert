@@ -117,12 +117,12 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
+        image: "/murray-lampert/version3/senescall-outdoor-rendering-1.png"
         text-overlay:
-          small-heading: San Diego Kitchen Remodels
-          main-content: Upgrade and Modernize Your Kitchen & Dining Space
-          detail: View More Kitchen Remodels
-          url: "/san-diego-kitchen-remodels"
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
       video-id: ''
       text-info:
         background-color: none
@@ -139,7 +139,7 @@ sections:
       item-type: image
       item-span: 1
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-bathroom-1.jpg"
+        image: "/murray-lampert/version3/gravelle-bathroom-rendering-1.jpg"
         text-overlay:
           small-heading: San Diego Bathroom Remodels
           main-content: Custom Master Bathrooms, Bath & Shower Upgrades, Tile, Lighting,
@@ -203,7 +203,7 @@ sections:
       item-span: 2
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/placeholder-1.jpg"
+        image: "/murray-lampert/version3/walsh-adu-bathroom-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -296,7 +296,7 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-  image-left: "/murray-lampert/version3/placeholder-2.jpg"
-  image-right: "/murray-lampert/version3/placeholder-3.jpg"
+  image-left: "/murray-lampert/version3/binetti-zoom-photo.jpg"
+  image-right: "/murray-lampert/version3/placeholder-2.jpg"
 
 ---
