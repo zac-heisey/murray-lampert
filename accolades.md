@@ -170,6 +170,7 @@ sections:
         text-overlay:
           main-content: Best of Houzz 2020
           detail: Client Satisfaction
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
       text-info:
         background-color: none
         cta:
@@ -182,6 +183,7 @@ sections:
         text-overlay:
           main-content: Best of Houzz 2017
           detail: Client Satisfaction
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
       text-info:
         background-color: none
         cta:
@@ -194,6 +196,7 @@ sections:
         text-overlay:
           main-content: Best of Houzz 2015
           detail: Client Satisfaction
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
       text-info:
         background-color: none
         cta:
@@ -206,6 +209,7 @@ sections:
         text-overlay:
           main-content: Best of Houzz 2014
           detail: Client Satisfaction
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
       text-info:
         background-color: none
         cta:
@@ -220,6 +224,7 @@ sections:
         text-overlay:
           main-content: San Diego BBB Torch Award 2014
           detail: Winner
+          url: https://www.bbb.org/us/ca/san-diego/profile/construction-services/murray-lampert-design-build-remodel-1126-100554
       text-info:
         background-color: none
         cta:
@@ -232,6 +237,7 @@ sections:
         text-overlay:
           main-content: San Diego BBB Torch Award 2010
           detail: Finalist
+          url: https://www.bbb.org/us/ca/san-diego/profile/construction-services/murray-lampert-design-build-remodel-1126-100554
       text-info:
         background-color: none
         cta:
@@ -244,6 +250,7 @@ sections:
         text-overlay:
           main-content: San Diego BBB Torch Award 2008
           detail: Winner
+          url: https://www.bbb.org/us/ca/san-diego/profile/construction-services/murray-lampert-design-build-remodel-1126-100554
       text-info:
         background-color: none
         cta:
@@ -256,6 +263,7 @@ sections:
         text-overlay:
           main-content: San Diego BBB Torch Award 2007
           detail: Finalist
+          url: https://www.bbb.org/us/ca/san-diego/profile/construction-services/murray-lampert-design-build-remodel-1126-100554
       text-info:
         background-color: none
         cta:
@@ -269,6 +277,7 @@ sections:
         image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2020
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
       text-info:
         background-color: none
         cta:
@@ -280,6 +289,7 @@ sections:
         image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2016
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
       text-info:
         background-color: none
         cta:
@@ -291,6 +301,7 @@ sections:
         image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2015
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
       text-info:
         background-color: none
         cta:
@@ -302,6 +313,7 @@ sections:
         image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2014
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
       text-info:
         background-color: none
         cta:
