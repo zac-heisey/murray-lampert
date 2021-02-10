@@ -166,9 +166,9 @@ sections:
           url: ''
       video-id: ''
       text-info:
-        background-color: none
+        background-color: blue
         cta:
-          color: blue
+          color: white
           enabled: true
           button-text: View Our Portfolio of Projects
           url: "/san-diego-remodel-project-gallery"
