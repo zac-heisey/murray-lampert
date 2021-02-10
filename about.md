@@ -34,8 +34,8 @@ sections:
     text-overlay:
       background-color: none
       alignment: center
-      small-heading: Meet the Cantors
-      main-content: 4 Generations of Design-Build Expertise
+      small-heading: ''
+      main-content: ''
       detail: ''
     cta:
       enabled: false
