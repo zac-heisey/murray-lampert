@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/green-construction-2.jpg"
+  background-image: "/murray-lampert/version3/chriss-adu-rendering-1.png"
   heading: San Diego Green Home Construction
   content: Murray Lampert is proud be to a Green Certified company, and a leading
     eco-friendly home remodeling contractor in San Diego.
