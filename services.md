@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+  background-image: "/murray-lampert/version3/outdoor-living-space.jpg"
   heading: The Art of Listening.<br>The Craft of Building.
   content: Design-build delivers a home that's more you.
 - template: rich-text
@@ -45,7 +45,7 @@ sections:
   process-stages:
   - stage: Design Stage
     stage-info:
-      image: "/murray-lampert/version3/sokolowski-del-cerro-sketchy-1.jpg"
+      image: "/murray-lampert/version3/senescall-outdoor-rendering-2.png"
       text-info:
         heading: Design
         content: "<p>Our architect will collaborate with you to home in on your wants
@@ -57,7 +57,7 @@ sections:
           exactly what to expect and you'll receive a precise quote.</p>"
   - stage: Pre-construction Stage
     stage-info:
-      image: "/murray-lampert/version3/placeholder-2.jpg"
+      image: "/murray-lampert/version3/patti-and-matt.jpg"
       text-info:
         heading: Pre-construction
         content: "<p>Once the design has been approved by you, we'll prepare the construction
@@ -197,7 +197,7 @@ sections:
     gallery-items:
     - item: Green Construction
       image-info:
-        image: "/murray-lampert/version3/green-construction-2.jpg"
+        image: "/murray-lampert/version3/chriss-adu-rendering-1.png"
         text-overlay:
           heading: Green Construction
           content: Murray Lampert is proud be to a Green Certified company, and a
