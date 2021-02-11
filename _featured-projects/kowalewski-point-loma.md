@@ -62,7 +62,7 @@ sections:
     grid-items:
     - item: Kowalewski Living Room & Kitchen
       image-info:
-        image: "/murray-lampert/version3/kowalewski-adu-after-1.jpg"
+        image: "/murray-lampert/version3/kowalewski-adu-after-5.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -82,7 +82,7 @@ sections:
       item-span: 2
     - item: Kowalewski Bathroom
       image-info:
-        image: "/murray-lampert/version3/kowalewski-bathroom-after-1.jpg"
+        image: "/murray-lampert/version3/kowalewski-bathroom-after-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -104,7 +104,7 @@ sections:
     grid-items:
     - item: Kowalewski Kitchen 1
       image-info:
-        image: "/murray-lampert/version3/kowalewski-adu-after-2.jpg"
+        image: "/murray-lampert/version3/kowalewski-bathroom-after-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

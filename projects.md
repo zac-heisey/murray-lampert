@@ -11,7 +11,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
+  background-image: "/murray-lampert/version3/senescall-indoor-rendering-1.png"
   heading: This is what listening<br>looks like.
   content: Every home is a testament to the collaboration between Murray Lampert and
     our customers.

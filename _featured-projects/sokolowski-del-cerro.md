@@ -40,7 +40,7 @@ sections:
           detail: ''
           url: ''
       video-info:
-        video-cover-image: ''
+        video-cover-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-3.jpg"
         video-id: P7Zmdkdvwhk
       text-info:
         background-color: gray
