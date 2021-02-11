@@ -49,7 +49,7 @@ sections:
           detail: ''
           url: ''
       video-info:
-        video-cover-image: ''
+        video-cover-image: "/v1613081155/murray-lampert/version3/cava-kitchen-dining-2.jpg"
         video-id: 63pVN58cKzE
       text-info:
         background-color: none

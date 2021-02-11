@@ -62,5 +62,5 @@ fields:
   - grid
   - gallery
   config:
-    min:
-    max:
+    min: 
+    max: 
