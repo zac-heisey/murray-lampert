@@ -68,8 +68,8 @@ sections:
       color: white
       button-text: ''
       url: ''
-  - slide-title: Matt and Danny
-    background-image: "/murray-lampert/version3/mldbr-team-matt-and-danny.jpg"
+  - slide-title: Hannah's Favorite Tile
+    background-image: "/murray-lampert/version3/mldbr-team-hannah-tile.jpg"
     text-overlay:
       background-color: none
       alignment: center
