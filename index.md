@@ -297,6 +297,6 @@ sections:
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: "/murray-lampert/version3/binetti-zoom-photo.jpg"
-  image-right: "/murray-lampert/version3/placeholder-2.jpg"
+  image-right: "/murray-lampert/version3/nicole-and-danny.jpg"
 
 ---
