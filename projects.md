@@ -97,7 +97,7 @@ sections:
             url: "/san-diego-green-home-construction"
     - item: Other Remodeling Services
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
+        image: "/murray-lampert/version3/brown-balcony-1.jpg"
         text-overlay:
           content: Interior and exterior remodels, minor updates to major renovations.
             If you have a dream remodeling project in mind, we can help make it a

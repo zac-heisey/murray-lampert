@@ -83,9 +83,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Schade ADU Rendering
+    - item: Chriss ADU Rendering Bedroom
       image-info:
-        image: "/murray-lampert/version3/schade-adu-rendering.jpg"
+        image: "/murray-lampert/version3/chriss-adu-rendering-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -105,9 +105,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Starks ADU Casita Kitchen 1
+    - item: Chriss ADU Rendering Exterior
       image-info:
-        image: "/murray-lampert/version3/starks-adu-kitchen-1.jpg"
+        image: "/murray-lampert/version3/chriss-adu-exterior-rendering.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -125,9 +125,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Starks ADU Casita Kitchen 2
+    - item: Elise ADU Kitchen
       image-info:
-        image: "/murray-lampert/version3/starks-adu-kitchen-2.jpg"
+        image: "/murray-lampert/version3/elise-adu-kitchen-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

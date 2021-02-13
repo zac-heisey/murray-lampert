@@ -115,7 +115,7 @@ sections:
       item-span: 1
     - item: Green Construction Siding & Window
       image-info:
-        image: "/murray-lampert/version3/green-construction-1.jpg"
+        image: "/murray-lampert/version3/green-construction-4.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -81,6 +81,19 @@ sections:
       color: white
       button-text: ''
       url: ''
+  - slide-title: Cam and Lori Wagner
+    background-image: "/murray-lampert/version3/cam-and-lori-wagner.jpg"
+    text-overlay:
+      background-color: none
+      alignment: center
+      small-heading: ''
+      main-content: ''
+      detail: ''
+    cta:
+      enabled: false
+      color: white
+      button-text: ''
+      url: ''
 - template: rich-text
   block: rich-text
   background-color: blue

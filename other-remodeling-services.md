@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-7.jpg"
+  background-image: "/murray-lampert/version3/brown-balcony-1.jpg"
   heading: Additional San Diego Remodeling Services
   content: Whole-Home Renovations, Outdoor Living Spaces, Architectural & Interior Design, and More
 - template: rich-text
@@ -92,9 +92,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: MLDBR Team Designer Hannah
+    - item: Floating Stairs
       image-info:
-        image: "/murray-lampert/version3/mldbr-team-hannah-designer-1.jpg"
+        image: "/murray-lampert/version3/floating-stairs-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -114,9 +114,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: MLDBR Team Architect Micah
+    - item: Walsh ADU Interior
       image-info:
-        image: "/murray-lampert/version3/mldbr-team-micah-architect.jpg"
+        image: "/murray-lampert/version3/walsh-adu-interior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -156,9 +156,9 @@ sections:
       item-span: 2
   - row: 3 (image)
     grid-items:
-    - item: McEachern Kitchen
+    - item: Glass Stairs
       image-info:
-        image: "/murray-lampert/version3/mceachern-kitchen-after-3.jpg"
+        image: "/murray-lampert/version3/glass-stairs-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

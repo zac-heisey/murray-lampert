@@ -95,7 +95,7 @@ sections:
       item-span: 1
     - item: Wise Kitchen
       image-info:
-        image: "/murray-lampert/version3/wise-kitchen-after-1.jpg"
+        image: "/murray-lampert/version3/thum-kitchen-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

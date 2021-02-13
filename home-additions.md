@@ -136,7 +136,7 @@ sections:
     grid-items:
     - item: Home Addition Living Room
       image-info:
-        image: "/murray-lampert/version3/home-additions-5.jpg"
+        image: "/murray-lampert/version3/walsh-adu-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

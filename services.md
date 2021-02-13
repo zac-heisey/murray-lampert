@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/outdoor-living-space.jpg"
+  background-image: "/murray-lampert/version3/outdoor-living-space-1.jpg"
   heading: The Art of Listening.<br>The Craft of Building.
   content: Design-build delivers a home that's more you.
 - template: rich-text
@@ -68,7 +68,7 @@ sections:
           colors, cabinets, and finishes.</p>"
   - stage: Construction Stage
     stage-info:
-      image: "/murray-lampert/version3/placeholder-5.jpg"
+      image: "/murray-lampert/version3/general-construction-1.jpg"
       text-info:
         heading: Construction
         content: "<p>Successful construction is about proactive communication. You
@@ -207,7 +207,7 @@ sections:
             url: "/san-diego-green-home-construction"
     - item: Other Remodeling Services
       image-info:
-        image: "/murray-lampert/version3/sokolowski-del-cerro-exterior-1.jpg"
+        image: "/murray-lampert/version3/brown-balcony-1.jpg"
         text-overlay:
           content: Interior and exterior remodels, minor updates to major renovations.
             If you have a dream remodeling project in mind, we can help make it a
