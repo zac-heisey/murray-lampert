@@ -71,9 +71,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Green Construction Accent (Grass)
+    - item: Green Construction (Fetzer)
       image-info:
-        image: "/murray-lampert/version3/green-construction-accent-1.jpg"
+        image: "/murray-lampert/version3/fetzer-construction-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -93,9 +93,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Green Construction Accent (Solar Panels)
+    - item: Green Construction ADU Frame
       image-info:
-        image: "/murray-lampert/version3/green-construction-accent-2.jpg"
+        image: "/murray-lampert/version3/green-construction-5.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -111,7 +111,7 @@ sections:
     grid-items:
     - item: Living Room
       image-info:
-        image: "/murray-lampert/version3/cava-living-room-1.jpg"
+        image: "/murray-lampert/version3/cava-living-room-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

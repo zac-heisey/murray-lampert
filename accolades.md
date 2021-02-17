@@ -331,7 +331,7 @@ sections:
     grid-items:
     - item: Thumbnail
       image-info:
-        image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+        image: "/murray-lampert/version3/in-the-news-1.jpg"
       text-info:
         background-color: none
         cta:

@@ -17,7 +17,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/wise-kitchen-after-2.png"
+  background-image: "/murray-lampert/version3/kitchen-after-1.jpg"
   heading: Building a More Sustainable Kitchen
 - template: post-meta-data
   block: post-meta-data

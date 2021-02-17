@@ -102,9 +102,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Kowalewski Kitchen 1
+    - item: Kowalewski Exterior Rendering
       image-info:
-        image: "/murray-lampert/version3/kowalewski-bathroom-after-3.jpg"
+        image: "/murray-lampert/version3/kowalewski-adu-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -94,7 +94,7 @@ sections:
     grid-items:
     - item: Home Addition Indoor/Outdoor Living Area 1
       image-info:
-        image: "/murray-lampert/version3/home-additions-1.jpg"
+        image: "/murray-lampert/version3/home-additions-7.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

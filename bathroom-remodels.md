@@ -95,9 +95,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Wise Bathroom
+    - item: Bathroom Rendering
       image-info:
-        image: "/murray-lampert/version3/wise-bathroom-after-1.jpg"
+        image: "/murray-lampert/version3/bathroom-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -159,7 +159,7 @@ sections:
       item-span: 1
     - item: Powers Bathroom Tub
       image-info:
-        image: "/murray-lampert/version3/powers-bathroom-after-1.jpg"
+        image: "/murray-lampert/version3/powers-bathroom-after-5.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

@@ -135,9 +135,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Hutton Kitchen Hood & Backsplash
+    - item: Wood Kitchen Cabinets
       image-info:
-        image: "/murray-lampert/version3/hutton-kitchen-after-1.jpg"
+        image: "/murray-lampert/version3/wood-kitchen-cabinets-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
