@@ -17,7 +17,7 @@
     		document.fonts.load('700 1em acumin-pro')
     	]).then(function () {
     		// The font is loaded
-    		// Add our loaded class
+    		// Add our 'fonts-loaded' class
     		document.documentElement.className += 'fonts-loaded';
     	});
 

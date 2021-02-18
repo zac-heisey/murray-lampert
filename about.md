@@ -123,12 +123,12 @@ sections:
     button-text: ''
     url: ''
   heading: Why people like to do business with us.
-  background-image: "/murray-lampert/version3/business-with-us-placeholder.jpg"
+  background-image: "/murray-lampert/version3/ocean-beach-san-diego.jpg"
   content: ''
 - template: rich-text
   block: rich-text
   background-color: sand
-  content: "<p><strong>YOU KNOW YOU'R HEARD.</strong><br>We listen to what you like
+  content: "<p><strong>YOU KNOW YOU'RE HEARD.</strong><br>We listen to what you like
     and why you want it. If it's too costly, we'll offer you a couple of alternatives
     to choose from. We treat the design and build as a collaborative process.</p><p><strong>WE'VE
     GOT YOUR BACK.</strong><br>This may be the first renovation project you've gone

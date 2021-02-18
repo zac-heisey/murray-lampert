@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/wagner-kitchen-after-1.jpg"
+  background-image: "/murray-lampert/version3/hall-kitchen-after-3.jpg"
   heading: Kitchen Remodeling in San Diego
   content: Refresh Your Outdated Kitchen and Modernize Your Counters, Cabinets, Fixtures,
     and Appliances

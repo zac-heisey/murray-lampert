@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/outdoor-living-space-1.jpg"
+  background-image: "/murray-lampert/version3/exterior-after-1.jpg"
   heading: The Art of Listening.<br>The Craft of Building.
   content: Design-build delivers a home that's more you.
 - template: rich-text

@@ -72,7 +72,7 @@ sections:
       item-span: 2
     - item: Home Addition Exterior
       image-info:
-        image: "/murray-lampert/version3/home-additions-4.jpg"
+        image: "/murray-lampert/version3/home-additions-7.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -92,9 +92,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Home Addition Indoor/Outdoor Living Area 1
+    - item: Second Story Home Addition
       image-info:
-        image: "/murray-lampert/version3/home-additions-7.jpg"
+        image: "/murray-lampert/version3/second-story-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -112,9 +112,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Home Addition Wagner Exterior
+    - item: Home Addition Street-Facing Exterior
       image-info:
-        image: "/murray-lampert/version3/wagner-exterior-after-2.jpg"
+        image: "/murray-lampert/version3/home-additions-8.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -134,9 +134,9 @@ sections:
       item-span: 2
   - row: 2 / 1
     grid-items:
-    - item: Home Addition Living Room
+    - item: Walsh ADU Exterior (wide-angle)
       image-info:
-        image: "/murray-lampert/version3/walsh-adu-exterior-1.jpg"
+        image: "/murray-lampert/version3/walsh-adu-exterior-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -154,9 +154,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Home Addition Indoor/Outdoor Living Area 2
+    - item: Walsh ADU Exterior (pool)
       image-info:
-        image: "/murray-lampert/version3/services-additions.jpg"
+        image: "/murray-lampert/version3/walsh-adu-exterior-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
