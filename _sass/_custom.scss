@@ -251,6 +251,24 @@ main[data-page*="_posts"] {
 
 main[data-page="contact"] {
 
+  section {
+
+    margin: 0;
+
+    &.rich-text:nth-of-type(2) {
+
+      background-color: $blue;
+
+      h2 {
+
+        color: $white;
+
+      }
+
+    }
+
+  }
+
   p.small-heading {
 
     font-size: 1.25rem;
