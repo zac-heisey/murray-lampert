@@ -38,7 +38,6 @@ sections:
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: ''
       main-content: "“It was a pleasure having Murray Lampert remodel my home. They
         were very attentive to any of my concerns and I couldn’t be happier with the
         the completed project. Everyone at Murray Lampert was amazing and great to
@@ -54,7 +53,6 @@ sections:
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: ''
       main-content: "“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
