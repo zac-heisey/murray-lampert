@@ -48,7 +48,7 @@ sections:
       image: "/murray-lampert/version3/senescall-outdoor-rendering-2.png"
       text-info:
         heading: Design
-        content: "<p>Our architect will collaborate with you to home in on your wants
+        content: "<p>Our architect will collaborate with you to hone in on your wants
           and produce the right design. You'll be able to visualize what your future
           home will look like with detailed renderings and realistic 3D walkthroughs.
           We'll bring in our trade partners, conduct inspections of lead, mold, and
