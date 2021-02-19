@@ -114,9 +114,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Walsh ADU Interior
+    - item: Hutton Exterior In Progress
       image-info:
-        image: "/murray-lampert/version3/walsh-adu-interior-1.jpg"
+        image: "/murray-lampert/version3/hutton-exterior-in-progress-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -156,9 +156,9 @@ sections:
       item-span: 2
   - row: 3 (image)
     grid-items:
-    - item: Glass Stairs
+    - item: Anglikowski Roof Deck Rendering
       image-info:
-        image: "/murray-lampert/version3/glass-stairs-1.jpg"
+        image: "/murray-lampert/version3/anglikowski-roof-deck-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''

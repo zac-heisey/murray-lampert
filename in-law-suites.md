@@ -83,9 +83,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Chriss ADU Rendering Bedroom
+    - item: Schade ADU Kitchen Rendering
       image-info:
-        image: "/murray-lampert/version3/chriss-adu-rendering-3.jpg"
+        image: "/murray-lampert/version3/schade-adu-kitchen-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -105,9 +105,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Chriss ADU Rendering Exterior
+    - item: Spengler ADU Exterior Rendering
       image-info:
-        image: "/murray-lampert/version3/chriss-adu-exterior-rendering.jpg"
+        image: "/murray-lampert/version3/spengler-adu-exterior-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -167,9 +167,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Kowalewski ADU Garage Conversion
+    - item: Walsh ADU Garage Exterior
       image-info:
-        image: "/murray-lampert/version3/kowalewski-adu-after-1.jpg"
+        image: "/murray-lampert/version3/walsh-adu-exterior-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -187,11 +187,11 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-  - row: 1 / 2
+  - row: 3 (image)
     grid-items:
-    - item: ADU Exterior In Progress
+    - item: ADU Bedroom Rendering
       image-info:
-        image: "/murray-lampert/version3/adu-construction-1.jpg"
+        image: "/murray-lampert/version3/adu-bedroom-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -208,27 +208,7 @@ sections:
         heading: ''
         content: ''
       item-type: image
-      item-span: 1
-    - item: ADU Library Loft
-      image-info:
-        image: "/murray-lampert/version3/adu-after-1.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-      item-type: image
-      item-span: 2
+      item-span: 3
 - template: call-to-action
   block: call-to-action
   layout: Full-Width

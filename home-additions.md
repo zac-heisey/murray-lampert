@@ -134,7 +134,7 @@ sections:
       item-span: 2
   - row: 2 / 1
     grid-items:
-    - item: Walsh ADU Exterior (wide-angle)
+    - item: Walsh ADU Home Addition
       image-info:
         image: "/murray-lampert/version3/walsh-adu-exterior-2.jpg"
         text-overlay:
@@ -154,9 +154,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Walsh ADU Exterior (pool)
+    - item: Wagner Exterior
       image-info:
-        image: "/murray-lampert/version3/walsh-adu-exterior-1.jpg"
+        image: "/murray-lampert/version3/wagner-exterior-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
