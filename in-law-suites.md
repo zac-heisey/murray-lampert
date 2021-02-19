@@ -105,9 +105,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Spengler ADU Exterior Rendering
+    - item: Elise ADU Kitchen
       image-info:
-        image: "/murray-lampert/version3/spengler-adu-exterior-rendering-1.jpg"
+        image: "/murray-lampert/version3/elise-adu-kitchen-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -125,9 +125,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Elise ADU Kitchen
+    - item: Spengler ADU Exterior Rendering
       image-info:
-        image: "/murray-lampert/version3/elise-adu-kitchen-1.jpg"
+        image: "/murray-lampert/version3/spengler-adu-exterior-rendering-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -187,28 +187,6 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-  - row: 3 (image)
-    grid-items:
-    - item: ADU Bedroom Rendering
-      image-info:
-        image: "/murray-lampert/version3/adu-bedroom-rendering-1.jpg"
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-      item-type: image
-      item-span: 3
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
