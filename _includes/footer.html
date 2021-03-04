@@ -340,21 +340,115 @@
 
       }
 
+      //== YouTube Lite ==//
+
+      {
+
+        // If there are videos on the page, append lite-youtube-embed script to footer
+        if (document.querySelector('lite-youtube')) {
+
+          let footer = document.querySelector('footer');
+          let js = document.createElement('script');
+
+          js.type = "text/javascript";
+          js.src = "/js/lite-youtube-embed.js";
+          footer.appendChild(js);
+
+        }
+
+      }
+
+      //== Form Scripts ==//
+
+      {
+
+        // Check for forms on the page
+        if (document.forms.length > 0) {
+
+          let contactForm = document.forms['Website Lead: Contact Form'];
+
+          // Enable contact form submit button when JS is enabled
+          document.getElementById('contact-btn').removeAttribute('disabled');
+
+          // Remove JS disabled alert message
+          document.getElementById('js-disabled-alert').remove();
+
+          // Zip Code Validation
+          let zipCodeField = contactForm['zipcode'];
+
+          function validateZip(event) {
+
+            if (isNaN(zipCodeField.value) || zipCodeField.value < 90000 || zipCodeField.value > 93000) {
+
+              document.getElementById('contact-btn').disabled = true;
+              zipCodeField.style.color = 'red';
+              zipCodeField.value = 'INVALID ZIP CODE. PLEASE TRY AGAIN OR CALL US (619) 285-9222';
+
+            }
+
+            else {
+
+              zipCodeField.style.color = '#2082AF';
+              document.getElementById('contact-btn').disabled = false;
+
+            }
+
+          }
+
+          // Budget Validation
+          let projectType = contactForm['type-of-project'];
+          let budgetRange = contactForm['project-budget'];
+
+          function validateBudget(event) {
+
+            // Enable all budget ranges
+            Array.from(budgetRange).forEach(budget => {
+
+              budget.disabled = false;
+
+            });
+
+            switch (projectType.value) {
+
+              case 'Second Story':
+              case 'ADU':
+                budgetRange[1].disabled = true;
+                budgetRange[2].disabled = true;
+                break;
+
+              case 'Total Renovation':
+              case 'Indoor Outdoor':
+                budgetRange[1].disabled = true;
+                break;
+
+            }
+
+          }
+
+          // Listen for blur event on contact form
+          contactForm.addEventListener('blur', function(event) {
+
+            // Validate zip code
+            if (event.target === zipCodeField) {
+
+              validateZip(event);
+
+            }
+
+            // Validate budget
+            if (event.target === projectType) {
+
+              validateBudget(event);
+
+            }
+
+          }, true);
+
+        }
+
+      }
+
     }()); // IIFE wrapper end
-
-    //== YouTube Lite ==//
-
-    // If there are videos on the page, append lite-youtube-embed script to footer
-    if (document.querySelector('lite-youtube')) {
-
-      let footer = document.querySelector('footer');
-      let js = document.createElement('script');
-
-      js.type = "text/javascript";
-      js.src = "/js/lite-youtube-embed.js";
-      footer.appendChild(js);
-
-    }
 
   </script>
 
