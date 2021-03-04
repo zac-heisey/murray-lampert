@@ -29,7 +29,7 @@ sections:
     Fiberglass Insulation</p></li><li><p>Radiant Barrier over Roof Sheeting to Reflect
     Heat</p></li><li><p>Energy Efficient Windows, Doors and Skylights</p></li><li><p>Use
     of Engineered Woods for Structural Construction</p></li><li><p>Installation of
-    Fluorescent Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm
+    LED Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm
     Water Pollution Control</p></li><li><p>Low Flow Toilets, Faucets and Valves</p></li><li><p>Non
     VOC Paints and Stains</p></li></ul><p><a href="/">Murray
     Lampert Design, Build, Remodel</a> is a Green Certified firm experienced in energy
@@ -51,9 +51,9 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Green Construction Second Story Deck
+    - item: Green Construction Solar Panels
       image-info:
-        image: "/murray-lampert/version3/green-construction-3.jpg"
+        image: "/murray-lampert/version3/green-construction-6.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
