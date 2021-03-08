@@ -114,9 +114,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Hutton Exterior In Progress
+    - item: Outdoor Living Space with Big Screen TV
       image-info:
-        image: "/murray-lampert/version3/hutton-exterior-in-progress-1.jpg"
+        image: "/murray-lampert/version3/other-remodeling-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
