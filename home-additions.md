@@ -50,9 +50,9 @@ sections:
   grid-rows:
   - row: 2 / 1
     grid-items:
-    - item: Home Addition Second Story Stairs
+    - item: Wagner Bathroom
       image-info:
-        image: "/murray-lampert/version3/home-additions-6.jpg"
+        image: "/murray-lampert/version3/wagner-bathroom-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -70,9 +70,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Home Addition Exterior
+    - item: Gezpenc Stairs
       image-info:
-        image: "/murray-lampert/version3/home-additions-7.jpg"
+        image: "/murray-lampert/version3/gezpenc-stairs-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -112,9 +112,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Home Addition Street-Facing Exterior
+    - item: Senescall Rendering
       image-info:
-        image: "/murray-lampert/version3/home-additions-8.jpg"
+        image: "/murray-lampert/version3/senescall-rendering-1.png"
         text-overlay:
           small-heading: ''
           main-content: ''

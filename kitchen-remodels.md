@@ -73,9 +73,9 @@ sections:
       item-span: 1
   - row: 1 / 2
     grid-items:
-    - item: Doyle Kitchen Hood & Backsplash
+    - item: Lilly Kitchen Appliances
       image-info:
-        image: "/murray-lampert/version3/doyle-kitchen-after-2.jpg"
+        image: "/murray-lampert/version3/lilly-kitchen-after-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
