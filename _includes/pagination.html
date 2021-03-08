@@ -6,17 +6,17 @@
     {% if paginator.next_page %}
       {% if paginator.next_page == 1 %}
         <a href="/{{ include.root }}">
-          <span class="icon-left-arrow"></span>
+          <span class="icon-left-arrow blue"></span>
           Older Posts
         </a>
       {% else %}
         <a href="/{{ include.root }}/page{{ paginator.next_page }}">
-          <span class="icon-left-arrow"></span>
+          <span class="icon-left-arrow blue"></span>
           Older Posts
         </a>
       {% endif %}
     {% else %}
-      <span class="icon-left-arrow">
+      <span class="icon-left-arrow blue">
         Older Posts
       </span>
     {% endif %}
@@ -26,18 +26,18 @@
       {% if paginator.previous_page == 1 %}
         <a href="/{{include.root}}">
           Newer Posts
-          <span class="icon-right-arrow"></span>
+          <span class="icon-right-arrow blue"></span>
         </a>
       {% else %}
         <a href="/{{include.root}}/page{{ paginator.previous_page }}">
           Newer Posts
-          <span class="icon-right-arrow"></span>
+          <span class="icon-right-arrow blue"></span>
         </a>
       {% endif %}
     {% else %}
       <span>
         Newer Posts
-        <span class="icon-right-arrow"></span>
+        <span class="icon-right-arrow blue"></span>
       </span>
     {% endif %}
   </div>
