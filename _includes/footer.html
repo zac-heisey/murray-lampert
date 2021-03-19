@@ -292,7 +292,7 @@
 
         if (window.location.pathname === '/about-murray-lampert-design-build-remodel') {
 
-          let breakpointLarge = window.matchMedia('(min-width: 992px)');
+          let breakpointMed = window.matchMedia('(min-width: 768px)');
           let teamMemberSection = document.querySelector('section.team-members');
           let teamMemberBios = Array.from(document.querySelectorAll('.bio'));
 
@@ -317,7 +317,7 @@
           // Listen for clicks and keydown events
           document.addEventListener('click', function(event) {
 
-            if (!breakpointLarge.matches) return;
+            if (!breakpointMed.matches) return;
 
             toggleBios(event);
 
@@ -326,7 +326,7 @@
 
           document.addEventListener('keydown', function(event) {
 
-            if (!breakpointLarge.matches) return;
+            if (!breakpointMed.matches) return;
 
             if (event.key === 'Enter') {
 

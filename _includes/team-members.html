@@ -10,10 +10,12 @@
       <img
         src="{{ site.cloudinary }},w_auto{{ person.image-1 }}"
         srcset="
-        {{ site.cloudinary }},w_450{{ person.image-1 }} 450w
+        {{ site.cloudinary }},w_576{{ person.image-1 }} 576w,
+        {{ site.cloudinary }},w_768{{ person.image-1 }} 768w
         "
         sizes="
-        (max-width: 575px) 450px
+        (max-width: 992px) 100vw,
+        (max-width: 1200px) 33vw
         "
         alt="murray lampert team member - {{ person.name }}"
         width="800"
@@ -28,12 +30,12 @@
         <img
           src="{{ site.cloudinary }},w_auto{{ person.image-2 }}"
           srcset="
-          {{ site.cloudinary }},w_450{{ person.image-2 }} 450w,
-          {{ site.cloudinary }},w_675{{ person.image-2 }} 675w
+          {{ site.cloudinary }},w_576{{ person.image-2 }} 576w,
+          {{ site.cloudinary }},w_768{{ person.image-2 }} 768w
           "
           sizes="
-          (max-width: 575px) 450px,
-          (max-width: 767px) 675px
+          (max-width: 992px) 100vw,
+          (max-width: 1200px) 33vw
           "
           alt="murray lampert team member - {{ person.name }}"
           width="800"
@@ -68,12 +70,12 @@
       <img
         src="{{ site.cloudinary }},w_auto{{ person.image-2 }}"
         srcset="
-        {{ site.cloudinary }},w_450{{ person.image-2 }} 450w,
-        {{ site.cloudinary }},w_675{{ person.image-2 }} 675w
+        {{ site.cloudinary }},w_576{{ person.image-2 }} 576w,
+        {{ site.cloudinary }},w_768{{ person.image-2 }} 768w
         "
         sizes="
-        (max-width: 575px) 450px,
-        (max-width: 767px) 675px
+        (max-width: 992px) 100vw,
+        (max-width: 1200px) 50vw
         "
         alt="murray lampert team member - {{ person.name }}"
         width="800"
@@ -91,9 +93,11 @@
         </button>
         <h3>{{ person.name }}</h3>
         <p class="small-heading">{{ person.title }}</p>
+        {% if person.email != '' %}
         <a href="mailto:{{ person.email }}">
           <span class="icon-email"></span>
         </a>
+        {% endif %}
            {{ person.bio }}
       </div>
 

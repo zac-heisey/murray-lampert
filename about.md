@@ -115,6 +115,56 @@ sections:
     family-owned business and this family feeling pervades our partnerships with our
     team, trade partners, and clients. And by the time we're done with your project,
     you'll feel like family too.</p>"
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: "<h6>Our Team</h6><h2>What Family Looks Like</h2><p>We are designers and
+    architects, carpenters and craftsmen. We are dream-granters and budget keeps,
+    communicators and collaborators. And your favorite thing to build is relationships
+    with our customers. We can't wait to do the same for you.</p>"
+- template: team-members
+  block: team-members
+  team-rows:
+  - row: Row 1
+    team-members:
+    - name: Gregg Cantor
+      title: President and CEO
+      bio: "<p>Gregg began working for Murray Lampert Design, Build, Remodel in 1977 completing job site cleanup. After spending a year as a carpenter’s helper in 1978, Gregg concentrated on his education majoring in business at SDSU. In 1983, he was hired as Assistant Superintendent and quickly took on a large workload of kitchen and bathroom projects. Within a year, Gregg was promoted to Superintendent and in 1985 to Head Superintendent. In 1990, Gregg’s grandfather Murray retired, and Gregg bought the business and became President and CEO. Over the years, Gregg has been responsible for managing over 2000 home remodeling and construction projects.</p><p>Outside of Murray Lampert Design, Build, Remodel, Gregg served on the San Diego Better Business Bureau as Vice Chairman, as well as the former Director on the Council of Better Business Bureaus. Gregg is the Resident Expert on ABC 10 News for the San Diego Approved Home Pro Show. In his spare time, Gregg enjoys hiking, spending time with family, cooking, or BBQing, and Chargers football.</p>"
+      email: gcantor@murraylampert.com
+      image-1: "/murray-lampert/version3/gregg-cantor-1.jpg"
+      image-2: "/murray-lampert/version3/gregg-cantor-1.jpg"
+    - name: Lisa Cantor
+      title: CFO
+      email: lcantor@murraylampert.com
+      bio: "<p>Gregg met Lisa in November of 1988 and they were married in April of 1990. In 1994, Lisa began helping in the office by answering phones and within a couple of years, she eventually took over the bookkeeping and finances. Lisa has since taken on the role of CFO.</p><p>Lisa has a Bachelors in Communications from San Diego State University. In her spare time, Lisa enjoys cooking, spending time with her family, and enjoying the company of their two Puggles, Ethel & Ellie.</p>"
+      image-1: "/murray-lampert/version3/lisa-cantor-1.jpg"
+      image-2: "/murray-lampert/version3/lisa-cantor-1.jpg"
+    - name: Rachel Cantor
+      title: Director of Design
+      email: rachel@murraylampert.com
+      bio: "<p>Rachel Cantor is the Vice President of Operations and the fourth generation in our family business. Rachel graduated from Miami University of Ohio with a Bachelor of Creative Arts Degree in Architecture. Rachel has developed a holistic understanding of the construction process from participating in projects around the world.</p><p>She studied at the University of Newcastle in Australia, at the UAA Studio in Germany and at the Over-the-Rhine Design Build Studio in Cincinnati. Her focus is to produce designs that integrate the clients’ needs with an efficient technique.</p><p>In her spare time, Rachel loves to travel and enjoys hanging out with her standard poodle Phoebe.</p>"
+      image-1: "/murray-lampert/version3/rachel-cantor-1.jpg"
+      image-2: "/murray-lampert/version3/rachel-cantor-1.jpg"
+  - row: Row 2
+    team-members:
+    - name: Patti Atwell
+      title: Production Manager
+      email: patti@murraylampert.com
+      bio: "<p>Patti is a native of Los Angeles, but grew up in sunny San Diego. She has worked in many different capacities during her time with Murray Lampert as she began working as a Production Assistant, advanced to Production Manager, and has since been promoted to Production Coordinator. Patti oversees every aspect of production from concept, to coordination for trade-partners, to the final hand-off for our Project Managers. Outside of the office, she enjoys visiting San Diego restaurants, watching baseball, and spending time with her family & friends.</p>"
+      image-1: "/murray-lampert/version3/patti-atwell-1.jpg"
+      image-2: "/murray-lampert/version3/patti-atwell-1.jpg"
+    - name: D'Ann Good
+      title: Office Manger
+      email: dgood@murraylampert.com
+      bio: "<p>D’Ann relocated to San Diego from her home state of Texas in 2009. She attended College of Biblical Studies in Houston, Texas majoring in theological studies and history. D'Ann joined Murray Lampert Design, Build, Remodel in December 2009 working in Customer Service and Community Relations. She has since taken on the Office Manager role. She has worked in various industries supporting both client and employee development. In her free time, she enjoys volunteering at her childrens’ school, running, cooking, Zumba classes, and supports her kids partake in multiple supports.</p>"
+      image-1: "/murray-lampert/version3/dann-good-1.jpg"
+      image-2: "/murray-lampert/version3/dann-good-1.jpg"
+    - name: Cameron Poeschel
+      title: Project Director
+      email: cpoeschel@murraylampert.com
+      bio: "<p>Cameron is the son of a general contractor and grew up learning the ins-and-outs of San Diego construction. Not only does Cameron know his way around a jobsite, but he is also a great team player on the field with his experience as a college quarterback. Having always been drawn toward architecture and building, he worked in the retail side of building materials for many years, where he developed great relationships with people.</p><p>Communication and earning client trust are important characteristics that Cameron strives for at all times. In his spare time, Cameron enjoys watching sports, spending time with his wife and two daughters, working with his hands, art, movies and TV.</p>"
+      image-1: "/murray-lampert/version3/cameron-poeschel-1.jpg"
+      image-2: "/murray-lampert/version3/cameron-poeschel-1.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
