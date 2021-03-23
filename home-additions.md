@@ -112,9 +112,9 @@ sections:
         content: ''
       item-type: image
       item-span: 1
-    - item: Senescall Rendering
+    - item: Wagner Outdoor Eating Area
       image-info:
-        image: "/murray-lampert/version3/senescall-rendering-1.png"
+        image: "/murray-lampert/version3/wagner-exterior-after-6.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
