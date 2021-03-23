@@ -215,6 +215,100 @@ sections:
         and TV.</p>"
       image-1: "/murray-lampert/version3/cameron-poeschel-1.jpg"
       image-2: "/murray-lampert/version3/cameron-poeschel-1.jpg"
+  - row: Row 3
+    team-members:
+    - name: Danny Battle
+      title: Architectural Designer
+      email: ''
+      bio: "<p>Danny grew up in Broomfield, Colorado - just in between Denver and Boulder. After graduating high school, he attended the University of Oregon and received a degree from the School of Architecture and Allied Arts. As an Architectural Designer, Danny measures your existing home to create a CAD model and then drafts the construction documents. He enjoys the remodeling industry, because there is always a unique problem to solve, and it offers you an endless amount of skills to utilize in your everyday life. The majority of Danny’s free-time is spent at the hockey rink, off-roading, camping, surfing, or partaking in some sort of activity in the San Diego sun.</p>"
+      image-1: "/murray-lampert/version3/danny-battle-1.jpg"
+      image-2: "/murray-lampert/version3/danny-battle-1.jpg"
+    - name: Noel Dunham
+      title: Interior Designer
+      email: ''
+      bio: "<p>Noel is a San Diego native, born and raised. She graduated from The Art Institute of San Diego, California with a Bachelors of Science in Interior Design. Creating beautiful, yet functional spaces and playing with different colors and textures is her favorite part about being on the design team. Outside of the office, Noel loves doing anything outdoors and spending quality time with her friends and family.</p>"
+      image-1: "/murray-lampert/version3/noel-dunham-1.jpg"
+      image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
+    - name: Rachel Bancroft
+      title: Senior Designer
+      email: ''
+      bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years ago. She received her Bachelors of Art Degree in Interior Design from San Diego State University. Rachel enjoys being challenged by the ever-changing nature and creativity of the design industry. She loves being able to implement homeowner’s personal style into their remodeled homes. In her free time, she enjoys being adventurous outside, doing pilates & hanging out at one of our local breweries.</p>"
+      image-1: "/murray-lampert/version3/rachel-bancroft-1.jpg"
+      image-2: "/murray-lampert/version3/rachel-bancroft-1.jpg"
+  - row: Row 4
+    team-members:
+    - name: Hannah Wilson
+      title: Designer
+      email: ''
+      bio: "<p>Hannah moved to San Diego in 2019 from Truckee, California, located just slightly north of beautiful Lake Tahoe. She attended both The University of Nevada-Reno and the Art Institute of California-Sacramento, receiving two Bachelor degrees in English and Interior Design. At a young age, Hannah encountered many interior design and remodeling influences as she grew up working for her parent’s construction, plumbing, and radiant heating business. She enjoys being around the construction and remodeling environment due to the fact that it’s a hands-on and fast-paced atmosphere. She feels this industry allows her to be creative while collaborating with wonderful people. During Hannah’s off time, you can find her surfing, soaking up the sun on the beach, or on a motorcycle riding the twisty turns of our fun mountain roads.</p>"
+      image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
+      image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
+    - name: Brandon Mears
+      title: Project Consultant
+      email: ''
+      bio: "<p>Being a Project Consultant at Murray Lampert Design, Build, Remodel, means Brandon may be the very first person you meet with from our team. Having managed complete remodels and additions on multiple homes of his own, Brandon knows firsthand what it means to redefine space for your family. He is originally from Fremont, California, but has been living in San Diego since 2001. He earned a Bachelor’s in Business from Cal State University San Marcos and studied Engineering at Cal Poly San Luis Obispo. He has always had a lifelong passion for home theater, automation, and listening to music. Brandon enjoys getting his hands dirty on the weekends with his two boys, improving his home, smoking and grilling meat, and tending to his saltwater reef aquarium. At the end of the day, he says that it is his amazing wife and kids that make it all worthwhile.</p>"
+      image-1: "/murray-lampert/version3/brandon-mears-1.jpg"
+      image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
+    - name: Lea Haynor
+      title: Project Manager
+      email: ''
+      bio: "<p>Lea is originally from Fairview, Pennsylvania and grew up right on Lake Erie. She attended  undergrad at the University of Vermont where she earned a degree in Political Science and completed a Masters Program at San Diego State University, obtaining another degree in International Relations. She spent 8 years remodeling bank owned investment properties and also has 4 years experience working on new construction. Lea loves being part of the transformation process of residential remodeling. She likes seeing the before-and-after and taking pride in the final product. Appreciating that every project is different, she loves that there is always something new to learn or figure out. Interestingly, Lea is a licensed skydiver and a certified SCUBA diver. She loves anything outdoors, especially visiting the dog beach with her 2 pups and family.</p>"
+      image-1: "/murray-lampert/version3/lea-haynor-1.jpg"
+      image-2: "/murray-lampert/version3/lea-haynor-1.jpg"
+  - row: Row 5
+    team-members:
+    - name: Nicole LaCroix
+      title: Designer
+      email: ''
+      bio: "<p>Nicole was born and raised in Scottsdale, Arizona, where she attended Arizona State University and graduated with a Bachelor of Arts in Design Management. Being able to work closely with clients and families to create, or update, their perfect home is what she loves most about remodeling. When she isn’t hard at work, Nicole enjoys being active, exploring the city and outdoors, attempting to be a chef, hanging with her pup Benny, and spending time with her friends & family.</p>"
+      image-1: "/murray-lampert/version3/nicole-lacroix-1.jpg"
+      image-2: "/murray-lampert/version3/nicole-lacroix-1.jpg"
+    - name: Bryan Bushaw
+      title: Field Technician
+      email: ''
+      bio: "<p>Bryan is originally from San Jose, California. He grew up in Denver, Colorado, where he graduated with a Bachelors in International Studies. Although Bryan works as our Field Technician, he is also a creator and designer in his spare-time. When living in Colorado, Bryan operated his own design-build firm for 3 years. The remodeling industry gives him an outlet to express his individual ideas. He enjoys being able to look back and reflect on his finished work. During his free time, he designs and creates custom furniture, goes surfing, kiteboarding, hikes, cooks, and spends quality time with his 11-year-old Border Collie.</p>"
+      image-1: "/murray-lampert/version3/bryan-bushaw-1.jpg"
+      image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
+    - name: Jack Moreno
+      title: Field Technician
+      email: ''
+      bio: "<p>My name is Jack Moreno. I am a field technician here at MLDBR. I am a native Southern Californian, born and raised in Los Angeles County. I have obtained two associates degrees: nursing from East Los Angeles college and fire science from Rio Hondo. I’ve always had a passion for taking on projects since I can remember; building nothing into something is very rewarding. There is an enjoyment in executing homeowners’ remodeling visions. Working in customer service allows me to meet new people and create long lasting relationships. I enjoy participating in all sports, staying active is important to me. I love being outdoors, spending time with my family and making memories with them.</p>"
+      image-1: "/murray-lampert/version3/jack-moreno-1.jpg"
+      image-2: "/murray-lampert/version3/jack-moreno-1.jpg"
+  - row: Row 6
+    team-members:
+    - name: Don Thomas
+      title: Senior Project Manager
+      email: ''
+      bio: "<p>Don has been working in the construction industry since 1976. He has been a Project Manager for 28 years and before that, he worked as a finish and framing carpenter. He has decades of experience remodeling both residential and commercial projects. Not only has Don’s projects ranged from small remodels to custom homes from the ground up, but many of them have been  published in major remodeling magazines and have won numerous awards. His hobbies include collecting sports memorabilia, watching baseball, and rooting for the Green Bay Packers.</p>"
+      image-1: "/murray-lampert/version3/don-thomas-1.jpg"
+      image-2: "/murray-lampert/version3/don-thomas-1.jpg"
+    - name: Micah Winkelstein
+      title: Senior Architect
+      email: ''
+      bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors of Architecture degree from Southern Polytech University in 2003 and moved to San Diego in 2013. What Micah enjoys most about working for Murray Lampert, is meeting with homeowners and utilizing his experience to design home improvement solutions for them. When he isn’t sketching plans, Micah can be found playing tennis, drumming, grilling on the BBQ, and spending time with his wife and two daughters.</p>"
+      image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
+      image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
+    - name: Alyson Meucci
+      title: Designer
+      email: ''
+      bio: "<p>Alyson grew up in Sacramento, California and graduated from California State University, Chico in 2016. There, she earned a Bachelor of Fine Arts degree in Interior Architecture with a minor in Sustainability. She loves working in the remodeling industry, because she gets the opportunity to be involved in the design process from start to finish. Alyson enjoys building relationships with each of her clients during the process. Providing a memorable experience for Alyson’s friends, family, and even clients is what drives her to be successful in every aspect of life. In her free time, she loves to go to the beach, workout and spend time with her friends, boyfriend and dog, Cheese!</p>"
+      image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
+      image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
+  - row: Row 7
+    team-members:
+    - name: Matt Clark
+      title: Project Manager
+      email: ''
+      bio: "<p>Matt is originally from San Diego, but spent years raising his family in Kentucky, and recently returned home to Southern California in 2020 . He has been working in the construction industry for 22 years and is driven by the creativity of designing and building unique projects. Matt feels that Murray Lampert does a fantastic job of creating and maintaining a healthy, work environment. He enjoys surfing, playing tennis, surfing, reading and spending time with his family.</p>"
+      image-1: "/murray-lampert/version3/matthew-clark-1.jpg"
+      image-2: "/murray-lampert/version3/matthew-clark-1.jpg"
+    - name: Bill Davis
+      title: Project Manager
+      email: ''
+      bio: "<p>Bill was born in the San Francisco Bay area but was raised in Palo Alto, California. He earned a Bachelor’s degree in Environmental Design from San Diego State University and has lived in San Diego for 27 years. Bill has worked in constructional design for 25 years and really enjoys helping homeowner’s build their dream home. Before joining the construction industry, Bill spent years working as a professional drummer in a band. In his free time, Bill is either surfing, skiing, making music, or cooking.</p>"
+      image-1: "/murray-lampert/version3/bill-davis-1.jpg"
+      image-2: "/murray-lampert/version3/bill-davis-1.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
