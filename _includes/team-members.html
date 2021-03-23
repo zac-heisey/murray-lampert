@@ -26,27 +26,7 @@
       <!-- Text overlay -->
       <div class="text-overlay">
 
-        <!-- Image 2 -->
-        <img
-          src="{{ site.cloudinary }},w_auto{{ person.image-2 }}"
-          srcset="
-          {{ site.cloudinary }},w_576{{ person.image-2 }} 576w,
-          {{ site.cloudinary }},w_768{{ person.image-2 }} 768w
-          "
-          sizes="
-          (max-width: 992px) 100vw,
-          (max-width: 1200px) 33vw
-          "
-          alt="murray lampert team member - {{ person.name }}"
-          width="800"
-          height="450"
-          loading="lazy"
-        >
-
         <div class="bio-text">
-          <button type="button" class="close">
-            <span class="icon-close"></span>
-          </button>
           <h3>{{ person.name }}</h3>
           <p class="small-heading">{{ person.title }}</p>
           <a href="mailto:{{ person.email }}">
@@ -94,7 +74,6 @@
         <h3>{{ person.name }}</h3>
         <p class="small-heading">{{ person.title }}</p>
         {% if person.email != '' %}
-        sdfsdfsdf
         <a href="mailto:{{ person.email }}">
           <span class="icon-email"></span>
         </a>
