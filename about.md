@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/murray-lampert/version3/mldbr-team-1.png"
+  background-image: "/murray-lampert/version3/mldbr-team-3.jpg"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text

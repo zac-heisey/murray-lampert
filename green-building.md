@@ -71,9 +71,9 @@ sections:
         content: ''
       item-type: image
       item-span: 2
-    - item: Green Construction (Fetzer)
+    - item: Green Construction (Anglikowski)
       image-info:
-        image: "/murray-lampert/version3/fetzer-construction-1.jpg"
+        image: "/murray-lampert/version3/anglikowski-construction-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
