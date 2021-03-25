@@ -37,9 +37,9 @@ permalink: pretty
 
 include:
 - _redirects
-- node_modules
 
-exclude: []
+exclude:
+- node_modules
 
 plugins:
 - jekyll-paginate
