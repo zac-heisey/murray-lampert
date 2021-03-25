@@ -40,6 +40,8 @@ include:
 
 exclude:
 - node_modules
+- package*
+
 
 plugins:
 - jekyll-paginate
