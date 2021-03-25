@@ -1,4 +1,11 @@
-_site
+## Ignore these files/directories from git version control
+## i.e. keep out of GitHub repo
+
+# Misc
 .sass-cache
 .jekyll-metadata
 .jekyll-cache/
+
+# Node modules and output
+node_modules
+_site

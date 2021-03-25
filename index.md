@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: San Diego Design Build Remodel
-description: Page to build and test components during development.
+description:
 sections:
 - template: hero-banner
   block: hero-banner
