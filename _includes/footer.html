@@ -411,13 +411,29 @@
             switch (projectType.value) {
 
               case 'Second Story':
+                budgetRange[1].disabled = true;
+                budgetRange[2].disabled = true;
+                budgetRange[3].disabled = true;
+                budgetRange[4].disabled = true;
+                budgetRange[5].disabled = true;
+                break;
+
               case 'ADU':
                 budgetRange[1].disabled = true;
                 budgetRange[2].disabled = true;
+                budgetRange[3].disabled = true;
+                budgetRange[4].disabled = true;
                 break;
 
               case 'Total Renovation':
               case 'Indoor Outdoor':
+                budgetRange[1].disabled = true;
+                budgetRange[2].disabled = true;
+                break;
+
+              case 'Room Addition':
+              case 'Kitchen Remodel':
+              case 'Other':
                 budgetRange[1].disabled = true;
                 break;
 
