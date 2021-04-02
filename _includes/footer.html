@@ -395,6 +395,18 @@
 
           }
 
+          // Listen for focus event on contact form
+          contactForm.addEventListener('focus', function(event) {
+
+            // Clear invalid zip code field message
+            if (event.target === zipCodeField && zipCodeField.value.includes('INVALID')) {
+
+              zipCodeField.value = '';
+
+            }
+
+          }, true);
+
           // Listen for blur event on contact form
           contactForm.addEventListener('blur', function(event) {
 
