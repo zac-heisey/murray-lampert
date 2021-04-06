@@ -1,0 +1,51 @@
+<section class="pagination projects">
+
+  <div class="lock">
+    <!-- Create empty array -->
+    {% assign pagination_array = '' | split: '' %}
+    <!-- Look through featured projects directory -->
+    {% for project in site.featured-projects %}
+      <!-- Check for project-number in front matter -->
+      {% if project.project-number and project.project-number != '' %}
+      <!-- Add projects with project-number to pagination_array -->
+      {% assign pagination_array = pagination_array | push: project | sort: "project-number" %}
+
+      {% endif %}
+
+    {% endfor %}
+    <!-- Look through pagination_array -->
+    {% for project in pagination_array %}
+      <!-- If on the current project -->
+      {% if project.url == page.url %}
+        <!-- Create increment and decrement variables based on current forloop index -->
+        {% assign increment = forloop.index0 | plus: 1 %}
+        {% assign decrement = forloop.index0 | minus: 1 %}
+        <!-- Use increment and decrement variables to update previous and next links -->
+        <a href="{{ pagination_array[decrement].url }}">
+          <span class="icon-left-arrow blue"></span>
+          Previous Project
+        </a>
+
+        {% if increment == 4 %}
+
+        <a href="{{ pagination_array[0].url }}">
+          Next Project
+          <span class="icon-right-arrow blue"></span>
+        </a>
+
+        {% else %}
+
+        <a href="{{ pagination_array[increment].url }}">
+          Next Project
+          <span class="icon-right-arrow blue"></span>
+        </a>
+
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>

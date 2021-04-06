@@ -208,6 +208,8 @@ sections:
     cta:
       enabled: false
       color: white
+- template: project-pagination
+  block: project-pagination
 - template: call-to-action
   block: call-to-action
   layout: Full-Width
