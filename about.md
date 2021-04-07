@@ -303,12 +303,6 @@ sections:
       bio: "<p>Matt is originally from San Diego, but spent years raising his family in Kentucky, and recently returned home to Southern California in 2020 . He has been working in the construction industry for 22 years and is driven by the creativity of designing and building unique projects. Matt feels that Murray Lampert does a fantastic job of creating and maintaining a healthy, work environment. He enjoys surfing, playing tennis, surfing, reading and spending time with his family.</p>"
       image-1: "/murray-lampert/version3/matthew-clark-1.jpg"
       image-2: "/murray-lampert/version3/matthew-clark-1.jpg"
-    - name: Bill Davis
-      title: Project Manager
-      email: ''
-      bio: "<p>Bill was born in the San Francisco Bay area but was raised in Palo Alto, California. He earned a Bachelor’s degree in Environmental Design from San Diego State University and has lived in San Diego for 27 years. Bill has worked in constructional design for 25 years and really enjoys helping homeowner’s build their dream home. Before joining the construction industry, Bill spent years working as a professional drummer in a band. In his free time, Bill is either surfing, skiing, making music, or cooking.</p>"
-      image-1: "/murray-lampert/version3/bill-davis-1.jpg"
-      image-2: "/murray-lampert/version3/bill-davis-1.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
