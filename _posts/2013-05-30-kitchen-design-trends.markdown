@@ -2,12 +2,26 @@
 title: 4 Trends in Kitchen Design
 date: 2013-05-30 15:00:47 Z
 permalink: "/kitchen-design-trends/"
+sections:
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 layout: blocks
 ---
 
 Remodeling or redecorating your kitchen can change the entire dynamic of your home. Kitchens are no longer just a space for preparing meals and food storage; they are now hybrid spots for family gatherings, wireless work spaces and entertaining guests. Design experts say that the trends reflect this transformation. Clean, modern style complete with warm touches is a great approach to a functional and inviting kitchen.
 
-If you are considering an 
+If you are considering an
 
 <strong>Cabinets:</strong> When it comes to cabinets, classic white is really trending. Since kitchens are becoming the hub of the home, bright and airy elements make them even more friendly and inviting, while the richer, darker tones are starting to feel stuffy and heavy. Selecting a few glass fronts for cabinet doors extends the feeling of light and also provides a way to showcase some of your upscale dinnerware. There are also many more storage options available in today’s kitchen cabinetry. Pullout doors, storage inserts and racks for canned goods are all common sites in redesigned kitchens.
 

@@ -2,6 +2,20 @@
 title: Which Home Improvements Are Tax Deductible?
 date: 2015-02-17 09:30:51 Z
 permalink: "/which-home-improvements-are-tax-deductible/"
+sections:
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 layout: blocks
 ---
 

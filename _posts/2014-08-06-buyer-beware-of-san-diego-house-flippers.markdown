@@ -2,10 +2,22 @@
 title: Buyer Beware of San Diego House Flippers
 date: 2014-08-06 15:22:13 Z
 permalink: "/buyer-beware-of-san-diego-house-flippers/"
+sections:
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 layout: blocks
 ---
-
-[caption id="" align="alignnone" width="442"]<img class=" " alt="" src="http://www.worldpropertychannel.com/news-assets/home-sold-house-for-sale-nki.jpg" width="442" height="248" /> This Picture was found by World Property Channel: http://www.worldpropertychannel.com/north-america-residential-news/house-flipping-realtytrac-home-sales-real-estate-investors-speculators-luxury-homes-home-prices-distressed-sales-phoenix-tampa-atlanta-7510.php[/caption]
 
 Since the recession, buying and flipping homes is a common practice everywhere.  As a buyer, you should scrutinize anything that has been bought and put back on the market quickly.  Unfortunately, the code enforcement departments do not have the staffing to effectively police an activity that is out of control.
 

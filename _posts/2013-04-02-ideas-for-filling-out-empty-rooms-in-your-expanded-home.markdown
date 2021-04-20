@@ -2,6 +2,20 @@
 title: Ideas for Filling Out Empty Rooms in Your Expanded Home
 date: 2013-04-02 16:31:00 Z
 permalink: "/ideas-for-filling-out-empty-rooms-in-your-expanded-home/"
+sections:
+- template: post-body-content
+  block: post-body-content
+- template: call-to-action
+  block: call-to-action
+  layout: Full-Width
+  cta:
+    enabled: true
+    color: white
+    url: "/contact/"
+    button-text: Contact Murray Lampert
+  content: Contact us today to schedule your FREE in-home or virtual consultation.
+  heading: Ready to start the conversation?
+
 layout: blocks
 ---
 
