@@ -159,7 +159,7 @@ sections:
       image-1: "/murray-lampert/version3/lisa-cantor-1.jpg"
       image-2: "/murray-lampert/version3/lisa-cantor-1.jpg"
     - name: Rachel Cantor
-      title: Director of Design
+      title: VP of Operations
       email: rachel@murraylampert.com
       bio: "<p>Rachel Cantor is the Vice President of Operations and the fourth generation
         in our family business. Rachel graduated from Miami University of Ohio with
