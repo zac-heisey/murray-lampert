@@ -1,18 +1,18 @@
 ---
 layout: blocks
 title: San Diego Design Build Remodel
-description:
+description: 
 sections:
 - template: hero-banner
   block: hero-banner
   cta:
     enabled: true
     color: white
-    button-text: See How We Collaborate
+    button-text: Learn About Our Design-Build Services
     url: "/design-build-services-san-diego"
   background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-2.jpg"
-  heading: Our Family. Your Home.
-  content: We listen first, then we design & build.
+  heading: Murray Lampert Design, Build, Remodel
+  content: San Diego Home Remodeling Since 1975
 - template: grid
   block: grid
   grid-rows:
