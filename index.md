@@ -8,8 +8,8 @@ sections:
   cta:
     enabled: true
     color: white
-    button-text: Learn About Our Design-Build Services
-    url: "/design-build-services-san-diego"
+    button-text: View Our Remodeling Projects
+    url: "/san-diego-remodel-project-gallery"
   background-image: "/murray-lampert/version3/sokolowski-del-cerro-living-room-2.jpg"
   heading: Murray Lampert Design, Build, Remodel
   content: San Diego Home Remodeling Since 1975
