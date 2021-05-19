@@ -378,7 +378,7 @@
 
           function validateZip(event) {
 
-            if (isNaN(zipCodeField.value) || zipCodeField.value < 90000 || zipCodeField.value > 93000) {
+            if (isNaN(zipCodeField.value) || zipCodeField.value < 00000 || zipCodeField.value > 99999) {
 
               document.getElementById('contact-btn').disabled = true;
               zipCodeField.style.color = 'red';
@@ -402,6 +402,7 @@
             if (event.target === zipCodeField && zipCodeField.value.includes('INVALID')) {
 
               zipCodeField.value = '';
+              zipCodeField.style.color = 'initial';
 
             }
 
@@ -432,7 +433,7 @@
 
   <!-- CallTrackingMetrics DNI -->
   <script defer src="//267786.tctm.co/t.js"></script>
-  
+
   {% if page.title == 'San Diego Home Remodeling Blog' %}
     <!-- Simply Jekyll Search (only show on blog homepage) -->
     <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
