@@ -12,12 +12,12 @@ sections:
 - template: hero-banner
   block: hero-banner
   cta:
-    enabled: true
+    enabled: false
     color: white
     button-text: ''
     url: ''
   background-image: "/v1610477741/murray-lampert/version3/adu-types-hausable.png"
-  heading: ''
+  heading: ADUs in San Diego
   content: ''
 - template: post-meta-data
   block: post-meta-data
@@ -43,7 +43,7 @@ Accessory dwelling units can provide a viable option to many residents, but navi
 
 For a more in-depth look, check out our [Simple Homeowner's Guide to San Diego Granny Flats](https://murraylampert.com/simple-homeowners-guide-to-san-diego-granny-flats/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-uXcazSThBo" title="ADU's in San Diego | Murray Lampert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="-uXcazSThBo" style="background-image: url('https://i.ytimg.com/vi/-uXcazSThBo/hqdefault.jpg');"></lite-youtube>
 
 ### Video Transcript
 
