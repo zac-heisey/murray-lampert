@@ -1,14 +1,13 @@
 ---
 layout: blocks
 categories:
-- ofyh
-- video
-title: ADU's in San Diego
+- In-law Suites
+title: ADUs in San Diego
 description: Our VP of Operations, Rachel Cantor, breaks down some of the basics of
   an ADU, and why they are becoming the go-to remodeling project for many San Diego
   homeowners.
 date: 2021-07-13 04:00:00 +0000
-secondary-heading: ADU's in San Diego - Our Family. Your Home.
+secondary-heading: ADUs in San Diego - Our Family. Your Home.
 sections:
 - template: hero-banner
   block: hero-banner
