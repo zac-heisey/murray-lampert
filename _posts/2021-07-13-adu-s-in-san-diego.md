@@ -37,13 +37,13 @@ sections:
   image-right: ''
 
 ---
-Both accessory dwelling units (ADUs) and junior accessory dwelling units (JADUs) have exploded in popularity in the last few years. This is especially in San Diego, where a high cost of living and an increasing population density combine to create affordable housing issues that leave many would-be homeowners looking for alternatives.
+Both accessory dwelling units (ADUs) and junior accessory dwelling units (JADUs) have exploded in popularity in the last few years. This is especially true in San Diego, where high cost of living and an increasing population density combine to create affordable housing issues that leave many would-be homeowners looking for alternatives.
 
-Accessory dwelling units can provide a viable option to many residents, but navigating the ever-changing world of ADU permits, codes, and regulations can be difficult. On this segment of Our Family, Your Home, Murray Lampert VP of Operations Rachel Cantor gives a quick overview of the details of building an ADU in San Diego.
+Accessory dwelling units can provide a viable option to many residents, but navigating the ever-changing world of ADU permits, codes, and regulations can be difficult. On this segment of **Our Family. Your Home**, Murray Lampert VP of Operations Rachel Cantor gives a quick overview of the details of building an ADU in San Diego.
 
 For a more in-depth look, check out our [Simple Homeowner's Guide to San Diego Granny Flats](https://murraylampert.com/simple-homeowners-guide-to-san-diego-granny-flats/).
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/-uXcazSThBo](https://www.youtube.com/embed/-uXcazSThBo "https://www.youtube.com/embed/-uXcazSThBo")" title="ADU's in San Diego | Murray Lampert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-uXcazSThBo" title="ADU's in San Diego | Murray Lampert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Video Transcript
 
