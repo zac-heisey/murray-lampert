@@ -105,7 +105,7 @@ sections:
     thing. We don't believe in making empty promises just to get you to sign a contract.
     Our goal is to be completely upfront and honest about what to expect. And if we
     foresee a possible challenge, we will work together to find the best solution.</p><p><strong>BUYING
-    POWER WITH PERSONALIZED SERVICE.<br></strong>When you meet with your team, the
+    POWER WITH PERSONALIZED SERVICE.<br></strong>When you meet with our team, the
     principals of our company will be there, as well as an architect, interior designer,
     and project manager. We're large enough to handle any project you need, including
     home construction, but we're not like other firms with the high overhead of fancy
@@ -197,7 +197,7 @@ sections:
         since taken on the Office Manager role. She has worked in various industries
         supporting both client and employee development. In her free time, she enjoys
         volunteering at her childrens’ school, running, cooking, Zumba classes, and
-        supports her kids partake in multiple supports.</p>"
+        supports her kids as they partake in multiple supports.</p>"
       image-1: "/murray-lampert/version3/dann-good-1.jpg"
       image-2: "/murray-lampert/version3/dann-good-1.jpg"
     - name: Cameron Poeschel
@@ -431,7 +431,7 @@ sections:
     BUDGET.<br></strong>There aren't going to be any surprises at the end of your
     project. Sure, you might fall in love with a tile that is a little beyond your
     budget. But we'll let you know and even try try to make up for it in other portions
-    of the project.</p><p><strong>WE BELIEVE IN ONE-ON- RELATIONSHIPS.</strong><br>You'll
+    of the project.</p><p><strong>WE BELIEVE IN ONE-ON-ONE RELATIONSHIPS.</strong><br>You'll
     have the same architect, interior designer, and project manager for the duration
     of your project. That way, they know every detail of your project, and the reasons
     why certain choices were made. This provides you with a more proactive service
