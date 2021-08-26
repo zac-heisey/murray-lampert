@@ -407,3 +407,27 @@ main[data-page="faqs"] {
   }
 
 }
+
+/* Tables */
+
+table {
+
+  text-align: left;
+  border-collapse: collapse;
+
+  thead {
+
+    color: $white;
+    background-color: $blue;
+
+  }
+
+  td, th {
+
+    line-height: 1.5;
+    border: 1px solid lightgray;
+    padding: 6px 13px;
+
+  }
+
+}
