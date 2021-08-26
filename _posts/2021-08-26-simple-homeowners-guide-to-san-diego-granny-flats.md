@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Simple Homeowner's Guide to San Diego Granny Flats
-date: 2019-08-15T00:00:01.000+00:00
+date: 2021-08-26T00:00:01.000+00:00
 categories:
 - In-law Suites
 description: San Diego ADU laws continue to evolve, and can be different from neighborhood
