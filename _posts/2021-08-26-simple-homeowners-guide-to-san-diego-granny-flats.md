@@ -326,14 +326,13 @@ San Diego granny flats are a hot trend that many homeowners are taking advantage
 
 **Additional Resources:**
 
-- https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf
-- https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf
-- https://www.sandiego.gov/sites/default/files/dsdib400.pdf
-- https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units
-- ​​https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml
-- https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf
-- https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml
-- https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf
-- https://www.tenseventyarchitecture.com/dream-home-guide-adu
-- https://specialtyhomeimprovement.com/adu-cost-investment-return-calculator/
-- https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego
+- [https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf](https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf)
+- [https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf](https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf)
+- [https://www.sandiego.gov/sites/default/files/dsdib400.pdf](https://www.sandiego.gov/sites/default/files/dsdib400.pdf)
+- [https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units)
+- [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
+- [https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf](https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf)
+- [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
+- [https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf](https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf)
+- [https://www.tenseventyarchitecture.com/dream-home-guide-adu](https://www.tenseventyarchitecture.com/dream-home-guide-adu)
+- [https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego](https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego)
