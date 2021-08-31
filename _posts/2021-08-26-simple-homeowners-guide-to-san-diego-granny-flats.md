@@ -33,7 +33,7 @@ sections:
 
 ---
 
-_This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADUc costs, rules, and regulations continue to evolve._
+_This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADU costs, rules, and regulations continue to evolve._
 
 The popularity of accessory dwelling units among homeowners in California has risen steadily since 2016. That trend is evident in space-strapped San Diego, where there have been at least 200 permitted ADUs for construction each of the past 3 years. Loosened regulations, simplified permitting processes, and increasing contractor experience are all contributing to the continuing popularity of accessory dwelling units throughout San Diego County.
 
@@ -198,7 +198,7 @@ San Diego’s city government maintains a very [easy-to-read and comprehensive w
 
 In any city, zoning regulations are often extensive and complex. [San Diego’s zoning ordinance](https://www.sandiegocounty.gov/content/sdc/pds/zoning.html) is published online, and it is recommended that you familiarize yourself with the sections most relevant to you. But if you don’t have time to peruse even the introductory section (at 102 pages of technical language, it’s not a casual read) you can contact the building division directly. Of course, you should contact your designer or builder for support as well.
 
-![image of adu exterior rendering]({{ site.cloudinary }}/murray-lampert/version3/spengler-adu-exterior-rendering-1.png "Rendering of an ADU Exterior in San Diego")
+![image of adu living space and kitchen]({{ site.cloudinary }}/murray-lampert/version3/kowalewski-adu-after-1.jpg "ADU Living Space and Kitchen in San Diego")
 
 ### ADU Costs, Fees, and Financing in San Diego
 
