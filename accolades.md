@@ -164,6 +164,19 @@ sections:
   grid-rows:
   - row: Houzz Awards
     grid-items:
+    - item: '2021'
+      image-info:
+        image: "/murray-lampert/version3/houzz-2021.png"
+        text-overlay:
+          main-content: Best of Houzz 2021
+          detail: Client Satisfaction
+          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
     - item: '2020'
       image-info:
         image: "/murray-lampert/version3/houzz-2020.png"
@@ -195,19 +208,6 @@ sections:
         image: "/murray-lampert/version3/houzz-2015.png"
         text-overlay:
           main-content: Best of Houzz 2015
-          detail: Client Satisfaction
-          url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-      item-type: image
-      item-span: 1
-    - item: '2014'
-      image-info:
-        image: "/murray-lampert/version3/houzz-2014.png"
-        text-overlay:
-          main-content: Best of Houzz 2014
           detail: Client Satisfaction
           url: https://www.houzz.com/professionals/design-build-firms/murray-lampert-design-build-remodel-pfvwus-pf~1543571333
       text-info:
@@ -272,6 +272,18 @@ sections:
       item-span: 1
   - row: GuildQuality Awards
     grid-items:
+    - item: '2021'
+      image-info:
+        image: "/murray-lampert/version3/guildmaster.png"
+        text-overlay:
+          main-content: GuildQuality Guildmaster 2021 with Distinction
+          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+      item-type: image
+      item-span: 1
     - item: '2020'
       image-info:
         image: "/murray-lampert/version3/guildquality-logo.png"
@@ -301,18 +313,6 @@ sections:
         image: "/murray-lampert/version3/guildquality-logo.png"
         text-overlay:
           main-content: GuildQuality Guildmaster 2015
-          url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-      item-type: image
-      item-span: 1
-    - item: '2014'
-      image-info:
-        image: "/murray-lampert/version3/guildquality-logo.png"
-        text-overlay:
-          main-content: GuildQuality Guildmaster 2014
           url: https://www.guildquality.com/pro/murray-lampert-design-build-remodel
       text-info:
         background-color: none
