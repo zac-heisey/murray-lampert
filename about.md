@@ -351,19 +351,6 @@ sections:
       image-2: "/murray-lampert/version3/jack-moreno-1.jpg"
   - row: Row 6
     team-members:
-    - name: Don Thomas
-      title: Project Manager
-      email: ''
-      bio: "<p>Don has been working in the construction industry since 1976. He has
-        been a Project Manager for 28 years and before that, he worked as a finish
-        and framing carpenter. He has decades of experience remodeling both residential
-        and commercial projects. Not only has Don’s projects ranged from small remodels
-        to custom homes from the ground up, but many of them have been  published
-        in major remodeling magazines and have won numerous awards. His hobbies include
-        collecting sports memorabilia, watching baseball, and rooting for the Green
-        Bay Packers.</p>"
-      image-1: "/murray-lampert/version3/don-thomas-1.jpg"
-      image-2: "/murray-lampert/version3/don-thomas-1.jpg"
     - name: Micah Winkelstein
       title: Architect
       email: ''
@@ -391,8 +378,6 @@ sections:
         Cheese!</p>"
       image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
-  - row: Row 7
-    team-members:
     - name: Matt Clark
       title: Project Manager
       email: ''
