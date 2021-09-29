@@ -243,7 +243,7 @@ sections:
       image-1: "/murray-lampert/version3/noel-dunham-1.jpg"
       image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
     - name: Rachel Bancroft
-      title: Interior Designer
+      title: Senior Interior Designer
       email: ''
       bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years
         ago. She received her Bachelors of Art Degree in Interior Design from San
