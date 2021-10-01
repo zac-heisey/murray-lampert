@@ -175,7 +175,7 @@ sections:
   - row: Row 2
     team-members:
     - name: Patti Atwell
-      title: Project Coordinator
+      title: Operations Coordinator
       email: patti@murraylampert.com
       bio: "<p>Patti is a native of Los Angeles, but grew up in sunny San Diego. She
         has worked in many different capacities during her time with Murray Lampert
@@ -201,7 +201,7 @@ sections:
       image-1: "/murray-lampert/version3/dann-good-1.jpg"
       image-2: "/murray-lampert/version3/dann-good-1.jpg"
     - name: Cameron Poeschel
-      title: Project Consultant
+      title: Director of Production
       email: cpoeschel@murraylampert.com
       bio: "<p>Cameron is the son of a general contractor and grew up learning the
         ins-and-outs of San Diego construction. Not only does Cameron know his way
@@ -321,7 +321,7 @@ sections:
       image-1: "/murray-lampert/version3/nicole-lacroix-1.jpg"
       image-2: "/murray-lampert/version3/nicole-lacroix-1.jpg"
     - name: Bryan Bushaw
-      title: Field Technician
+      title: Project Manager
       email: ''
       bio: "<p>Bryan is originally from San Jose, California. He grew up in Denver,
         Colorado, where he graduated with a Bachelors in International Studies. Although
