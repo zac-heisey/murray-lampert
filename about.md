@@ -390,6 +390,40 @@ sections:
         spending time with his family.</p>"
       image-1: "/murray-lampert/version3/matthew-clark-1.jpg"
       image-2: "/murray-lampert/version3/matthew-clark-1.jpg"
+  - row: Row 7
+    team-members:
+    - name: Sabrina Bingham
+      title: ''
+      email: ''
+      bio: "<p>Sabrina was raised in Portland Oregon and has since made her way down the state of California since 2010. She studied Early Childhood Education and formerly worked as a preschool teacher. A change in career paths took her into the client service industry, in which she has managed gyms, opened chain restaurants, and worked in the museum field. A self-proclaimed “Jane of all trades”, Sabrina enjoys the differences that every job brings within the construction world. With her husband Doug, they also own and operate an electrical business.</p><p>In her spare time, she loves to be on their jetboat or playing at local parks with her daughter.</p>"
+      image-1: "/murray-lampert/version3/sabrina-bingham.jpg"
+      image-2: "/murray-lampert/version3/sabrina-bingham.jpg"
+    - name: Milka Mesfin
+      title: ''
+      email: ''
+      bio: "<p>Milka was born and raised in Addis Ababa, Ethiopia. She went to college at University of Virginia and received a Bachelor of Science in Architecture. She enjoys the design-build industry because she gets to be part of a team that takes a project from concept to construction. In her spare time she enjoys discovering eateries and spending time at parks and beaches with family and friends.</p>"
+      image-1: "/murray-lampert/version3/milka-mesfin.jpg"
+      image-2: "/murray-lampert/version3/milka-mesfin.jpg"
+    - name: Daniel Blasczyk
+      title: ''
+      email: ''
+      bio: "<p>Daniel moved around a lot as a young boy. He spent time in Ketchikan Alaska, and later Christchurch, New Zealand before returning to his home state of Colorado. After high school, Daniel decided that jumping out of helicopters seemed exciting, and joined the navy as a rescue swimmer. After seven years of service, and several deployments abroad, Daniel hung up his helmet, shook his Captain’s hand, and struck out on his own.</p><p>After his honorable discharge from the Navy, Daniel found his way into construction. Daniel revels in the process of renovation and takes pride in his final projects. When he is not working, Daniel enjoys surfing, reading, rock climbing, exercising, and spending time outdoors with his friends.</p>"
+      image-1: "/murray-lampert/version3/daniel-blasczyk.jpg"
+      image-2: "/murray-lampert/version3/daniel-blasczyk.jpg"
+  - row: Row 8
+    team-members:
+    - name: Bobby Ortiz
+      title: Architectural Designer
+      email: ''
+      bio: "<p>Bobby is from the New York City. He attended high school and college in San Diego California and spent 17 years traveling the world designing and project managing the construction and installation of indoor golf studios for the golf industry.</p><p>Bobby is grateful to be part of the collaborative spirit, creative energy, customer service, and family atmosphere at Murray Lampert DBR.  His passion is creativity, vision, and all things design whether in architecture, interior design, art, or fashion. He truly enjoys watching the growth and success of others and will always look to contribute to their accomplishments where possible. Bobby enjoys socializing with family and friends in America’s finest city as well as enjoys watching professional, college, and youth sports.</p><p>Bobby is an architectural designer, project draftsman, and construction site drone pilot.</p>"
+      image-1: "/murray-lampert/version3/bobby-ortiz.jpg"
+      image-2: "/murray-lampert/version3/bobby-ortiz.jpg"
+    - name: Luis Mora
+      title: ''
+      email: ''
+      bio: "<p>Bio Coming Soon!</p>"
+      image-1: "/murray-lampert/version3/luis-mora.jpg"
+      image-2: "/murray-lampert/version3/luis-mora.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
