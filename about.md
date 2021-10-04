@@ -421,7 +421,7 @@ sections:
     - name: Luis Mora
       title: ''
       email: ''
-      bio: "<p>Bio Coming Soon!</p>"
+      bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare time. He has been working in the remodeling industry for 17 years and loves that it is innovative and always growing. His area of expertise is drywall, but will tackle any job given to him. If given the choice to choose a career path again, it would undoubtedly be construction.</p><p>Luis always strives to do his best and is particular in what he does. He is happily married and the father of three beautiful children.</p>"
       image-1: "/murray-lampert/version3/luis-mora.jpg"
       image-2: "/murray-lampert/version3/luis-mora.jpg"
 - template: hero-banner
