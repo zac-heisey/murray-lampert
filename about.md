@@ -413,7 +413,7 @@ sections:
   - row: Row 8
     team-members:
     - name: Bobby Ortiz
-      title: Field Tech
+      title: Architectural Designer
       email: ''
       bio: "<p>Bobby is from the New York City. He attended high school and college in San Diego California and spent 17 years traveling the world designing and project managing the construction and installation of indoor golf studios for the golf industry.</p><p>Bobby is grateful to be part of the collaborative spirit, creative energy, customer service, and family atmosphere at Murray Lampert DBR.  His passion is creativity, vision, and all things design whether in architecture, interior design, art, or fashion. He truly enjoys watching the growth and success of others and will always look to contribute to their accomplishments where possible. Bobby enjoys socializing with family and friends in America’s finest city as well as enjoys watching professional, college, and youth sports.</p><p>Bobby is an architectural designer, project draftsman, and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
