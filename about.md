@@ -449,7 +449,7 @@ sections:
     No upselling and we are not change order driven.</p><p><strong>WE WORK WITH YOUR
     BUDGET.<br></strong>There aren't going to be any surprises at the end of your
     project. Sure, you might fall in love with a tile that is a little beyond your
-    budget. But we'll let you know and even try try to make up for it in other portions
+    budget. But we'll let you know and even try to make up for it in other portions
     of the project.</p><p><strong>WE BELIEVE IN ONE-ON-ONE RELATIONSHIPS.</strong><br>You'll
     have the same architect, interior designer, and project manager for the duration
     of your project. That way, they know every detail of your project, and the reasons
