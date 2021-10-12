@@ -445,7 +445,7 @@ sections:
     We'll let you know what to expect and how much it will cost before any building
     begins.</p><p><strong>WE DON'T SELL, WE EDUCATE.</strong><br>We're never going
     to lay a heavy sales trip on you. Instead, we'll listen to you, and then offer
-    some suggestions at a variety of price points. The final decisions is up to you.
+    some suggestions at a variety of price points. The final decision is up to you.
     No upselling and we are not change order driven.</p><p><strong>WE WORK WITH YOUR
     BUDGET.<br></strong>There aren't going to be any surprises at the end of your
     project. Sure, you might fall in love with a tile that is a little beyond your
