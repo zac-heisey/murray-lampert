@@ -188,7 +188,7 @@ sections:
       image-1: "/murray-lampert/version3/patti-atwell-1.jpg"
       image-2: "/murray-lampert/version3/patti-atwell-1.jpg"
     - name: D'Ann Good
-      title: Office Manger
+      title: Office Manager
       email: dgood@murraylampert.com
       bio: "<p>D’Ann relocated to San Diego from her home state of Texas in 2009.
         She attended College of Biblical Studies in Houston, Texas majoring in theological
