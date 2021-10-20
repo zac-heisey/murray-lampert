@@ -3,10 +3,10 @@ title: The Good and Bad of Home Contractor Referral Services
 date: 2021-10-20 00:00:00 Z
 categories:
 - Home Remodeling
-
 description: Home contractor referral services and platforms can be helpful, but they
   should also be used with caution. Learn about the good and bad of contractor referral
   platforms.
+secondary-heading: Check out our updated insights and reviews of the top contractor referral services.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -14,7 +14,7 @@ sections:
     enabled: false
     color: white
   background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading:
+  heading: The Good and Bad of Home Contractor Referral Services
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
