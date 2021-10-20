@@ -4,7 +4,7 @@ title: Garage to ADU Conversion
 location: Point Loma, CA
 description: Garage to ADU conversion in Point Loma, CA. View this and other featured
   home remodeling projects from Murray Lampert.
-project-number: '03'
+project-number: '04'
 featured-image: "/murray-lampert/version3/kowalewski-kitchen-after-1.jpg"
 project-details:
 - Point Loma Neighborhood
