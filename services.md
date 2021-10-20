@@ -53,7 +53,7 @@ sections:
           home will look like with detailed renderings and realistic 3D walkthroughs.
           We'll bring in our trade partners, conduct inspections of lead, mold, and
           asbestos, and send a camera down the sewer lines. We do this upfront to
-          reduct any surprises later in the project. The final goal: you will know
+          reduce any surprises later in the project. The final goal: you will know
           exactly what to expect and you'll receive a precise quote.</p>"
   - stage: Pre-construction Stage
     stage-info:
@@ -84,7 +84,7 @@ sections:
           We make sure that the doors and cabinet drawers close easily, and we check
           to see if anything else needs to be done. We also conduct a post-construction
           meeting, during which we ask how we did and what we could do better. You
-          will also enjoy our generous 5-year warranty, because we stand the quality
+          will also enjoy our generous 5-year warranty, because we stand by the quality
           of our work.</p>"
 - template: rich-text
   block: rich-text
