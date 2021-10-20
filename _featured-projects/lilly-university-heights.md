@@ -1,8 +1,8 @@
 ---
 layout: featured-project
-title:
+title: University Heights Duplex & ADU
 location: University Heights, CA
-description: Second Story ADU Addition in University Heights, CA. View this and other featured home remodeling projects from Murray Lampert.
+description: Duplex and ADU in University Heights, CA. View this and other featured home remodeling projects from Murray Lampert.
 project-number: '01'
 featured-image: "/murray-lampert/version3/lilly-university-heights-living-room-2.jpg"
 project-details:
