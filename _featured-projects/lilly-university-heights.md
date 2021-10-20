@@ -39,7 +39,7 @@ sections:
       item-span: 1
     - item: Lilly Exterior (wide)
       image-info:
-        image: "/murray-lampert/version3/lilly-university-heights-exterior-1.jpg"
+        image: "/murray-lampert/version3/lilly-university-heights-exterior-3.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
