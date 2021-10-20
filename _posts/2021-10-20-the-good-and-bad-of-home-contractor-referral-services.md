@@ -115,13 +115,6 @@ BuildZoom consultants help users identify and meet with a list of matched contra
 | Thumbtack                 	| Clean and simple referral platform. Database of contractors and home service providers is relatively limited compared to others on this list. Ability to quickly connect with and schedule contractors is a plus.                       	| To sum Thumbtack up, unless the business provides a credit card number, they do not show up in search results.                                                                                                                 	|
 | BuildZoom                 	| Dedicated project manager is a great feature. Good platform for home owners who are fairly far along in their decision making process and have a clear idea of their project goals, budget, etc.                                        	| The good is there is a dedicated project manager. The bad is they are commission-based sales person. The ugly is consumers spend a lot of money for plans, only to find out they can’t afford the work                        	|
 
-**Wrapping Up**
-
-There are not enough competent, reputable and reliable contractors around to service all the homeowners in need of remodeling, so using a referral service for major home improvements is extremely risky. The type of companies who subscribe to referral services are a mixed bag too. You can find large firms who are just looking to increase revenue as well as small firms that are unqualified. Before you consider using a referral service, do a Google search for “Angi Reviews,” “Home Advisor Reviews,” or “Redbeacon/Pro Referral Reviews” and you’ll see the many consumer complaints.
-When you are looking to remodel your home, I recommend using unbiased, trusted resources to check out contractors. These include [www.bbb.org](https://www.bbb.org/en/us), your local contractor’s license board, local building officials, friends, neighbors and family.
-
-Referral services are more risky for anything other than minor remodeling projects where designs and plans are not required. Those services would be small plumbing repairs, HVAC replacement, replacing fixtures in kind etc. Be aware, almost all [remodeling, mechanical, electrical, and plumbing projects will require a permit](https://www.sandiego.gov/development-services/permits/simple-permits). You will frequently find unlicensed people through referral services who most likely will not pull the required permits, putting your project (and your pocket book) at risk. Consumers should still take caution and vet anyone from referral services thoroughly on their own. The best way to find qualified home improvement professionals is by word of mouth, reputation, referral, online research etc.
-
 ## Things to Prioritize When Choosing a Remodeling Contractor
 
 1. **Area(s) of Expertise**: Don't select a general contractor if you have a specialized project in mind. A remodeling contractor who excels at bathroom remodels might not be a good fit if you what you're looking for is a second story addition.
@@ -133,5 +126,14 @@ Referral services are more risky for anything other than minor remodeling projec
 4. **Project Delivery**: How a remodeling project is undertaken and ultimately delivered can have a significant impact on the overall timeline, budget, communication, and client experience during the process. Be sure to ask about the contractor's project delivery process.
 
 We've put together a [Complete Guide to Choosing the Right Home Remodeling Contractor](/complete-guide-to-choosing-the-right-home-remodeling-contractor/#homework), which covers everything you need to know in order to hire the _best_ remodeling company for your specific project needs.
+
+---
+
+**Wrapping Up**
+
+There are not enough competent, reputable and reliable contractors around to service all the homeowners in need of remodeling, so using a referral service for major home improvements is extremely risky. The type of companies who subscribe to referral services are a mixed bag too. You can find large firms who are just looking to increase revenue as well as small firms that are unqualified. Before you consider using a referral service, do a Google search for “Angi Reviews,” “Home Advisor Reviews,” or “Redbeacon/Pro Referral Reviews” and you’ll see the many consumer complaints.
+When you are looking to remodel your home, I recommend using unbiased, trusted resources to check out contractors. These include [www.bbb.org](https://www.bbb.org/en/us), your local contractor’s license board, local building officials, friends, neighbors and family.
+
+Referral services are more risky for anything other than minor remodeling projects where designs and plans are not required. Those services would be small plumbing repairs, HVAC replacement, replacing fixtures in kind etc. Be aware, almost all [remodeling, mechanical, electrical, and plumbing projects will require a permit](https://www.sandiego.gov/development-services/permits/simple-permits). You will frequently find unlicensed people through referral services who most likely will not pull the required permits, putting your project (and your pocket book) at risk. Consumers should still take caution and vet anyone from referral services thoroughly on their own. The best way to find qualified home improvement professionals is by word of mouth, reputation, referral, online research etc.
 
 Keep in mind, successful, reputable contractors regardless of their size, thrive on [satisfied clients](/accolades). That alone should demonstrate the importance of viewing contract referral services with a discerning eye, and why you should always conduct your own vetting outside of these services.
