@@ -61,7 +61,7 @@ sections:
     grid-items:
     - item: Lilly Living Room 1
       image-info:
-        image: "/murray-lampert/version3/lilly-university-heights-exterior-living-room-1.jpg"
+        image: "/murray-lampert/version3/lilly-university-heights-living-room-1.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -81,7 +81,7 @@ sections:
       item-span: 2
     - item: Lilly Living Room 2
       image-info:
-        image: "/murray-lampert/version3/lilly-university-heights-exterior-living-room-2.jpg"
+        image: "/murray-lampert/version3/lilly-university-heights-living-room-2.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
@@ -141,6 +141,236 @@ sections:
         content: ''
       item-type: image
       item-span: 2
+  - row: 3 (image)
+    grid-items:
+    - item: Lilly Kitchen 3
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-kitchen-3.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 3
+  - row: 1 / 1 / 1
+    grid-items:
+    - item: Lilly Stairs 1
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-stairs-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Lilly Stairs 2
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-stairs-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Lilly Stairs 3
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-stairs-3.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: 2 / 1
+    grid-items:
+    - item: Lilly Master Bedroom 1
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-master-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+    - item: Lilly Master Bedroom 2
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-master-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+  - row: 1 / 2
+    grid-items:
+    - item: Lilly Bedroom 1
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-bedroom-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Lilly Bedroom 2
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-bedroom-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 2
+  - row: 1 / 1 / 1
+    grid-items:
+    - item: Lilly Bathroom 1
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-bathroom-1.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Lilly Bathroom 2
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-bathroom-2.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
+    - item: Lilly Bathroom 3
+      image-info:
+        image: "/murray-lampert/version3/lilly-university-heights-bathroom-3.jpg"
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: image
+      item-span: 1
 - template: project-pagination
   block: project-pagination
 - template: call-to-action
