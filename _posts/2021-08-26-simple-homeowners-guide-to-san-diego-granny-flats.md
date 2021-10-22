@@ -32,18 +32,17 @@ sections:
   heading: Ready to start the conversation?
 
 ---
-
 _This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADU costs, rules, and regulations continue to evolve._
 
-The popularity of accessory dwelling units among homeowners in California has risen steadily since 2016. That trend is evident in space-strapped San Diego, where there have been at least 200 permitted ADUs for construction each of the past 3 years. Loosened regulations, simplified permitting processes, and increasing contractor experience are all contributing to the continuing popularity of accessory dwelling units throughout San Diego County.
+The popularity of accessory dwelling units among homeowners in California has risen steadily since 2016. That trend is evident in space-strapped San Diego, where there have been at least 200 permitted ADUs for construction each of the past 3 years. Relaxed regulations, simplified permitting processes, and increasing contractor experience are all contributing to the continuing popularity of accessory dwelling units throughout San Diego County.
 
-Whether residents [build in-law suites in San Diego](/san-diego-in-law-suites) or rental units onto their homes, it's important to know the benefits and drawbacks of building a granny flat, as well as the [ADU rules and regulations](/infographic-5-things-to-know-about-granny-flat-regulations-san-diego/) in San Diego.
+For residents considering [building ADUs/in-law Suites](/san-diego-in-law-suites) for a loved one or rental income, it’s important to understand the benefits and potential challenges as well as the [ADU rules and regulations in San Diego County]().
 
 ### Why Build an ADU in San Diego?
 
-Southern California is seeing a huge rise in the popularity of accessory dwelling units - often referred to as “ADUs,” “granny flats,” “companion units,” or “in-law suites.” These living spaces can be attached or detached from your main dwelling, as long as there is a separate entrance and a few other amenities.
+Due to the relaxed legislation and elimination of usage fees, San Diego is seeing a huge rise in the popularity of accessory dwelling units - often referred to as “ADUs,” “granny flats,” “companion units,” or “in-law suites.” These living spaces can be attached or detached from your main dwelling, as long as there is a separate entrance and a few other amenities.
 
-Communities and neighborhoods throughout San Diego County are following the state’s lead, and several municipalities are lowering and waiving ADU permit and inspection fees, as well as  easing regulations to build accessory dwellings on owned property.
+Communities and neighborhoods throughout San Diego County are following the state’s lead, and several municipalities are lowering and waiving ADU permit and inspection fees, as well as  easing regulations to build accessory dwellings on owner-occupied property.
 
 But what are the benefits of building a granny flat in San Diego? As with any home remodeling project, there are [pros and cons to consider before building an in-law suite](/the-pros-and-cons-of-an-in-law-suite/), but there are a handful of very compelling reasons why you should consider building an accessory dwelling unit in San Diego.
 
@@ -57,19 +56,18 @@ With the housing shortage leading to increased prices and fewer options, several
 
 **Potential Rental Income**
 
-Since the housing market is on fire in San Diego, adding an ADU to your existing property as a rental unit can be a great investment - if it’s done thoughtfully and properly. Building a granny flat or ADU is a [smart investment](https://maxablespace.com/is-a-granny-flat-a-good-investment/) if:
+Since there is a shortage of homes on the market in San Diego and prices continue to increase, adding an ADU to your existing property as a rental unit can be a great investment - if it’s done thoughtfully and properly. Building a granny flat or ADU is a [smart investment](https://maxablespace.com/is-a-granny-flat-a-good-investment/) if:
 
-- You plan to own the home long-term and can rent it for many years.
-- You already own the land since the rent to cost ratio is very favorable.
-- There’s no owner occupancy clause forcing you to stay on the property.
-- You have home equity or access to capital to build or make improvements.
-- Building a granny flat is a good lifestyle fit.
+* You plan to own the home long-term and can rent it for many years.
+* You already own the land since the rent to cost ratio is very favorable.
+* You have home equity or access to capital to build or make improvements.
+* Building a granny flat is a good lifestyle fit.
 
 While current regulations prevent homeowners from offering accessory dwelling units as vacation rentals (ADUs have a minimum 30-day lease), short and long-term renting is definitely an option. A 500-square-foot ADU in San Diego can generally earn between [$1,350 - $1,800 per month in rental income](https://www.hausable.com/city/san-diego-ca-562174). That’s money that can be used to pay down your mortgage, cover utilities and other household expenses, save for retirement, or spend on a vacation.
 
 <video width="100%" height="auto" controls>
-  <source src="https://res.cloudinary.com/zheisey/video/upload/murray-lampert/version3/adu-rendering-walkthrough-1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<source src="https://res.cloudinary.com/zheisey/video/upload/murray-lampert/version3/adu-rendering-walkthrough-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
 </video>
 
 **Additional Space for Family and Friends**
@@ -81,14 +79,10 @@ Hosting out-of-town relatives, taking in aging parents, or welcoming college-age
 San Diego continues to make significant changes that impact homeowners seeking to construct accessory dwelling units - many of them in positive ways. Some of those updates included:
 
 1. **New Resources** - City officials provide pre-approved ADU flat designs and instruction manuals to speed up construction.
-
 2. **Wide-Ranging Fees** - Location and granny flat type impacts fee costs. The fees range from $4,800 to over $80,000. The City of San Diego passed a waiver of development and impact fees, which saves local residents $17,000 on average.
-
 3. **Fee Waivers** - Encinitas homeowners who are building in-law suites up to 1,200 sq. ft can save approximately $3,500 in waived fees.
-
 4. **Expanded ADU Size** - In-law suites may be 1,200 sq. ft or 50% of the primary home’s size, whichever is less. This is up from 700 sq. ft. For example, if an existing house is 3,000 sq. ft, the attachment it can’t exceed 1,200 sq. ft in size.
-
-5. **No Vacation Rentals** - ADU rentals must have a minimum 30-day lease, which eliminates the granny flats from being used as short-term vacation rentals.
+5. **Vacation Rentals** - In some cases, short term vacation rentals - Air BNB’s are allowed. San Diego has a limited number of licenses obtainable through the City Treasurer. Check your local municipality for more information.
 
 ### Planning, Designing, and Building an ADU in San Diego
 
@@ -98,10 +92,10 @@ Once you’ve decided that adding an ADU to your property is the right move, con
 
 But before you start picking out curtains and cabinets, let’s start with the basics. The first big decision concerns the type of ADU to be built on your property. There are four main types of ADUs:
 
-- Detached
-- Attached
-- Repurposed Existing
-- Junior ADU
+* Detached
+* Attached
+* Repurposed Existing
+* Junior ADU
 
 ![illustration of main ADU types via Hausable.com]({{ site.cloudinary }}/murray-lampert/version3/adu-types-hausable.png "Primary Types of Accessory Dwelling Units")
 
@@ -109,9 +103,7 @@ Detached units are standalone structures that are separated from the primary res
 
 _Attached ADUs_
 
-The possible size of an attached granny flat is linked to the square footage of your main residence: your in-law suite cannot exceed 50% of the total floor area of your primary dwelling on the same property, and it cannot be bigger than 1,200 sq. ft.
-
-For example, if the floor plan of your home is 2,000 sq. ft, your attached ADU cannot be larger than 1,000 sq. ft. You are able to design a smaller granny flat, of course, but that depends on your plans and the size of your lot. If your primary residence is 4,000 sq. ft, you are limited to an in-law suite of 1,200 sq. ft.
+In San Diego, you can add up to 1,200 square feet attached to the existing dwelling or garage. However, in some areas, the formula it’s 50% of the existing residence, not counting the garage and up to 1,200.
 
 ![image of adu floorplan blueprint]({{ site.cloudinary }}/murray-lampert/version3/joy-adu-floorplan-1.jpg "ADU Floorplan Blueprint")
 
@@ -119,7 +111,7 @@ You must also provide an entrance distinct and separate from the main entrance t
 
 _Detached ADUs_
 
-Detached granny flats also cannot exceed 1,200 sq. ft, but there are no rules that link the size of the floor plan to the square footage of the main building. Instead, you can choose whatever size footprint you want to meet your needs, as long as it doesn’t exceed 1,200 ft2. This option is especially alluring if you already own a detached garage or shed, and you want to enhance that structure with the addition of an in-law suite.
+Detached granny flats also cannot exceed 1,200 sq. ft, but there are no rules that link the size of the floor plan to the square footage of the main building. Instead, you can choose whatever size footprint you want to meet your needs, as long as it doesn’t exceed 1,200 sq. ft. This option is especially alluring if you already own a detached garage or shed, and you want to enhance that structure with the addition of an in-law suite.
 
 _Repurposed Existing (Garage, Basement, etc. Conversion)_
 
@@ -129,19 +121,18 @@ _Junior Accessory Dwelling Units (JADUs)_
 
 As the name suggests, JADUs are smaller versions of ADUS (maximum 500 sq.ft), but with a few other specific differences. JADUs are contained entirely within an existing or attached structure (e.g. a garage), and can share sanitation facilities with the primary dwelling. These smaller units typically  feature an independent efficiency kitchen, and also require a separate entrance from the primary dwelling.
 
-| Requirements                 	| ADU                                                                                  	| JADU                            	|
-|------------------------------	|--------------------------------------------------------------------------------------	|---------------------------------	|
-| Max Unit Size                	| Generally up to 1,200 sq. ft or 50% of living area                                   	| 500 sq. ft max                  	|
-| Kitchen                      	| Yes                                                                                  	| Yes                             	|
-| Bathroom                     	| Yes                                                                                  	| No. Common sanitation allowed.  	|
-| Separate Entrance            	| Depends                                                                              	| Yes                             	|
-| Parking                      	| Depends. Parking may be eliminated and cannot be required under specific conditions. 	| No. Parking cannot be required. 	|
-| Owner Occupancy              	| Depends. Owner occupancy on most ADUs has been waived from 2020-2025                 	| Yes. Owner occupancy required.  	|
-| Ministerial Approval Process 	| Yes                                                                                  	| Yes                             	|
-| Prohibition on Sale of ADU   	| Yes                                                                                  	| Yes                             	|
+| Requirements | ADU | JADU |
+| --- | --- | --- |
+| Max Unit Size | Generally up to 1,200 sq. ft or 50% of living area | 500 sq. ft max |
+| Kitchen | Yes | Yes |
+| Bathroom | Yes | No. Common sanitation allowed. |
+| Separate Entrance | Depends | Yes |
+| Parking | Depends. Parking may be eliminated and cannot be required under specific conditions. | No. Parking cannot be required. |
+| Owner Occupancy | Depends. Owner occupancy on most ADUs has been waived from 2020-2025 | Yes. Owner occupancy required. |
+| Ministerial Approval Process | Yes | Yes |
+| Prohibition on Sale of ADU | Yes | Yes |
 
 _Table Data Source: https://www.housable.com/adu-guides/adu-jadu-difference_
-
 
 **ADU Designing and Building**
 
@@ -153,7 +144,7 @@ The [design-build method](/infographic-visual-guide-to-the-design-build-process/
 
 ![image of adu exterior rendering]({{ site.cloudinary }}/murray-lampert/version3/strommer-adu-exterior-rendering-1.jpg "Rendering of a 2-Story ADU in San Diego")
 
-_DIY versus Hiring a Pro_
+_DIY or Consultant Versus High a Full-Service Pro_
 
 If you decide to put your DIY acumen to the test, take heed of these warnings by the city of San Diego before you begin; the risk you carry is high.
 
@@ -169,10 +160,10 @@ Most importantly, the work you do building or upgrading your ADU will follow you
 
 ADUs can be built on property that is zoned for either single-family or multi-family residences (depending on the local regulations). It's best to check with the City before building on the land. Additionally, to obtain a permit for a lot, it must be free of code violations. Here are a few additional facts worth noting:
 
-- San Diego ADUs are always rentable, but in most cases these units can't be sold separately from the primary home.
-- ADUs only require a fire sprinkler system when it's required for the main residence.
-- Owner-occupancy isn't necessary for renting either primary homes or ADUs, unless you live in San Diego County.
-- Existing structures converted to Companion Units aren't subject to water or sewer charges when it has the correct meter size.
+* San Diego ADUs are always rentable, but in most cases these units can't be sold separately from the primary home.
+* ADUs only require a fire sprinkler system when it's required for the main residence.
+* Owner-occupancy isn't necessary for renting either primary homes or ADUs, unless you live in San Diego County.
+* Existing structures converted to Companion Units aren't subject to water or sewer charges when it has the correct meter size.
 
 **Setbacks**
 
@@ -180,17 +171,17 @@ Every structure must maintain a specific distance from a property line, curb or 
 
 **Parking**
 
-Parking accommodations is another matter you must factor into your construction. [San Diego parking regulations](https://docs.sandiego.gov/municode/MuniCodeChapter14/Ch14Art02Division05.pdf) require that newly built granny flats provide .5 space for each bedroom, whether it's an area in the driveway or tandem parking. If you design and build a new secondary dwelling, you must also add one parking space to account for the new living space. No replacement parking is required for garage conversions. In transit zones, additional parking may not be required as well.
+Parking accommodations is another matter that must be researched by a professional, since there are many variables based on zoning and geographic area. Garage conversions typically do not require any replacement parking in San Diego. For units built within the San Diego Transit District, typically no additional parking is required either. In some cases, depending on zoning, parking may need to be addressed.
 
 Newly created parking spaces must measure at 8.5 feet by 18 feet.
 
 However, there are some exceptions to this rule. You do not need to provide a parking space for your granny flat if:
 
-- Your property is within one half-mile of the MTS, a Breeze bus, waterfront shuttles or any other public transportation.
-- Your property is within the boundaries of an historic district.
-- Your property is located within a residential parking district.
-- Your property is located within one block of a car or bike share station.
-- Your companion unit is less than 500 sq. ft in floor area.
+* Your property is within one half-mile of the MTS, a Breeze bus, waterfront shuttles or any other public transportation.
+* Your property is within the boundaries of an historic district.
+* Your property is located within a residential parking district.
+* Your property is located within one block of a car or bike share station.
+* Your companion unit is less than 500 sq. ft in floor area.
 
 **Zoning Info**
 
@@ -204,8 +195,8 @@ In any city, zoning regulations are often extensive and complex. [San Diego’s 
 
 **General costs to design and build an ADU in San Diego**
 
-- **Small ADU:** (200 - 600 sq.ft.) = $150,000 to $250,000
-- **Large ADU:** (600 - 1,200 sq.ft.) = $250,000 to $350,000
+* **Small ADU:** (200 - 600 sq.ft.) = $150,000 to $250,000
+* **Large ADU:** (600 - 1,200 sq.ft.) = $250,000 to $350,000
 
 There are usually additional fees associated with building an ADU that vary by city. These fees include licenses, taxes, utility fees & upgrades, city required upgrades such as sidewalks and driveways, etc.
 
@@ -213,10 +204,10 @@ As an example, a recent 1,200 square foot detached ADU that Murray Lampert built
 
 In addition to the design and construction costs of a companion unit in San Diego, the city imposes [several fees and taxes](https://www.sandiegocounty.gov/content/dam/sdc/pds/docs/pds613.pdf), which can change year-to-year. For fiscal year 2021-2022, the city requires the following fees for accessory dwelling units:
 
-- **Plan Review Fee:** $1,565 + $0.331/sq. ft
-- **Permit Fee:** $1,287 + $0.433/sq. ft
+* **Plan Review Fee:** $1,565 + $0.331/sq. ft
+* **Permit Fee:** $1,287 + $0.433/sq. ft
 
-These fees each have a base cost plus an additional cost depending on the size of your ADU. Therefore, you will pay ~$0.33 cents per square foot extra for a plan review, and ~$0.43 cents per square foot extra for the permit itself. For example, if your granny flat is 500 sq. ft, you will pay ~$165 on top of the base fee of $1,565 for a plan review, and ~$215 on top of the base fee of $1,287 for the permit.
+These fees each have a base cost plus an additional cost depending on the size of your ADU. Therefore, you will pay \~$0.33 cents per square foot extra for a plan review, and \~$0.43 cents per square foot extra for the permit itself. For example, if your granny flat is 500 sq. ft, you will pay \~$165 on top of the base fee of $1,565 for a plan review, and \~$215 on top of the base fee of $1,287 for the permit.
 
 In this scenario, your total cost would be around $3,232 for the plan review and permit of a 500 sq. ft accessory dwelling unit.
 
@@ -224,7 +215,7 @@ In this scenario, your total cost would be around $3,232 for the plan review and
 
 **ADU Taxes**
 
-In San Diego, taxes cannot increase more than 2% annually. However, [your property will be reassessed](https://www.sdttc.com/content/ttc/en/tax-collection/secured-property-taxes.html) when your new construction is complete, just as it was when you first purchased the home. Since adding an ADU to your property will increase its value, you can expect your taxes to increase as well.
+When adding habitable square footage to your home, [you will be assed](https://www.sdttc.com/content/ttc/en/tax-collection/secured-property-taxes.html) only for the new space at the current property tax rate. Your existing home will not be reassessed and it will be unaffected by adding an ADU. However, for resale, the Granny Flat is included in the total square footage which increases the value of your property.
 
 Additionally, you’ll want to factor in school fees for ADUs of 500 sq. ft or larger, which run approximately $4.00/sq. ft.
 
@@ -236,38 +227,17 @@ As a homeowner, [you're probably familiar with interest rates](https://www.bankr
 
 Furthermore, If you are 62 years of age or older, you are eligible to take out a reverse mortgage against your home equity. It is widely recommended that you thoroughly research this option before you decide on getting a [reverse mortgage to finance your ADU](https://www.consumer.ftc.gov/articles/0192-reverse-mortgages).
 
-### What Else Can I Do With My ADU?
+### Aging in Place
 
-**Alternative Uses for an ADU**
-
-Not all San Diegans build an ADU on their property to earn an income or house family and friends. In fact, many residents who build a granny flat to house family members and friends eventually decide to redesign this space when it’s no longer used for this purpose. But not everybody is interested in having tenants living on their property.
-
-Consider this: upgrade your ADU into a home gym. You can reap the benefits of daily exercise in the peace and quiet of your own home; and with these features included in your remodel, you may end up moving in full-time.
-
-_Your Gym, Your Way_
-
-Not all people exercise and train the same way. Some of us prefer high-intensity resistance training with weights and barbells; others prefer endurance and cardio training. And let’s not forget those of us who prefer a calm environment for yoga, pilates, barre or other body weight movements. There are thousands of design ideas available online no matter what type of workout oasis you want to build. Here are a few to consider as you redesign your ADU to accommodate a home gym:
-
-- Concrete Walls - If you’ve ever tried to mount a TV on drywall, you already know why you need concrete walls to hang heavy barbells, weights, medicine balls or pull-up bars. Concrete walls give you the opportunity to use the wall itself as a fitness element.
-- [Glass Exterior Walls](https://www.homeadvisor.com/cost/walls-and-ceilings/install-a-wall/#glass) - Conversely, you may decide that you prefer a view as you ride your Peloton or jog on your True Form. With tempered glass walls, you can maintain the security of your building without feeling confined to a box.
-- Foam or Rubber floors - Whether you intend to drop heavy weights or stretch out in bridge pose, you need to consider what type of flooring will give you the best combination of utility and aesthetics. This is an easy DIY project; even [Home Depot carries interlocking mats](https://www.homedepot.com/b/Flooring-Exercise-Gym-Flooring/N-5yc1vZb97i) that you can install yourself.
-- Surround Sound - Look to Bose or Sonos for the highest quality home gym surround sound systems. By placing Bluetooth speakers strategically around your fitness area, your tunes will follow you wherever your workout takes you.
-
-_Adding Self-Care & Universal Living Elements_
-
-If you are building an ADU for a senior loved one or the physically challenged, universal living features can easily be incorporated into the plan.  Even if the parties who will be living in the ADU don’t need these features right now, it’s easy to plan ahead.
+If you are building an ADU for a senior loved one or the physically challenged, universal living features can easily be incorporated into the plan. Even if the parties who will be living in the ADU don’t need these features right now, it’s easy to plan ahead.
 
 Here are a few common universal living features to consider:
 
 1. Grab bars in the bathing and toilet area. There are great decorative options that are appealing. If nothing else, make sure to have the builder provide blocking in those areas for future, even if you don’t install the fixtures now.
-
 2. Zero transition stall shower pans have become very popular in everyday design. For seniors, a seamless entry to the shower is a great safety feature.
-
 3. Wider doorways is another important design consideration for aging in place or for wheelchair access. In new builds or major remodels, the cost is minimal. A little more space for seniors to maneuver around can be valuable later.
-
 4. Ramped entries and walks with no steps are another safety feature to consider for seniors or the physically challenged. In a new build, the hardscape can be ramped to entry, garage and sliding doors for seamless access.
-
-5. Kitchen and bathroom sinks with skirted fronts that are open below are ideal for those in wheelchairs.  
+5. Kitchen and bathroom sinks with skirted fronts that are open below are ideal for those in wheelchairs.
 
 An ADU in San Diego must include a kitchen (sink, range, and refrigerator), bedroom, and bathroom. When you convert your granny flat into a workout studio, you can intentionally upgrade these elements to support your health and wellness.
 
@@ -289,10 +259,10 @@ We all know that supporting renewable energy providers is a good investment for 
 
 There are many factors to consider when deciding whether or not to install solar panels on your property. For example:
 
-- Can you afford to install solar panels? Can you acquire a home improvement loan to cover your new granny flat installation as well as a photovoltaic system?
-- Will you install PV cells on your roof, or somewhere else on your property?
-- Is your property in full view of the sun, or do trees or other topographic elements get in the way?
-- Is your available roof space (more if you include your granny flat) enough to accommodate an adequate number of solar panels to make your investment worthwhile?
+* Can you afford to install solar panels? Can you acquire a home improvement loan to cover your new granny flat installation as well as a photovoltaic system?
+* Will you install PV cells on your roof, or somewhere else on your property?
+* Is your property in full view of the sun, or do trees or other topographic elements get in the way?
+* Is your available roof space (more if you include your granny flat) enough to accommodate an adequate number of solar panels to make your investment worthwhile?
 
 Talk to your solar installer or your design-build team to find out what other factors you need to consider. If you want to be prepared for a conversation about financing, there are many [cost estimators available online](https://www.sdge.com/residential/savings-center/renewables/getting-started/solar-cost-calculator) to help you determine the cost of purchasing the system as well as your energy savings over the life of the cells.
 
@@ -308,7 +278,7 @@ Only a handful of people reading this might remember a time when power outlets o
 
 _Smart Circuit Breakers_
 
-As with old 2-prong wall outlets, gone are the antiquated fuse boxes that were once ubiquitous in homes across the country. Circuit breakers replaced fuse boxes, which removed the need to install fuses and instead relied on electromagnetism to prevent power overload. Now, the next step in electrical control is here: [smart circuit breaker(https://www.economist.com/science-and-technology/2017/11/23/smart-circuit-breakers-for-energy-efficient-homess]. You can also monitor and control these home automation devices via your smartphone. You can cut the power to your granny flat to save money, monitor the power consumption of your ADU to help determine cost of utilities for tenants, or predict your upcoming electric bills.
+As with old 2-prong wall outlets, gone are the antiquated fuse boxes that were once ubiquitous in homes across the country. Circuit breakers replaced fuse boxes, which removed the need to install fuses and instead relied on electromagnetism to prevent power overload. Now, the next step in electrical control is here: \[smart circuit breaker(https://www.economist.com/science-and-technology/2017/11/23/smart-circuit-breakers-for-energy-efficient-homess\]. You can also monitor and control these home automation devices via your smartphone. You can cut the power to your granny flat to save money, monitor the power consumption of your ADU to help determine cost of utilities for tenants, or predict your upcoming electric bills.
 
 _Smart Doorbells_
 
@@ -322,17 +292,17 @@ San Diego granny flats are a hot trend that many homeowners are taking advantage
 
 ![image of casita adu kitchen]({{ site.cloudinary }}/murray-lampert/version3/starks-adu-kitchen-1.jpg "Casita Kitchen with Plenty of Space")
 
----
+***
 
 **Additional Resources:**
 
-- [https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf](https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf)
-- [https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf](https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf)
-- [https://www.sandiego.gov/sites/default/files/dsdib400.pdf](https://www.sandiego.gov/sites/default/files/dsdib400.pdf)
-- [https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units)
-- [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
-- [https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf](https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf)
-- [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
-- [https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf](https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf)
-- [https://www.tenseventyarchitecture.com/dream-home-guide-adu](https://www.tenseventyarchitecture.com/dream-home-guide-adu)
-- [https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego](https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego)
+* [https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf](https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf)
+* [https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf](https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf)
+* [https://www.sandiego.gov/sites/default/files/dsdib400.pdf](https://www.sandiego.gov/sites/default/files/dsdib400.pdf)
+* [https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units)
+* [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
+* [https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf](https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf)
+* [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
+* [https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf](https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf)
+* [https://www.tenseventyarchitecture.com/dream-home-guide-adu](https://www.tenseventyarchitecture.com/dream-home-guide-adu)
+* [https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego](https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego)
