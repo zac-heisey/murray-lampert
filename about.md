@@ -219,7 +219,7 @@ sections:
     team-members:
     - name: Danny Battle
       title: Architectural Designer
-      email: ''
+      email: dbattle@murraylampert.com
       bio: "<p>Danny grew up in Broomfield, Colorado - just in between Denver and
         Boulder. After graduating high school, he attended the University of Oregon
         and received a degree from the School of Architecture and Allied Arts. As
@@ -233,7 +233,7 @@ sections:
       image-2: "/murray-lampert/version3/danny-battle-1.jpg"
     - name: Noel Dunham
       title: Interior Design Assistant
-      email: ''
+      email: ndunham@murraylampert.com
       bio: "<p>Noel is a San Diego native, born and raised. She graduated from The
         Art Institute of San Diego, California with a Bachelors of Science in Interior
         Design. Creating beautiful, yet functional spaces and playing with different
@@ -244,7 +244,7 @@ sections:
       image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
     - name: Rachel Bancroft
       title: Senior Interior Designer
-      email: ''
+      email: rbancroft@murraylampert.com
       bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years
         ago. She received her Bachelors of Art Degree in Interior Design from San
         Diego State University. Rachel enjoys being challenged by the ever-changing
@@ -258,7 +258,7 @@ sections:
     team-members:
     - name: Hannah Wilson
       title: Interior Designer
-      email: ''
+      email: hwilson@murraylampert.com
       bio: "<p>Hannah moved to San Diego in 2019 from Truckee, California, located
         just slightly north of beautiful Lake Tahoe. She attended both The University
         of Nevada-Reno and the Art Institute of California-Sacramento, receiving two
@@ -274,7 +274,7 @@ sections:
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
     - name: Brandon Mears
       title: Project Consultant
-      email: ''
+      email: bmears@murraylampert.com
       bio: "<p>Being a Project Consultant at Murray Lampert Design, Build, Remodel,
         means Brandon may be the very first person you meet with from our team. Having
         managed complete remodels and additions on multiple homes of his own, Brandon
@@ -291,7 +291,7 @@ sections:
       image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
     - name: Lea Haynor
       title: Project Manager
-      email: ''
+      email: lhaynor@murraylampert.com
       bio: "<p>Lea is originally from Fairview, Pennsylvania and grew up right on
         Lake Erie. She attended  undergrad at the University of Vermont where she
         earned a degree in Political Science and completed a Masters Program at San
@@ -310,7 +310,7 @@ sections:
     team-members:
     - name: Nicole LaCroix
       title: Interior Designer
-      email: ''
+      email: nlacroix@murraylampert.com
       bio: "<p>Nicole was born and raised in Scottsdale, Arizona, where she attended
         Arizona State University and graduated with a Bachelor of Arts in Design Management.
         Being able to work closely with clients and families to create, or update,
@@ -322,7 +322,7 @@ sections:
       image-2: "/murray-lampert/version3/nicole-lacroix-1.jpg"
     - name: Bryan Bushaw
       title: Project Manager
-      email: ''
+      email: bbushaw@murraylampert.com
       bio: "<p>Bryan is originally from San Jose, California. He grew up in Denver,
         Colorado, where he graduated with a Bachelors in International Studies. Although
         Bryan works as our Field Technician, he is also a creator and designer in
@@ -336,7 +336,7 @@ sections:
       image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
     - name: Jack Moreno
       title: Field Technician
-      email: ''
+      email: jmoreno@murraylampert.com
       bio: "<p>My name is Jack Moreno. I am a field technician here at MLDBR. I am
         a native Southern Californian, born and raised in Los Angeles County. I have
         obtained two associates degrees: nursing from East Los Angeles college and
@@ -353,7 +353,7 @@ sections:
     team-members:
     - name: Micah Winkelstein
       title: Architect
-      email: ''
+      email: mwinkelstein@murraylampert.com
       bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors
         of Architecture degree from Southern Polytech University in 2003 and moved
         to San Diego in 2013. What Micah enjoys most about working for Murray Lampert,
@@ -365,7 +365,7 @@ sections:
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
     - name: Alyson Meucci
       title: Interior Designer
-      email: ''
+      email: ameucci@murraylampert.com
       bio: "<p>Alyson grew up in Sacramento, California and graduated from California
         State University, Chico in 2016. There, she earned a Bachelor of Fine Arts
         degree in Interior Architecture with a minor in Sustainability. She loves
@@ -380,7 +380,7 @@ sections:
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
     - name: Matt Clark
       title: Project Manager
-      email: ''
+      email: mclark@murraylampert.com
       bio: "<p>Matt is originally from San Diego, but spent years raising his family
         in Kentucky, and recently returned home to Southern California in 2020 . He
         has been working in the construction industry for 22 years and is driven by
@@ -394,19 +394,19 @@ sections:
     team-members:
     - name: Sabrina Bingham
       title: Administrative Assistant
-      email: ''
+      email: sbingham@murraylampert.com
       bio: "<p>Sabrina was raised in Portland Oregon and has since made her way down the state of California since 2010. She studied Early Childhood Education and formerly worked as a preschool teacher. A change in career paths took her into the client service industry, in which she has managed gyms, opened chain restaurants, and worked in the museum field. A self-proclaimed “Jane of all trades”, Sabrina enjoys the differences that every job brings within the construction world. With her husband Doug, they also own and operate an electrical business.</p><p>In her spare time, she loves to be on their jetboat or playing at local parks with her daughter.</p>"
       image-1: "/murray-lampert/version3/sabrina-bingham-1.jpg"
       image-2: "/murray-lampert/version3/sabrina-bingham-1.jpg"
     - name: Milka Mesfin
       title: Architectural Designer
-      email: ''
+      email: mmesfin@murraylampert.com
       bio: "<p>Milka was born and raised in Addis Ababa, Ethiopia. She went to college at University of Virginia and received a Bachelor of Science in Architecture. She enjoys the design-build industry because she gets to be part of a team that takes a project from concept to construction. In her spare time she enjoys discovering eateries and spending time at parks and beaches with family and friends.</p>"
       image-1: "/murray-lampert/version3/milka-mesfin-1.jpg"
       image-2: "/murray-lampert/version3/milka-mesfin-1.jpg"
     - name: Daniel Blasczyk
       title: Field Tech
-      email: ''
+      email: dblasczyk@murraylampert.com
       bio: "<p>Daniel moved around a lot as a young boy. He spent time in Ketchikan Alaska, and later Christchurch, New Zealand before returning to his home state of Colorado. After high school, Daniel decided that jumping out of helicopters seemed exciting, and joined the navy as a rescue swimmer. After seven years of service, and several deployments abroad, Daniel hung up his helmet, shook his Captain’s hand, and struck out on his own.</p><p>After his honorable discharge from the Navy, Daniel found his way into construction. Daniel revels in the process of renovation and takes pride in his final projects. When he is not working, Daniel enjoys surfing, reading, rock climbing, exercising, and spending time outdoors with his friends.</p>"
       image-1: "/murray-lampert/version3/daniel-blasczyk-1.jpg"
       image-2: "/murray-lampert/version3/daniel-blasczyk-1.jpg"
@@ -414,13 +414,13 @@ sections:
     team-members:
     - name: Bobby Ortiz
       title: Architectural Designer
-      email: ''
+      email: bortiz@murraylampert.com
       bio: "<p>Bobby is from the New York City. He attended high school and college in San Diego California and spent 17 years traveling the world designing and project managing the construction and installation of indoor golf studios for the golf industry.</p><p>Bobby is grateful to be part of the collaborative spirit, creative energy, customer service, and family atmosphere at Murray Lampert DBR.  His passion is creativity, vision, and all things design whether in architecture, interior design, art, or fashion. He truly enjoys watching the growth and success of others and will always look to contribute to their accomplishments where possible. Bobby enjoys socializing with family and friends in America’s finest city as well as enjoys watching professional, college, and youth sports.</p><p>Bobby is an architectural designer, project draftsman, and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
     - name: Luis Mora
       title: Field Tech
-      email: ''
+      email: lmora@murraylampert.com
       bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare time. He has been working in the remodeling industry for 17 years and loves that it is innovative and always growing. His area of expertise is drywall, but will tackle any job given to him. If given the choice to choose a career path again, it would undoubtedly be construction.</p><p>Luis always strives to do his best and is particular in what he does. He is happily married and the father of three beautiful children.</p>"
       image-1: "/murray-lampert/version3/luis-mora-1.jpg"
       image-2: "/murray-lampert/version3/luis-mora-1.jpg"
