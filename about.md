@@ -272,8 +272,8 @@ sections:
       title: Title Coming Soon
       email: mbixler@murraylampert.com
       bio: "<p>Mike's bio is coming soon!</p>"
-      image-1: "/murray-lampert/version3/placeholder.png"
-      image-2: "/murray-lampert/version3/placeholder.png"
+      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
   - row: Row 5
     team-members:
     - name: Brandon Mears
@@ -297,8 +297,8 @@ sections:
       title: Title Coming Soon
       email: jcooney@murraylampert.com
       bio: "<p>James' bio is coming soon!</p>"
-      image-1: "/murray-lampert/version3/placeholder.png"
-      image-2: "/murray-lampert/version3/placeholder.png"
+      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
   - row: Row 6
     team-members:
     - name: Micah Winkelstein
