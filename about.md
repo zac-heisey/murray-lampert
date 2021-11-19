@@ -269,7 +269,7 @@ sections:
       image-1: "/murray-lampert/version3/bryan-bushaw-1.jpg"
       image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
     - name: Mike Bixler
-      title: Title Coming Soon
+      title: Project Manager
       email: mbixler@murraylampert.com
       bio: "<p>Mike's bio is coming soon!</p>"
       image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
@@ -294,7 +294,7 @@ sections:
       image-1: "/murray-lampert/version3/brandon-mears-1.jpg"
       image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
     - name: James Cooney
-      title: Title Coming Soon
+      title: Project Consultant
       email: jcooney@murraylampert.com
       bio: "<p>James' bio is coming soon!</p>"
       image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
