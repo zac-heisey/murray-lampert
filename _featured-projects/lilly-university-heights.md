@@ -15,6 +15,31 @@ sections:
 - template: grid
   block: grid
   grid-rows:
+  - row: 3 (video)
+    grid-items:
+    - item: Video
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: fuVS32LRlV4
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: video
+      item-span: 3
+- template: grid
+  block: grid
+  grid-rows:
   - row: 1 / 2
     grid-items:
     - item: Lilly Exterior (close-up)
