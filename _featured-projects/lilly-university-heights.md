@@ -25,9 +25,11 @@ sections:
           main-content: ''
           detail: ''
           url: ''
-      video-id: fuVS32LRlV4
+      video-info:
+        video-cover-image: "/murray-lampert/version3/lilly-university-heights-exterior-3.jpg"
+        video-id: fuVS32LRlV4
       text-info:
-        background-color: none
+        background-color: gray
         cta:
           color: blue
           enabled: false
