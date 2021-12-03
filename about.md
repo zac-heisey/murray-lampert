@@ -296,7 +296,7 @@ sections:
     - name: James Cooney
       title: Project Consultant
       email: jcooney@murraylampert.com
-      bio: "<p>James' bio is coming soon!</p>"
+      bio: "<p>As a Project Consultant with Murray Lampert, James may be one of the first people to greet as you start your home remodel journey. James’ experience in the remodeling industry spans all facets of remodel, including his own real estate investments and renovations as well extensive work on his family’s homes. His top priority is to ensure his clients vision comes to life and the project is a roaring success.</p><p>Living in San Diego for over 20 years, James is originally From the Napa Valley. He spent years in the Wine & Beer Industry then followed his passion to the field of design and remodel. Always active, James likes to swim regularly and go snowboarding whenever possible. He has a passion and talent for cooking and entertaining that he shares with his loves: his wife, and his two beautiful girls.</p>"
       image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
       image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
   - row: Row 6
