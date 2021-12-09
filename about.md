@@ -313,6 +313,18 @@ sections:
         two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
+    - name: Rachel Bancroft
+      title: Senior Interior Designer
+      email: rbancroft@murraylampert.com
+      bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years
+        ago. She received her Bachelors of Art Degree in Interior Design from San
+        Diego State University. Rachel enjoys being challenged by the ever-changing
+        nature and creativity of the design industry. She loves being able to implement
+        homeowner’s personal style into their remodeled homes. In her free time, she
+        enjoys being adventurous outside, doing pilates & hanging out at one of our
+        local breweries.</p>"
+      image-1: "/murray-lampert/version3/rachel-bancroft-1.jpg"
+      image-2: "/murray-lampert/version3/rachel-bancroft-1.jpg"
     - name: Alyson Meucci
       title: Interior Designer
       email: ameucci@murraylampert.com
@@ -328,32 +340,8 @@ sections:
         Cheese!</p>"
       image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
-    - name: Rachel Bancroft
-      title: Senior Interior Designer
-      email: rbancroft@murraylampert.com
-      bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years
-        ago. She received her Bachelors of Art Degree in Interior Design from San
-        Diego State University. Rachel enjoys being challenged by the ever-changing
-        nature and creativity of the design industry. She loves being able to implement
-        homeowner’s personal style into their remodeled homes. In her free time, she
-        enjoys being adventurous outside, doing pilates & hanging out at one of our
-        local breweries.</p>"
-      image-1: "/murray-lampert/version3/rachel-bancroft-1.jpg"
-      image-2: "/murray-lampert/version3/rachel-bancroft-1.jpg"
   - row: Row 7
     team-members:
-    - name: Nicole LaCroix
-      title: Interior Designer
-      email: nlacroix@murraylampert.com
-      bio: "<p>Nicole was born and raised in Scottsdale, Arizona, where she attended
-        Arizona State University and graduated with a Bachelor of Arts in Design Management.
-        Being able to work closely with clients and families to create, or update,
-        their perfect home is what she loves most about remodeling. When she isn’t
-        hard at work, Nicole enjoys being active, exploring the city and outdoors,
-        attempting to be a chef, hanging with her pup Benny, and spending time with
-        her friends & family.</p>"
-      image-1: "/murray-lampert/version3/nicole-lacroix-1.jpg"
-      image-2: "/murray-lampert/version3/nicole-lacroix-1.jpg"
     - name: Hannah Wilson
       title: Interior Designer
       email: hwilson@murraylampert.com
@@ -371,7 +359,7 @@ sections:
       image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
     - name: Noel Dunham
-      title: Interior Design Assistant
+      title: Interior Designer
       email: ndunham@murraylampert.com
       bio: "<p>Noel is a San Diego native, born and raised. She graduated from The
         Art Institute of San Diego, California with a Bachelors of Science in Interior
@@ -381,6 +369,12 @@ sections:
         with her friends and family.</p>"
       image-1: "/murray-lampert/version3/noel-dunham-1.jpg"
       image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
+    - name: Martin Grady
+      title: Interior Designer
+      email: mgrady@murraylampert.com
+      bio: "<p>Martin is originally from Denver, Colorado. He grew up in Temecula, California where he graduated with a Bachelors in Interior Design from the Design Institute of San Diego in 2018. He enjoys the creativity that design conveys, as his motto is “Never Stop Believing in What You Dream About Every Night.” In his spare time, he enjoys wine tasting, writing poetry, cooking and spending time with his 8 year old Yorkie, Prince.</p>"
+      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
   - row: Row 8
     team-members:
     - name: Danny Battle
