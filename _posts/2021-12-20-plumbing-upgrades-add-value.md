@@ -12,7 +12,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/placeholder-2.jpg"
+  background-image: "/murray-lampert/version3/kitchen-sink.jpg"
   heading: Plumbing Upgrades that Add Value to Your Home
 - template: post-meta-data
   block: post-meta-data
