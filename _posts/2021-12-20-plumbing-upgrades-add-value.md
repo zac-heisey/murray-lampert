@@ -88,4 +88,4 @@ When you have your plumbing system exposed during your remodel, it’s a good id
 ### Wrapping Up: Adding Value to Your Home With Plumbing
 Plumbing fixtures can be some of the most expensive pieces of equipment during a home remodel. However, knowing which ones add the most value to your home can help you get the most out of your remodel. Bringing the most technologically advanced capabilities to your home with innovative plumbing fixtures can add value as well while also adding functionality and practicality to your home.
 
-_This post was contributed by [MrBluePlumbing.com](https://www.mrblueplumbing.com/_
+_This post was contributed by [MrBluePlumbing.com](https://www.mrblueplumbing.com/)_
