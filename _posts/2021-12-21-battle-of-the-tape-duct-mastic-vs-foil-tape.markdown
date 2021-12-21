@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: 'Battle of the Tape: Choosing the Right Tape For Your Home Improvement Project'
-date: 2019-07-08 00:00:01 Z
+date: 2021-12-21 00:00:01 Z
 categories:
 - Home DIY Tips
 description: Duct tape vs. foil tape? HVAC tape vs. aluminum tape? And what about duct
@@ -33,7 +33,7 @@ sections:
 
 ---
 
-_This post was originally published August 25, 2014 and has been updated with additional content, resources, images, etc._
+_This post was originally published August 2014 and has been updated with additional content, resources, images, etc._
 
 Homeowners and DIY enthusiasts have their pick when it comes to types of tape for household projects. The question is: which is the right type of the tape to get the job done? With so many choices, it can be difficult to know which tape is appropriate for your particular home improvement project.
 
@@ -42,16 +42,16 @@ We’ve created a quick visual guide to choosing the right tape for your next ho
 ## Things to Keep In Mind When Choosing the Right Type of Tape
 
 **Not All Tape is the Same**  
-There's a reason why there are [so many different types of tape](https://www.homedepot.com/c/tape_HT_BG_PA). Each type of tape is designed to help you accomplish a specific task or work best in a specific scenario. Using the wrong tape for the job can lead to real problems, and can even create a safety hazard. You wouldn't want to use duct tape for masking or scotch tape for electrical projects.
+There's a reason why there are [so many different types of tape](https://www.homedepot.com/c/tape_HT_BG_PA). Each type of tape is designed to help you accomplish a specific task or work best in a specific scenario. Using the wrong tape for the job can lead to real problems, and can even create a safety hazard or leave unwanted hard to remove residue on floors, window frames et. You wouldn't want to use duct tape for masking or scotch tape for electrical projects.
 
 **Pay Attention to Features**  
 The width and thickness of your tape matters, but so does temperature rating, conductivity, and level of water resistance of your tape. If working on an outdoor project, make sure the tape you choose is thick and ideally water-resistant. For indoor electrical projects, thinner, non-conductive tape is best.
 
 **Tape Versus Sealant**  
-For some plumbing and HVAC projects, tape may not be the best choice. In certain cases, using a [sealant or mastic](https://sealantsandmastics.weebly.com/blog/march-17th-2014) can provide a stronger, longer-lasting, more resistant solution than tape. The downside to sealant and mastic is that it can be messy and difficult to work with, making it much less convenient than tape. See below for more information on using mastic for HVAC and duct work.
+For some plumbing and HVAC projects, tape may not be the best choice. In certain cases, using a [sealant or mastic](https://sealantsandmastics.weebly.com/blog/march-17th-2014) can provide a stronger, longer-lasting, more resistant solution than tape. The downside to sealant and mastic is that it can be messy and difficult to work with, making it much less convenient than tape. The only choices for HVAC duct work should be mastic or foil tape.
 
 **Ask a Pro**  
-If you're still unsure of which type of tape to use for your home improvement project, ask a [home remodeling contractor](/) or other building professional for some guidance. Big box home improvement stores are almost guaranteed to carry the tape you need, and you can always get input from store employees as well. Don't be afraid to ask for help!
+If you're still unsure of which type of tape to use for your home improvement project, ask a [home remodeling contractor](/) or other building professional for some guidance. Big-box home improvement centers, hardware, or paint stores are almost guaranteed to carry the tape you need, and you can always get input from store employees as well. Don't be afraid to ask for help!
 
 <lite-youtube videoid="69EpRDFVjuk" style="background-image: url('https://i.ytimg.com/vi/69EpRDFVjuk/hqdefault.jpg');">
 </lite-youtube>
@@ -74,6 +74,10 @@ To fill in holes and gaps, flat metal tape coated with an adhesive is a great ch
 
 Professional quality tape will stand the test of time. Tapes are much cleaner than mastic, but they are a bit more expensive to purchase. It is also recommended that you clean the area before using any type of tape to seal. For long sections of hard, round ductwork, taping can be an acceptable practice, but irregular surfaces and dirt or dust can compromise the application.
 
+Below we've included a nice comparison chart by 3M that details some different types of sealing and insulating mastic tape.
+
+![comparison chart of sealing and insulating mastic tape by 3M]({{ site.cloudinary }}/murray-lampert/version3/3m-sealing-and-insulating-mastic-tape-comparison-chart.jpg)
+
 ### A Word of Caution
 
 The term **“duct tape”** is quite misleading. Although the name of this product makes it sound perfect for the job at hand, never seal ducts with duct tape. Duct tape is not approved for use on ducts and, despite the fact that it works great for a variety of heavy-duty projects, doesn’t stand up to the conditions of an HVAC system. At [Murray Lampert Design, Build, Remodel](/), we prefer to use duct mastic to seal and repair ducts. We like it because it stands the test of time and makes it easy to fill in those irregularly shaped areas of ductwork. If you have a leaky duct to repair, consider your unique circumstances and which material you feel most comfortable working with.
@@ -90,7 +94,9 @@ Also known as "insulating tape," electrical tape is made of plastic (most common
 
 ### Duct Tape
 
-Duct tape is considered the most versatile type of tape, and is a staple of many homeowners for an array of DIY projects. Modern duct tape is made with woven fabrics to provide strength & flexibility. It can be used just about anywhere heavy-duty adhesion is needed, although it is susceptible to high heat and leaves a residue when removed.
+Duct tape is considered the most versatile type of tape, and is a staple of many homeowners for an array of DIY projects. Modern duct tape is made with woven fabrics to provide strength & flexibility. It can be used just about anywhere heavy-duty adhesion is needed, although it is susceptible to high heat and leaves a residue when removed. As we've mentioned above, duct tape should _NOT_ be used to seal HVAC ducts in your home. Mastic or foil tape is a better option for that job.
+
+Something else to clarify here is the difference between "duct tape" and "Duck Tape." [Duck Tape](https://www.duckbrand.com/) is a specific brand of duct tape, as is [Gorilla Tape](https://www.gorillatough.com/product/black-gorilla-tape/), [3M](https://www.3m.com/3M/en_US/p/c/tapes/cloth-duct/duct/i/manufacturing/heavy-industrial/), and many others.
 
 ### Foil or Metal Tape
 
@@ -99,6 +105,11 @@ If you're tackling an HVAC job at home, aluminum foil tape should be your go-to.
 ### Masking (Painter's) Tape
 
 Masking, or painter's tape, is a paper-based, multi-use tape that is primarily used to mask off areas during interior and exterior painting projects. Key characteristics include easy tearing and low-grade adhesive to reduces damage and residue on surfaces once the tape is removed.
+
+This video by Consumer Reports does a good job of outlining some of the best painter's tape brands.
+
+<lite-youtube videoid="GIEaOdKVCO8" style="background-image: url('https://i.ytimg.com/vi/GIEaOdKVCO8/hqdefault.jpg');">
+</lite-youtube>
 
 ### Carpet Tape
 
@@ -120,3 +131,7 @@ Sources:
 - https://www.can-dotape.com
 - https://www.advancetapes.com/tapetypes/
 - https://pacificaircomfort.com/
+- https://www.3m.com
+- https://www.frogtape.com
+- https://www.gorillatough.com
+- https://www.scotchblue.com
