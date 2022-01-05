@@ -29,9 +29,11 @@
         <div class="bio-text">
           <h3>{{ person.name }}</h3>
           <p class="small-heading">{{ person.title }}</p>
+          {% if person.email != '' %}
           <a href="mailto:{{ person.email }}">
             <span class="icon-email"></span>
           </a>
+          {% endif %}
         </div>
 
       </div>
@@ -42,6 +44,8 @@
   </div>
 
   {% for person in row.team-members %}
+  {% if person.bio != '' %}
+  <!-- Expanded Bios -->
   <div class="row bio" data-name="{{ person.name }}">
 
     <div class="container">
@@ -84,6 +88,7 @@
     </div>
 
   </div>
+  {% endif %}
   {% endfor %}
 
   {% endfor %}

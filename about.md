@@ -272,8 +272,8 @@ sections:
       title: Project Manager
       email: mbixler@murraylampert.com
       bio: "<p>Mike's bio is coming soon!</p>"
-      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
-      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-1: "/murray-lampert/version3/mike-bixler-1.jpg"
+      image-2: "/murray-lampert/version3/mike-bixler-1.jpg"
   - row: Row 5
     team-members:
     - name: Brandon Mears
@@ -297,8 +297,8 @@ sections:
       title: Project Consultant
       email: jcooney@murraylampert.com
       bio: "<p>As a Project Consultant with Murray Lampert, James may be one of the first people to greet as you start your home remodel journey. James’ experience in the remodeling industry spans all facets of remodel, including his own real estate investments and renovations as well extensive work on his family’s homes. His top priority is to ensure his clients vision comes to life and the project is a roaring success.</p><p>Living in San Diego for over 20 years, James is originally From the Napa Valley. He spent years in the Wine & Beer Industry then followed his passion to the field of design and remodel. Always active, James likes to swim regularly and go snowboarding whenever possible. He has a passion and talent for cooking and entertaining that he shares with his loves: his wife, and his two beautiful girls.</p>"
-      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
-      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-1: "/murray-lampert/version3/james-cooney-1.jpg"
+      image-2: "/murray-lampert/version3/james-cooney-1.jpg"
   - row: Row 6
     team-members:
     - name: Micah Winkelstein
@@ -373,8 +373,8 @@ sections:
       title: Interior Designer
       email: mgrady@murraylampert.com
       bio: "<p>Martin is originally from Denver, Colorado. He grew up in Temecula, California where he graduated with a Bachelors in Interior Design from the Design Institute of San Diego in 2018. He enjoys the creativity that design conveys, as his motto is “Never Stop Believing in What You Dream About Every Night.” In his spare time, he enjoys wine tasting, writing poetry, cooking and spending time with his 8 year old Yorkie, Prince.</p>"
-      image-1: "/v1571339214/murray-lampert/version3/placeholder.png"
-      image-2: "/v1571339214/murray-lampert/version3/placeholder.png"
+      image-1: "/murray-lampert/version3/martin-grady-1.jpg"
+      image-2: "/murray-lampert/version3/martin-grady-1.jpg"
   - row: Row 8
     team-members:
     - name: Danny Battle
@@ -426,12 +426,12 @@ sections:
       bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare time. He has been working in the remodeling industry for 17 years and loves that it is innovative and always growing. His area of expertise is drywall, but will tackle any job given to him. If given the choice to choose a career path again, it would undoubtedly be construction.</p><p>Luis always strives to do his best and is particular in what he does. He is happily married and the father of three beautiful children.</p>"
       image-1: "/murray-lampert/version3/luis-mora-1.jpg"
       image-2: "/murray-lampert/version3/luis-mora-1.jpg"
-    - name: Daniel Blasczyk
-      title: Field Tech
-      email: dblasczyk@murraylampert.com
-      bio: "<p>Daniel moved around a lot as a young boy. He spent time in Ketchikan Alaska, and later Christchurch, New Zealand before returning to his home state of Colorado. After high school, Daniel decided that jumping out of helicopters seemed exciting, and joined the navy as a rescue swimmer. After seven years of service, and several deployments abroad, Daniel hung up his helmet, shook his Captain’s hand, and struck out on his own.</p><p>After his honorable discharge from the Navy, Daniel found his way into construction. Daniel revels in the process of renovation and takes pride in his final projects. When he is not working, Daniel enjoys surfing, reading, rock climbing, exercising, and spending time outdoors with his friends.</p>"
-      image-1: "/murray-lampert/version3/daniel-blasczyk-1.jpg"
-      image-2: "/murray-lampert/version3/daniel-blasczyk-1.jpg"
+    - name: Carrie Mayers
+      title: Team Coach
+      email: ''
+      bio: ''
+      image-1: "/murray-lampert/version3/carrie-mayers-1.jpg"
+      image-2: "/murray-lampert/version3/carrie-mayers-1.jpg"
 - template: hero-banner
   block: hero-banner
   cta:
