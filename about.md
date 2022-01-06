@@ -271,7 +271,7 @@ sections:
     - name: Mike Bixler
       title: Project Manager
       email: mbixler@murraylampert.com
-      bio: "<p>Mike's bio is coming soon!</p>"
+      bio: "<p>Mike was born and raised in Oceanside California. He graduated from Oceanside High and attended several community colleges obtaining various trade certificates. Mike loves to sail, surf, and travel. He feels his strongest areas of construction are management, electrical, and framing. He enjoys being a part of a design build firm for the team aspect, and loves seeing all of the diversity come together to accomplish a goal. At one point in his life Mike trained dolphins for the Navy. He has an amazing wife, Ashely. They have an adorable daughter Cypress and another on the way!</p>"
       image-1: "/murray-lampert/version3/mike-bixler-1.jpg"
       image-2: "/murray-lampert/version3/mike-bixler-1.jpg"
   - row: Row 5
