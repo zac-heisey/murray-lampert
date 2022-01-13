@@ -429,7 +429,7 @@ sections:
     - name: Carrie Mayers
       title: Team Coach
       email: ''
-      bio: ''
+      bio: '<p>Carrie was born in NJ but grew up in Tucson Arizona. She graduated from Cal State Northridge and has been successful in building her own business- The Corporate Coaching company. Carrie is contracted with Murray Lampert Design Build Remodel as the team coach. Her areas of expertise include executive coaching, sales couching, consulting, and training. Carrie is happily married and has 3 incredible kids!</p>'
       image-1: "/murray-lampert/version3/carrie-mayers-1.jpg"
       image-2: "/murray-lampert/version3/carrie-mayers-1.jpg"
 - template: hero-banner
