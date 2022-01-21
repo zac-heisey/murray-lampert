@@ -11,7 +11,10 @@
 
     <!-- CTA buttons -->
     <div class="cta-buttons">
+      <!-- Remove 'Free Consultation' button from QR Code landing pages -->
+      {% if page.url != '/mldbr-qr-code' %}
       <a href="/contact" class="btn blue">Free Consultation</a>
+      {% endif %}
       <a href="tel:+16192859222" class="btn gray">Call: 619-285-9222</a>
     </div>
 

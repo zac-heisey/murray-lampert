@@ -1,0 +1,42 @@
+<!-- Quick Contact Section -->
+<section class="rich-text">
+
+  <div class="lock">
+
+    <h6>Special QR Code Offer</h6>
+    <h2>Save $500 On Your Next Project!</h2>
+    <p>We're excited to get started on your project! As a thank you for taking the time to scan our QR code and learn more about us, we're offering <strong>$500 off your design agreement with Murray Lampert</strong>.</p>
+    <p>Complete the quick form below, and our team will be in touch ASAP to discuss next steps and schedule your FREE in-home or virtual consultation.</p>
+
+    <!-- Website Lead: Quick Contact -->
+    <form name='Website Lead: Quick Contact' method="POST" action='/thank-you/' netlify-honeypot='surname' data-netlify-recaptcha="true" data-netlify="true">
+
+      <div class="wrapper">
+
+        <div class="left">
+          <!-- Netlify honeypot field -->
+          <p class='hidden'><label>Don’t fill this out: <input name='surname'></label></p>
+          <!-- Standard form fields -->
+          <input id="first-name" name='first name' placeholder='First Name' type='text' required>
+          <input id="last-name" name='last name' placeholder='Last Name' type='text' required>
+          <input name='email' placeholder='Email Address' type='email' required>
+          <input name='phone' placeholder='Phone Number' type='tel' required>
+          <!-- Hidden 'type-of-project' field -->
+          <p class='hidden'>
+            <select name='type-of-project' placeholder='Type of Project'>
+              <option value="QR Code" selected>QR Code</option>
+            </select>
+          </p>
+          <!-- Netlify reCAPTCHA 2 -->
+          <div data-netlify-recaptcha="true"></div>
+          <input type="submit" class="btn gray" id="contact-btn" value="GET IN TOUCH" disabled>
+          <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch: (619) 285-9222</p>
+        </div>
+
+      </div>
+
+    </form>
+
+  </div>
+
+</section>
