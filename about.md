@@ -369,12 +369,6 @@ sections:
         with her friends and family.</p>"
       image-1: "/murray-lampert/version3/noel-dunham-1.jpg"
       image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
-    - name: Martin Grady
-      title: Interior Designer
-      email: mgrady@murraylampert.com
-      bio: "<p>Martin is originally from Denver, Colorado. He grew up in Temecula, California where he graduated with a Bachelors in Interior Design from the Design Institute of San Diego in 2018. He enjoys the creativity that design conveys, as his motto is “Never Stop Believing in What You Dream About Every Night.” In his spare time, he enjoys wine tasting, writing poetry, cooking and spending time with his 8 year old Yorkie, Prince.</p>"
-      image-1: "/murray-lampert/version3/martin-grady-1.jpg"
-      image-2: "/murray-lampert/version3/martin-grady-1.jpg"
   - row: Row 8
     team-members:
     - name: Danny Battle
