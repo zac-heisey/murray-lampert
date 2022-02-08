@@ -46,6 +46,11 @@ Communities and neighborhoods throughout San Diego County are following the stat
 
 But what are the benefits of building a granny flat in San Diego? As with any home remodeling project, there are [pros and cons to consider before building an in-law suite](/the-pros-and-cons-of-an-in-law-suite/), but there are a handful of very compelling reasons why you should consider building an accessory dwelling unit in San Diego.
 
+<video width="100%" height="auto" controls>
+<source src="https://res.cloudinary.com/zheisey/video/upload/murray-lampert/version3/adu-rendering-walkthrough-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 **Rising Costs and Fewer Options**
 
 Homeowners in San Diego know that this area is an idyllic place to call home. Amazing year-round weather, tons of outdoor activities, a thriving craft beer and wine scene, and plentiful restaurants, bars, music venues, and family-friendly fun are just a few of the reasons that San Diego, known as “America’s Finest City”, is among the most desirable places to live in the United States.
@@ -64,11 +69,6 @@ Since there is a shortage of homes on the market in San Diego and prices continu
 * Building a granny flat is a good lifestyle fit.
 
 While current regulations prevent homeowners from offering accessory dwelling units as vacation rentals (ADUs have a minimum 30-day lease), short and long-term renting is definitely an option. A 500-square-foot ADU in San Diego can generally earn between [$1,350 - $1,800 per month in rental income](https://www.hausable.com/city/san-diego-ca-562174). That’s money that can be used to pay down your mortgage, cover utilities and other household expenses, save for retirement, or spend on a vacation.
-
-<video width="100%" height="auto" controls>
-<source src="https://res.cloudinary.com/zheisey/video/upload/murray-lampert/version3/adu-rendering-walkthrough-1.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 **Additional Space for Family and Friends**
 
