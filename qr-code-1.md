@@ -7,7 +7,7 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: blue
-  content: "<h6>Murray Lampert</h6><h2>More Than Just a Contractor</h2>"
+  content: "<h6>Murray Lampert</h6><h2>We're More Than Just a Contractor</h2>"
 - template: grid
   block: grid
   grid-rows:
@@ -119,5 +119,5 @@ sections:
     cta:
       enabled: false
       color: white
-      
+
 ---
