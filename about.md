@@ -313,18 +313,6 @@ sections:
         two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
-    - name: Rachel Bancroft
-      title: Senior Interior Designer
-      email: rbancroft@murraylampert.com
-      bio: "<p>Rachel was raised in Corona, California & moved to San Diego 8 years
-        ago. She received her Bachelors of Art Degree in Interior Design from San
-        Diego State University. Rachel enjoys being challenged by the ever-changing
-        nature and creativity of the design industry. She loves being able to implement
-        homeowner’s personal style into their remodeled homes. In her free time, she
-        enjoys being adventurous outside, doing pilates & hanging out at one of our
-        local breweries.</p>"
-      image-1: "/murray-lampert/version3/rachel-bancroft-1.jpg"
-      image-2: "/murray-lampert/version3/rachel-bancroft-1.jpg"
     - name: Alyson Meucci
       title: Interior Designer
       email: ameucci@murraylampert.com
