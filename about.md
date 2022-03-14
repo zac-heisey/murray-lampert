@@ -313,23 +313,6 @@ sections:
         two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
-    - name: Alyson Meucci
-      title: Interior Designer
-      email: ameucci@murraylampert.com
-      bio: "<p>Alyson grew up in Sacramento, California and graduated from California
-        State University, Chico in 2016. There, she earned a Bachelor of Fine Arts
-        degree in Interior Architecture with a minor in Sustainability. She loves
-        working in the remodeling industry, because she gets the opportunity to be
-        involved in the design process from start to finish. Alyson enjoys building
-        relationships with each of her clients during the process. Providing a memorable
-        experience for Alyson’s friends, family, and even clients is what drives her
-        to be successful in every aspect of life. In her free time, she loves to go
-        to the beach, workout and spend time with her friends, boyfriend and dog,
-        Cheese!</p>"
-      image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
-      image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
-  - row: Row 7
-    team-members:
     - name: Hannah Wilson
       title: Interior Designer
       email: hwilson@murraylampert.com
@@ -346,18 +329,22 @@ sections:
         a motorcycle riding the twisty turns of our fun mountain roads.</p>"
       image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
-    - name: Noel Dunham
-      title: Interior Designer
-      email: ndunham@murraylampert.com
-      bio: "<p>Noel is a San Diego native, born and raised. She graduated from The
-        Art Institute of San Diego, California with a Bachelors of Science in Interior
-        Design. Creating beautiful, yet functional spaces and playing with different
-        colors and textures is her favorite part about being on the design team. Outside
-        of the office, Noel loves doing anything outdoors and spending quality time
-        with her friends and family.</p>"
-      image-1: "/murray-lampert/version3/noel-dunham-1.jpg"
-      image-2: "/murray-lampert/version3/noel-dunham-1.jpg"
-  - row: Row 8
+    - name: Alyson Meucci
+      title: Senior Architectural Designer
+      email: ameucci@murraylampert.com
+      bio: "<p>Alyson grew up in Sacramento, California and graduated from California
+        State University, Chico in 2016. There, she earned a Bachelor of Fine Arts
+        degree in Interior Architecture with a minor in Sustainability. She loves
+        working in the remodeling industry, because she gets the opportunity to be
+        involved in the design process from start to finish. Alyson enjoys building
+        relationships with each of her clients during the process. Providing a memorable
+        experience for Alyson’s friends, family, and even clients is what drives her
+        to be successful in every aspect of life. In her free time, she loves to go
+        to the beach, workout and spend time with her friends, boyfriend and dog,
+        Cheese!</p>"
+      image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
+      image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
+  - row: Row 7
     team-members:
     - name: Danny Battle
       title: Architectural Designer
@@ -385,7 +372,7 @@ sections:
       bio: "<p>Bobby is from the New York City. He attended high school and college in San Diego California and spent 17 years traveling the world designing and project managing the construction and installation of indoor golf studios for the golf industry.</p><p>Bobby is grateful to be part of the collaborative spirit, creative energy, customer service, and family atmosphere at Murray Lampert DBR.  His passion is creativity, vision, and all things design whether in architecture, interior design, art, or fashion. He truly enjoys watching the growth and success of others and will always look to contribute to their accomplishments where possible. Bobby enjoys socializing with family and friends in America’s finest city as well as enjoys watching professional, college, and youth sports.</p><p>Bobby is an architectural designer, project draftsman, and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
-  - row: Row 9
+  - row: Row 8
     team-members:
     - name: Jack Moreno
       title: Field Technician
@@ -403,7 +390,7 @@ sections:
       image-1: "/murray-lampert/version3/jack-moreno-1.jpg"
       image-2: "/murray-lampert/version3/jack-moreno-1.jpg"
     - name: Luis Mora
-      title: Field Tech
+      title: Field Technician
       email: lmora@murraylampert.com
       bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare time. He has been working in the remodeling industry for 17 years and loves that it is innovative and always growing. His area of expertise is drywall, but will tackle any job given to him. If given the choice to choose a career path again, it would undoubtedly be construction.</p><p>Luis always strives to do his best and is particular in what he does. He is happily married and the father of three beautiful children.</p>"
       image-1: "/murray-lampert/version3/luis-mora-1.jpg"
