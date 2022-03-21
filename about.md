@@ -274,6 +274,12 @@ sections:
       bio: "<p>Mike was born and raised in Oceanside California. He graduated from Oceanside High and attended several community colleges obtaining various trade certificates. Mike loves to sail, surf, and travel. He feels his strongest areas of construction are management, electrical, and framing. He enjoys being a part of a design build firm for the team aspect, and loves seeing all of the diversity come together to accomplish a goal. At one point in his life Mike trained dolphins for the Navy. He has an amazing wife, Ashely. They have an adorable daughter Cypress and another on the way!</p>"
       image-1: "/murray-lampert/version3/mike-bixler-1.jpg"
       image-2: "/murray-lampert/version3/mike-bixler-1.jpg"
+    - name: John Bixler
+      title: Project Manager
+      email: jbixler@murraylampert.com
+      bio: "<p>John was born in Japan, but was raised in San Diego. He went to college with a swimming scholarship and also pursued a Criminal Justice degree. He coached competitive swimming for 15 years and has worked in construction his entire adult life. He likes various trades, but especially loves electrical and heavy equipment operating. Recently celebrating his 40th birthday by skydiving, John has a love for the outdoors and adventure. He is married with four children, one son, one daughter, and 2 boxers.</p><p>He enjoys all sports that involve water. Before having kids, John spent any spare time working on his 1957 chevy pickup.</p>"
+      image-1: "/murray-lampert/version3/john-bixler-1.jpg"
+      image-2: "/murray-lampert/version3/john-bixler-1.jpg"
   - row: Row 5
     team-members:
     - name: Brandon Mears
@@ -301,18 +307,6 @@ sections:
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
   - row: Row 6
     team-members:
-    - name: Micah Winkelstein
-      title: Architect
-      email: mwinkelstein@murraylampert.com
-      bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors
-        of Architecture degree from Southern Polytech University in 2003 and moved
-        to San Diego in 2013. What Micah enjoys most about working for Murray Lampert,
-        is meeting with homeowners and utilizing his experience to design home improvement
-        solutions for them. When he isn’t sketching plans, Micah can be found playing
-        tennis, drumming, grilling on the BBQ, and spending time with his wife and
-        two daughters.</p>"
-      image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
-      image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
     - name: Hannah Wilson
       title: Interior Designer
       email: hwilson@murraylampert.com
@@ -329,6 +323,38 @@ sections:
         a motorcycle riding the twisty turns of our fun mountain roads.</p>"
       image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
+    - name: Jensen Landers
+      title: Interior Designer
+      email: jlanders@murraylampert.com
+      bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design from San Diego State University. Her background varies from landscape design and drafting, to commercial, multi-family, and residential interior architecture. She enjoys creating cohesive spaces that are both welcoming and comfortable, while fitting the clients needs. She is a Professional active member of the American Society of Interior Designers (ASID), has successfully passed her NCIDQ examination in October 2019 and was also named one of NKBA’s 30 under 30 in 2020. She enjoys playing tennis, doing yoga, and lounging at the beach with her husband.</p>"
+      image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
+      image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
+    - name: Sophia Van Keppel
+      title: Interior Designer
+      email: svankeppel@murraylampert.com
+      bio: "<p>Sophia recently relocated to San Diego from her home state of Indiana to pursue a career in design. Sophia’s family has worked in the construction industry for many years, which ultimately influenced her decision to study Interior Design at Indiana University’s School of Art, Architecture + Design. She also completed a minor in Spanish to aid her love of travel, other cultures and building connections with people. The design build world is a great fit for her because she appreciates the convergence of functionality and beauty in one final package. In Sophia’s free time she enjoys oil painting, playing guitar, cooking, and enjoying the outdoors.</p>"
+      image-1: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
+      image-2: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
+  - row: Row 7
+    team-members:
+    - name: Chelsea Tyler
+      title: Interior Designer
+      email: ctyler@murraylampert.com
+      bio: "<p>Coming Soon!</p>"
+      image-1: "/murray-lampert/version3/chelsea-tyler-1.jpg"
+      image-2: "/murray-lampert/version3/chelsea-tyler-1.jpg"
+    - name: Micah Winkelstein
+      title: Architect
+      email: mwinkelstein@murraylampert.com
+      bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors
+        of Architecture degree from Southern Polytech University in 2003 and moved
+        to San Diego in 2013. What Micah enjoys most about working for Murray Lampert,
+        is meeting with homeowners and utilizing his experience to design home improvement
+        solutions for them. When he isn’t sketching plans, Micah can be found playing
+        tennis, drumming, grilling on the BBQ, and spending time with his wife and
+        two daughters.</p>"
+      image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
+      image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
     - name: Alyson Meucci
       title: Senior Architectural Designer
       email: ameucci@murraylampert.com
@@ -344,7 +370,7 @@ sections:
         Cheese!</p>"
       image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
-  - row: Row 7
+  - row: Row 8
     team-members:
     - name: Danny Battle
       title: Architectural Designer
@@ -372,7 +398,7 @@ sections:
       bio: "<p>Bobby is from the New York City. He attended high school and college in San Diego California and spent 17 years traveling the world designing and project managing the construction and installation of indoor golf studios for the golf industry.</p><p>Bobby is grateful to be part of the collaborative spirit, creative energy, customer service, and family atmosphere at Murray Lampert DBR.  His passion is creativity, vision, and all things design whether in architecture, interior design, art, or fashion. He truly enjoys watching the growth and success of others and will always look to contribute to their accomplishments where possible. Bobby enjoys socializing with family and friends in America’s finest city as well as enjoys watching professional, college, and youth sports.</p><p>Bobby is an architectural designer, project draftsman, and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
-  - row: Row 8
+  - row: Row 9
     team-members:
     - name: Jack Moreno
       title: Field Technician
