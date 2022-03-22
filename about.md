@@ -307,6 +307,12 @@ sections:
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
   - row: Row 6
     team-members:
+    - name: Jensen Landers, NCIDQ, ASID
+      title: Senior Interior Designer
+      email: jlanders@murraylampert.com
+      bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design from San Diego State University. Her background varies from landscape design and drafting, to commercial, multi-family, and residential interior architecture. She enjoys creating cohesive spaces that are both welcoming and comfortable, while fitting the clients needs. She is a Professional active member of the American Society of Interior Designers (ASID), has successfully passed her NCIDQ examination in October 2019 and was also named one of NKBA’s 30 under 30 in 2020. She enjoys playing tennis, doing yoga, and lounging at the beach with her husband.</p>"
+      image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
+      image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
     - name: Hannah Wilson
       title: Interior Designer
       email: hwilson@murraylampert.com
@@ -323,12 +329,6 @@ sections:
         a motorcycle riding the twisty turns of our fun mountain roads.</p>"
       image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
-    - name: Jensen Landers
-      title: Interior Designer
-      email: jlanders@murraylampert.com
-      bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design from San Diego State University. Her background varies from landscape design and drafting, to commercial, multi-family, and residential interior architecture. She enjoys creating cohesive spaces that are both welcoming and comfortable, while fitting the clients needs. She is a Professional active member of the American Society of Interior Designers (ASID), has successfully passed her NCIDQ examination in October 2019 and was also named one of NKBA’s 30 under 30 in 2020. She enjoys playing tennis, doing yoga, and lounging at the beach with her husband.</p>"
-      image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
-      image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
     - name: Sophia Van Keppel
       title: Interior Designer
       email: svankeppel@murraylampert.com
@@ -343,16 +343,14 @@ sections:
       bio: "<p>Chelsea was born in Dearborn, Michigan and moved to Scottsdale Arizona when she was 9. She received a BA in design from ASU. She enjoys rock climbing, trying new restaurants, and hitting the town with her big doggie, Templeton. Chelsea loves designing because it gives her the opportunity to get to know her clients and create the perfect space for them that is both functional and unique to their personality.</p><p>Fun Fact: Chelsea is a level one sommelier, and knows a lot about wine & spirits.</p>"
       image-1: "/murray-lampert/version3/chelsea-tyler-1.jpg"
       image-2: "/murray-lampert/version3/chelsea-tyler-1.jpg"
-    - name: Micah Winkelstein
-      title: Architect
+    - name: Micah Winkelstein, AIA, NCARB
+      title: Director of Design / Architect
       email: mwinkelstein@murraylampert.com
       bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors
         of Architecture degree from Southern Polytech University in 2003 and moved
         to San Diego in 2013. What Micah enjoys most about working for Murray Lampert,
         is meeting with homeowners and utilizing his experience to design home improvement
-        solutions for them. When he isn’t sketching plans, Micah can be found playing
-        tennis, drumming, grilling on the BBQ, and spending time with his wife and
-        two daughters.</p>"
+        solutions for them. When he isn’t sketching plans, Micah can be found playing tennis, drumming, grilling on the BBQ, and spending time with his two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
     - name: Alyson Meucci
