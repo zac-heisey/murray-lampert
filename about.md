@@ -197,8 +197,8 @@ sections:
         restaurants, and worked in the museum field. A self-proclaimed “Jane of all
         trades”, Sabrina enjoys the differences that every job brings within the construction
         world. With her husband Doug, they also own and operate an electrical business.</p><p>In
-        her spare time, she loves to be on their jetboat or playing at local parks
-        with her daughter.</p>"
+        her spare time, she loves to be on the jetboat or playing at local parks with
+        their daughter.</p>"
       image-1: "/murray-lampert/version3/sabrina-bingham-1.jpg"
       image-2: "/murray-lampert/version3/sabrina-bingham-1.jpg"
     - name: Patti Atwell
