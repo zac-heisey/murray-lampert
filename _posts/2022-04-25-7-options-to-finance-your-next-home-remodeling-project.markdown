@@ -85,7 +85,7 @@ Be sure to consult with a HELOC lender to fully understand all of your options. 
 
 A personal line of credit, also known as a PLOC, is another option homeowners might use when looking for additional funds during their home improvement project.
 
-So [how does a personal line of credit work](https://www.firstrepublic.com/personal-line-of-credit/definition-how-it-works?) Like a HELOC, a PLOC allows you to draw from a select set of funds over a set period of time called the draw period. Unlike a HELOC, however, PLOCs can be unsecured, meaning you do not need collateral to qualify for a PLOC.
+So [how does a personal line of credit work?](https://www.firstrepublic.com/personal-line-of-credit/definition-how-it-works?) Like a HELOC, a PLOC allows you to draw from a select set of funds over a set period of time called the draw period. Unlike a HELOC, however, PLOCs can be unsecured, meaning you do not need collateral to qualify for a PLOC.
 
 Since using a PLOC gives you access to funds over a certain period of time, it can be a helpful option for people looking to do home upgrades. This is because homeowners can draw the amount of money they need, up to the limit, from their line of credit, while they work on their remodeling project. This flexibility can allow them to adjust for changes in their home improvement budget or cover additional expenses that come up.
 
