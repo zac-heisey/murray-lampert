@@ -398,8 +398,8 @@ sections:
         and knows a lot about wine & spirits.</p>"
       image-1: "/murray-lampert/version3/chelsea-tyler-1.jpg"
       image-2: "/murray-lampert/version3/chelsea-tyler-1.jpg"
-    - name: Micah Winkelstein, AIA, NCARB
-      title: Director of Design / Architect
+    - name: Micah Winkelstein
+      title: Director of Design / Architect, AIA, NCARB
       email: mwinkelstein@murraylampert.com
       bio: "<p>Micah was born and raised in Atlanta, Georgia. He earned a Bachelors
         of Architecture degree from Southern Polytech University in 2003 and moved
