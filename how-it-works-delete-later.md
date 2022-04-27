@@ -22,7 +22,13 @@ sections:
     consultation appointment. A project consultant will visit the property and go
     over your remodeling goals with you. </p><p>Following this meeting, you will be
     provided a recap of the project scope and a price range for the project in entirety.
-    </p>"
+    </p><p>If you feel great about moving forward * and we are sure you will! * ,
+    we also provide you with a Design Agreement. This agreement puts us into the next
+    stage of the project, the actual design development !</p><p>In the following weeks,
+    we would present you with the renderings and 3D walkthroughs of the proposed newly
+    remodeled space.  </p><p>Don't worry, these designs are not set in stone. Our
+    talented architectural and interior designers are flexible and open to changes
+    to best suit your style and needs. </p>"
 published: false
 
 ---
