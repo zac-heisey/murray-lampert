@@ -188,7 +188,7 @@ sections:
       image-1: "/murray-lampert/version3/dann-good-1.jpg"
       image-2: "/murray-lampert/version3/dann-good-1.jpg"
     - name: Sabrina Bingham
-      title: Administrative Assistant
+      title: Operations Administrator
       email: sbingham@murraylampert.com
       bio: "<p>Sabrina was raised in Portland Oregon and has made her way down the
         state of California since 2010. She studied Early Childhood Education and
