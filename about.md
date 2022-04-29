@@ -340,7 +340,7 @@ sections:
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
   - row: Row 6
     team-members:
-    - name: Jensen Landers
+    - name: Jensen Prout
       title: Senior Interior Designer, NCIDQ, ASID
       email: jlanders@murraylampert.com
       bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design
