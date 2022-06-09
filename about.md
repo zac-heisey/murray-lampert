@@ -29,6 +29,13 @@ sections:
   block: carousel
   default-background-image: ''
   slide:
+  - slide-title: 'Team Photo '
+    background-image: "/v1654793268/murray-lampert/version3/team_photo_kc9ory.jpg"
+    text-overlay:
+      background-color: gray
+    cta:
+      enabled: true
+      color: white
   - slide-title: Gregg, Lisa, and Rachel Cantor
     background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"
     text-overlay:
