@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1615824695/murray-lampert/version3/mldbr-team-cantor-family.jpg"
+  background-image: "/v1612995355/murray-lampert/version3/chriss-adu-rendering-1.png"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
