@@ -34,7 +34,7 @@ sections:
     text-overlay:
       background-color: gray
     cta:
-      enabled: true
+      enabled: false
       color: white
   - slide-title: Gregg, Lisa, and Rachel Cantor
     background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"
