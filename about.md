@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1612995355/murray-lampert/version3/chriss-adu-rendering-1.png"
+  background-image: "/v1609972476/murray-lampert/version3/hall-kitchen-after-4.jpg"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
