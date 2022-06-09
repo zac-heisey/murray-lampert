@@ -32,7 +32,7 @@ sections:
   - slide-title: 'Team Photo '
     background-image: "/v1654793268/murray-lampert/version3/team_photo_kc9ory.jpg"
     text-overlay:
-      background-color: ''
+      background-color: none
     cta:
       enabled: false
       color: white
