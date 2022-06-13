@@ -11,7 +11,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1654728062/murray-lampert/version3/team_photo_aet12g.jpg"
+  background-image: "/v1610225281/murray-lampert/version3/mldbr-team-bbb.jpg"
   heading: Trust, Integrity, and Experience
   content: Our Reputation Means Everything to Us.<br>It's Been Our Foundation Since
     1975.
