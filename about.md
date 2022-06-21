@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1609972476/murray-lampert/version3/hall-kitchen-after-4.jpg"
+  background-image: "/v1655831880/murray-lampert/version3/mldbr-team-photo-2_fikpqg.jpg"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
