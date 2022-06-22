@@ -12,7 +12,7 @@ sections:
     color: white
     button-text: ''
     url: ''
-  background-image: "/v1655831880/murray-lampert/version3/mldbr-team-photo-2_fikpqg.jpg"
+  background-image: "/v1655935039/murray-lampert/version3/Hall-kitchen-after-1_ua4f1u.jpg"
   heading: 4 Generations of<br>Design-Build Expertise
   content: Learn what makes our family business different.
 - template: rich-text
@@ -29,13 +29,6 @@ sections:
   block: carousel
   default-background-image: ''
   slide:
-  - slide-title: 'Team Photo '
-    background-image: "/v1654793268/murray-lampert/version3/team_photo_kc9ory.jpg"
-    text-overlay:
-      background-color: none
-    cta:
-      enabled: false
-      color: white
   - slide-title: Gregg, Lisa, and Rachel Cantor
     background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"
     text-overlay:
