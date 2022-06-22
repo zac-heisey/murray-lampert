@@ -20,7 +20,7 @@ sections:
     grid-items:
     - item: Image
       image-info:
-        image: "/murray-lampert/version3/mldbr-team-bbb.jpg"
+        image: "/v1655831880/murray-lampert/version3/mldbr-team-photo-2_fikpqg.jpg"
         text-overlay:
           small-heading: ''
           main-content: ''
