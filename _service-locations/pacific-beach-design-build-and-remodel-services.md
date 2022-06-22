@@ -2,7 +2,7 @@
 title: Pacific Beach Design, Build, and Remodel Services
 layout: blocks
 section_id: service-locations
-featured-image:
+featured-image: 
 excerpt: Murray Lampert home remodeling in Pacific Beach. We have over 40 years experience
   providing design, build, and remodel services in Pacific Beach.
 description: Murray Lampert home remodeling in Pacific Beach. We have over 40 years
@@ -11,7 +11,7 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h2>Home Remodeling in Pacific Beach</h2><p>One of the most scenic and
+  content: "<h2>Home Remodeling in Pacific Beach</h2><p>One of the most scenic and
     lively towns in all of San Diego is Pacific Beach, referred to as P.B. by the
     locals. The small beach community is just north of Mission Bay, south of La Jolla,
     West of Interstate 5, and East of the great Pacific Ocean. The beautiful city
@@ -23,19 +23,23 @@ sections:
     beautiful scenery. You can go for a jog in the morning, surf for lunch, and be
     sailing in the afternoon. There is never a shortage of fun activities in P.B.
     Whether surfing is your thing or you just enjoy the ocean breeze, Pacific Beach
-    has something for everyone and is the center of San Diego’s youthful lifestyle.</p><p>Pacific
-    Beach is an above average city in almost every statistic. The town has an estimated
-    population of 45,000, median age of 31, and over 64% of its inhabitants have an
-    education level of bachelor’s degree or higher. There are a total of 22,747 households
-    and of those, 7,000 are family households. The per capita income of $31,117 is
-    much higher than the national average of $21,587, most likely due to the higher
-    cost of living in San Diego’s coastal region. The average household net worth
-    is $450,349 and median home sale price is $630,000. The weather is beautiful year
-    around with January’s average high at 65 degrees and low at 49 degrees, as well
-    as July’s average high of 75 degrees and low of 65 degrees in July. During the
-    hot months, you get a cool ocean breeze to keep you and your home from overheating.
-    P.B. is located only seven miles from the San Diego International airport and
-    three miles from University of San Diego.</p><p><img src="https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pacific-Beach-Aerial-View-with-Pier-PB-San-Diego-CA-E1-Large-e1509516135898-1000x592.jpg"
+    has something for everyone and is the center of San Diego’s youthful lifestyle.</p>"
+- template: call-to-action
+  block: call-to-action
+  layout: 3-Column
+  cta:
+    enabled: true
+    color: white
+    button-text: Contact Murray Lampert
+    url: "/contact"
+  heading: Start your Pacific Beach home remodeling project today!
+  content: Contact us to schedule your FREE in-home or virtual consultation.
+  image-left: "/v1613246539/murray-lampert/version3/binetti-zoom-photo.png"
+  image-right: "/v1609259554/murray-lampert/version3/accolades-bg.png"
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: <p></p><p><img src="https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Pacific-Beach-Aerial-View-with-Pier-PB-San-Diego-CA-E1-Large-e1509516135898-1000x592.jpg"
     title="Aerial View of Pacific Beach from the Pier" alt="image of Pacific Beach,
     CA"></p><p>Most residences in Pacific Beach were built between the years of 1950
     through 1989. Any home in the area is most likely at least 22 years old and probably
@@ -89,59 +93,54 @@ sections:
     on the area’s history and growth.</p><h3 id="pacific-beach-home-remodeling-by-murray-lampert">Pacific
     Beach Home Remodeling by Murray Lampert</h3><p><em>Since 1975, Murray Lampert
     has provided Pacific Beach homeowners with professional design, construction,
-    and </em><a href="/san-diego-home-remodel-services"><em>home
-    remodeling services</em></a><em>. How can we help you with your next expansion
-    or remodel? Read on to find out.</em></p><p>Murray Lampert has contributed its
-    services to the city of Pacific Beach for over four generations, during which
-    time we have developed close relationships with some of the best inspectors, distributors,
-    and trade partners in the area. These longstanding relationships with business
-    experts allow us to deliver an innovative product with unmatched craftsmanship
-    and superior customer satisfaction.</p><p>We maintain an A+ with the Better Business
-    Bureau and received the <a href="/another-better-business-bureau-torch-award">BBB
+    and </em><a href="/san-diego-home-remodel-services"><em>home remodeling services</em></a><em>.
+    How can we help you with your next expansion or remodel? Read on to find out.</em></p><p>Murray
+    Lampert has contributed its services to the city of Pacific Beach for over four
+    generations, during which time we have developed close relationships with some
+    of the best inspectors, distributors, and trade partners in the area. These longstanding
+    relationships with business experts allow us to deliver an innovative product
+    with unmatched craftsmanship and superior customer satisfaction.</p><p>We maintain
+    an A+ with the Better Business Bureau and received the <a href="/another-better-business-bureau-torch-award">BBB
     Torch Award for Marketplace Ethics in 2007, 2008, 2010 and 2014</a>.</p><p><img
-    src="/uploads/smith-santos-bathroom.png" title="Pacific
-    Beach Bathroom Remodeling" alt="image of bathroom remodel in Pacific Beach, CA"></p><h3
-    id="pacific-beach-home-remodeling-services">Pacific Beach Home Remodeling Services</h3><p>Whether
-    you’re looking for home remodeling services in Pacific Beach or just want to weigh
-    your options for expansion, we have you covered with a wide range of services.</p><ul><li><strong>Kitchen
+    src="/uploads/smith-santos-bathroom.png" title="Pacific Beach Bathroom Remodeling"
+    alt="image of bathroom remodel in Pacific Beach, CA"></p><h3 id="pacific-beach-home-remodeling-services">Pacific
+    Beach Home Remodeling Services</h3><p>Whether you’re looking for home remodeling
+    services in Pacific Beach or just want to weigh your options for expansion, we
+    have you covered with a wide range of services.</p><ul><li><p><strong>Kitchen
     Remodels</strong> - A professionally-designed <a href="/kitchen-remodeling-pacific-beach">kitchen
     remodel in Pacific Beach</a> can add style, function, and value to an outdated
-    kitchen.</li><li><strong>Second Story Additions</strong> - When lot sizes
-    are limted, <a href="/san-diego-second-story-addition">second
-    story additions</a> provide a great option to increase square footage by building
-    vertically.</li><li><strong>Outdoor Living Spaces</strong> – The weather
-    is Pacific Beach is pleasant year-round, and what better way to enjoy it than
-    with a <a href="/san-diego-outdoor-living-space-design/">custom
-    outdoor living space</a> to fit your lifestyle.</li><li><strong>Green Home
+    kitchen.</p></li><li><p><strong>Second Story Additions</strong> - When lot sizes
+    are limted, <a href="/san-diego-second-story-addition">second story additions</a>
+    provide a great option to increase square footage by building vertically.</p></li><li><p><strong>Outdoor
+    Living Spaces</strong> – The weather is Pacific Beach is pleasant year-round,
+    and what better way to enjoy it than with a <a href="/san-diego-outdoor-living-space-design/">custom
+    outdoor living space</a> to fit your lifestyle.</p></li><li><p><strong>Green Home
     Building</strong> – Our team is committed to following best practices when it
     comes to energy efficiency and <a href="/san-diego-green-home-construction">green
     home construction</a> techniques that help preserve the plant, as well as your
-    budget.</li><li><strong>Room Additions</strong> - Whether you need a new
+    budget.</p></li><li><p><strong>Room Additions</strong> - Whether you need a new
     home office, expanded living room, or garage conversion, we specialize in <a href="/room-additions-pacific-beach">Pacific
-    Beach room additions</a>.</li><li><strong>Bathroom Remodels</strong> –
+    Beach room additions</a>.</p></li><li><p><strong>Bathroom Remodels</strong> –
     Upgrade an outdated bathroom with stylish fixtures, new flooring, efficient plumbing,
-    and more with a <a href="/san-diego-bathroom-remodeling-services">bathroom
-    remodel in San Diego</a>.</li><li><strong>3D Project Modeling</strong>
-    - Using the latest <a href="/3d-architectural-rendering-services">3D
-    modeling technology</a>, we’ll give you a preview of what your remodel will look
-    like when it’s all finished.</li><li><strong>Custom Cabinets</strong> –
-    We offer our clients the option of <a href="/san-diego-custom-cabinet-construction-services">custom
-    cabinets</a>, which provide storage and style to any remodeling project.</li><li><strong>Architectural
+    and more with a <a href="/san-diego-bathroom-remodeling-services">bathroom remodel
+    in San Diego</a>.</p></li><li><p><strong>3D Project Modeling</strong> - Using
+    the latest <a href="/3d-architectural-rendering-services">3D modeling technology</a>,
+    we’ll give you a preview of what your remodel will look like when it’s all finished.</p></li><li><p><strong>Custom
+    Cabinets</strong> – We offer our clients the option of <a href="/san-diego-custom-cabinet-construction-services">custom
+    cabinets</a>, which provide storage and style to any remodeling project.</p></li><li><p><strong>Architectural
     Design</strong> - You'll work directly with our staff to create a <a href="/san-diego-architectural-design-services">architectural
-    design</a> that is customized to suit your needs - and your budget.</li></ul><h3
+    design</a> that is customized to suit your needs - and your budget.</p></li></ul><h3
     id="our-pacific-beach-design-build-remodel-process">Our Pacific Beach Design-Build-Remodel
-    Process</h3><p>Each <a href="/san-diego-home-remodel-services">home
-    remodeling</a> project we take on in Pacific Beach begins with a <strong>free
-    in-home consultation</strong>. During that consultation, you'll collaborate with
-    our in-house architect to identify exactly what you need in order for our team
-    to deliver a finished product that stays within your budget and timeline. Before
-    we break ground, we can give you a virtual walkthrough of what the remodeled space
-    will look like using <a href="/3d-architectural-rendering-services">3D
+    Process</h3><p>Each <a href="/san-diego-home-remodel-services">home remodeling</a>
+    project we take on in Pacific Beach begins with a <strong>free in-home consultation</strong>.
+    During that consultation, you'll collaborate with our in-house architect to identify
+    exactly what you need in order for our team to deliver a finished product that
+    stays within your budget and timeline. Before we break ground, we can give you
+    a virtual walkthrough of what the remodeled space will look like using <a href="/3d-architectural-rendering-services">3D
     rendering technology</a>.</p><p>Since 1975, Murray Lampert has built a <a href="https://www.youtube.com/watch?v=oRPb3--nimI">rock-solid
     reputation</a> by making transparency, communication, and integrity the foundation
     of our business. We're proud to say that approach has been effective, and is reflected
-    in our <a href="/accolades">client testimonials</a>
-    and positive <a href="/accolades">reviews</a>.</p><p>If
+    in our <a href="/accolades">client testimonials</a> and positive <a href="/accolades">reviews</a>.</p><p>If
     you have questions about our home remodeling services in Pacific Beach, or if
     you'd like to schedule your in-home consultation, please don't hesitate to <a
     href="/contact">reach out to our team today</a>!</p>
