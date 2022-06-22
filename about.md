@@ -29,13 +29,6 @@ sections:
   block: carousel
   default-background-image: "/v1615824695/murray-lampert/version3/mldbr-team-cantor-family.jpg"
   slide:
-  - slide-title: Team Fun at Padre Game
-    background-image: "/v1655937031/murray-lampert/version3/Team-Padre-Game_uzzitb.jpg"
-    text-overlay:
-      background-color: none
-    cta:
-      enabled: true
-      color: white
   - slide-title: Gregg, Lisa, and Rachel Cantor
     background-image: "/murray-lampert/version3/mldbr-team-cantor-family.png"
     text-overlay:
