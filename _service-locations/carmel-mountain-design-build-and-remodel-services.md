@@ -18,7 +18,7 @@ sections:
     services</a>.</p>
 - template: call-to-action
   block: call-to-action
-  layout: Full-Width
+  layout: 3-Column
   cta:
     enabled: true
     color: white
@@ -26,6 +26,8 @@ sections:
     url: "/contact"
   heading: Ready to start your Carmel Mountain home remodeling project?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
+  image-left: "/v1613246539/murray-lampert/version3/binetti-zoom-photo.png"
+  image-right: "/v1609259554/murray-lampert/version3/accolades-bg.png"
 - template: rich-text
   block: rich-text
   background-color: none
