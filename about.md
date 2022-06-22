@@ -30,9 +30,9 @@ sections:
   default-background-image: ''
   slide:
   - slide-title: Team Fun at Padre Game
-    background-image: "/v1655936895/murray-lampert/version3/Team_at_Padre_Game_xwktfb.jpg"
+    background-image: "/v1655937031/murray-lampert/version3/Team-Padre-Game_uzzitb.jpg"
     text-overlay:
-      background-color: gray
+      background-color: none
     cta:
       enabled: true
       color: white
