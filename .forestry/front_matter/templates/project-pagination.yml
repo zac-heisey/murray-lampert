@@ -1,4 +1,11 @@
 ---
 label: Project Pagination
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: project-pagination
+  hidden: true
