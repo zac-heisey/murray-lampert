@@ -26,10 +26,10 @@ sections:
 - template: project-list
   block: project-list
   project-list:
+  - _featured-projects/wheeler-la-jolla.md
   - _featured-projects/lilly-university-heights.md
   - _featured-projects/sokolowski-del-cerro.md
   - _featured-projects/doyle-scripps-ranch.md
-  - _featured-projects/kowalewski-point-loma.md
 - template: rich-text
   block: rich-text
   background-color: none
