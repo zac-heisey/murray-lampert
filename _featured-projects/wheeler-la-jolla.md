@@ -2,7 +2,8 @@
 layout: featured-project
 title: Complete Home Remodel in La Jolla
 location: La Jolla, CA
-description: Kitchen, bathrooms, outdoor living area and more in La Jolla, CA. View this and other featured home remodeling projects from Murray Lampert.
+description: Kitchen, bathrooms, outdoor living area and more in La Jolla, CA. View
+  this and other featured home remodeling projects from Murray Lampert.
 project-number: '01'
 featured-image: "/murray-lampert/version3/wheeler-la-jolla-exterior-1.jpg"
 project-details:
@@ -10,7 +11,18 @@ project-details:
 - Free-Standing Soaking Tub
 - Dry Sauna & Steam Room
 - Balinese Style with Modern Features
-project-overview: "<p>This La Jolla home is located on a very quiet street with gorgeous ocean views from the backyard decks, and blends outdoor and indoor living with a formal living room, dining room, balcony, master bedroom and master bathroom with glass corner shower.</p><p>Our team completed a whole-home remodel including kitchen, bathrooms, temperature controlled wine room, free standing soaking tub, dry sauna, steam room, reclaimed teak flooring, custom fabricated railings, landscaping, jetted water feature and IPE deck with glass railings.</p><p>The inspiration for this project came from Balinese-style architecture, with blended modern features that seamlessly mixed the indoor and outdoor living areas of the home. The architectural and interior design includes ancient artwork and artifacts including Buddah statues, carved teak columns, and an intricately carved bedframe with canopy in the master suite.</p>"
+project-overview: "<p>This La Jolla home is located on a very quiet street with gorgeous
+  ocean views from the backyard decks, and blends outdoor and indoor living with a
+  formal living room, dining room, balcony, master bedroom and master bathroom with
+  glass corner shower.</p><p>Murray Lampert completed a whole-home remodel including
+  kitchen, bathrooms, temperature controlled wine room, free standing soaking tub,
+  dry sauna, steam room, reclaimed teak flooring, custom fabricated railings, landscaping,
+  jetted water feature and IPE deck with glass railings.</p><p>The inspiration for
+  this project came from Balinese-style architecture, which our design team combined
+  with modern features to seamlessly integrate the indoor and outdoor living areas
+  of the home. The architectural and interior design includes ancient artwork and
+  artifacts including Buddha statues, carved teak columns, and an intricately carved
+  bed frame with canopy in the master suite.</p>"
 sections:
 - template: grid
   block: grid
