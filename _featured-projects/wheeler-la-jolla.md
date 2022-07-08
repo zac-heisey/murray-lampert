@@ -11,18 +11,18 @@ project-details:
 - Free-Standing Soaking Tub
 - Dry Sauna & Steam Room
 - Balinese Style with Modern Features
-project-overview: "<p>This La Jolla home is located on a very quiet street with gorgeous
-  ocean views from the backyard decks, and blends outdoor and indoor living with a
-  formal living room, dining room, balcony, master bedroom and master bathroom with
-  glass corner shower.</p><p>Murray Lampert completed a whole-home remodel including
-  kitchen, bathrooms, temperature controlled wine room, free standing soaking tub,
-  dry sauna, steam room, reclaimed teak flooring, custom fabricated railings, landscaping,
-  jetted water feature and IPE deck with glass railings.</p><p>The inspiration for
-  this project came from Balinese-style architecture, which our design team combined
-  with modern features to seamlessly integrate the indoor and outdoor living areas
-  of the home. The architectural and interior design includes ancient artwork and
-  artifacts including Buddha statues, carved teak columns, and an intricately carved
-  bed frame with canopy in the master suite.</p>"
+project-overview: "<p>La Jolla California home on a quiet street, with gorgeous ocean
+  views from the formal dining room, living room, breakfast nook, balcony, master
+  suite, master bathroom shower, backyard deck and pool area.</p><p>Murray Lampert
+  completed this whole-home remodel including kitchen, 2 en-suites, bathrooms, temperature-controlled
+  wine room, free standing soaking tub, dry sauna, steam room, reclaimed teak flooring,
+  custom fabricated railings, landscaping with barbeque island, outdoor shower jetted
+  water feature and IPE deck with glass railings.</p><p>Inspiration for this project
+  comes from Balinese style mixed with modern features. We incorporated the outdoors
+  and indoors seamlessly with a functional design that has large door systems to expand
+  living space. Also influencing both the architectural and interior design is ancient
+  artwork, a large scale Buddha sculpture, Teak columns and an intricately carved
+  bed frame with canopy that the master bedroom suite was built around.</p>"
 sections:
 - template: grid
   block: grid
