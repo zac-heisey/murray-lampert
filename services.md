@@ -84,7 +84,7 @@ sections:
           We make sure that the doors and cabinet drawers close easily, and we check
           to see if anything else needs to be done. We also conduct a post-construction
           meeting, during which we ask how we did and what we could do better. You
-          will also enjoy our generous 5-year warranty, because we stand by the quality
+          will also enjoy our generous 3-year warranty, because we stand by the quality
           of our work.</p>"
 - template: rich-text
   block: rich-text
