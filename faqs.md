@@ -63,7 +63,7 @@ sections:
       timeframe in which your project will be completed will be clearly communicated
       upfront and made part of the overall agreement before any work is started.</p>"
   - question: What is your warranty?
-    answer: <p>We provide an exclusive <a href="https://murraylampert.com/uploads/MLDBRWarranty.pdf">5-year
+    answer: <p>We provide an exclusive <a href="https://murraylampert.com/uploads/MLDBRWarranty.pdf">3-year
       written warranty</a> on workmanship and materials. Any fixtures or products
       provided or installed by Murray Lampert Design, Build, Remodel or the homeowner
       carry their own manufacturer’s warranty and are not covered under the 3-year
