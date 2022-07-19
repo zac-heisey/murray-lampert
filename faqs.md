@@ -66,7 +66,7 @@ sections:
     answer: <p>We provide an exclusive <a href="https://murraylampert.com/uploads/MLDBRWarranty.pdf">5-year
       written warranty</a> on workmanship and materials. Any fixtures or products
       provided or installed by Murray Lampert Design, Build, Remodel or the homeowner
-      carry their own manufacturer’s warranty and are not covered under the 5-year
+      carry their own manufacturer’s warranty and are not covered under the 3-year
       guarantee.</p>
 
 ---
