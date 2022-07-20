@@ -470,21 +470,6 @@ sections:
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
   - row: Row 9
     team-members:
-    - name: Jack Moreno
-      title: Field Technician
-      email: jmoreno@murraylampert.com
-      bio: "<p>My name is Jack Moreno. I am a field technician here at MLDBR. I am
-        a native Southern Californian, born and raised in Los Angeles County. I have
-        obtained two associates degrees: nursing from East Los Angeles college and
-        fire science from Rio Hondo. I’ve always had a passion for taking on projects
-        since I can remember; building nothing into something is very rewarding. There
-        is an enjoyment in executing homeowners’ remodeling visions. Working in customer
-        service allows me to meet new people and create long lasting relationships.
-        I enjoy participating in all sports, staying active is important to me. I
-        love being outdoors, spending time with my family and making memories with
-        them.</p>"
-      image-1: "/murray-lampert/version3/jack-moreno-1.jpg"
-      image-2: "/murray-lampert/version3/jack-moreno-1.jpg"
     - name: Luis Mora
       title: Field Technician
       email: lmora@murraylampert.com
