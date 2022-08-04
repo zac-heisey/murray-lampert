@@ -4,7 +4,7 @@ title: Complete Home Remodel in La Jolla
 location: La Jolla, CA
 description: Kitchen, bathrooms, outdoor living area and more in La Jolla, CA. View
   this and other featured home remodeling projects from Murray Lampert.
-project-number: '01'
+project-number: '02'
 featured-image: "/murray-lampert/version3/wheeler-la-jolla-exterior-1.jpg"
 project-details:
 - Temperature-Controlled Wine Room

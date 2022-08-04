@@ -26,10 +26,10 @@ sections:
 - template: project-list
   block: project-list
   project-list:
+  - _featured-projects/fetzer-rancho-santa-fe.md
   - _featured-projects/wheeler-la-jolla.md
   - _featured-projects/lilly-university-heights.md
   - _featured-projects/sokolowski-del-cerro.md
-  - _featured-projects/doyle-scripps-ranch.md
 - template: rich-text
   block: rich-text
   background-color: none
