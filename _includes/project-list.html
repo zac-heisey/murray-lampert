@@ -24,7 +24,7 @@
         <div class="container span-1">
           {% for item in featured.sections %}
             {% if item.template == "grid" %}
-              {% if item.grid-rows[0].grid-items[0].image-info.image != "" %}
+              {% if item.grid-rows[0].grid-items[0].image-info.image and item.grid-rows[0].grid-items[0].image-info.image != "" %}
               <!-- Cloudinary image include (pull from first grid row image) -->
               {%- assign image = item.grid-rows[0].grid-items[0].image-info.image -%}
               {%- assign alt = featured.title -%}
