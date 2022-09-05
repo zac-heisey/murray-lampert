@@ -9,9 +9,74 @@
     <p><span id="promise">Our Promise:</span> Murray Lampert will never send you spam or sell your information. You can opt out of recieving message from us at any time.</p>
 
     <!-- BuilderTrend Lead Form -->
-      <script type="text/javascript" src="https://buildertrend.net/leads/contactforms/js/btClientContactForm.js"></script>
-      <iframe src="https://buildertrend.net/leads/contactforms/ContactFormFrame.aspx?builderID=9616" scrolling="no" id="btIframe" style="background:transparent;border:0px;margin:0 auto;width:100%;"></iframe>
+      <!-- <script type="text/javascript" src="https://buildertrend.net/leads/contactforms/js/btClientContactForm.js"></script>
+      <iframe src="https://buildertrend.net/leads/contactforms/ContactFormFrame.aspx?builderID=9616" scrolling="no" id="btIframe" style="background:transparent;border:0px;margin:0 auto;width:100%;"></iframe> -->
     <!-- End of BuilderTrend Lead Form -->
+
+    <!-- Website Lead: Contact Form -->
+    <form name='Website Lead: Contact Form' method="POST" action='/thank-you/' netlify-honeypot='surname' data-netlify-recaptcha="true" data-netlify="true">
+
+      <div class="wrapper">
+
+        <div class="left">
+          <p class="small-heading">Personal Info</p>
+          <!-- Netlify honeypot field -->
+          <p class='hidden'><label>Don’t fill this out: <input name='surname'></label></p>
+          <!-- Standard form fields -->
+          <input id="first-name" name='first name' placeholder='First Name' type='text' required>
+          <input id="last-name" name='last name' placeholder='Last Name' type='text' required>
+          <input name='email' placeholder='Email Address' type='email' required>
+          <input name='phone' placeholder='Phone Number' type='tel' required>
+          <input name='address' placeholder='Your Home Address' type='text' required>
+          <input name='zipcode' placeholder='Your Zip Code' type='text' required>
+        </div>
+
+        <div class="right">
+          <p class="small-heading">Project Info</p>
+          <select name='type-of-project' placeholder='Type of Project' required>
+            <option value="" disabled selected>Type of Project</option>
+            <option value="Total Renovation">Total Renovation</option>
+            <option value="Room Addition">Room Addition</option>
+            <option value="Second Story">Second Story</option>
+            <option value="Kitchen Remodel">Kitchen Remodel</option>
+            <option value="Bathroom Remodel">Bathroom Remodel</option>
+            <option value="ADU">ADU / Granny Flat / In-Law Suite</option>
+            <option value="Indoor Outdoor">Indoor / Outdoor</option>
+            <option value="Other">Other</option>
+          </select>
+          <select name='project-budget' placeholder='What is Your Budget?' required>
+            <option value="" disabled selected>What is Your Budget?</option>
+            <option value="$100k - $150k">$100,000 - $150,000</option>
+            <option value="$150k - $200k">$150,000 - $200,000</option>
+            <option value="$200k - $300k">$200,000 - $300,000</option>
+            <option value="$300k - $400k">$300,000 - $400,000</option>
+            <option value="$400k - $500k">$400,000 - $500,000</option>
+            <option value="$500k - $700k">$500,000 - $700,000</option>
+            <option value="$700k - $1mm">$700,000 - $1,000,000</option>
+            <option value="$1mm+">Over $1,000,000</option>
+          </select>
+          <select name='referral-source' placeholder='How Did You Find Us?' required>
+            <option value="" disabled selected>How Did You Find Us?</option>
+            <option value="Online Search">Online Search (Google, Bing, Yahoo, etc.)</option>
+            <option value="Online Referral">Online Referral (Yelp, Houzz, BBB, etc.)</option>
+            <option value="Social Media">Social Media (Facebook, Instagram, Pinterest, etc.)</option>
+            <option value="Personal Referral">Personal Referral</option>
+            <option value="Radio">Radio</option>
+            <option value="Television">Television</option>
+            <option value="Job Site Sign">Job Site Sign</option>
+            <option value="Print Ad">Print Advertisement</option>
+            <option value="Other">Other</option>
+          </select>
+          <textarea name='message' placeholder='Tell Us About Your Project' required></textarea>
+          <!-- Netlify reCAPTCHA 2 -->
+          <div data-netlify-recaptcha="true"></div>
+          <input type="submit" class="btn gray" id="contact-btn" value="GET IN TOUCH" disabled>
+          <p id='js-disabled-alert'>Please enable JavaScript or call us directly to get in touch: (619) 285-9222</p>
+        </div>
+
+      </div>
+
+    </form>
 
   </div>
 
