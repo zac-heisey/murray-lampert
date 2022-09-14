@@ -183,8 +183,8 @@ sections:
         December 2009 working in Customer Service and Community Relations. She has
         since taken on the Office Manager role. She has worked in various industries
         supporting both client and employee development. In her free time, she enjoys
-        volunteering at her childrens’ school, running, cooking, Zumba classes, and
-        supports her kids as they partake in multiple supports.</p>"
+        volunteering at her children's’ school, running, cooking, Zumba classes, and
+        supports her kids as they partake in multiple sports.</p>"
       image-1: "/murray-lampert/version3/dann-good-1.jpg"
       image-2: "/murray-lampert/version3/dann-good-1.jpg"
     - name: Sabrina Bingham
