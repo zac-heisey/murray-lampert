@@ -119,7 +119,7 @@ sections:
   block: rich-text
   background-color: none
   content: "<h6>Our Team</h6><h2>What Family Looks Like</h2><p>We are designers and
-    architects, carpenters and craftsmen. We are dream-granters and budget keeps,
+    architects, carpenters and craftsmen. We are dream-granters and budget keepers,
     communicators and collaborators. And our favorite thing to build is relationships
     with our customers. We can't wait to do the same for you.</p>"
 - template: team-members
