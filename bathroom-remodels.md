@@ -10,7 +10,7 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/v1664821833/murray-lampert/version3/53_1_1_bw35ul.jpg"
+  background-image: "/v1664821951/murray-lampert/version3/Bathroom_Remodeling_in_San_Diego-_Banner_rlmffw.jpg"
   heading: Bathroom Remodeling in San Diego
   content: Expand and revitalize your master or guest bathroom with our custom San
     Diego bathroom remodeling services
