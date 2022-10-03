@@ -10,15 +10,15 @@ sections:
   cta:
     enabled: false
     color: white
-  background-image: "/murray-lampert/version3/wise-bathroom-after-1.jpg"
+  background-image: "/v1664821833/murray-lampert/version3/53_1_1_bw35ul.jpg"
   heading: Bathroom Remodeling in San Diego
   content: Expand and revitalize your master or guest bathroom with our custom San
     Diego bathroom remodeling services
 - template: rich-text
   block: rich-text
   background-color: none
-  content: "<h6>Our Specialties</h6><h2>Bathroom Remodeling</h2><p>Considering
-    remodeling your bathroom in San Diego? Maybe you'd like to expand, replace existing fixtures,
+  content: "<h6>Our Specialties</h6><h2>Bathroom Remodeling</h2><p>Considering remodeling
+    your bathroom in San Diego? Maybe you'd like to expand, replace existing fixtures,
     or make the space more functional by moving things around. Whatever bathroom renovation
     ideas you have in mind, Murray Lampert can help with our San Diego custom bathroom
     remodeling service.</p><p>Starting with a no obligation in-home consultation,
