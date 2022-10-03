@@ -39,6 +39,7 @@ fields:
   - project-list
   - faq
   - job-posting
+  - code-block
   config:
     min: 
     max: 
