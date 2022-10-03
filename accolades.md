@@ -18,12 +18,10 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h6>Testament of High Standards</h6><h2>What our clients have to say.</h2><p>Reputation
+  content: "<h6>Testament of High Standards</h6><h2>What our clients have to say.</h2><p>Reputation
     matters. It's the reason why we take great care of our clients and have established
     a reputation as San Diego's most trusted design, build, remodel company since
-    1975.</p><p>&lt;div class="nj-stories" data-filter-media="hide" data-media="hide"&gt;&lt;/div&gt;&lt;script
-    type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=6425727479578624"
-    defer&gt;&lt;/script&gt;</p>
+    1975.</p>"
 - template: carousel
   block: carousel
   default-background-image: "/murray-lampert/version3/testimonials-bg.png"
