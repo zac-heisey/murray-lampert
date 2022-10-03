@@ -114,11 +114,10 @@ sections:
   block: rich-text
   background-color: none
   content: "<h2>Online Reviews</h2>"
-- template: code-block
-  block: code-block
-  code: |-
-    <div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
-    <script type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=6425727479578624" defer></script>
+- template: rich-text
+  block: rich-text
+  background-color: none
+  content: "<div class='nj-stories' data-filter-media='hide' data-media='hide'></div><script type='text/javascript' src='https://cdn.nicejob.co/js/sdk.min.js?id=6425727479578624' defer></script>"
 - template: grid
   block: grid
   grid-rows:
