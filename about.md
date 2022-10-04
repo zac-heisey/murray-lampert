@@ -231,18 +231,6 @@ sections:
         and TV.</p>"
       image-1: "/murray-lampert/version3/cameron-poeschel-1.jpg"
       image-2: "/murray-lampert/version3/cameron-poeschel-1.jpg"
-    - name: Matt Clark
-      title: Project Manager
-      email: mclark@murraylampert.com
-      bio: "<p>Matt is originally from San Diego, but spent years raising his family
-        in Kentucky, and recently returned home to Southern California in 2020 . He
-        has been working in the construction industry for 22 years and is driven by
-        the creativity of designing and building unique projects. Matt feels that
-        Murray Lampert does a fantastic job of creating and maintaining a healthy,
-        work environment. He enjoys surfing, playing tennis, surfing, reading and
-        spending time with his family.</p>"
-      image-1: "/murray-lampert/version3/matthew-clark-1.jpg"
-      image-2: "/murray-lampert/version3/matthew-clark-1.jpg"
     - name: Lea Haynor
       title: Project Manager
       email: lhaynor@murraylampert.com
@@ -260,8 +248,6 @@ sections:
         pups and family.</p>"
       image-1: "/murray-lampert/version3/lea-haynor-1.jpg"
       image-2: "/murray-lampert/version3/lea-haynor-1.jpg"
-  - row: Row 4
-    team-members:
     - name: Bryan Bushaw
       title: Project Manager
       email: bbushaw@murraylampert.com
@@ -276,6 +262,8 @@ sections:
         Border Collie.</p>"
       image-1: "/murray-lampert/version3/bryan-bushaw-1.jpg"
       image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
+  - row: Row 4
+    team-members:
     - name: Mike Bixler
       title: Project Manager
       email: mbixler@murraylampert.com
@@ -303,8 +291,6 @@ sections:
         pickup.</p>"
       image-1: "/murray-lampert/version3/john-bixler-1.jpg"
       image-2: "/murray-lampert/version3/john-bixler-1.jpg"
-  - row: Row 5
-    team-members:
     - name: Brandon Mears
       title: Project Consultant
       email: bmears@murraylampert.com
@@ -322,6 +308,8 @@ sections:
         worthwhile.</p>"
       image-1: "/murray-lampert/version3/brandon-mears-1.jpg"
       image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
+  - row: Row 5
+    team-members:
     - name: James Cooney
       title: Project Consultant
       email: jcooney@murraylampert.com
@@ -338,8 +326,6 @@ sections:
         his loves: his wife, and his two beautiful girls.</p>"
       image-1: "/murray-lampert/version3/james-cooney-1.jpg"
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
-  - row: Row 6
-    team-members:
     - name: Jensen Prout
       title: Senior Interior Designer, NCIDQ, ASID
       email: jlanders@murraylampert.com
@@ -370,6 +356,8 @@ sections:
         a motorcycle riding the twisty turns of our fun mountain roads.</p>"
       image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
+  - row: Row 6
+    team-members:
     - name: Sophia Van Keppel
       title: Interior Designer
       email: svankeppel@murraylampert.com
@@ -384,8 +372,6 @@ sections:
         guitar, cooking, and enjoying the outdoors.</p>"
       image-1: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
       image-2: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
-  - row: Row 7
-    team-members:
     - name: Chelsea Tyler
       title: Interior Designer
       email: ctyler@murraylampert.com
@@ -409,6 +395,8 @@ sections:
         tennis, drumming, grilling on the BBQ, and spending time with his two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
+  - row: Row 7
+    team-members:
     - name: Alyson Meucci
       title: Senior Architectural Designer
       email: ameucci@murraylampert.com
@@ -424,8 +412,6 @@ sections:
         Cheese!</p>"
       image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
-  - row: Row 8
-    team-members:
     - name: Danny Battle
       title: Architectural Designer
       email: dbattle@murraylampert.com
@@ -451,6 +437,8 @@ sections:
         friends.</p>"
       image-1: "/murray-lampert/version3/milka-mesfin-1.jpg"
       image-2: "/murray-lampert/version3/milka-mesfin-1.jpg"
+  - row: Row 8
+    team-members:
     - name: Bobby Ortiz
       title: Architectural Designer
       email: bortiz@murraylampert.com
@@ -468,8 +456,6 @@ sections:
         and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
-  - row: Row 9
-    team-members:
     - name: Luis Mora
       title: Field Technician
       email: lmora@murraylampert.com
