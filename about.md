@@ -56,7 +56,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Team On Jobsite
-    background-image: "/murray-lampert/version3/mldbr-team-on-jobsite.jpg"
+    background-image: "/v1610225282/murray-lampert/version3/mldbr-team-on-jobsite.jpg"
     text-overlay:
       background-color: none
       alignment: center
