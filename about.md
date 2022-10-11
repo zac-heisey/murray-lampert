@@ -43,7 +43,7 @@ sections:
       button-text: ''
       url: ''
   - slide-title: Design Team
-    background-image: "/murray-lampert/version3/mldbr-team-designers-1.jpg"
+    background-image: "/v1665522537/murray-lampert/version3/Interior_Designers_team_ohgyfd.jpg"
     text-overlay:
       background-color: none
       alignment: center
