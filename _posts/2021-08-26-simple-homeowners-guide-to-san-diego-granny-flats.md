@@ -34,9 +34,11 @@ sections:
 ---
 _This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADU costs, rules, and regulations continue to evolve._
 
-The popularity of accessory dwelling units among homeowners in California has risen steadily since 2016. That trend is evident in space-strapped San Diego, where there have been at least 200 permitted ADUs for construction each of the past 3 years. Relaxed regulations, simplified permitting processes, and increasing contractor experience are all contributing to the continuing popularity of accessory dwelling units throughout San Diego County.
+_As of this writing, there have been significant changes in ADU and JADU regulations, making it even more difficult to build these units._
 
-For residents considering [building ADUs/in-law Suites](/san-diego-in-law-suites) for a loved one or rental income, it’s important to understand the benefits and potential challenges as well as the [ADU rules and regulations in San Diego County]().
+The popularity of accessory dwelling units among homeowners in California has risen steadily since 2016. That trend is evident in space-strapped San Diego, where 1,114 ADU permits were issued in 2019 and 2020. Relaxed regulations, simplified permitting processes, and the housing shortage in San Diego are all contributing to the continuing popularity of accessory dwelling units throughout San Diego County.
+
+For residents considering [building ADUs/in-law Suites](/san-diego-in-law-suites) for a loved one or rental income, it’s important to understand the benefits and potential challenges as well as the [ADU rules and regulations in San Diego County](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units).
 
 ### Why Build an ADU in San Diego?
 
@@ -57,31 +59,37 @@ Homeowners in San Diego know that this area is an idyllic place to call home. Am
 
 Unfortunately, that popularity has played a significant role in [San Diego’s housing shortage](https://www.sandiegouniontribune.com/news/politics/story/2021-07-15/general-plan) and steep cost of living. This cost of living is evident in both the rental, as well as the real estate markets. In 2021, average rent for a 1 bedroom apartment in San Diego rose 11% compared to 2020, while a 2 bedroom apartment saw average rents jump 17%. The median home price in San Diego County [climbed by nearly 28% in 2021](https://www.noradarealestate.com/blog/san-diego-real-estate-market/).
 
-With the housing shortage leading to increased prices and fewer options, several city building ordinances are being changed to incentivize residential development. Some of these incentive are affordable housing density bonuses, reduced parking requirements and waived fees for accessory dwelling units, also known as granny flats.
+With the housing shortage leading to increased prices and fewer options, several city building ordinances are being changed to incentivize residential development. Some of these incentive include affordable housing density bonuses, reduced or eliminated parking requirements, and waived usage fees for accessory dwelling units, also known as granny flats.
 
 **Potential Rental Income**
 
-Since there is a shortage of homes on the market in San Diego and prices continue to increase, adding an ADU to your existing property as a rental unit can be a great investment - if it’s done thoughtfully and properly. Building a granny flat or ADU is a [smart investment](https://maxablespace.com/is-a-granny-flat-a-good-investment/) if:
+Since there is a shortage of homes on the market in San Diego and prices continue to increase, adding an ADU to your existing property as a rental unit can be a great investment if it’s done thoughtfully, professionally, and cost effectively.
+
+At Murray Lampert, we believe that building ADUs or JADUs from the ground up will provide more value and higher rental returns than modular units or tiny homes. We've also found that pre-approved plans rarely work for most properties and have fail to result in significant cost savings for homeowners.
+
+Building a granny flat or ADU is a [smart investment](https://maxablespace.com/is-a-granny-flat-a-good-investment/) if:
 
 * You plan to own the home long-term and can rent it for many years.
 * You already own the land since the rent to cost ratio is very favorable.
 * You have home equity or access to capital to build or make improvements.
 * Building a granny flat is a good lifestyle fit.
 
-While current regulations prevent homeowners from offering accessory dwelling units as vacation rentals (ADUs have a minimum 30-day lease), short and long-term renting is definitely an option. A 500-square-foot ADU in San Diego can generally earn between [$1,350 - $1,800 per month in rental income](https://www.hausable.com/city/san-diego-ca-562174). That’s money that can be used to pay down your mortgage, cover utilities and other household expenses, save for retirement, or spend on a vacation.
+In the past, regulations prevented homeowners from offering accessory dwelling units as vacation rentals. However, as of October 3, 2022, Short-Term Residential Occupancy licenses are available through the City Treasurer, which enable ADU vacation rentals in San Diego.
+
+Depending on the area, a 500-square-foot ADU in San Diego can generally earn a minimum of **$1,500 - $2,000 per month** in rental income. That’s money that can be used to pay down your mortgage, cover utilities and other household expenses, save for retirement, or spend on a vacation.
 
 **Additional Space for Family and Friends**
 
-Hosting out-of-town relatives, taking in aging parents, or welcoming college-aged children back home are all cases in which homeowners will definitely require more space. An in-law suite provides a comfortable, separate space for visitors, family, or tenants. Better yet, your backyard is closer, cheaper, and more familiar than a hotel or Airbnb across town.
+Hosting out-of-town relatives, taking in aging parents, or welcoming college-aged children back home are all cases in which homeowners will definitely require more space. An in-law suite provides a comfortable, separate space for visitors, family, or tenants, and can be a much better (and cheaper) option for housing aging loved ones compared to retirement living facilities.
 
 **Homeowner-friendly Updates**
 
 San Diego continues to make significant changes that impact homeowners seeking to construct accessory dwelling units - many of them in positive ways. Some of those updates included:
 
 1. **New Resources** - City officials provide pre-approved ADU flat designs and instruction manuals to speed up construction.
-2. **Wide-Ranging Fees** - Location and granny flat type impacts fee costs. The fees range from $4,800 to over $80,000. The City of San Diego passed a waiver of development and impact fees, which saves local residents $17,000 on average.
-3. **Fee Waivers** - Encinitas homeowners who are building in-law suites up to 1,200 sq. ft can save approximately $3,500 in waived fees.
-4. **Expanded ADU Size** - In-law suites may be 1,200 sq. ft or 50% of the primary home’s size, whichever is less. This is up from 700 sq. ft. For example, if an existing house is 3,000 sq. ft, the attachment it can’t exceed 1,200 sq. ft in size.
+2. **Wide-Ranging Fees** - Location and granny flat type impacts fee costs. In the past, fees range anywhere from $4,800 to over $80,000. The City of San Diego passed a waiver of development and impact fees, which saves local residents $17,000 on average.
+3. **Fee Waivers** - Homeowners who are building in-law suites up to 1,200 sq. ft can save significantly in the form of waived usage fees for ADUs.
+4. **Expanded ADU Size** - In-law suites may be up to 1,200 sq. ft in San Diego, with some areas allowing for 1,200 sq. ft or 50% of the primary home’s size, whichever is less. This is up from 700 sq. ft. For example, if an existing house is 3,000 sq. ft, the attachment cannot exceed 1,200 sq. ft in size.
 5. **Vacation Rentals** - In some cases, short term vacation rentals - Air BNB’s are allowed. San Diego has a limited number of licenses obtainable through the City Treasurer. Check your local municipality for more information.
 
 ### Planning, Designing, and Building an ADU in San Diego
@@ -92,10 +100,10 @@ Once you’ve decided that adding an ADU to your property is the right move, con
 
 But before you start picking out curtains and cabinets, let’s start with the basics. The first big decision concerns the type of ADU to be built on your property. There are four main types of ADUs:
 
-* Detached
-* Attached
-* Repurposed Existing
-* Junior ADU
+* Detached full ADU or JADU (junior unit up to 500 square feet)
+* Attached full ADU or JADU (junior unit up to 500 square feet)
+* Repurposed Existing Structure
+* Single Story or Two Story
 
 ![illustration of main ADU types via Hausable.com]({{ site.cloudinary }}/murray-lampert/version3/adu-types-hausable.png "Primary Types of Accessory Dwelling Units")
 
@@ -126,7 +134,7 @@ As the name suggests, JADUs are smaller versions of ADUS (maximum 500 sq.ft), bu
 | Max Unit Size | Generally up to 1,200 sq. ft or 50% of living area | 500 sq. ft max |
 | Kitchen | Yes | Yes |
 | Bathroom | Yes | No. Common sanitation allowed. |
-| Separate Entrance | Depends | Yes |
+| Separate Entrance | Yes | Yes |
 | Parking | Depends. Parking may be eliminated and cannot be required under specific conditions. | No. Parking cannot be required. |
 | Owner Occupancy | Depends. Owner occupancy on most ADUs has been waived from 2020-2025 | Yes. Owner occupancy required. |
 | Ministerial Approval Process | Yes | Yes |
@@ -165,9 +173,13 @@ ADUs can be built on property that is zoned for either single-family or multi-fa
 * Owner-occupancy isn't necessary for renting either primary homes or ADUs, unless you live in San Diego County.
 * Existing structures converted to Companion Units aren't subject to water or sewer charges when it has the correct meter size.
 
+**Coastal Regulations**
+
+Single story ADUs or JADUs in the coastal overlay are exempt from zoning regulations as long as the height of the structure does not exceed 16 feet. Detached units must be approved for a Coast Development permit. In not appealable coastal zones, the process is now much easier than it was in the past.
+
 **Setbacks**
 
-Every structure must maintain a specific distance from a property line, curb or structure within a building. This is done for the purposes of environmental protection, privacy and public safety. For ADUs, San Diego allows encroachment of the side and rear yard setbacks. Only compliance with typical front yard setback is required. In the case of a two-story granny flat, it must be situated five feet from the rear and side lot lines. However, existing permitted garages are exempt from this requirement.
+Every structure must maintain a specific distance from a property line, curb or structure within a building. This is done for the purposes of environmental protection, privacy and public safety. For ADUs, San Diego allows encroachment of the side and rear yard setbacks. Only compliance with typical front yard setbacks is required. However, existing permitted garages are exempt from this requirement.
 
 **Parking**
 
@@ -185,9 +197,11 @@ However, there are some exceptions to this rule. You do not need to provide a pa
 
 **Zoning Info**
 
-San Diego’s city government maintains a very [easy-to-read and comprehensive website](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units) replete with guides, tips, downloadable applications, and contact information. For the most efficient citizens who can’t wait to get started remodeling their granny flats, the [building division office provides average wait times](https://www.sandiegocounty.gov/content/sdc/pds/bldg/bldg_waits.html) by the hour for each day of the week.
+San Diego’s city government maintains a very [easy-to-read and comprehensive website](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units) complete with guides, tips, downloadable applications, and contact information. For the most efficient citizens who can’t wait to get started remodeling their granny flats, the [building division office provides average wait times](https://www.sandiegocounty.gov/content/sdc/pds/bldg/bldg_waits.html) by the hour for each day of the week.
 
 In any city, zoning regulations are often extensive and complex. [San Diego’s zoning ordinance](https://www.sandiegocounty.gov/content/sdc/pds/zoning.html) is published online, and it is recommended that you familiarize yourself with the sections most relevant to you. But if you don’t have time to peruse even the introductory section (at 102 pages of technical language, it’s not a casual read) you can contact the building division directly. Of course, you should contact your designer or builder for support as well.
+
+The link to the [City of San Diego Zoning (ZAP) lookup](https://sandiego.maps.arcgis.com/apps/instant/sidebar/index.html?appid=75f6a5d68aee481f8ff48240bcaa1239) is also very helpful when researching feasibility.
 
 ![image of adu living space and kitchen]({{ site.cloudinary }}/murray-lampert/version3/kowalewski-adu-after-1.jpg "ADU Living Space and Kitchen in San Diego")
 
@@ -215,7 +229,7 @@ In this scenario, your total cost would be around $3,232 for the plan review and
 
 **ADU Taxes**
 
-When adding habitable square footage to your home, [you will be assed](https://www.sdttc.com/content/ttc/en/tax-collection/secured-property-taxes.html) only for the new space at the current property tax rate. Your existing home will not be reassessed and it will be unaffected by adding an ADU. However, for resale, the Granny Flat is included in the total square footage which increases the value of your property.
+When adding habitable square footage to your home, [you will be assessed](https://www.sdttc.com/content/ttc/en/tax-collection/secured-property-taxes.html) only for the new space at the current property tax rate. Your existing home will not be reassessed and it will be unaffected by adding an ADU. However, for resale, the Granny Flat is included in the total square footage which increases the value of your property.
 
 Additionally, you’ll want to factor in school fees for ADUs of 500 sq. ft or larger, which run approximately $4.00/sq. ft.
 
@@ -224,6 +238,8 @@ Additionally, you’ll want to factor in school fees for ADUs of 500 sq. ft or l
 You can obviously pay cash to build your new in-law suite. However, there are some great low-interest construction and home improvement loans to finance your project. Most architects and general contractors typically don't have the resources to assist with financing. In other cases, well-established design-build remodeling firms can help with the entire package. You can also check with your personal financial institution or credit union.
 
 As a homeowner, [you're probably familiar with interest rates](https://www.bankrate.com/rates/interest-rates/federal-funds-rate.aspx). A home equity loan is a popular choice among San Diegans looking to build an ADU on their property. There are numerous financial institutions (major banks, online lenders, and credit unions) that offer a variety of rates and options for financing your granny flat. Many banks also offer personal loans, and savvy homeowners can consolidate and refinance these personal loans into one mortgage with a good interest rate when the accessory dwelling unit is complete.
+
+[CalHFA](https://www.calhfa.ca.gov/adu/) is offering a grant of up to $40,000 to cover soft costs which includes architectural, engineering, permit fees, surveying, utilities and pre-construction, closing costs.  This is a great program especially for a from the ground up ADU or JADU.
 
 Furthermore, If you are 62 years of age or older, you are eligible to take out a reverse mortgage against your home equity. It is widely recommended that you thoroughly research this option before you decide on getting a [reverse mortgage to finance your ADU](https://www.consumer.ftc.gov/articles/0192-reverse-mortgages).
 
@@ -266,6 +282,10 @@ There are many factors to consider when deciding whether or not to install solar
 
 Talk to your solar installer or your design-build team to find out what other factors you need to consider. If you want to be prepared for a conversation about financing, there are many [cost estimators available online](https://www.sdge.com/residential/savings-center/renewables/getting-started/solar-cost-calculator) to help you determine the cost of purchasing the system as well as your energy savings over the life of the cells.
 
+**Clean Energy Tax Credits Starting in 2023**
+
+With the approval of the [Inflation Reduction Act](https://www.utilitydive.com/news/inflation-reduction-act-solar-california-net-energy-metering-puc/630426/) in August 2022, there is more incentive to go solar. Starting in 2023, the tax credit for solar panel installation will increase to 30%.
+
 **ADU Automation**
 
 ![rendering of a kitchen and dining area in an accessory dwelling unit]({{ site.cloudinary }}/murray-lampert/version3/anglikowsi-adu-kitchen-1.png "Custom ADU Kitchen Design")
@@ -297,12 +317,11 @@ San Diego granny flats are a hot trend that many homeowners are taking advantage
 **Additional Resources:**
 
 * [https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf](https://www.sandiego.gov/sites/default/files/adu_ta_handbook_final.pdf)
-* [https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf](https://www.sandiego.gov/sites/default/files/2019-companion-unit-handbook.pdf)
 * [https://www.sandiego.gov/sites/default/files/dsdib400.pdf](https://www.sandiego.gov/sites/default/files/dsdib400.pdf)
 * [https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units](https://www.sandiego.gov/development-services/news-programs/programs/companion-junior-units)
 * [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
 * [https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf](https://www.hcd.ca.gov/policy-research/docs/adu_december_2020_handbook.pdf)
-* [https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml](https://www.hcd.ca.gov/policy-research/accessorydwellingunits.shtml)
 * [https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf](https://www.sandiego.gov/sites/default/files/2021_housing_inventory_report.pdf)
-* [https://www.tenseventyarchitecture.com/dream-home-guide-adu](https://www.tenseventyarchitecture.com/dream-home-guide-adu)
 * [https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego](https://symbium.com/blog/a-guide-to-granny-flats-in-san-diego)
+* [https://www.aducalifornia.org](https://www.aducalifornia.org)
+* [https://www.calhfa.ca.gov/adu/](https://www.calhfa.ca.gov/adu/)
