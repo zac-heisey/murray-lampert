@@ -305,6 +305,7 @@ http://mldbr-v3.netlify.app/*    https://murraylampert.com/:splat    301!
 /kitchen-remodeling-del-mar	/service-locations/del-mar-design-build-and-remodel-services/	301
 /kitchen-remodeling-encinitas	/service-locations/encinitas-design-build-and-remodel-services/	301
 /kitchen-remodeling-hillcrest	/service-locations/hillcrest-design-build-and-remodel-services/	301
+/home-additions-hillcrest	/service-locations/hillcrest-design-build-and-remodel-services/	301
 /kitchen-remodeling-la-jolla	/service-locations/la-jolla-design-build-and-remodel-services/	301
 /kitchen-remodeling-mira-mesa	/san-diego-kitchen-remodels	301
 /kitchen-remodeling-mission-valley	/service-locations/mission-valley-design-build-and-remodel-services/	301
@@ -363,6 +364,7 @@ http://mldbr-v3.netlify.app/*    https://murraylampert.com/:splat    301!
 /pros-guide-to-deck-restoration	/blog/	301
 /quote/	/contact/	301
 /rancho-bernardo-home-remodeling/	/service-locations/	301
+/room-additions-escondido/	/service-locations/	301
 /recipes-you-need-to-try-this-summer	/blog/	301
 /recycling-when-you-remodel	/blog/	301
 /remodel-your-kitchen-with-these-6-must-have-features-2/	/kitchen-design-trends/	301
