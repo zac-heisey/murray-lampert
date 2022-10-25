@@ -426,17 +426,6 @@ sections:
         or partaking in some sort of activity in the San Diego sun.</p>"
       image-1: "/murray-lampert/version3/danny-battle-1.jpg"
       image-2: "/murray-lampert/version3/danny-battle-1.jpg"
-    - name: Milka Mesfin
-      title: Architectural Designer
-      email: mmesfin@murraylampert.com
-      bio: "<p>Milka was born and raised in Addis Ababa, Ethiopia. She went to college
-        at University of Virginia and received a Bachelor of Science in Architecture.
-        She enjoys the design-build industry because she gets to be part of a team
-        that takes a project from concept to construction. In her spare time she enjoys
-        discovering eateries and spending time at parks and beaches with family and
-        friends.</p>"
-      image-1: "/murray-lampert/version3/milka-mesfin-1.jpg"
-      image-2: "/murray-lampert/version3/milka-mesfin-1.jpg"
   - row: Row 8
     team-members:
     - name: Bobby Ortiz
