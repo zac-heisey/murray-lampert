@@ -358,20 +358,6 @@ sections:
       image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
   - row: Row 6
     team-members:
-    - name: Sophia Van Keppel
-      title: Interior Designer
-      email: svankeppel@murraylampert.com
-      bio: "<p>Sophia recently relocated to San Diego from her home state of Indiana
-        to pursue a career in design. Sophia’s family has worked in the construction
-        industry for many years, which ultimately influenced her decision to study
-        Interior Design at Indiana University’s School of Art, Architecture + Design.
-        She also completed a minor in Spanish to aid her love of travel, other cultures
-        and building connections with people. The design build world is a great fit
-        for her because she appreciates the convergence of functionality and beauty
-        in one final package. In Sophia’s free time she enjoys oil painting, playing
-        guitar, cooking, and enjoying the outdoors.</p>"
-      image-1: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
-      image-2: "/murray-lampert/version3/sophia-van-keppel-1.jpg"
     - name: Chelsea Tyler
       title: Interior Designer
       email: ctyler@murraylampert.com
