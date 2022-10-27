@@ -16,6 +16,55 @@ sections:
 - template: grid
   block: grid
   grid-rows:
+  - row: 1 / 2
+    grid-items:
+    - item: Text
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-id: ''
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: true
+          url: "/design-build-services-san-diego"
+          button-text: See Our Process in Action
+        content: "<p>Our project managers, designers, and architects work with you
+          every step of the way, whether you are extending your living area, adding
+          a second story, or building a granny flat for a senior member of the family.</p>"
+        heading: Full-service home remodeling.
+      item-type: text
+      item-span: 1
+    - item: Video
+      image-info:
+        image: ''
+        text-overlay:
+          small-heading: ''
+          main-content: ''
+          detail: ''
+          url: ''
+      video-info:
+        video-cover-image: "/v1610225281/murray-lampert/version3/mldbr-team-micah-architect.jpg"
+        video-id: C6dcKZf-52
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: ''
+          url: ''
+        heading: ''
+        content: ''
+      item-type: video
+      item-span: 2
+- template: grid
+  block: grid
+  grid-rows:
   - row: 2 / 1
     grid-items:
     - item: Image
@@ -61,55 +110,6 @@ sections:
         heading: Treating you like family.
       item-type: text
       item-span: 1
-- template: grid
-  block: grid
-  grid-rows:
-  - row: 1 / 2
-    grid-items:
-    - item: Text
-      image-info:
-        image: ''
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: true
-          url: "/design-build-services-san-diego"
-          button-text: See Our Process in Action
-        content: "<p>Our project managers, designers, and architects work with you
-          every step of the way, whether you are extending your living area, adding
-          a second story, or building a granny flat for a senior member of the family.</p>"
-        heading: Full-service home remodeling.
-      item-type: text
-      item-span: 1
-    - item: Video
-      image-info:
-        image: ''
-        text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-info:
-        video-cover-image: "/murray-lampert/version3/wagner-exterior-after-4.jpg"
-        video-id: wSTKUOXIAms
-      text-info:
-        background-color: none
-        cta:
-          color: blue
-          enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
-      item-type: video
-      item-span: 2
 - template: grid
   block: grid
   grid-rows:
