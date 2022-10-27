@@ -49,8 +49,8 @@ sections:
           detail: ''
           url: ''
       video-info:
-        video-cover-image: "/v1610225281/murray-lampert/version3/mldbr-team-micah-architect.jpg"
-        video-id: C6dcKZf-52
+        video-cover-image: "/v1612475572/murray-lampert/version3/wagner-exterior-after-4.jpg"
+        video-id: wSTKUOXIAms
       text-info:
         background-color: none
         cta:
