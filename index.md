@@ -50,7 +50,7 @@ sections:
           url: ''
       video-info:
         video-cover-image: "/v1610225281/murray-lampert/version3/mldbr-team-micah-architect.jpg"
-        video-id: r_NpO9LRL7Y
+        video-id: C6dcKZf-52
       text-info:
         background-color: none
         cta:
