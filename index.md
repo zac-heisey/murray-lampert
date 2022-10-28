@@ -50,7 +50,7 @@ sections:
           url: ''
       video-info:
         video-cover-image: "/v1612475572/murray-lampert/version3/wagner-exterior-after-4.jpg"
-        video-id: wSTKUOXIAms
+        video-id: C6dcKZf-52w
       text-info:
         background-color: none
         cta:
