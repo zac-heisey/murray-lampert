@@ -49,7 +49,7 @@ sections:
           detail: ''
           url: ''
       video-info:
-        video-cover-image: "/v1612475572/murray-lampert/version3/wagner-exterior-after-4.jpg"
+        video-cover-image: "/v1664821951/murray-lampert/version3/Bathroom_Remodeling_in_San_Diego-_Banner_rlmffw.jpg"
         video-id: C6dcKZf-52w
       text-info:
         background-color: none
