@@ -49,7 +49,7 @@ sections:
           detail: ''
           url: ''
       video-info:
-        video-cover-image: "/v1664821951/murray-lampert/version3/Bathroom_Remodeling_in_San_Diego-_Banner_rlmffw.jpg"
+        video-cover-image: "/v1667318613/murray-lampert/version3/da-process-video-cover.jpg"
         video-id: C6dcKZf-52w
       text-info:
         background-color: none
