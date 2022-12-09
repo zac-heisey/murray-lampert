@@ -327,7 +327,7 @@ sections:
       image-1: "/murray-lampert/version3/james-cooney-1.jpg"
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
     - name: Jensen Prout
-      title: Senior Interior Designer, NCIDQ, ASID
+      title: Lead Senior Interior Designer, NCIDQ, ASID
       email: jlanders@murraylampert.com
       bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design
         from San Diego State University. Her background varies from landscape design
