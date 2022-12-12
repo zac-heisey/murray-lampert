@@ -231,23 +231,6 @@ sections:
         and TV.</p>"
       image-1: "/murray-lampert/version3/cameron-poeschel-1.jpg"
       image-2: "/murray-lampert/version3/cameron-poeschel-1.jpg"
-    - name: Lea Haynor
-      title: Project Manager
-      email: lhaynor@murraylampert.com
-      bio: "<p>Lea is originally from Fairview, Pennsylvania and grew up right on
-        Lake Erie. She attended  undergrad at the University of Vermont where she
-        earned a degree in Political Science and completed a Masters Program at San
-        Diego State University, obtaining another degree in International Relations.
-        She spent 8 years remodeling bank owned investment properties and also has
-        4 years experience working on new construction. Lea loves being part of the
-        transformation process of residential remodeling. She likes seeing the before-and-after
-        and taking pride in the final product. Appreciating that every project is
-        different, she loves that there is always something new to learn or figure
-        out. Interestingly, Lea is a licensed skydiver and a certified SCUBA diver.
-        She loves anything outdoors, especially visiting the dog beach with her 2
-        pups and family.</p>"
-      image-1: "/murray-lampert/version3/lea-haynor-1.jpg"
-      image-2: "/murray-lampert/version3/lea-haynor-1.jpg"
     - name: Bryan Bushaw
       title: Project Manager
       email: bbushaw@murraylampert.com
@@ -340,22 +323,6 @@ sections:
         with her husband.</p>"
       image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
       image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
-    - name: Hannah Wilson
-      title: Interior Designer
-      email: hwilson@murraylampert.com
-      bio: "<p>Hannah moved to San Diego in 2019 from Truckee, California, located
-        just slightly north of beautiful Lake Tahoe. She attended both The University
-        of Nevada-Reno and the Art Institute of California-Sacramento, receiving two
-        Bachelor degrees in English and Interior Design. At a young age, Hannah encountered
-        many interior design and remodeling influences as she grew up working for
-        her parent’s construction, plumbing, and radiant heating business. She enjoys
-        being around the construction and remodeling environment due to the fact that
-        it’s a hands-on and fast-paced atmosphere. She feels this industry allows
-        her to be creative while collaborating with wonderful people. During Hannah’s
-        off time, you can find her surfing, soaking up the sun on the beach, or on
-        a motorcycle riding the twisty turns of our fun mountain roads.</p>"
-      image-1: "/murray-lampert/version3/hannah-wilson-1.jpg"
-      image-2: "/murray-lampert/version3/hannah-wilson-1.jpg"
   - row: Row 6
     team-members:
     - name: Chelsea Tyler
