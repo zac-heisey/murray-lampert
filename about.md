@@ -231,6 +231,41 @@ sections:
         and TV.</p>"
       image-1: "/murray-lampert/version3/cameron-poeschel-1.jpg"
       image-2: "/murray-lampert/version3/cameron-poeschel-1.jpg"
+    - name: Brandon Mears
+      title: Project Consultant
+      email: bmears@murraylampert.com
+      bio: "<p>Being a Project Consultant at Murray Lampert Design, Build, Remodel,
+        means Brandon may be the very first person you meet with from our team. Having
+        managed complete remodels and additions on multiple homes of his own, Brandon
+        knows firsthand what it means to redefine space for your family. He is originally
+        from Fremont, California, but has been living in San Diego since 2001. He
+        earned a Bachelor’s in Business from Cal State University San Marcos and studied
+        Engineering at Cal Poly San Luis Obispo. He has always had a lifelong passion
+        for home theater, automation, and listening to music. Brandon enjoys getting
+        his hands dirty on the weekends with his two boys, improving his home, smoking
+        and grilling meat, and tending to his saltwater reef aquarium. At the end
+        of the day, he says that it is his amazing wife and kids that make it all
+        worthwhile.</p>"
+      image-1: "/murray-lampert/version3/brandon-mears-1.jpg"
+      image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
+    - name: James Cooney
+      title: Project Consultant
+      email: jcooney@murraylampert.com
+      bio: "<p>As a Project Consultant with Murray Lampert, James may be one of the
+        first people to greet as you start your home remodel journey. James’ experience
+        in the remodeling industry spans all facets of remodel, including his own
+        real estate investments and renovations as well extensive work on his family’s
+        homes. His top priority is to ensure his clients vision comes to life and
+        the project is a roaring success.</p><p>Living in San Diego for over 20 years,
+        James is originally From the Napa Valley. He spent years in the Wine & Beer
+        Industry then followed his passion to the field of design and remodel. Always
+        active, James likes to swim regularly and go snowboarding whenever possible.
+        He has a passion and talent for cooking and entertaining that he shares with
+        his loves: his wife, and his two beautiful girls.</p>"
+      image-1: "/murray-lampert/version3/james-cooney-1.jpg"
+      image-2: "/murray-lampert/version3/james-cooney-1.jpg"
+  - row: Row 4
+    team-members:
     - name: Bryan Bushaw
       title: Project Manager
       email: bbushaw@murraylampert.com
@@ -245,8 +280,6 @@ sections:
         Border Collie.</p>"
       image-1: "/murray-lampert/version3/bryan-bushaw-1.jpg"
       image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
-  - row: Row 4
-    team-members:
     - name: Mike Bixler
       title: Project Manager
       email: mbixler@murraylampert.com
@@ -274,41 +307,8 @@ sections:
         pickup.</p>"
       image-1: "/murray-lampert/version3/john-bixler-1.jpg"
       image-2: "/murray-lampert/version3/john-bixler-1.jpg"
-    - name: Brandon Mears
-      title: Project Consultant
-      email: bmears@murraylampert.com
-      bio: "<p>Being a Project Consultant at Murray Lampert Design, Build, Remodel,
-        means Brandon may be the very first person you meet with from our team. Having
-        managed complete remodels and additions on multiple homes of his own, Brandon
-        knows firsthand what it means to redefine space for your family. He is originally
-        from Fremont, California, but has been living in San Diego since 2001. He
-        earned a Bachelor’s in Business from Cal State University San Marcos and studied
-        Engineering at Cal Poly San Luis Obispo. He has always had a lifelong passion
-        for home theater, automation, and listening to music. Brandon enjoys getting
-        his hands dirty on the weekends with his two boys, improving his home, smoking
-        and grilling meat, and tending to his saltwater reef aquarium. At the end
-        of the day, he says that it is his amazing wife and kids that make it all
-        worthwhile.</p>"
-      image-1: "/murray-lampert/version3/brandon-mears-1.jpg"
-      image-2: "/murray-lampert/version3/brandon-mears-1.jpg"
   - row: Row 5
     team-members:
-    - name: James Cooney
-      title: Project Consultant
-      email: jcooney@murraylampert.com
-      bio: "<p>As a Project Consultant with Murray Lampert, James may be one of the
-        first people to greet as you start your home remodel journey. James’ experience
-        in the remodeling industry spans all facets of remodel, including his own
-        real estate investments and renovations as well extensive work on his family’s
-        homes. His top priority is to ensure his clients vision comes to life and
-        the project is a roaring success.</p><p>Living in San Diego for over 20 years,
-        James is originally From the Napa Valley. He spent years in the Wine & Beer
-        Industry then followed his passion to the field of design and remodel. Always
-        active, James likes to swim regularly and go snowboarding whenever possible.
-        He has a passion and talent for cooking and entertaining that he shares with
-        his loves: his wife, and his two beautiful girls.</p>"
-      image-1: "/murray-lampert/version3/james-cooney-1.jpg"
-      image-2: "/murray-lampert/version3/james-cooney-1.jpg"
     - name: Jensen Prout
       title: Lead Senior Interior Designer, NCIDQ, ASID
       email: jlanders@murraylampert.com
@@ -323,8 +323,6 @@ sections:
         with her husband.</p>"
       image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
       image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
-  - row: Row 6
-    team-members:
     - name: Chelsea Tyler
       title: Interior Designer
       email: ctyler@murraylampert.com
@@ -348,7 +346,7 @@ sections:
         tennis, drumming, grilling on the BBQ, and spending time with his two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
-  - row: Row 7
+  - row: Row 6
     team-members:
     - name: Alyson Meucci
       title: Senior Architectural Designer
@@ -393,7 +391,7 @@ sections:
         guitar, cooking, and enjoying the outdoors.</p>"
       image-1: "/v1647857546/murray-lampert/version3/sophia-van-keppel-1.jpg"
       image-2: "/v1647857546/murray-lampert/version3/sophia-van-keppel-1.jpg"
-  - row: Row 8
+  - row: Row 7
     team-members:
     - name: Bobby Ortiz
       title: Architectural Designer
