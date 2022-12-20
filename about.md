@@ -311,7 +311,7 @@ sections:
     team-members:
     - name: Jensen Prout
       title: Lead Senior Interior Designer, NCIDQ, ASID
-      email: jlanders@murraylampert.com
+      email: jprout@corp.murraylampert.com
       bio: "<p>Jensen, a San Diego native, has her Bachelor’s Degree in Interior Design
         from San Diego State University. Her background varies from landscape design
         and drafting, to commercial, multi-family, and residential interior architecture.
