@@ -266,20 +266,6 @@ sections:
       image-2: "/murray-lampert/version3/james-cooney-1.jpg"
   - row: Row 4
     team-members:
-    - name: Bryan Bushaw
-      title: Project Manager
-      email: bbushaw@murraylampert.com
-      bio: "<p>Bryan is originally from San Jose, California. He grew up in Denver,
-        Colorado, where he graduated with a Bachelors in International Studies. Although
-        Bryan works as our Field Technician, he is also a creator and designer in
-        his spare-time. When living in Colorado, Bryan operated his own design-build
-        firm for 3 years. The remodeling industry gives him an outlet to express his
-        individual ideas. He enjoys being able to look back and reflect on his finished
-        work. During his free time, he designs and creates custom furniture, goes
-        surfing, kiteboarding, hikes, cooks, and spends quality time with his 11-year-old
-        Border Collie.</p>"
-      image-1: "/murray-lampert/version3/bryan-bushaw-1.jpg"
-      image-2: "/murray-lampert/version3/bryan-bushaw-1.jpg"
     - name: Mike Bixler
       title: Project Manager
       email: mbixler@murraylampert.com
@@ -426,10 +412,10 @@ sections:
       title: Team Coach
       email: ''
       bio: "<p>Carrie was born in NJ but grew up in Tucson Arizona. She graduated
-        from Cal State Northridge and has been successful in building her own business-
+        from Cal State Northridge and has been successful in building her own business -
         The Corporate Coaching company. Carrie is contracted with Murray Lampert Design
         Build Remodel as the team coach. Her areas of expertise include executive
-        coaching, sales couching, consulting, and training. Carrie is happily married
+        coaching, sales coaching, consulting, and training. Carrie is happily married
         and has 3 incredible kids!</p>"
       image-1: "/murray-lampert/version3/carrie-mayers-1.jpg"
       image-2: "/murray-lampert/version3/carrie-mayers-1.jpg"
