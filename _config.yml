@@ -22,6 +22,7 @@ defaults:
     type: featured-projects
   values:
     layout: featured-project
+    colors: ["red". "green", "blue"]
 description: Murray Lampert design, build, and home remodel services in San Diego.
   Proud to be San Diego's top home design build remodel contractor since 1975.
 url: https://murraylampert.com
