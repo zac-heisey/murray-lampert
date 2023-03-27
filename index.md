@@ -5,7 +5,7 @@ sections:
 - template: hero-banner
   block: hero-banner
   cta:
-    enabled: false
+    enabled: true
     color: white
     button-text: View Our Remodeling Projects
     url: "/san-diego-remodel-project-gallery"
