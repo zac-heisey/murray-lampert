@@ -32,7 +32,7 @@ kramdown:
 permalink: pretty
 include:
 - _redirects
-exclude: []
+exclude: ["Gemfile.lock", "node_modules"]
 plugins:
 - jekyll-paginate
 - jekyll-sitemap
