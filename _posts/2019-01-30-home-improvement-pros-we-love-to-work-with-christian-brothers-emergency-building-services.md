@@ -1,12 +1,13 @@
 ---
-layout: blocks
-title: 'Home Improvement Pros We Love to Work With: Christian Brothers Emergency Building Services'
+title: 'Home Improvement Pros We Love to Work With: Christian Brothers Emergency Building
+  Services'
 date: 2019-01-30 00:00:00 Z
 categories:
 - Community
-description: Christian Brothers is our preferred partner when it comes to helping clients
-  with fire, flood, mold, or any other type of emergency building service. Check out
-  our recent discussion with CEO Gabe Matthews.
+layout: blocks
+description: Christian Brothers is our preferred partner when it comes to helping
+  clients with fire, flood, mold, or any other type of emergency building service.
+  Check out our recent discussion with CEO Gabe Matthews.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -14,7 +15,8 @@ sections:
     enabled: false
     color: white
   background-image: "/murray-lampert/version3/placeholder-2.jpg"
-  heading: Home Improvement Pros We Love to Work With - Christian Brothers Emergency Building Services
+  heading: Home Improvement Pros We Love to Work With - Christian Brothers Emergency
+    Building Services
 - template: post-meta-data
   block: post-meta-data
 - template: post-body-content
@@ -29,7 +31,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 When it comes to fire and flood damage in San Diego, our go-to partner is [Christian Brothers Emergency Building Services](http://waterdamagesd.com/). Our partnership with the Christian Brothers team is relatively new compared to some of the other home improvement specialists we work with, but our early experiences have already proven to us that they are the most reputable, experienced, and professional Emergency Building Services company in San Diego.

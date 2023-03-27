@@ -5,7 +5,6 @@ categories:
 - Home DIY Tips
 - Outdoor Spaces
 - Community
-
 description: Being festive has never been easier with these 8 essential tips for hanging
   holiday lights outside your San Diego home from Murray Lampert Design, Build, Remodel.
 sections:
@@ -30,9 +29,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

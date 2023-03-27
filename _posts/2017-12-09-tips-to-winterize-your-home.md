@@ -4,7 +4,6 @@ date: 2017-12-09 19:30:00 Z
 categories:
 - Home DIY Tips
 - Green Construction
-
 description: Winters are anything but brutal in San Diego, but our 7 tips for winterizing
   your home will keep you safe while reducing energy!
 sections:
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

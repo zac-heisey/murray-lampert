@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: Bathroom Remodeling in San Diego
+permalink: "/san-diego-bathroom-remodels"
+layout: blocks
 description: San Diego bathroom remodeling by Murray Lampert Design, Build, Remodel.
   Start your custom bathroom remodel in San Diego with Murray Lampert today.
-permalink: "/san-diego-bathroom-remodels"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -231,5 +231,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
-
 ---
+

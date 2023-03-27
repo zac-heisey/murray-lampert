@@ -1,14 +1,15 @@
 ---
-layout: blocks
 title: INFOGRAPHIC - Pros and Cons of Different ADU Types
 date: 2018-09-28 00:08:00 Z
 categories:
 - Infographics
 - In-law Suites
-description: Accessory Dwelling Units are a hot topic in California right now, and for
-  good reason. But which type of ADU is right for you, and which is your property
+layout: blocks
+description: Accessory Dwelling Units are a hot topic in California right now, and
+  for good reason. But which type of ADU is right for you, and which is your property
   even permitted for? Find out here!
-secondary-heading: Not all ADUs are the same. Let's break down the pros and cons of each type of ADU to determine which is right for you.
+secondary-heading: Not all ADUs are the same. Let's break down the pros and cons of
+  each type of ADU to determine which is right for you.
 sections:
 - template: hero-banner
   block: hero-banner

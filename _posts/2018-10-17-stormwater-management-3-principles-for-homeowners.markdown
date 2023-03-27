@@ -3,10 +3,9 @@ title: 'Stormwater Management: 3 Principles for Homeowners'
 date: 2018-10-17 13:02:00 Z
 categories:
 - Home DIY Tips
-
-description: Proper stormwater management is an oft-forgotten responsibility of many homeowners.
-  Learn more stormwater management to prevent flooding, reduce erosion, and protect
-  your home.
+description: Proper stormwater management is an oft-forgotten responsibility of many
+  homeowners. Learn more stormwater management to prevent flooding, reduce erosion,
+  and protect your home.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

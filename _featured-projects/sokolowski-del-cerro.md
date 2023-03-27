@@ -1,6 +1,6 @@
 ---
-layout: featured-project
 title: Whole House Redo
+layout: featured-project
 location: Del Cerro, CA
 description: Whole home remodel in Del Cerro, CA. View this and other featured home
   remodeling projects from Murray Lampert.
@@ -304,5 +304,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
-
 ---
+

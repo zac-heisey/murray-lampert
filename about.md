@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: About Murray Lampert Design Build Remodel
+permalink: "/about-murray-lampert-design-build-remodel"
+layout: blocks
 description: Murray Lampert Design, Build, Remodel of San Diego is your BBB award
   winning design build contractor with over 40 years experience in home remodeling.
-permalink: "/about-murray-lampert-design-build-remodel"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -412,9 +412,9 @@ sections:
       title: Team Coach
       email: ''
       bio: "<p>Carrie was born in NJ but grew up in Tucson Arizona. She graduated
-        from Cal State Northridge and has been successful in building her own business -
-        The Corporate Coaching company. Carrie is contracted with Murray Lampert Design
-        Build Remodel as the team coach. Her areas of expertise include executive
+        from Cal State Northridge and has been successful in building her own business
+        - The Corporate Coaching company. Carrie is contracted with Murray Lampert
+        Design Build Remodel as the team coach. Her areas of expertise include executive
         coaching, sales coaching, consulting, and training. Carrie is happily married
         and has 3 incredible kids!</p>"
       image-1: "/murray-lampert/version3/carrie-mayers-1.jpg"
@@ -466,5 +466,5 @@ sections:
   image-right: "/murray-lampert/version3/mldbr-team-alyson-designer-2.jpg"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-
 ---
+

@@ -6,7 +6,8 @@ categories:
 description: Home contractor referral services and platforms can be helpful, but they
   should also be used with caution. Learn about the good and bad of contractor referral
   platforms.
-secondary-heading: Check out our updated insights and reviews of the top contractor referral services.
+secondary-heading: Check out our updated insights and reviews of the top contractor
+  referral services.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +30,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

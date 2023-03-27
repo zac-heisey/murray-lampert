@@ -1,14 +1,15 @@
 ---
-layout: blocks
 title: INFOGRAPHIC - 5 Facts About San Diego Photovoltaic (PV) Solar
 date: 2018-10-24 00:00:00 Z
 categories:
 - Infographics
 - Green Construction
+layout: blocks
 description: Solar energy is a popular way for San Diego homeowners to take advantage
   of the region's sunny weather to help lower their utility costs. We look at 5 key
   facts about photovoltaic solar in San Diego.
-secondary-heading: Curious about solar panels for your San Diego home? Learn the facts behind Photovoltaic (PV) Solar energy.
+secondary-heading: Curious about solar panels for your San Diego home? Learn the facts
+  behind Photovoltaic (PV) Solar energy.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -31,7 +32,6 @@ sections:
     url: "/contact/"
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 Many San Diego homeowners have turned to photovoltaic (PV) solar energy as a way to offset the rising costs of power in Southern California. Before installing solar panels, it's important to know some key details before officially [making the switch to solar](/important-things-to-know-when-switching-to-solar/).

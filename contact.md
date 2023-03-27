@@ -1,7 +1,8 @@
 ---
-layout: blocks
 title: Contact Murray Lampert
-description: Contact Murray Lampert Design, Build, Remodel for a free in-home or virtual consultation. Reach out to start your remodeling project in San Diego today!
+layout: blocks
+description: Contact Murray Lampert Design, Build, Remodel for a free in-home or virtual
+  consultation. Reach out to start your remodeling project in San Diego today!
 sections:
 - template: hero-banner
   block: hero-banner
@@ -65,3 +66,4 @@ sections:
       button-text: ''
       url: ''
 ---
+

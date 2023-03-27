@@ -4,10 +4,9 @@ date: 2018-08-08 00:00:00 Z
 categories:
 - Home Remodeling
 - Community
-
-description: At Murray Lampert, we're always on the lookout for helpful resources to share
-  with homeowners. Here are 6 of our favorite home improvement & remodeling blogs
-  to follow - besides our own, of course!
+description: At Murray Lampert, we're always on the lookout for helpful resources
+  to share with homeowners. Here are 6 of our favorite home improvement & remodeling
+  blogs to follow - besides our own, of course!
 sections:
 - template: hero-banner
   block: hero-banner
@@ -30,9 +29,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

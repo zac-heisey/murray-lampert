@@ -1,6 +1,6 @@
 ---
-layout: blocks
 title: Home Remodeling FAQs
+layout: blocks
 description: Get answers to commonly asked home improvement questions from Murray
   Lampert Design Build Remodel. Service San Diego since 1975.
 sections:
@@ -68,5 +68,5 @@ sections:
       provided or installed by Murray Lampert Design, Build, Remodel or the homeowner
       carry their own manufacturer’s warranty and are not covered under the 3-year
       guarantee.</p>
-
 ---
+

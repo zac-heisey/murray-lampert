@@ -4,9 +4,8 @@ date: 2018-05-01 00:00:00 Z
 categories:
 - Home Remodeling
 - Guides
-
-description: This comprehensive guide will help homeowners find, vet, and work with the
-  right remodeling contractor for their renovation project. Check it out here!
+description: This comprehensive guide will help homeowners find, vet, and work with
+  the right remodeling contractor for their renovation project. Check it out here!
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

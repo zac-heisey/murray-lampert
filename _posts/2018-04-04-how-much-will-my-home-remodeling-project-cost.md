@@ -4,10 +4,9 @@ date: 2018-04-04 15:00:00 Z
 permalink: "/how-much-will-my-home-remodeling-project-cost/"
 categories:
 - Home Remodeling
-
-description: Home remodeling costs vary greatly depending on project location, size, scope,
-  finishes, and more. Murray Lampert helps highlight some of the contributing cost
-  factors.
+description: Home remodeling costs vary greatly depending on project location, size,
+  scope, finishes, and more. Murray Lampert helps highlight some of the contributing
+  cost factors.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -30,9 +29,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

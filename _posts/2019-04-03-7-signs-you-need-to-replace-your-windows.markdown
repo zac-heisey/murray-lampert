@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: 7 Signs You Need to Replace Your Windows
 date: 2019-04-03 14:20:00 Z
 categories:
 - Home Remodeling
+layout: blocks
 description: How do you know when it’s time to replace and upgrade your windows? Here
   are 7 clear indicators your home is in need of new windows.
 sections:
@@ -28,7 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 Windows sometimes appear like they have voices that talk to you as they age. They bend and warp. They get damaged or broken. They let in the outside weather and don’t trap heat from the inside like they once provided comfort.

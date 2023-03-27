@@ -4,7 +4,6 @@ date: 2018-10-03 00:00:00 Z
 categories:
 - Home Additions
 - In-law Suites
-
 description: If you're looking to expand your home, but you're tight on space, a garage
   conversion could be the perfect solution. This type of ADU (accessory dwelling unit)
   is becoming increasingly popular in San Diego, but there are some important considerations
@@ -31,9 +30,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 
