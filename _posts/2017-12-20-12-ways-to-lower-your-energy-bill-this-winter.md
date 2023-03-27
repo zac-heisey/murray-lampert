@@ -3,6 +3,7 @@ title: 12 Ways to Lower Your Energy Bill This Winter
 date: 2017-12-20 00:00:00 Z
 categories:
 - Home DIY Tips
+
 description: Energy efficiency has never been easier. Read these DIY home maintenance
   strategies to low your San Diego energy bill this winter.
 sections:
@@ -27,6 +28,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

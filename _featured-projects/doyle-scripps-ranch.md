@@ -1,9 +1,9 @@
 ---
-title: Modern Kitchen & Living Room Upgrade
 layout: featured-project
+title: Modern Kitchen & Living Room Upgrade
 location: Scripps Ranch, CA
-description: Kitchen & living room remodel in Mission Hills, CA. View this and other
-  featured home remodeling projects from Murray Lampert.
+description: Kitchen & living room remodel in Mission Hills, CA. View this and other featured
+  home remodeling projects from Murray Lampert.
 featured-image: "/murray-lampert/version3/doyle-kitchen-after-1.jpg"
 project-details:
 - Located in Scripps Ranch
@@ -221,5 +221,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

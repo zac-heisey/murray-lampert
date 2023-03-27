@@ -4,11 +4,8 @@ date: 2021-12-20 00:00:00 Z
 categories:
 - Home Remodeling
 - DIY
-description: Whether you’re remodeling your kitchen, and single bathroom, or your
-  entire home, choosing the perfect plumbing fixtures to match your decor and style
-  can be a rewarding experience. Learn more about upgrading your plumbing fixtures
-  and adding value to your home.
-secondary-heading: 
+description: Whether you’re remodeling your kitchen, and single bathroom, or your entire home, choosing the perfect plumbing fixtures to match your decor and style can be a rewarding experience. Learn more about upgrading your plumbing fixtures and adding value to your home.
+secondary-heading:
 sections:
 - template: hero-banner
   block: hero-banner

@@ -4,9 +4,10 @@ date: 2018-04-25 00:00:00 Z
 categories:
 - Home Remodeling
 - Real Estate
-description: There are both pros and cons to buying a new home and remodeling your
-  current one. We cover some of the benefits and drawbacks to both options to help
-  you make an informed decision.
+
+description: There are both pros and cons to buying a new home and remodeling your current
+  one. We cover some of the benefits and drawbacks to both options to help you make
+  an informed decision.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,6 +30,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

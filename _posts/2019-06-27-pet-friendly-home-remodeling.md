@@ -1,11 +1,11 @@
 ---
+layout: blocks
 title: Best Pet-Friendly Home Remodeling Features
 date: 2019-06-27 00:00:01 Z
 categories:
 - Home Remodeling
-layout: blocks
-description: Pet-friendly home remodeling features can help keep your furry friends
-  safe during and after a renovation project. Here are a few ways our team accommodates
+description: Pet-friendly home remodeling features can help keep your furry friends safe
+  during and after a renovation project. Here are a few ways our team accommodates
   your four-legged family members during your home remodel.
 sections:
 - template: hero-banner
@@ -29,6 +29,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 Adopting a pet can turn your world completely upside down. As pet parents are well aware of, pets are not unlike children. They can change your life for the better, but they also have their needs. And if you are thinking about [home remodeling in San Diego](/san-diego-home-remodel-services), you should make sure you respect those needs and plan the project the same as you would if you were remodeling to cater to a child’s needs.

@@ -1,6 +1,6 @@
 ---
-title: San Diego Design Build Remodel
 layout: blocks
+title: San Diego Design Build Remodel
 description: 
 sections:
 - template: hero-banner
@@ -298,5 +298,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: "/murray-lampert/version3/binetti-zoom-photo.jpg"
   image-right: "/murray-lampert/version3/nicole-and-danny.jpg"
----
 
+---

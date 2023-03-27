@@ -1,9 +1,9 @@
 ---
-title: San Diego In-Law Suites | Accessory Dwelling Units
-permalink: "/san-diego-in-law-suites"
 layout: blocks
+title: San Diego In-Law Suites | Accessory Dwelling Units
 description: San Diego in-law suites are a great way for homeowners to earn additional
   income, offset their mortgage, add square footage, or keep family close.
+permalink: "/san-diego-in-law-suites"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -199,5 +199,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

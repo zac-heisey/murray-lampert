@@ -4,8 +4,9 @@ date: 2018-11-28 16:24:00 Z
 categories:
 - Green Construction
 - Home DIY Tips
-description: San Diego homeowners are wise to make the most of their outdoor space
-  by creating livable environments that are low maintenance - allowing them to spend
+
+description: San Diego homeowners are wise to make the most of their outdoor space by
+  creating livable environments that are low maintenance - allowing them to spend
   more time enjoying the outdoors than doing yard work.
 sections:
 - template: hero-banner
@@ -29,6 +30,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
-permalink: "/privacy-policy/"
 layout: blocks
+title: Privacy Policy
 description: Murray Lampert takes our website visitor's and client's privacy very
   seriously. Please review our privacy policy and let us know if you have any questions.
+permalink: "/privacy-policy/"
 sections:
 - template: rich-text
   block: rich-text
@@ -61,8 +61,8 @@ sections:
     led to your submission of personal information so we may efficiently locate it.</p><p><strong>Questions
     or Concerns</strong></p><p>If you have any concern about Murray Lampert DBR’s
     compliance with this privacy policy, you may contact <a href="mailto:dgood@murraylampert.com">dgood@murraylampert.com</a>.</p>'
----
 
+---
 For purposes of this Privacy Policy, the terms “we,” “us,” “our” and “Murray Lampert DBR” refer to [Murray Lampert Design, Build, Remodel](/). “you” and “your” refers to you, as a user of the Murray Lampert Design, Build, Remodel website. The Privacy Policy below governs any information you provide on this site.
 
 **This Privacy Policy Describes:**

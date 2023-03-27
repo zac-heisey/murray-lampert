@@ -3,8 +3,8 @@ title: Kitchen Island Trends
 date: 2018-01-12 23:14:00 Z
 categories:
 - Kitchen Remodeling
-description: Check out the latest trends in kitchen island design, materials, and
-  features for your kitchen.
+
+description: Check out the latest trends in kitchen island design, materials, and features for your kitchen.
 author: 'Gregg Cantor '
 layout: blocks
 ---

@@ -1,13 +1,13 @@
 ---
+layout: blocks
 title: On a Budget? Remodel This, Not That
 date: 2019-01-02 00:00:01 Z
 categories:
 - Home Remodeling
-layout: blocks
-description: Remodeling on a budget is tough, especially if your goal is to realize
-  a significant return on your investment. If your budget is tight and you want to
-  increase the value of your home, we have a few remodeling projects that you should
-  look to first.
+description: Remodeling on a budget is tough, especially if your goal is to realize a
+  significant return on your investment. If your budget is tight and you want to increase
+  the value of your home, we have a few remodeling projects that you should look to
+  first.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -30,6 +30,10 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
+layout: blocks
 ---
 
 While you want to make your home look its best, you may not have the budget you’d like to achieve that goal. Thankfully, there are several [home remodel projects](/san-diego-remodel-project-gallery) that offer a high ROI. These ensure that you don’t spend money on making your home look great without boosting its overall value, which you’re sure to be focused on if there’s a chance you’ll put your home on the market in the future. Murray Lampert Design, Build, Remodel is here to let you know which remodels are easiest on your wallet and best on your home’s value.

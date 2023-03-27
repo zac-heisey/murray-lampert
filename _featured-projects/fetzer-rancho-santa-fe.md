@@ -1,6 +1,6 @@
 ---
-title: Luxury Remodel with European Flair
 layout: featured-project
+title: Luxury Remodel with European Flair
 location: Rancho Santa Fe, CA
 description: Whole-home remodeling project for a luxurious property in Rancho Santa
   Fe, CA. View this and other featured home remodeling projects from Murray Lampert.
@@ -330,5 +330,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

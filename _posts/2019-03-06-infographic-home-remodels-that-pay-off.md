@@ -1,15 +1,14 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - Home Remodels That Pay Off
 date: 2019-03-06 00:00:00 Z
 categories:
 - Infographics
 - Home Remodeling
-layout: blocks
-description: Knowing the return on investment of a home remodeling project can help
-  you plan and prepare. This infographic breaks down 7 home remodels that can pay
-  off for homeowners.
-secondary-heading: See which home remodeling projects pay off...and which you should
-  put off.
+description: Knowing the return on investment of a home remodeling project can help you
+  plan and prepare. This infographic breaks down 7 home remodels that can pay off
+  for homeowners.
+secondary-heading: See which home remodeling projects pay off...and which you should put off.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -32,6 +31,7 @@ sections:
     url: "/contact/"
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 _This infographic comes from the team at Reclaimed Designworks_

@@ -57,33 +57,35 @@ sections:
     time winner of the BBB Torch Award for marketplace ethics</a>.</p><p><strong>We
     Are VERSATILE</strong> – Some contractors specialize only in design, while others
     only provide remodeling or building services. Murray Lampert specializes in a
-    complete range of <a href="/san-diego-design-build-contractors">design-build services</a>,
-    providing everything you need in one place.</p><p><strong>We Can SAVE YOU MONEY</strong>
-    – After 40+ years in business, Murray Lampert has developed excellent relationship
-    with suppliers, vendors, and sub-contractors which helps us provide top-quality
-    products at attractive rates for homeowners.</p><p><strong>We Can SAVE YOU TIME</strong>
-    – Instead of having different contractors handle various aspects of a project,
-    our design-build process saves you valuable time by managing all phases of a project
-    from start to finish. This helps to ensure that your project is completed on time
-    and on budget.</p><h2 id="our-poway-home-remodeling-services">Our Poway Home Remodeling
-    Services</h2><p>We provide high-quality design, build, and remodel services for
-    Poway residents, including:</p><ul><li><strong>Kitchen Remodels</strong> - The
-    kitchen is the hub of most homes and a place to spend time with your family. We
-    can help you create modern and functional space for cooking and spending time
-    with family and friends with a custom <a href="/kitchen-remodeling-poway">Poway
-    kitchen remodel</a>.</li><li><strong>Cabinets</strong> - With our space planning
-    service, we can design <a href="/san-diego-custom-cabinet-construction-services">custom
+    complete range of <a href="/san-diego-design-build-contractors">design-build
+    services</a>, providing everything you need in one place.</p><p><strong>We Can
+    SAVE YOU MONEY</strong> – After 40+ years in business, Murray Lampert has developed
+    excellent relationship with suppliers, vendors, and sub-contractors which helps
+    us provide top-quality products at attractive rates for homeowners.</p><p><strong>We
+    Can SAVE YOU TIME</strong> – Instead of having different contractors handle various
+    aspects of a project, our design-build process saves you valuable time by managing
+    all phases of a project from start to finish. This helps to ensure that your project
+    is completed on time and on budget.</p><h2 id="our-poway-home-remodeling-services">Our
+    Poway Home Remodeling Services</h2><p>We provide high-quality design, build, and
+    remodel services for Poway residents, including:</p><ul><li><strong>Kitchen
+    Remodels</strong> - The kitchen is the hub of most homes and a place to spend
+    time with your family. We can help you create modern and functional space for
+    cooking and spending time with family and friends with a custom <a href="/kitchen-remodeling-poway">Poway
+    kitchen remodel</a>.</li><li><strong>Cabinets</strong> - With our space
+    planning service, we can design <a href="/san-diego-custom-cabinet-construction-services">custom
     cabinets</a> that are more functional and with more usable space.</li><li><strong>Green
     Building</strong> - As an environmentally-conscious company, Murray Lampert is
-    dedicated to <a href="/san-diego-green-home-construction">green home construction</a>
-    practices that save energy and money.</li><li><a href="/san-diego-architectural-design-services"><strong>Architectural
+    dedicated to <a href="/san-diego-green-home-construction">green
+    home construction</a> practices that save energy and money.</li><li><a
+    href="/san-diego-architectural-design-services"><strong>Architectural
     Design</strong></a> - Our staff architect will work with you to create unique
     designs that match your personal taste, budget, and lifestyle.</li><li><strong>Room
-    Additions</strong> - With our <a href="/room-additions-poway">room addition service
-    in Poway</a>, you can add more space to your home to accommodate your growing
-    family.</li><li><strong>Second Stories</strong> - If you can’t give up valuable
-    outdoor space, or a view can be captured, going up with a <a href="/san-diego-second-story-addition/">second
-    story addition</a> is a great option.</li><li><strong>3D Project Modeling</strong>
+    Additions</strong> - With our <a href="/room-additions-poway">room
+    addition service in Poway</a>, you can add more space to your home to accommodate
+    your growing family.</li><li><strong>Second Stories</strong> - If you can’t
+    give up valuable outdoor space, or a view can be captured, going up with a <a
+    href="/san-diego-second-story-addition/">second story
+    addition</a> is a great option.</li><li><strong>3D Project Modeling</strong>
     - If you have trouble visualizing, we can show you <a href="/3d-architectural-rendering-services">3D
     color renderings</a> of what your remodel will look like before work even starts.</li><li><strong>Outdoor
     Living Spaces</strong> - Together we can design an amazing patio or <a href="/san-diego-outdoor-living-space-design/">custom
@@ -104,5 +106,5 @@ sections:
     on your project. Please give us a call at <strong>(619) 285-9222</strong> to schedule
     a free in-home consultation with one of our design specialists and get your remodeling
     project started today.</p>
----
 
+---

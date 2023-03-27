@@ -1,6 +1,6 @@
 ---
 title: 7 Options to Finance Your Next Home Remodeling Project
-date: 2022-04-25 00:00:00 Z
+date: 2022-04-25T00:00:00.000+00:00
 categories:
 - Home Remodeling
 description: Thinking about starting a San Diego home improvement project but not
@@ -29,8 +29,8 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
 layout: blocks
----
 
+---
 _This post was originally published March 2018 and has been updated with additional content, resources, images, etc._
 
 Murray Lampert has been designing, remodeling, and building homes in San Diego since 1975. During that time, we have seen many changes in home improvement financing. Thankfully, today there are great loan programs for consumers looking to build new homes or improve their current properties.

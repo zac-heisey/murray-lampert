@@ -1,9 +1,9 @@
 ---
-title: Other Remodeling Services in San Diego
-permalink: "/other-remodeling-services"
 layout: blocks
+title: Other Remodeling Services in San Diego
 description: From major home renovations to custom cabinets and interior design, Murray
   Lampert offers a variety of home remodeling services in San Diego.
+permalink: "/other-remodeling-services"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -12,17 +12,16 @@ sections:
     color: white
   background-image: "/murray-lampert/version3/brown-balcony-1.jpg"
   heading: Additional San Diego Remodeling Services
-  content: Whole-Home Renovations, Outdoor Living Spaces, Architectural & Interior
-    Design, and More
+  content: Whole-Home Renovations, Outdoor Living Spaces, Architectural & Interior Design, and More
 - template: rich-text
   block: rich-text
   background-color: none
-  content: <h6>Our Specialties</h6><h2>Other Home Remodeling Services</h2><p>As a
-    <a href="/design-build-services-san-diego" title="">full-service home remodeling
-    contractor</a>, Murray Lampert is able to provide homeowners with end-to-end home
-    remodeling services across a wide variety of project types. While our core services
-    and expertise include <a href="/san-diego-kitchen-remodels" title="">kitchen remodels</a>,
-    <a href="/san-diego-bathroom-remodels" title="">bathroom remodels</a>, <a href="/san-diego-home-additions"
+  content: <h6>Our Specialties</h6><h2>Other Home Remodeling Services</h2><p>As
+    a <a href="/design-build-services-san-diego" title="">full-service home remodeling contractor</a>,
+    Murray Lampert is able to provide homeowners with end-to-end home remodeling services
+    across a wide variety of project types. While our core services and expertise
+    include <a href="/san-diego-kitchen-remodels" title="">kitchen remodels</a>, <a
+    href="/san-diego-bathroom-remodels" title="">bathroom remodels</a>, <a href="/san-diego-home-additions"
     title="">home additions</a>, and <a href="/san-diego-in-law-suites" title="">in-law
     suites</a>, we also offer the following remodeling services to homeowners throughout
     San Diego.</p><h3>Interior Design</h3><p>A well-designed space is critical for
@@ -189,5 +188,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

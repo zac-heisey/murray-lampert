@@ -4,8 +4,9 @@ title: '5 Home Construction & Renovation Nonprofits to Consider On #GivingTuesda
 date: 2017-11-21 21:58:00 Z
 categories:
 - Community
-description: 'This #GivingTuesday, consider donating to these 5 nonprofits dedicated
-  to building and renovating homes in both San Diego and beyond.'
+
+description: 'This #GivingTuesday, consider donating to these 5 nonprofits dedicated to
+  building and renovating homes in both San Diego and beyond.'
 sections:
 - template: hero-banner
   block: hero-banner
@@ -28,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

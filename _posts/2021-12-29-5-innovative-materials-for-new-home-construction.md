@@ -1,12 +1,12 @@
 ---
-title: 5 Innovative Materials for New Home Construction
-date: 2021-12-29 14:00:00 Z
+layout: blocks
 categories:
 - Home Remodeling
-layout: blocks
+title: 5 Innovative Materials for New Home Construction
 description: The best home construction materials enhance durability, are energy-efficient,
   and improve the aesthetics. Consider these 5 innovative materials for your remodeling
   project.
+date: 2021-12-29 14:00:00 +0000
 secondary-heading: The best home construction materials enhance durability, are energy-efficient,
   and improve the aesthetics.
 sections:
@@ -36,8 +36,8 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---
 The best housing materials will serve a number of purposes. For example, they must enhance the home’s durability, help make the building more energy-efficient, and improve the property’s aesthetics. To this effect, not all [building materials](/then-and-now-how-building-materials-have-changed-for-the-better/) are created equal. If you are planning your dream house, the following 5 materials are some of the most innovative options currently being used for new home construction.
 
 ### 1. Board and Batten Siding

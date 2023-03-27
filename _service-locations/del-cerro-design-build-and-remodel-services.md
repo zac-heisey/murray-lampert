@@ -37,15 +37,16 @@ sections:
     were built in the 60’s and 70’s, it is a prime area for remodeling too. With some
     homes in the area, an ocean view can be captured with a <a href="/san-diego-second-story-addition">second
     story addition</a>. Other popular remodeling projects in the area are <a href="/san-diego-kitchen-remodeling-services">custom
-    kitchens</a>, <a href="/san-diego-room-additions">great room/family room additions</a>
-    and <a href="/major-renovations">major home renovation</a>, which can include
-    energy-saving measures like new roofing, windows and heat/cooling and solar.</p><p><strong>Architectural
-    Design Styles in Del Cerro</strong></p><p>Contemporary home design and ranch-style
-    homes can be seen throughout the Del Cerro area. With long lines of residential
-    homes, Del Cerro is known for being quiet, walkable, kid-friendly - ideal for
-    the single family unit. Backyard pools are also a common feature of many single-family
-    homes in Del Cerro.</p><p>Contemporary design first came to the Del Cerro area
-    in 1958 with the ‘Parade of Homes’ project of <a href="http://www.modernsandiego.com/Lareau.html">Richard
+    kitchens</a>, <a href="/san-diego-room-additions">great
+    room/family room additions</a> and <a href="/major-renovations">major
+    home renovation</a>, which can include energy-saving measures like new roofing,
+    windows and heat/cooling and solar.</p><p><strong>Architectural Design Styles
+    in Del Cerro</strong></p><p>Contemporary home design and ranch-style homes can
+    be seen throughout the Del Cerro area. With long lines of residential homes, Del
+    Cerro is known for being quiet, walkable, kid-friendly - ideal for the single
+    family unit. Backyard pools are also a common feature of many single-family homes
+    in Del Cerro.</p><p>Contemporary design first came to the Del Cerro area in 1958
+    with the ‘Parade of Homes’ project of <a href="http://www.modernsandiego.com/Lareau.html">Richard
     Lareau</a>. His Pan-Pacific house was built with advanced electrical options,
     as this modern gateway era sought out innovative design both aesthetically and
     functionally. This trend has been maintained in the area, as a good many of the
@@ -63,13 +64,13 @@ sections:
     urban sophisticates who enjoy the roomy, well-established homes in this part of
     San Diego County.</p><h3 id="why-work-with-murray-lampert-design-build-remodel-">Why
     Work With Murray Lampert Design, Build, Remodel?</h3><p>For over 40 years, <a
-    href="/about-murray-lampert-design-build-remodel">Murray Lampert</a> has had the
-    pleasure and privilege of providing the Del Cerro area with professional home
-    remodeling, architectural design, and construction services. During that time,
-    we have developed long-lasting relationships with trade partners, inspectors,
-    and other experts in the business, with the aim of providing a service that stays
-    within your budget and is completed on schedule.</p><p>Our wide range of services
-    is sure to offer plenty of possibilities for your next <a href="/san-diego-home-remodel-services">home
+    href="/about-murray-lampert-design-build-remodel">Murray
+    Lampert</a> has had the pleasure and privilege of providing the Del Cerro area
+    with professional home remodeling, architectural design, and construction services.
+    During that time, we have developed long-lasting relationships with trade partners,
+    inspectors, and other experts in the business, with the aim of providing a service
+    that stays within your budget and is completed on schedule.</p><p>Our wide range
+    of services is sure to offer plenty of possibilities for your next <a href="/san-diego-home-remodel-services">home
     remodel</a>, and our impeccable craftsmanship, innovative design, personalized
     service, and dedication to customer satisfaction keep us ahead of the competition.</p><p>We
     maintain an A+ rating with the Better Business Bureau and have received the BBB
@@ -80,19 +81,20 @@ sections:
     remodel, design, and build service in Del Cerro. Our services include:</p><ul><li><strong>Room
     additions</strong> - If your family is outgrowing your house or you have always
     craved a home office, our room addition service in Del Cerro is an ideal solution
-    for <a href="/san-diego-room-additions">adding more space to your home</a>.</li><li><strong>Kitchen
-    remodels</strong> - Our <a href="/san-diego-kitchen-remodeling-services">kitchen
+    for <a href="/san-diego-room-additions">adding more
+    space to your home</a>.</li><li><strong>Kitchen remodels</strong> - Our
+    <a href="/san-diego-kitchen-remodeling-services">kitchen
     remodeling services</a> in Del Cerro can help you create a warm and welcoming
     space to prepare and eat meals and enjoy time with your family and friends.</li><li><strong>Second
     stories</strong> - A perfect solution to enjoy beautiful views without sacrificing
     yard space. Build on your house’s vertical space instead and keep the landscape
-    intact.</li><li><strong>Bathroom remodel</strong> - If your bathroom calls for
-    a remodel or simply a touch of modern, consider installing new plumbing, tiles,
+    intact.</li><li><strong>Bathroom remodel</strong> - If your bathroom calls
+    for a remodel or simply a touch of modern, consider installing new plumbing, tiles,
     fixtures, counters, and cabinets. Your bathroom will be more attractive and more
-    functional.</li><li><strong>Architectural design</strong> - With your input and
-    ideas, our staff architect will come up with a custom design that will comply
-    with your budget, lifestyle, and preferences.</li><li><strong>3D project modeling</strong>
-    - With state-of-the-art technology, our team can create <a href="/3d-architectural-rendering-services">3D
+    functional.</li><li><strong>Architectural design</strong> - With your input
+    and ideas, our staff architect will come up with a custom design that will comply
+    with your budget, lifestyle, and preferences.</li><li><strong>3D project
+    modeling</strong> - With state-of-the-art technology, our team can create <a href="/3d-architectural-rendering-services">3D
     architectural renderings of your remodel</a> for you to see the end result before
     any construction begins.</li><li><strong>Green building</strong> - We believe
     strongly in being environmentally conscious and we're dedicated to <a href="/san-diego-green-home-construction">green
@@ -101,16 +103,16 @@ sections:
     you to enjoy the fresh air in the comfort of your home.</li><li><strong>Cabinets</strong>
     - We can help you make the best of your storage space with <a href="/san-diego-custom-cabinet-construction-services">custom
     built cabinetry</a>.</li></ul><h3 id="our-design-build-process-san-diego-design-build-contractors-">Our
-    <a href="/san-diego-design-build-contractors">Design-Build Process</a></h3><p>All
-    our Del Cerro home remodeling projects start with design development. We see this
-    as a collaborative process that starts with a one-on-one meeting with our staff
-    architect. The goal of the meeting is for the architects to fully understand your
-    wishes and requests, so the outcome will fit your personal needs, style and budget.
-    After the design is agreed on, we keep in regular contact with you to keep you
-    informed on the progress.</p><p>For any questions or inquiries about our Del Cerro
-    <a href="/san-diego-home-remodel-services">home remodeling</a> services, please
-    call us at <strong>(619) 285-9222</strong>. We will gladly answer your questions
-    over the phone or during your <a href="/contact">free in-home consultation session</a>.
-    We look forward to working with you soon!</p>
----
+    <a href="/san-diego-design-build-contractors">Design-Build
+    Process</a></h3><p>All our Del Cerro home remodeling projects start with design
+    development. We see this as a collaborative process that starts with a one-on-one
+    meeting with our staff architect. The goal of the meeting is for the architects
+    to fully understand your wishes and requests, so the outcome will fit your personal
+    needs, style and budget. After the design is agreed on, we keep in regular contact
+    with you to keep you informed on the progress.</p><p>For any questions or inquiries
+    about our Del Cerro <a href="/san-diego-home-remodel-services">home
+    remodeling</a> services, please call us at <strong>(619) 285-9222</strong>. We
+    will gladly answer your questions over the phone or during your <a href="/contact">free
+    in-home consultation session</a>. We look forward to working with you soon!</p>
 
+---

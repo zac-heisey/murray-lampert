@@ -1,14 +1,13 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - 5 Things to Know About Granny Flat Regulations in San Diego
 date: 2018-03-28 00:00:00 Z
 categories:
 - In-law Suites
 - Infographics
-layout: blocks
-description: In this animated infographic, we outline 5 important things homeowners
-  should know about recent changes to ADU regulations in San Diego.
-secondary-heading: It can be tough keeping up with the changing rules and regulations
-  for San Diego ADUs. This animated infographic can help!
+description: In this animated infographic, we outline 5 important things homeowners should
+  know about recent changes to ADU regulations in San Diego.
+secondary-heading: It can be tough keeping up with the changing rules and regulations for San Diego ADUs. This animated infographic can help!
 sections:
 - template: hero-banner
   block: hero-banner
@@ -31,6 +30,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 The popularity of Accessory Dwelling Units (ADUs) - also known as "granny flats" or "in-law suites" - continues to grow in California. The state saw a **63% increase in approved ADU construction permits in 2017** compared to 2016.

@@ -1,9 +1,9 @@
 ---
+layout: blocks
 title: 10 Examples of Unique Accessory Dwellings
 date: 2019-02-27 14:30:00 Z
 categories:
 - In-law Suites
-layout: blocks
 description: While they were previously thought of as exotic additions or quirky living
   spaces, many San Diego homeowners are capitalizing on the ADU movement. As popularity
   rises, so does creativity.
@@ -29,6 +29,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 When you hear the term Accessory Dwelling Unit for the first time, it may not ring an immediate bell. However, once you see the pictures and note the examples, you will immediately recognize the extra living spaces that are becoming so popular. Some of the many types you have likely come across include tiny homes in the backyard, studio apartments inside garages and converted barns with loft sleeping spaces.

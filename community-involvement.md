@@ -1,6 +1,6 @@
 ---
-title: Community Involvement
 layout: blocks
+title: Community Involvement
 description: ''
 sections:
 - template: hero-banner
@@ -22,5 +22,5 @@ sections:
     in charity events and fundraisers in order to give back to the community of San
     Diego.</p><p>We’ll be featuring more stories about our community involvement in
     San Diego here, so check back soon!</p>
----
 
+---

@@ -1,8 +1,8 @@
 ---
-title: Sitemap
-permalink: "/sitemap/"
 layout: default
+title: Sitemap
 description: Murray Lampert Design, Build, Remodel in San Diego sitemap.
+permalink: "/sitemap/"
 ---
 
 <section class="rich-text">

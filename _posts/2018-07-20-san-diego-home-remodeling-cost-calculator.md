@@ -1,14 +1,13 @@
 ---
+layout: blocks
 title: San Diego Home Remodeling Cost Calculator
 date: 2018-07-20 00:00:00 Z
 categories:
 - Home Remodeling
-layout: blocks
 description: Cost is always an important factor in any home remodeling project. That's
   why we've created this super-simple San Diego home remodeling cost calculator for
   local homeowners.
-secondary-heading: Use our home remodeling cost calculator to get an idea of how much
-  your San Diego remodeling project might cost.
+secondary-heading: Use our home remodeling cost calculator to get an idea of how much your San Diego remodeling project might cost.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -31,6 +30,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 It's a question we get during almost every in-home consultation meeting we have with prospective clients: "[How much will my home remodeling project cost](/how-much-will-my-home-remodeling-project-cost/)?" And while no homeowner likes hearing the response, "It depends," the fact is that variables like location, size of the current home or desired addition, the scope of the project, finishes and fixtures to be used, as well as the experience and expertise of the [remodeling contractor](/san-diego-home-remodel-services) all play a role in what a homeowner will end up paying.

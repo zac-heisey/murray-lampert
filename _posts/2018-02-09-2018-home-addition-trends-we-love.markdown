@@ -3,9 +3,10 @@ title: 2018 Home Addition Trends We Love
 date: 2018-02-09 15:21:00 Z
 categories:
 - Home Additions
-description: Murray Lampert uncovers the hottest trends in home remodeling for 2018,
-  and home additions play a huge role. Get the latest info on home addition trends
-  in San Diego.
+
+description: Murray Lampert uncovers the hottest trends in home remodeling for 2018, and
+  home additions play a huge role. Get the latest info on home addition trends in
+  San Diego.
 author: 'Gregg Cantor '
 layout: blocks
 ---

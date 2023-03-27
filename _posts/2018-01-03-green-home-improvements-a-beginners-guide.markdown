@@ -4,6 +4,7 @@ date: 2018-01-03 08:30:51 Z
 permalink: "/green-home-improvements-a-beginners-guide/"
 categories:
 - Green Construction
+
 description: The green movement also includes tackling various green home improvement
   projects to increase the efficiency and environmental impact of your home.
 sections:
@@ -28,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

@@ -3,9 +3,10 @@ title: The Importance of Lighting to Your Home's Interior Design
 date: 2018-02-09 14:55:00 Z
 categories:
 - Interior Design
-description: Understanding the importance of lighting in the interior design of your
-  San Diego home will help you take full advantage of its aesthetic. Plus, learn our
-  top tips for enhancing the lighting in your home.
+
+description: Understanding the importance of lighting in the interior design of your San
+  Diego home will help you take full advantage of its aesthetic. Plus, learn our top
+  tips for enhancing the lighting in your home.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -28,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

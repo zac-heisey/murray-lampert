@@ -5,8 +5,9 @@ permalink: "/why-cost-per-square-foot-doesnt-work-for-home-remodeling-projects/"
 categories:
 - Home Remodeling
 layout: blocks
-description: There are many factors that impact remodeling costs in San Diego. Learn
-  why cost per square foot isn't accurate in estimating your remodeling project costs.
+
+description: There are many factors that impact remodeling costs in San Diego. Learn why
+  cost per square foot isn't accurate in estimating your remodeling project costs.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,6 +30,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 ---
 
 Cost Per Square Foot is a commonly used method for estimating probable construction costs. People use this system in hopes to gain an understanding of how much it will cost to remodel their home or business. Though widely used, cost per square foot is seldom an accurate representation of actual remodeling costs. It is important to understand _why_ cost per square foot doesn’t work for home remodeling projects before starting; otherwise, you might be surprised to find your beautiful home is really just a pretty penny!

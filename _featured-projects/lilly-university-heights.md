@@ -1,9 +1,8 @@
 ---
-title: University Heights Duplex & ADU
 layout: featured-project
+title: University Heights Duplex & ADU
 location: University Heights, CA
-description: Duplex and ADU in University Heights, CA. View this and other featured
-  home remodeling projects from Murray Lampert.
+description: Duplex and ADU in University Heights, CA. View this and other featured home remodeling projects from Murray Lampert.
 project-number: '03'
 featured-image: "/murray-lampert/version3/lilly-university-heights-living-room-2.jpg"
 project-details:
@@ -11,18 +10,7 @@ project-details:
 - Second Story Addition
 - Accessory Dwelling Unit
 - Kitchen Remodel
-project-overview: "<p>This property is centrally located in the University Heights
-  neighborhood. The owners decided it would be the perfect spot for multifamily housing,
-  so we demolished the existing single family home to make room for more.</p><p>What
-  once was a small single family home is now a 2-story duplex with a 2-story ADU in
-  the back, creating 3 units total. Each unit was designed with practicality and durability
-  in mind; Quartz countertops were used in the kitchen and LVP waterproof flooring
-  was used throughout. Downstairs, each unit features a kitchen with brand new stainless
-  steel appliances and a full-sized stacked washer and dryer, which are concealed
-  in a cabinet. Adjacent to the kitchen Is ample living and dining space, as well
-  as storage under the stairs. Upstairs there are 2 bedrooms with en suite bathrooms.
-  Each bathroom features a furniture style vanity, mirrored medicine cabinet, and
-  a beautifully tiled tub/shower.</p>"
+project-overview: "<p>This property is centrally located in the University Heights neighborhood. The owners decided it would be the perfect spot for multifamily housing, so we demolished the existing single family home to make room for more.</p><p>What once was a small single family home is now a 2-story duplex with a 2-story ADU in the back, creating 3 units total. Each unit was designed with practicality and durability in mind; Quartz countertops were used in the kitchen and LVP waterproof flooring was used throughout. Downstairs, each unit features a kitchen with brand new stainless steel appliances and a full-sized stacked washer and dryer, which are concealed in a cabinet. Adjacent to the kitchen Is ample living and dining space, as well as storage under the stairs. Upstairs there are 2 bedrooms with en suite bathrooms. Each bathroom features a furniture style vanity, mirrored medicine cabinet, and a beautifully tiled tub/shower.</p>"
 sections:
 - template: grid
   block: grid
@@ -424,5 +412,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

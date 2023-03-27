@@ -1,10 +1,10 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - 2018 Cost vs. Value Report of Common Home Remodeling Projects
-date: 2018-02-28 00:00:00 Z
+date: 2018-02-28T00:00:00.000+00:00
 categories:
 - Home Remodeling
 - Infographics
-layout: blocks
 description: Here are the 5 key takeaways from this years' Cost vs. Value report from
   Remodeling Magazine, plus insights for San Diego homeowners.
 secondary-heading: Check out our 5 key takeaways from the 2018 Cost vs. Value report
@@ -31,8 +31,8 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
----
 
+---
 This [year's Cost vs. Value Report ](http://www.remodeling.hw.net/cost-vs-value/2018/) from Remodeling Magazine reports an overall decline cost-value ratio compared to 2017 (56.8% vs. 64.3%). The report looks at 21 popular [home remodeling](/design-build-services-san-diego) projects and examines the value they retain across 100 U.S. markets. While the 2018 report shows a lower rate of return on average across all project types and markets, there are some positives to highlight for homeowners looking to start a remodeling project this year - especially on the West Coast.
 
 ### 5 Takeaways from the 2018 Cost vs. Value Report

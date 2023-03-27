@@ -1,10 +1,10 @@
 ---
-title: Home Additions in San Diego
-permalink: "/san-diego-home-additions"
 layout: blocks
+title: Home Additions in San Diego
 description: Custom home additions in San Diego. Room additions, second stories, and
   more from Murray Lampert Design, Build, Remodel. View our previous home addition
   projects.
+permalink: "/san-diego-home-additions"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -186,5 +186,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

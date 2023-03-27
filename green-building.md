@@ -1,9 +1,9 @@
 ---
-title: San Diego Green Home Construction
-permalink: "/san-diego-green-home-construction"
 layout: blocks
+title: San Diego Green Home Construction
 description: Murray Lampert green home remodeling & construction. A Green Certified
   home building contractor. Learn more about our environmentally friendly practices.
+permalink: "/san-diego-green-home-construction"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,22 +29,23 @@ sections:
     Fiberglass Insulation</p></li><li><p>Radiant Barrier over Roof Sheeting to Reflect
     Heat</p></li><li><p>Energy Efficient Windows, Doors and Skylights</p></li><li><p>Use
     of Engineered Woods for Structural Construction</p></li><li><p>Installation of
-    LED Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm Water
-    Pollution Control</p></li><li><p>Low Flow Toilets, Faucets and Valves</p></li><li><p>Non
-    VOC Paints and Stains</p></li></ul><p><a href="/">Murray Lampert Design, Build,
-    Remodel</a> is a Green Certified firm experienced in energy efficient construction
-    and healthier living. Besides the energy savings, there are many tax credits available
-    to consumers who use approved products during their home design and remodeling
-    project. Murray Lampert can guide you through the process of selecting green-compliant
-    materials and securing applicable tax credits.</p><p><strong>Upgraded Energy Conservation
-    Products and Services Available:</strong></p><ul><li><p>High Efficiency Plumbing
-    and HVAC</p></li><li><p>Whole House Air Circulation Systems</p></li><li><p>Wool
+    LED Lighting</p></li><li><p>Programmable Thermostats</p></li><li><p>Storm
+    Water Pollution Control</p></li><li><p>Low Flow Toilets, Faucets and Valves</p></li><li><p>Non
+    VOC Paints and Stains</p></li></ul><p><a href="/">Murray
+    Lampert Design, Build, Remodel</a> is a Green Certified firm experienced in energy
+    efficient construction and healthier living. Besides the energy savings, there
+    are many tax credits available to consumers who use approved products during their
+    home design and remodeling project. Murray Lampert can guide you through the process
+    of selecting green-compliant materials and securing applicable tax credits.</p><p><strong>Upgraded
+    Energy Conservation Products and Services Available:</strong></p><ul><li><p>High
+    Efficiency Plumbing and HVAC</p></li><li><p>Whole House Air Circulation Systems</p></li><li><p>Wool
     Insulation or Recycled Cotton</p></li><li><p><a href="/battle-of-the-tape-duct-mastic-vs-foil-tape">Duct
     Mastic Instead of Duct Tape</a></p></li><li><p>On Demand Hot Water Systems</p></li><li><p>Photovoltaic
     Solar Systems</p></li><li><p>Passive Solar Systems</p></li></ul><p>Any one of
     these additions can help turn your current home into a <strong>green residential
     building</strong>. For more information on green construction for your home, <a
-    href="/contact">contact Murray Lampert Design, Build, Remodel</a>.</p>
+    href="/contact">contact Murray Lampert Design, Build,
+    Remodel</a>.</p>
 - template: grid
   block: grid
   grid-rows:
@@ -144,5 +145,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

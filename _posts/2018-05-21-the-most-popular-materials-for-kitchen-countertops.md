@@ -3,6 +3,7 @@ title: The Most Popular Materials for Kitchen Countertops
 date: 2018-05-21 00:00:00 Z
 categories:
 - Kitchen Remodeling
+
 description: Need kitchen countertop ideas? We examine the most popular kitchen countertop
   materials, along with some pros and cons of each type of kitchen countertop.
 sections:
@@ -27,6 +28,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

@@ -1,15 +1,14 @@
 ---
+layout: blocks
 title: INFOGRAPHIC - What’s In a Door? Everything You Need to Know to Pick the Right
   One
 date: 2014-12-31 14:00:42 Z
 categories:
 - Interior Design
 - Infographics
-layout: blocks
 description: Choosing a door to compliment your home remodeling project can be tough.
   Murray Lampert has an infographic to help you choose the perfect door.
-secondary-heading: The right door can make all the difference when it comes to a remodeling
-  project. Here's how to make sure you choose the right one.
+secondary-heading: The right door can make all the difference when it comes to a remodeling project. Here's how to make sure you choose the right one.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -32,6 +31,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
 ---
 
 Doors can add style and sophistication to your home, but how do you choose the right one? With so many choices available, the perfect door for you is out there.

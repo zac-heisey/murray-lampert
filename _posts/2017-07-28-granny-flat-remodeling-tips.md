@@ -8,8 +8,9 @@ tags:
 - granny flats
 - in-law suites
 layout: blocks
-description: Granny flats and in-law suites are becoming all the rage in San Diego.
-  We share our top tips for your granny flat remodel in San Diego.
+
+description: Granny flats and in-law suites are becoming all the rage in San Diego. We
+  share our top tips for your granny flat remodel in San Diego.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -32,6 +33,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 ---
 
 Granny flats are a fantastic addition to your San Diego home. They offer a “secondary suite” which is a self contained living area that is typically plain, small, and versatile. Adding a granny flat to your home is an up and coming trend that creates more space while having significantly lower costs than a traditional expansion.

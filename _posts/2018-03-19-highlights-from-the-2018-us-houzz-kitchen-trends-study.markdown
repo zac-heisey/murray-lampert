@@ -3,9 +3,10 @@ title: Highlights from the 2018 U.S. Houzz Kitchen Trends Study
 date: 2018-03-19 21:13:00 Z
 categories:
 - Kitchen Remodeling
-description: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for
-  homeowners and remodelers alike. We highlight a few of the main takeaways from this
-  year's study.
+
+description: The 2018 U.S. Houzz Kitchen Trends Study had some great insights for homeowners
+  and remodelers alike. We highlight a few of the main takeaways from this year's
+  study.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -28,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

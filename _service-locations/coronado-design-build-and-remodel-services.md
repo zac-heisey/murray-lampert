@@ -47,11 +47,11 @@ sections:
     remodeling</a> projects.</p><p><img src="https://u.realgeeks.media/parklifeproperties/blog/screen-shot-2015-06-27-at-33237-pm.png"
     title="City of Coronado Zoning Map" alt="image of City of Coronado zoning map"></p><h3
     id="work-with-murray-lampert-in-coronado">Work With Murray Lampert in Coronado</h3><p><a
-    href="/">Murray Lampert Design, Build, Remodel</a> has been working with Coronado
-    homeowners to provide professional construction, architectural design, and home
-    remodeling services since 1975. Over the years, we've built lasting relationships
-    with the best inspectors, suppliers, and trade partners in San Diego, ensuring
-    that every project is completed on time and within budget. <a href="/accolades">Our
+    href="/">Murray Lampert Design, Build, Remodel</a> has
+    been working with Coronado homeowners to provide professional construction, architectural
+    design, and home remodeling services since 1975. Over the years, we've built lasting
+    relationships with the best inspectors, suppliers, and trade partners in San Diego,
+    ensuring that every project is completed on time and within budget. <a href="/accolades">Our
     reputation</a> is built on a solid foundation of customer service, professional
     design, excellent craftsmanship, and punctual completion.</p><p>Our team is proud
     to have received the <a href="/another-better-business-bureau-torch-award/">BBB
@@ -67,32 +67,33 @@ sections:
     personalized design that suits individual tastes and budget.</li><li><strong>3D
     project remodel</strong> – We use state-of-the-art technology to create a 3D rendering
     of your finished project, giving you the chance to see what your remodeled home
-    will look before we get started.</li><li><strong>Kitchen remodel</strong> – Our
-    custom <a href="/kitchen-remodeling-coronado">kitchen remodels in Coronado</a>
-    create an aesthetically pleasing space that doesn’t sacrifice warmth, comfort,
-    or functionality.</li><li><a href="/san-diego-bathroom-remodeling-services"><strong>Bathroom
+    will look before we get started.</li><li><strong>Kitchen remodel</strong>
+    – Our custom <a href="/kitchen-remodeling-coronado">kitchen
+    remodels in Coronado</a> create an aesthetically pleasing space that doesn’t sacrifice
+    warmth, comfort, or functionality.</li><li><a href="/san-diego-bathroom-remodeling-services"><strong>Bathroom
     remodel</strong></a> – Update your bathroom’s form and function by installing
     new plumbing, tub – shower walls, counters, and cabinets.</li><li><strong>Second
     stories</strong> – If you have limited yard space, expand your home vertically
     and enjoy new sights. We've built custom second stories in Coronado, effectively
     adding valuable square footage for homeowners.</li><li><strong>Room additions</strong>
-    – Our <a href="/room-additions-coronado">room addition services in Coronado</a>
-    allow you to add an extra bedroom or create the home office you’ve always dreamed
-    of.</li><li><strong>Outdoor space</strong> – Coronado is an ideal place to enjoy
-    San Diego's wonderful weather. We can help you design and build a custom <a href="http://localhost:4000/san-diego-outdoor-living-space-design">outdoor
-    living space</a> to take it all in.</li><li><strong>Green building</strong> –
-    Murray Lampert is dedicated to keeping the planet healthy by using eco-friendly
+    – Our <a href="/room-additions-coronado">room addition
+    services in Coronado</a> allow you to add an extra bedroom or create the home
+    office you’ve always dreamed of.</li><li><strong>Outdoor space</strong>
+    – Coronado is an ideal place to enjoy San Diego's wonderful weather. We can help
+    you design and build a custom <a href="http://localhost:4000/san-diego-outdoor-living-space-design">outdoor
+    living space</a> to take it all in.</li><li><strong>Green building</strong>
+    – Murray Lampert is dedicated to keeping the planet healthy by using eco-friendly
     materials and processes.</li></ul><h3 id="how-the-design-build-process-works">How
     the Design-Build Process Works</h3><p>Our Coronado home remodeling and design-build
     process starts with a free in-home consultation. Our staff architect will meet
     with you one-on-one to collaborate on your budget, tastes, and remodeling needs.
-    Using <a href="/3d-architectural-rendering-services">3D rendering software</a>,
-    we'll then create a virtual walkthrough of your home so that you can visualize
-    the finished piece. Once everything is to your liking, our team will get all of
-    the necessary permits in place, source the necessary sub-contractors, vendors,
-    and suppliers, and keep you in the loop every step of the way.</p><p>If you have
-    any questions about our design, build, and remodel services in Coronado or you're
-    ready to <a href="/contact">schedule a free in-home consultation</a>, we are here
-    to help.</p>
----
+    Using <a href="/3d-architectural-rendering-services">3D
+    rendering software</a>, we'll then create a virtual walkthrough of your home so
+    that you can visualize the finished piece. Once everything is to your liking,
+    our team will get all of the necessary permits in place, source the necessary
+    sub-contractors, vendors, and suppliers, and keep you in the loop every step of
+    the way.</p><p>If you have any questions about our design, build, and remodel
+    services in Coronado or you're ready to <a href="/contact">schedule
+    a free in-home consultation</a>, we are here to help.</p>
 
+---

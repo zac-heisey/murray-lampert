@@ -1,6 +1,6 @@
 ---
-title: Naval-Inspired Interior & Exterior Remodel
 layout: featured-project
+title: Naval-Inspired Interior & Exterior Remodel
 location: Coronado, CA
 description: Interior & exterior remodel in Coronado, CA. View this and other featured
   home remodeling projects from Murray Lampert.
@@ -186,5 +186,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

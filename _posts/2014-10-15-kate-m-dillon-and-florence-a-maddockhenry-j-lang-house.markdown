@@ -1,11 +1,11 @@
 ---
+layout: blocks
 title: Kate M. Dillon and Florence A. Maddock/Henry J. Lang House
 date: 2014-10-15 09:27:20 Z
 permalink: "/kate-m-dillon-and-florence-a-maddockhenry-j-lang-house/"
 categories:
 - Home Remodeling
 - Major Renovation
-layout: blocks
 description: Renovating an old, historic home can be extremely rewarding. But navigating
   the ins and outs of historic home renovation isn't easy. Here are 7 things to know
   before renovating an historic home.

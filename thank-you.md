@@ -1,6 +1,6 @@
 ---
-title: Thank You
 layout: blocks
+title: Thank You
 description: Thank you for contacting Murray Lampert Design, Build, Remodel! Our team
   will reach out to discuss your remodeling project and schedule your virtual or in-home
   consultation.
@@ -15,5 +15,5 @@ sections:
     the meantime, feel free to <a href="/accolades/" title="">check out what our clients
     have to say</a> about the work you can expect to receive on your project with
     Murray Lampert Design, Build, Remodel!</p>
----
 
+---

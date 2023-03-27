@@ -4,9 +4,9 @@ date: 2012-07-16 10:27:05 Z
 permalink: "/do-you-need-a-second-story/"
 categories:
 - Home Additions
-description: If you've outgrown your current home, a second story addition can be
-  a great option. Here are few questions to ask before building a second story in
-  San Diego.
+
+description: If you've outgrown your current home, a second story addition can be a great
+  option. Here are few questions to ask before building a second story in San Diego.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 

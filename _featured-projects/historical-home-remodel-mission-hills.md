@@ -1,6 +1,6 @@
 ---
-title: Historical Craftsman Remodel
 layout: featured-project
+title: Historical Craftsman Remodel
 location: Mission Hills, CA
 description: Historical home remodel in Mission Hills, CA. View this and other featured
   home remodeling projects from Murray Lampert.
@@ -173,5 +173,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
----
 
+---

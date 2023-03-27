@@ -4,6 +4,7 @@ date: 2018-08-01 14:22:00 Z
 categories:
 - Green Construction
 - Home Remodeling
+
 description: Here are 8 ways for homeowners to go green and utilized recycled materials
   in their next home remodeling project.
 sections:
@@ -28,6 +29,9 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+
+
+
 layout: blocks
 ---
 
