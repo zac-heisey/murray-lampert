@@ -1,12 +1,11 @@
 ---
 title: San Diego Design Build Remodel
-layout: blocks
 description: 
 sections:
 - template: hero-banner
   block: hero-banner
   cta:
-    enabled: true
+    enabled: false
     color: white
     button-text: View Our Remodeling Projects
     url: "/san-diego-remodel-project-gallery"
@@ -20,13 +19,13 @@ sections:
     grid-items:
     - item: Text
       image-info:
-        image: ''
+        image: 
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: none
         cta:
@@ -42,12 +41,12 @@ sections:
       item-span: 1
     - item: Video
       image-info:
-        image: ''
+        image: 
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
       video-info:
         video-cover-image: "/v1667318613/murray-lampert/version3/da-process-video-cover.jpg"
         video-id: C6dcKZf-52w
@@ -56,10 +55,10 @@ sections:
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
       item-type: video
       item-span: 2
 - template: grid
@@ -71,31 +70,31 @@ sections:
       image-info:
         image: "/v1655831880/murray-lampert/version3/mldbr-team-photo-2_fikpqg.jpg"
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: none
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
       item-type: image
       item-span: 2
     - item: Text
       image-info:
-        image: ''
+        image: 
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: none
         cta:
@@ -119,20 +118,20 @@ sections:
       image-info:
         image: "/murray-lampert/version3/senescall-outdoor-rendering-1.png"
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: none
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
       item-type: image
       item-span: 1
     - item: Image
@@ -146,25 +145,25 @@ sections:
             and More
           detail: See Our Bathroom Projects
           url: "/san-diego-bathroom-remodels"
-      video-id: ''
+      video-id: 
       text-info:
         background-color: none
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
     - item: Text
       image-info:
-        image: ''
+        image: 
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: blue
         cta:
@@ -189,36 +188,36 @@ sections:
             Has You Covered
           detail: See Additional Remodeling Services
           url: "/other-remodeling-services"
-      video-id: ''
+      video-id: 
       text-info:
         background-color: none
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
       item-type: image
       item-span: 2
     - item: Image
       image-info:
         image: "/murray-lampert/version3/walsh-adu-bathroom-after-1.jpg"
         text-overlay:
-          small-heading: ''
-          main-content: ''
-          detail: ''
-          url: ''
-      video-id: ''
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
       text-info:
         background-color: none
         cta:
           color: blue
           enabled: false
-          button-text: ''
-          url: ''
-        heading: ''
-        content: ''
+          button-text: 
+          url: 
+        heading: 
+        content: 
       item-type: image
       item-span: 1
 - template: carousel
@@ -226,7 +225,7 @@ sections:
   default-background-image: "/murray-lampert/version3/testimonials-bg.png"
   slide:
   - slide-title: Julie & Richard Testimonial
-    background-image: ''
+    background-image: 
     text-overlay:
       background-color: sand
       alignment: left
@@ -237,14 +236,14 @@ sections:
     cta:
       enabled: false
       color: white
-      button-text: ''
-      url: ''
+      button-text: 
+      url: 
   - slide-title: Armida Testimonial
-    background-image: ''
+    background-image: 
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: ''
+      small-heading: 
       main-content: "“It was a pleasure having Murray Lampert remodel my home. They
         were very attentive to any of my concerns and I couldn’t be happier with the
         the completed project. Everyone at Murray Lampert was amazing and great to
@@ -253,14 +252,14 @@ sections:
     cta:
       enabled: false
       color: white
-      button-text: ''
-      url: ''
+      button-text: 
+      url: 
   - slide-title: Stan & Gemma Testimonial
-    background-image: ''
+    background-image: 
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: ''
+      small-heading: 
       main-content: "“We contacted 4 top contractors in the San Diego area to do our
         construction project. After the presentation of their plan, Murray Lampert
         stood out as the best, especially with the cost of the project. The quality
@@ -270,14 +269,14 @@ sections:
     cta:
       enabled: false
       color: white
-      button-text: ''
-      url: ''
+      button-text: 
+      url: 
   - slide-title: Dr. Rebecca Testimonial
-    background-image: ''
+    background-image: 
     text-overlay:
       background-color: sand
       alignment: left
-      small-heading: ''
+      small-heading: 
       main-content: "“Murray Lampert has been a dream to work with from design through
         completion. I would pick them again for our next project.”"
       detail: "- Dr. Rebecca - La Jolla"
@@ -298,5 +297,6 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: "/murray-lampert/version3/binetti-zoom-photo.jpg"
   image-right: "/murray-lampert/version3/nicole-and-danny.jpg"
+layout: blocks
 ---
 
