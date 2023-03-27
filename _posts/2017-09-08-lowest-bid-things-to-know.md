@@ -6,9 +6,8 @@ categories:
 - Design-Build
 - Home Remodeling
 layout: blocks
-
-description: We know we're not the priced the lowest in town, and there is reason for
-  that. Don't trust the lowest home remodeling bids for your home renovation project.
+description: We know we're not the priced the lowest in town, and there is reason
+  for that. Don't trust the lowest home remodeling bids for your home renovation project.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -31,9 +30,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 ---
 
 ## The Lowest Bid Always Looks Good, But Here's What You Should Know

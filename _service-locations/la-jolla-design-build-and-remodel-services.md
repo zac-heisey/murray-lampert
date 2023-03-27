@@ -106,5 +106,5 @@ sections:
     meetings, and daily project updates.</p><p>If you have questions about our kitchen
     remodel service in La Jolla or would like to <a href="/contact">schedule a free
     in-home consultation</a>, please feel free to call us at <strong>(619) 285-9222</strong>.</p>
-
 ---
+

@@ -4,9 +4,9 @@ date: 2018-11-15 14:32:00 Z
 categories:
 - Home Remodeling
 - Outdoor Spaces
-
-description: Cold weather is coming, and with it the desire to huddle up indoors. Resist
-  the temptation with these 7 tips to cozy up your outdoor living spaces for winter.
+description: Cold weather is coming, and with it the desire to huddle up indoors.
+  Resist the temptation with these 7 tips to cozy up your outdoor living spaces for
+  winter.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +29,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

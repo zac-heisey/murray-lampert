@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: 7 Things to Know About Granite Kitchen Countertops
 date: 2019-06-12 00:00:01 Z
 categories:
 - Kitchen Remodeling
+layout: blocks
 description: Granite countertops are a tried and true material option for many kitchen
   remodeling projects. Get the lowdown on granite kitchen countertops right here!
 sections:
@@ -28,7 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 In our last post, we looked at some important [things to know about quartz kitchen countertops](/7-things-to-know-about-quartz-kitchen-countertops/) before making the choice of materials for your kitchen remodel. Today we'll cover 7 things homeowners should know about installing granite kitchen countertops, which is right up there with quartz in terms of popularity, preference, and quality.

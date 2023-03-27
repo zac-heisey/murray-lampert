@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: Home Remodeling San Diego | Design-Build Services
+permalink: "/design-build-services-san-diego"
+layout: blocks
 description: From kitchen and bath remodeling to whole house renovations in San Diego,
   Murray Lampert provides the best in Design-Build services. Visit to learn more.
-permalink: "/design-build-services-san-diego"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,17 +29,16 @@ sections:
     and construction.</p><p>By perfecting an innovative method of project planning
     and delivery such as design-build, we have been able to provide uncompromising
     quality for all services, ranging from kitchen and bathroom remodels, room additions
-    and interior design to custom cabinet construction and green building.</p>
-    </br>
+    and interior design to custom cabinet construction and green building.</p> </br>
     <h6>Our Process</h6><h2>Design-build is a better home remodeling experience.</h2><p>What's
-      the biggest advantage in selecting a design-build firm? Improved communication.
-      When you work with a design-build firm like Murray Lampert, you will enjoy a single
-      point of contract for everything from architectural and design aspects to the
-      engineering and construction work. You'll avoid the stressful role of being the
-      middleman between the architect, the contractor, and the sub-contractors. We'll
-      deliver a smoother project, better communication, reduced timeline, and more bang
-      for your budget.</p><p>The entire design-build process is a conversation about
-      what your needs are and how we can make that happen.</p>
+    the biggest advantage in selecting a design-build firm? Improved communication.
+    When you work with a design-build firm like Murray Lampert, you will enjoy a single
+    point of contract for everything from architectural and design aspects to the
+    engineering and construction work. You'll avoid the stressful role of being the
+    middleman between the architect, the contractor, and the sub-contractors. We'll
+    deliver a smoother project, better communication, reduced timeline, and more bang
+    for your budget.</p><p>The entire design-build process is a conversation about
+    what your needs are and how we can make that happen.</p>
 - template: process-stages
   block: process-stages
   process-stages:
@@ -89,56 +88,56 @@ sections:
 - template: rich-text
   block: rich-text
   background: none
-  content: "<h6>Why Design-Build?</h6><h2>Design-Build Remodeling
-  vs. Traditional Home Remodeling</h2><p><strong>Single Point Of Contact For The
-  Customer</strong></p><p>In the traditional, architect-driven approach, customers
-  invariably have to deal with multiple contractors, depending on the type and scope
-  of the project. Moreover, employing several contractors entails having several
-  contracts, which is both time-consuming and costly.</p><p>By contrast, design-build
-  involves a dedicated project manager who is in charge of coordinating all aspects
-  of the project and communicating with the customer.</p><p>Experienced project
-  managers at Murray Lampert will take care of your remodel from start to finish.
-  You will receive regular progress updates and timely answers to all your questions
-  regarding any aspect of the project, from design to construction.</p><p><strong>Controlled
-  Cost-Estimation, No Under-Budgeting</strong></p><p>At Murray Lampert, we begin
-  each and every project with a detailed budget and design plan. By having a single
-  contract covering all the design-build services, we can present our customers
-  with a comprehensive and fully transparent cost estimation up front.</p><p>We
-  boast an award-winning San Diego design-build team, so you can be sure we will
-  account for all project expenses and troubleshoot any issues quickly and efficiently.</p><p>Rest
-  assured there will be no hidden costs, as we will provide you with a detailed
-  payment plan including all the individual services before any work begins on your
-  home.</p><p>We also provide a 3D project modeling service, allowing us to explicitly
-  show our customers which services will be necessary to achieve their desired end-result.</p><p><strong>Timely
-  Completion Of Each Project Phase</strong></p><p>One of the biggest advantages
-  of design-build is time-efficiency. There is no time lag since different stages
-  of a single project can be executed simultaneously while being carefully coordinated
-  and monitored. Homeowners are delighted to realize the design time is shortened,
-  after which there is no need to hire a different contractor to carry out the rest
-  of your project.</p><p>Our seasoned designers value your time as much as they
-  value your needs and ideas. Because we determine a timeframe at the beginning
-  of each project, our designers are generally able to shorten the timeframe necessary
-  for the project to reach the permit stage.</p><p><strong>Accountability And Consistency
-  Throughout The Project</strong></p><p>As San Diego's leading design-build remodeling
-  contractor, Murray Lampert remains fully accountable for the entirety of your
-  home renovation project. All members of our team are accountable to each other,
-  and in turn, to you.</p><p>We are especially proud of the close professional relationships
-  our staff maintains. Their work is complementary as they strive to achieve each
-  other’s visions. Designers make sure their renditions are achievable by the builders,
-  while builders follow the designer’s vision closely so as to ensure it is accurately
-  achieved.</p><p>With a well-organized and coherent team of professionals at Murray
-  Lampert, you can be sure there is no conflict of interest – there is no finger
-  pointing or miscommunication, as our team shares the same professional goals and
-  values.</p><p><strong>Personalized Design-Build Services In San Diego</strong></p><p>We're
-  spent over 40 years building our stellar reputation with homeowners throughout
-  San Diego, and we take great pride in our unwavering commitment to customer satisfaction.
-  Given the unprecedented increase in unique customer demands, our dedication to
-  personalized customer service becomes more important than ever.</p><p>Our design-build
-  process enables our team to craft completely customized solutions that fit perfectly
-  with each client's vision, goals, and budget. From planning to permits, architectural
-  decisions to interior design, all the way through to project management and construction,
-  Murray Lampert provides a fully customized experience and personal touch with
-  every remodeling project.</p>"
+  content: "<h6>Why Design-Build?</h6><h2>Design-Build Remodeling vs. Traditional
+    Home Remodeling</h2><p><strong>Single Point Of Contact For The Customer</strong></p><p>In
+    the traditional, architect-driven approach, customers invariably have to deal
+    with multiple contractors, depending on the type and scope of the project. Moreover,
+    employing several contractors entails having several contracts, which is both
+    time-consuming and costly.</p><p>By contrast, design-build involves a dedicated
+    project manager who is in charge of coordinating all aspects of the project and
+    communicating with the customer.</p><p>Experienced project managers at Murray
+    Lampert will take care of your remodel from start to finish. You will receive
+    regular progress updates and timely answers to all your questions regarding any
+    aspect of the project, from design to construction.</p><p><strong>Controlled Cost-Estimation,
+    No Under-Budgeting</strong></p><p>At Murray Lampert, we begin each and every project
+    with a detailed budget and design plan. By having a single contract covering all
+    the design-build services, we can present our customers with a comprehensive and
+    fully transparent cost estimation up front.</p><p>We boast an award-winning San
+    Diego design-build team, so you can be sure we will account for all project expenses
+    and troubleshoot any issues quickly and efficiently.</p><p>Rest assured there
+    will be no hidden costs, as we will provide you with a detailed payment plan including
+    all the individual services before any work begins on your home.</p><p>We also
+    provide a 3D project modeling service, allowing us to explicitly show our customers
+    which services will be necessary to achieve their desired end-result.</p><p><strong>Timely
+    Completion Of Each Project Phase</strong></p><p>One of the biggest advantages
+    of design-build is time-efficiency. There is no time lag since different stages
+    of a single project can be executed simultaneously while being carefully coordinated
+    and monitored. Homeowners are delighted to realize the design time is shortened,
+    after which there is no need to hire a different contractor to carry out the rest
+    of your project.</p><p>Our seasoned designers value your time as much as they
+    value your needs and ideas. Because we determine a timeframe at the beginning
+    of each project, our designers are generally able to shorten the timeframe necessary
+    for the project to reach the permit stage.</p><p><strong>Accountability And Consistency
+    Throughout The Project</strong></p><p>As San Diego's leading design-build remodeling
+    contractor, Murray Lampert remains fully accountable for the entirety of your
+    home renovation project. All members of our team are accountable to each other,
+    and in turn, to you.</p><p>We are especially proud of the close professional relationships
+    our staff maintains. Their work is complementary as they strive to achieve each
+    other’s visions. Designers make sure their renditions are achievable by the builders,
+    while builders follow the designer’s vision closely so as to ensure it is accurately
+    achieved.</p><p>With a well-organized and coherent team of professionals at Murray
+    Lampert, you can be sure there is no conflict of interest – there is no finger
+    pointing or miscommunication, as our team shares the same professional goals and
+    values.</p><p><strong>Personalized Design-Build Services In San Diego</strong></p><p>We're
+    spent over 40 years building our stellar reputation with homeowners throughout
+    San Diego, and we take great pride in our unwavering commitment to customer satisfaction.
+    Given the unprecedented increase in unique customer demands, our dedication to
+    personalized customer service becomes more important than ever.</p><p>Our design-build
+    process enables our team to craft completely customized solutions that fit perfectly
+    with each client's vision, goals, and budget. From planning to permits, architectural
+    decisions to interior design, all the way through to project management and construction,
+    Murray Lampert provides a fully customized experience and personal touch with
+    every remodeling project.</p>"
 - template: rich-text
   block: rich-text
   background-color: sand
@@ -226,5 +225,5 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-
 ---
+

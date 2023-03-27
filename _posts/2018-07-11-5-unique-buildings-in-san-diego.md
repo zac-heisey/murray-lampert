@@ -4,9 +4,8 @@ date: 2018-07-11 00:00:00 Z
 categories:
 - Community
 - Design-Build
-
-description: San Diego has a long, rich history of architectural trendsetting and unique
-  designs. We've highlighted 5 of the most iconic buildings in San Diego.
+description: San Diego has a long, rich history of architectural trendsetting and
+  unique designs. We've highlighted 5 of the most iconic buildings in San Diego.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

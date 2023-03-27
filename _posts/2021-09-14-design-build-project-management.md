@@ -1,10 +1,11 @@
 ---
-layout: blocks
+title: Project Management in the Design-Build Process
+date: 2021-09-14 01:00:00 Z
 categories:
 - Design-Build
-title: Project Management in the Design-Build Process
-description: Having a single point of contact throughout a remodeling project helps keep clients informed and projects on track.
-date: 2021-09-14 01:00:00 +0000
+layout: blocks
+description: Having a single point of contact throughout a remodeling project helps
+  keep clients informed and projects on track.
 secondary-heading: Project Management - Our Family. Your Home.
 sections:
 - template: hero-banner
@@ -33,8 +34,8 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
-
 ---
+
 Murray Lampert has been perfecting our design-build process since 1975. Our clients enjoy a single point of contact throughout their entire remodeling project, and their dedicated project manager keeps them informed daily, while ensuring the project stays on track and on budget.
 
 Learn more about our unique design-build process here: [https://murraylampert.com/design-build-services-san-diego](https://murraylampert.com/design-build-services-san-diego)

@@ -1,49 +1,40 @@
 ---
 title: Murray Lampert
-
-description: Murray Lampert design, build, and home remodel services in San Diego. Proud to be San Diego's top home design build remodel contractor since 1975.
-
-url: https://murraylampert.com
-
-cloudinary: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto
-
+timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-    permalink: "/:title/"
   featured-projects:
     title: Featured Projects
     output: true
     permalink: "/:collection/:path/"
+  posts:
+    title: Posts
+    output: true
   service-locations:
     title: Service Locations
     output: true
     permalink: "/:collection/:path/"
-
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ""
-      type: "featured-projects"
-    values:
-      layout: "featured-project"
-
+- scope:
+    path: ''
+    type: featured-projects
+  values:
+    layout: featured-project
+description: Murray Lampert design, build, and home remodel services in San Diego.
+  Proud to be San Diego's top home design build remodel contractor since 1975.
+url: https://murraylampert.com
+cloudinary: https://res.cloudinary.com/zheisey/image/upload/f_auto,q_auto,dpr_auto
 markdown: kramdown
-
 kramdown:
   auto_ids: false
-
 permalink: pretty
-
 include:
 - _redirects
-
 exclude: []
-
-
 plugins:
 - jekyll-paginate
 - jekyll-sitemap
-
 paginate: 4
 paginate_path: blog/page:num

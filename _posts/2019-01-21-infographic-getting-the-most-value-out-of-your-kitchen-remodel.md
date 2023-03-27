@@ -1,14 +1,15 @@
 ---
-layout: blocks
 title: INFOGRAPHIC - Getting the Most Value Out of Your Kitchen Remodel
 date: 2019-01-21 00:00:00 Z
 categories:
 - Infographics
 - Kitchen Remodeling
-description: When it comes to San Diego kitchen remodels, it is possible to spend less
-  while getting more from your investment. This infographic shows how to get the most
-  value from your next kitchen remodel.
-secondary-heading: Learn how to get the most bang for your buck when it comes to kitchen remodeling.
+layout: blocks
+description: When it comes to San Diego kitchen remodels, it is possible to spend
+  less while getting more from your investment. This infographic shows how to get
+  the most value from your next kitchen remodel.
+secondary-heading: Learn how to get the most bang for your buck when it comes to kitchen
+  remodeling.
 sections:
 - template: hero-banner
   block: hero-banner

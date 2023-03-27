@@ -1,11 +1,11 @@
 ---
-layout: blocks
 title: Beware These 10 Hidden Costs During Your Home Remodel
 date: 2019-05-22 14:40:00 Z
 categories:
 - Home Remodeling
-description: There is a lot to account for during a home remodel, and there's a good chance
-  that unexpected costs will pop up. We identify 10 common hidden home remodeling
+layout: blocks
+description: There is a lot to account for during a home remodel, and there's a good
+  chance that unexpected costs will pop up. We identify 10 common hidden home remodeling
   costs to help you avoid them.
 sections:
 - template: hero-banner

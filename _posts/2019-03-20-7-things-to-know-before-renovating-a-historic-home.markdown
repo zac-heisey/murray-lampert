@@ -1,10 +1,10 @@
 ---
-layout: blocks
 title: 7 Things to Know Before Renovating a Historic Home
 date: 2019-03-20 13:27:00 Z
 categories:
 - Home Remodeling
 - Major Renovation
+layout: blocks
 description: Renovating an old, historic home can be extremely rewarding. But navigating
   the ins and outs of historic home renovation isn't easy. Here are 7 things to know
   before renovating an historic home.
@@ -30,7 +30,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 Rather than wishing for a typical dream home, you may have your heart set on scooping up a historic home and bringing it into the modern era. [Murray Lampert Design, Build, Remodel](/) wants you to get the most out of your historic home renovation. We’ve compiled a list of seven things you should know as you’re [planning your major renovation](/major-renovations).

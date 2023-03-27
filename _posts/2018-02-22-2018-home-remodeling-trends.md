@@ -1,14 +1,15 @@
 ---
-layout: blocks
 title: 2018 Home Remodeling Trends
 date: 2018-02-22 00:00:00 Z
 categories:
 - Home Remodeling
 - Home DIY Tips
 - Guides
+layout: blocks
 description: Check out the top home remodeling trends in 2018 from kitchens and baths,
   to interior design and outdoor living spaces. Read the full guide at MurrayLampert.com
-secondary-heading: We examine what are likely to be the most popular home remodeling trends of 2018.
+secondary-heading: We examine what are likely to be the most popular home remodeling
+  trends of 2018.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -31,7 +32,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
 
 As we begin a new year, it's a great time to consider those home improvement projects you've been putting off. Upgrades to your home's aesthetic appeal and functionality will not only increase its overall value, but it also provides a additional ease and comfort to your everyday life.

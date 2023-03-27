@@ -4,10 +4,9 @@ date: 2012-09-21 09:14:10 Z
 permalink: "/kitchen-remodeling-dos-and-donts/"
 categories:
 - Kitchen Remodeling
-
-description: A good kitchen can sell a home, which is why so many homeowners take on a
-  kitchen remodel to raise property value. Here are some do's and don'ts to get you
-  started.
+description: A good kitchen can sell a home, which is why so many homeowners take
+  on a kitchen remodel to raise property value. Here are some do's and don'ts to get
+  you started.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -30,9 +29,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

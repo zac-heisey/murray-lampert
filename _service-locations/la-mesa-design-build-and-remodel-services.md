@@ -36,13 +36,13 @@ sections:
     1000 lots. The city was officially incorporated February 16, 1912.</p><p><strong>Population
     Over the Years</strong></p><ul><li>La Mesa began with a mere handful of people.
     By the time it was incorporated, the city boasted a healthy 700 residents.</li><li>After
-    World War I, the population grew to 1,600.</li><li>With the business area’s
-    further expansion east and west after both World Wars, the city became home to
-    11,000 people in 1950.</li><li>By 1960, the population more than doubled
-    to 30,000 citizens.</li><li>Today, nearly 60,000 live in La Mesa.</li></ul><p><strong>Style
-    of Homes</strong></p><p>Much of the city still retains the look and design of
-    its Spanish-Californian roots. The homes are no different, reflecting the history
-    of the land and the traditional functionality of the times. Many <a href="http://www.murraylampert.com/index.php">home
+    World War I, the population grew to 1,600.</li><li>With the business area’s further
+    expansion east and west after both World Wars, the city became home to 11,000
+    people in 1950.</li><li>By 1960, the population more than doubled to 30,000 citizens.</li><li>Today,
+    nearly 60,000 live in La Mesa.</li></ul><p><strong>Style of Homes</strong></p><p>Much
+    of the city still retains the look and design of its Spanish-Californian roots.
+    The homes are no different, reflecting the history of the land and the traditional
+    functionality of the times. Many <a href="http://www.murraylampert.com/index.php">home
     design</a> and contracting companies draw off of these historical influences while
     still including a modern look and feel.</p><p><a href="/about-murray-lampert-design-build-remodel">Murray
     Lampert</a> has provided the residents of La Mesa with home remodeling, <a href="/major-renovations">major
@@ -66,34 +66,33 @@ sections:
     space for cooking meals and entertaining guests.</li><li><strong>Cabinets</strong>
     - We will help you maximize your storage space with <a href="/san-diego-custom-cabinet-construction-services">custom
     built cabinets</a>. Whatever your style, wood type, color or finish, we can design
-    and build high quality custom crafted cabinetry.</li><li><strong>Green
-    building</strong> - Murray Lampert is committed to green, <a href="/san-diego-green-home-construction">eco-friendly
+    and build high quality custom crafted cabinetry.</li><li><strong>Green building</strong>
+    - Murray Lampert is committed to green, <a href="/san-diego-green-home-construction">eco-friendly
     building practices</a> that will save you money and keep the planet healthy.</li><li><strong>Architectural
     design</strong> - Collaborate with our staff architect to create a custom <a href="/san-diego-architectural-design-services/">architectural
     design</a> that fits your budget and your project requirements.</li><li><strong>Room
-    additions</strong> - Through our <a href="/san-diego-room-additions">room
-    addition service</a> in La Mesa, we can help add space to your home to accommodate
-    your growing family.</li><li><strong>Second stories</strong> - To add space
-    without sacrificing landscaping or yard space, build vertically with a <a href="/san-diego-second-story-addition/">second
+    additions</strong> - Through our <a href="/san-diego-room-additions">room addition
+    service</a> in La Mesa, we can help add space to your home to accommodate your
+    growing family.</li><li><strong>Second stories</strong> - To add space without
+    sacrificing landscaping or yard space, build vertically with a <a href="/san-diego-second-story-addition/">second
     story addition</a> and take advantage of new, beautiful views.</li><li><strong>3D
     project modeling</strong> - Using a <a href="/3d-architectural-rendering-services">3D
     rendering of your remodel</a>, we can provide a preview of what your finished
     home remodeling project will look like.</li><li><strong>Outdoor space</strong>
     - Enjoy La Mesa’s beautiful sun and air with a complete deck, patio, or other
-    <a href="/san-diego-outdoor-living-space-design/">customized
-    outdoor space</a>.</li><li><strong>Bathroom remodel</strong> - Take your
-    bathroom to the next level with upgraded appliances, plumbing, tiles, or a full
-    <a href="/san-diego-bathroom-remodeling-services">bathroom
-    remodel</a>.</li></ul><h3 id="murray-lampert-s-remodeling-process">Murray
-    Lampert's Remodeling Process</h3><p>Each of our La Mesa home remodeling projects
-    begin by developing the design. Meet with our staff architect for a one-on-one
-    meeting and collaborate on a finished design that fits your budget, timeline,
-    and personal needs. We can even provide a virtual walkthrough of your renovated
-    living spaces using 3D rendering technology.</p><p>Communication is the best way
-    to get you exactly what you want, and we keep you connected and informed through
-    phone calls, emails, in-person meetings, and daily project updates.</p><p>If you're
-    ready to get started, we'd love to chat! Give us a <strong>call at (619) 285-9222</strong>
-    or reach out and <a href="/contact">schedule
-    a free consultation</a> to review your La Mesa home remodel.</p>
-
+    <a href="/san-diego-outdoor-living-space-design/">customized outdoor space</a>.</li><li><strong>Bathroom
+    remodel</strong> - Take your bathroom to the next level with upgraded appliances,
+    plumbing, tiles, or a full <a href="/san-diego-bathroom-remodeling-services">bathroom
+    remodel</a>.</li></ul><h3 id="murray-lampert-s-remodeling-process">Murray Lampert's
+    Remodeling Process</h3><p>Each of our La Mesa home remodeling projects begin by
+    developing the design. Meet with our staff architect for a one-on-one meeting
+    and collaborate on a finished design that fits your budget, timeline, and personal
+    needs. We can even provide a virtual walkthrough of your renovated living spaces
+    using 3D rendering technology.</p><p>Communication is the best way to get you
+    exactly what you want, and we keep you connected and informed through phone calls,
+    emails, in-person meetings, and daily project updates.</p><p>If you're ready to
+    get started, we'd love to chat! Give us a <strong>call at (619) 285-9222</strong>
+    or reach out and <a href="/contact">schedule a free consultation</a> to review
+    your La Mesa home remodel.</p>
 ---
+

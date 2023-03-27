@@ -3,10 +3,9 @@ title: Top Tips for Your Second Story Addition
 date: 2017-10-18 22:06:00 Z
 categories:
 - Home Additions
-
-description: Need more space for your family in San Diego without increasing your homes’
-  overall footprint? Read our tips for second story additions before deciding if it
-  is the right option for you.
+description: Need more space for your family in San Diego without increasing your
+  homes’ overall footprint? Read our tips for second story additions before deciding
+  if it is the right option for you.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

@@ -1,12 +1,12 @@
 ---
-layout: blocks
+title: ADUs in San Diego
+date: 2021-07-13 04:00:00 Z
 categories:
 - In-law Suites
-title: ADUs in San Diego
+layout: blocks
 description: Our VP of Operations, Rachel Cantor, breaks down some of the basics of
   an ADU, and why they are becoming the go-to remodeling project for many San Diego
   homeowners.
-date: 2021-07-13 04:00:00 +0000
 secondary-heading: ADUs in San Diego - Our Family. Your Home.
 sections:
 - template: hero-banner
@@ -35,8 +35,8 @@ sections:
   content: Reach out to our team of experts today!
   image-left: ''
   image-right: ''
-
 ---
+
 Both accessory dwelling units (ADUs) and junior accessory dwelling units (JADUs) have exploded in popularity in the last few years. This is especially true in San Diego, where high cost of living and an increasing population density combine to create affordable housing issues that leave many would-be homeowners looking for alternatives.
 
 Accessory dwelling units can provide a viable option to many residents, but navigating the ever-changing world of ADU permits, codes, and regulations can be difficult. On this segment of **Our Family. Your Home**, Murray Lampert VP of Operations Rachel Cantor gives a quick overview of the details of building an ADU in San Diego.

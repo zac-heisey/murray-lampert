@@ -4,8 +4,8 @@ date: 2016-02-03 15:42:56 Z
 permalink: "/the-homeowners-guide-to-choosing-the-perfect-kitchen-backsplash/"
 categories:
 - Kitchen Remodeling
-description: Backsplashes take up a small portion of your kitchen, but they can make or
-  break your kitchen's look. See our guide to choosing the perfect kitchen backsplash.
+description: Backsplashes take up a small portion of your kitchen, but they can make
+  or break your kitchen's look. See our guide to choosing the perfect kitchen backsplash.
 sections:
 - template: hero-banner
   block: hero-banner
@@ -28,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 

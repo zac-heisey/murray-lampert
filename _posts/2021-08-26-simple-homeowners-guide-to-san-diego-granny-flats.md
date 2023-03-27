@@ -1,9 +1,9 @@
 ---
-layout: blocks
 title: Simple Homeowner's Guide to San Diego Granny Flats
-date: 2021-08-26T00:00:01.000+00:00
+date: 2021-08-26 00:00:01 Z
 categories:
 - In-law Suites
+layout: blocks
 description: San Diego ADU laws continue to evolve, and can be different from neighborhood
   to neighborhood. Our simple San Diego ADU guide helps makes sense of ADU regulations.
 secondary-heading: This comprehensive guide provides everything you need to know about
@@ -30,8 +30,8 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
+
 _This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADU costs, rules, and regulations continue to evolve._
 
 _As of this writing, there have been significant changes in ADU and JADU regulations, making it even more difficult to build these units._

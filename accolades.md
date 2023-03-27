@@ -1,6 +1,6 @@
 ---
-layout: blocks
 title: Murray Lampert Reviews, Testimonials, Awards, and Accolades
+layout: blocks
 description: At Murray Lampert, our reputation means everything. Our client testimonials,
   online reviews, and industry awards are proof of our commitment to excellence.
 sections:
@@ -117,7 +117,9 @@ sections:
 - template: rich-text
   block: rich-text
   background-color: none
-  content: "<div class='nj-stories' data-filter-media='hide' data-media='hide'></div><script type='text/javascript' src='https://cdn.nicejob.co/js/sdk.min.js?id=6425727479578624' defer></script>"
+  content: "<div class='nj-stories' data-filter-media='hide' data-media='hide'></div><script
+    type='text/javascript' src='https://cdn.nicejob.co/js/sdk.min.js?id=6425727479578624'
+    defer></script>"
 - template: grid
   block: grid
   grid-rows:
@@ -384,5 +386,5 @@ sections:
     url: "/contact/"
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
+

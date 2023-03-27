@@ -1,10 +1,10 @@
 ---
-layout: blocks
 title: San Diego Remodel Project Gallery
+permalink: "/san-diego-remodel-project-gallery"
+layout: blocks
 description: Murray Lampert Design, Build, Remodel photo galleries of kitchen and
   bath remodels, room additions, second stories, and other San Diego home remodel
   projects
-permalink: "/san-diego-remodel-project-gallery"
 sections:
 - template: hero-banner
   block: hero-banner
@@ -116,5 +116,5 @@ sections:
     url: "/contact/"
   heading: Ready to start the conversation?
   content: Contact us today to schedule your FREE in-home or virtual consultation.
-
 ---
+

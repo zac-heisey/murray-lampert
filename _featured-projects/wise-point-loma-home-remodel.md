@@ -1,6 +1,6 @@
 ---
-layout: featured-project
 title: Complete Home Overhaul
+layout: featured-project
 location: Point Loma, CA
 description: Complete home remodel in Point Loma, CA. View this and other featured
   home remodeling projects from Murray Lampert.
@@ -13,7 +13,10 @@ project-details:
 - Family Room
 - Dining Area
 - Laundry Room
-project-overview: "<p>This total home renovation in Point Loma featured a kitchen remodel, room addition, complete overhaul of both the exterior and interior, and more.</p><p>Michael Wise of Capstone Direct invested in this major home renovation in preparation to sell the property, which he was able to do in a matter of days!</p>"
+project-overview: "<p>This total home renovation in Point Loma featured a kitchen
+  remodel, room addition, complete overhaul of both the exterior and interior, and
+  more.</p><p>Michael Wise of Capstone Direct invested in this major home renovation
+  in preparation to sell the property, which he was able to do in a matter of days!</p>"
 sections:
 - template: grid
   block: grid
@@ -181,5 +184,5 @@ sections:
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   image-left: ''
   image-right: ''
-
 ---
+

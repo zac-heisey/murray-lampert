@@ -1,12 +1,12 @@
 ---
-layout: blocks
 title: INFOGRAPHIC - Building the Ultimate Sustainable Kitchen
-date: 2019-10-24T00:00:01.000+00:00
+date: 2019-10-24 00:00:01 Z
 permalink: "/building-the-ultimate-sustainable-kitchen/"
 categories:
 - Kitchen Remodeling
 - Green Construction
 - Infographics
+layout: blocks
 description: Living green doesn't have to end with LED bulbs and efficient kitchen
   appliances. Check out our infographic on building the ultimate sustainable kitchen.
 secondary-heading: Check out some easy ways to make your kitchen for eco-friendly
@@ -33,8 +33,8 @@ sections:
     url: "/contact/"
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
 ---
+
 Your kitchen likely receives some of the most foot traffic in your home. Just think about all the activities that take place there and how often it's occupied. There's no wonder why the kitchen is one of the most popular rooms to renovate, especially with remodeling and home construction on the rise.
 
 If you're [making improvements to your kitchen](/san-diego-kitchen-remodeling-services), a great opportunity to build with [sustainability](/san-diego-green-home-construction) in mind exists in a big way. Living green doesn't have to end with simple energy conservation and efficient appliances. Check out this infographic on building the ultimate sustainable kitchen from CustomMade.com for some great ideas.

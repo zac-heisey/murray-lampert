@@ -4,7 +4,6 @@ date: 2017-10-16 10:00:00 Z
 permalink: "/cool-landscaping-trends-for-warm-san-diego-nights/"
 categories:
 - Outdoor Spaces
-
 description: Make the most of your San Diego outdoor living space with these hot landscaping
   trends to keep your outdoor space cool.
 sections:
@@ -29,9 +28,6 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
-
-
-
 layout: blocks
 ---
 
