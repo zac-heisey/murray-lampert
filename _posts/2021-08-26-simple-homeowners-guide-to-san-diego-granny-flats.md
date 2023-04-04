@@ -259,7 +259,8 @@ An ADU in San Diego must include a kitchen (sink, range, and refrigerator), bedr
 
 Install sound-dampening panels or insulation in the bedroom to control exterior noise so you can get a deep post-workout rest. Add a natural stone shower and a [corner bathtub](https://www.houzz.com/photos/query/corner-bathtub/nqrwns) to your bathroom to help you relax and recover. Depending on the layout of your ADU, you could add an island to increase your counter and storage space. [Contemporary kitchen islands](https://www.mansionglobal.com/articles/futuristic-kitchen-islands-104329) are chock-full of gadgets and technology, too; height-adjustable counters, secret spaces to hide your appliances, and even touch screens embedded in smooth surfaces.
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/d3f2P5FIU9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<lite-youtube videoid="d3f2P5FIU9Y" style="background-image: url('https://i.ytimg.com/vi/d3f2P5FIU9Y/hqdefault.jpg');">
+</lite-youtube>
 
 ### Building a Smart, Sustainable ADU
 
