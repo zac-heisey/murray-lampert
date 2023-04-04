@@ -1,9 +1,8 @@
 ---
 title: Simple Homeowner's Guide to San Diego Granny Flats
-date: 2021-08-26 00:00:01 Z
+date: 2021-08-26 00:00:00 Z
 categories:
 - In-law Suites
-layout: blocks
 description: San Diego ADU laws continue to evolve, and can be different from neighborhood
   to neighborhood. Our simple San Diego ADU guide helps makes sense of ADU regulations.
 secondary-heading: This comprehensive guide provides everything you need to know about
@@ -30,6 +29,7 @@ sections:
     button-text: Contact Murray Lampert
   content: Contact us today to schedule your FREE in-home or virtual consultation.
   heading: Ready to start the conversation?
+layout: blocks
 ---
 
 _This guide was originally published in August 2019. We will periodically update this guide with new information and insights as San Diego ADU costs, rules, and regulations continue to evolve._
@@ -258,6 +258,8 @@ Here are a few common universal living features to consider:
 An ADU in San Diego must include a kitchen (sink, range, and refrigerator), bedroom, and bathroom. When you convert your granny flat into a workout studio, you can intentionally upgrade these elements to support your health and wellness.
 
 Install sound-dampening panels or insulation in the bedroom to control exterior noise so you can get a deep post-workout rest. Add a natural stone shower and a [corner bathtub](https://www.houzz.com/photos/query/corner-bathtub/nqrwns) to your bathroom to help you relax and recover. Depending on the layout of your ADU, you could add an island to increase your counter and storage space. [Contemporary kitchen islands](https://www.mansionglobal.com/articles/futuristic-kitchen-islands-104329) are chock-full of gadgets and technology, too; height-adjustable counters, secret spaces to hide your appliances, and even touch screens embedded in smooth surfaces.
+
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/d3f2P5FIU9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Building a Smart, Sustainable ADU
 
