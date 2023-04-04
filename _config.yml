@@ -9,6 +9,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: "/:title/"
   service-locations:
     title: Service Locations
     output: true
