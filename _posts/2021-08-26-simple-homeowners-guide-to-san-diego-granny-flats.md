@@ -62,8 +62,6 @@ With the housing shortage leading to increased prices and fewer options, several
 
 Since there is a shortage of homes on the market in San Diego and prices continue to increase, adding an ADU to your existing property as a rental unit can be a great investment if it’s done thoughtfully, cost effectively and professionally.  We believe that custom, built-from-scratch ADUs or JADUs will provide more value and higher rent than a modular unit or tiny home.  Also, we have found that pre-approved plans seldom work for most properties and have not proven to  offer much savings for homeowners.
 
-At Murray Lampert, we believe that building ADUs or JADUs from the ground up will provide more value and higher rental returns than modular units or tiny homes. We've also found that pre-approved plans rarely work for most properties and have fail to result in significant cost savings for homeowners.
-
 Building a granny flat or ADU is a [smart investment](https://maxablespace.com/is-a-granny-flat-a-good-investment/) if:
 
 * You plan to own the home long-term and can rent it for many years.
@@ -213,8 +211,9 @@ The link to the [City of San Diego Zoning (ZAP) lookup](https://sandiego.maps.ar
 
 **General costs to design and build an ADU in San Diego**
 
-* **Small ADU:** (200 - 600 sq.ft.) = $150,000 to $250,000
-* **Large ADU:** (600 - 1,200 sq.ft.) = $250,000 to $350,000
+* Small ADU: (200 - 300 sq.ft.) = $175,000 to $275,000
+* Medium ADU: (300 - 600 sq.ft.) = $275,000 - $395,000
+* Large ADU: (600 - 1,200 sq.ft.) = $395,000 and up
 
 There are usually additional fees associated with building an ADU that vary by city. These fees include licenses, taxes, utility fees & upgrades, city required upgrades such as sidewalks and driveways, etc.
 
