@@ -36,7 +36,9 @@ sections:
           enabled: false
           url: 
           button-text: 
-        content: "<p>Reputation matters. It's the reason why we take great care of our clients and have established a reputation as San Diego's most trusted design, build, remodel company since 1975.</p>"
+        content: "<p>Reputation matters. It's the reason why we take great care of
+          our clients and have established a reputation as San Diego's most trusted
+          design, build, remodel company since 1975.</p>"
         heading: What our clients have to say.
       item-type: text
       item-span: 1
@@ -49,7 +51,7 @@ sections:
           detail: 
           url: 
       video-info:
-        video-cover-image: ""
+        video-cover-image: ''
         video-id: MM5n2iKBJ7k
       text-info:
         background-color: none
