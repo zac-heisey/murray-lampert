@@ -15,13 +15,53 @@ sections:
   heading: Trust, Integrity, and Experience
   content: Our Reputation Means Everything to Us.<br>It's Been Our Foundation Since
     1975.
-- template: rich-text
-  block: rich-text
-  background-color: none
-  content: "<h6>Testament of High Standards</h6><h2>What our clients have to say.</h2><p>Reputation
-    matters. It's the reason why we take great care of our clients and have established
-    a reputation as San Diego's most trusted design, build, remodel company since
-    1975.</p>"
+- template: grid
+  block: grid
+  grid-rows:
+  - row: 1 / 2
+    grid-items:
+    - item: Text
+      image-info:
+        image: 
+        text-overlay:
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-id: 
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          url: 
+          button-text: 
+        content: "<p>Reputation matters. It's the reason why we take great care of our clients and have established a reputation as San Diego's most trusted design, build, remodel company since 1975.</p>"
+        heading: What our clients have to say.
+      item-type: text
+      item-span: 1
+    - item: Video
+      image-info:
+        image: 
+        text-overlay:
+          small-heading: 
+          main-content: 
+          detail: 
+          url: 
+      video-info:
+        video-cover-image: ""
+        video-id: MM5n2iKBJ7k
+      text-info:
+        background-color: none
+        cta:
+          color: blue
+          enabled: false
+          button-text: 
+          url: 
+        heading: 
+        content: 
+      item-type: video
+      item-span: 2
 - template: carousel
   block: carousel
   default-background-image: "/murray-lampert/version3/testimonials-bg.png"
