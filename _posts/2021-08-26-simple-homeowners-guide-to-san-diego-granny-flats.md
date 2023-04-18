@@ -137,7 +137,7 @@ As the name suggests, JADUs are smaller versions of ADUS (maximum 500 sq.ft), bu
 | Parking | Depends. Parking may be eliminated and cannot be required under specific conditions. | No. Parking cannot be required. |
 | Owner Occupancy | Depends. Owner occupancy on most ADUs has been waived from 2020-2025 | Yes. Owner occupancy required. |
 | Ministerial Approval Process | Yes | Yes |
-| Prohibition on Sale of ADU | Yes | Yes |
+| Prohibition on Sale of ADU | No | Yes |
 
 *Table Data Source: https://www.housable.com/adu-guides/adu-jadu-difference*
 
