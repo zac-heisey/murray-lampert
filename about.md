@@ -309,18 +309,6 @@ sections:
         with her husband.</p>"
       image-1: "/murray-lampert/version3/jensen-landers-1.jpg"
       image-2: "/murray-lampert/version3/jensen-landers-1.jpg"
-    - name: Chelsea Tyler
-      title: Interior Designer
-      email: ctyler@murraylampert.com
-      bio: "<p>Chelsea was born in Dearborn, Michigan and moved to Scottsdale Arizona
-        when she was 9. She received a BA in design from ASU. She enjoys rock climbing,
-        trying new restaurants, and hitting the town with her big doggie, Templeton.
-        Chelsea loves designing because it gives her the opportunity to get to know
-        her clients and create the perfect space for them that is both functional
-        and unique to their personality.</p><p>Fun Fact: Chelsea is a level one sommelier,
-        and knows a lot about wine & spirits.</p>"
-      image-1: "/murray-lampert/version3/chelsea-tyler-1.jpg"
-      image-2: "/murray-lampert/version3/chelsea-tyler-1.jpg"
     - name: Micah Winkelstein
       title: Director of Design / Architect, AIA, NCARB
       email: mwinkelstein@murraylampert.com
