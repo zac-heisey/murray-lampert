@@ -293,6 +293,18 @@ sections:
         pickup.</p>"
       image-1: "/murray-lampert/version3/john-bixler-1.jpg"
       image-2: "/murray-lampert/version3/john-bixler-1.jpg"
+    - name: Luis Mora
+      title: Jr. Project Manager
+      email: lmora@murraylampert.com
+      bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare
+        time. He has been working in the remodeling industry for 17 years and loves
+        that it is innovative and always growing. His area of expertise is drywall,
+        but will tackle any job given to him. If given the choice to choose a career
+        path again, it would undoubtedly be construction.</p><p>Luis always strives
+        to do his best and is particular in what he does. He is happily married and
+        the father of three beautiful children.</p>"
+      image-1: "/murray-lampert/version3/luis-mora-1.jpg"
+      image-2: "/murray-lampert/version3/luis-mora-1.jpg"
   - row: Row 5
     team-members:
     - name: Jensen Prout
@@ -320,8 +332,6 @@ sections:
         tennis, drumming, grilling on the BBQ, and spending time with his two daughters.</p>"
       image-1: "/murray-lampert/version3/micah-winkelstein-1.jpg"
       image-2: "/murray-lampert/version3/micah-winkelstein-1.jpg"
-  - row: Row 6
-    team-members:
     - name: Alyson Meucci
       title: Senior Architectural Designer
       email: ameucci@murraylampert.com
@@ -337,6 +347,8 @@ sections:
         Cheese!</p>"
       image-1: "/murray-lampert/version3/alyson-meucci-1.jpg"
       image-2: "/murray-lampert/version3/alyson-meucci-1.jpg"
+  - row: Row 6
+    team-members:
     - name: Danny Battle
       title: Architectural Designer
       email: dbattle@murraylampert.com
@@ -365,8 +377,6 @@ sections:
         guitar, cooking, and enjoying the outdoors.</p>"
       image-1: "/v1647857546/murray-lampert/version3/sophia-van-keppel-1.jpg"
       image-2: "/v1647857546/murray-lampert/version3/sophia-van-keppel-1.jpg"
-  - row: Row 7
-    team-members:
     - name: Bobby Ortiz
       title: Architectural Designer
       email: bortiz@murraylampert.com
@@ -384,18 +394,8 @@ sections:
         and construction site drone pilot.</p>"
       image-1: "/murray-lampert/version3/bobby-ortiz-1.jpg"
       image-2: "/murray-lampert/version3/bobby-ortiz-1.jpg"
-    - name: Luis Mora
-      title: Field Technician
-      email: lmora@murraylampert.com
-      bio: "<p>Luis is from Michoacán, Mexico. He loves playing soccer in his spare
-        time. He has been working in the remodeling industry for 17 years and loves
-        that it is innovative and always growing. His area of expertise is drywall,
-        but will tackle any job given to him. If given the choice to choose a career
-        path again, it would undoubtedly be construction.</p><p>Luis always strives
-        to do his best and is particular in what he does. He is happily married and
-        the father of three beautiful children.</p>"
-      image-1: "/murray-lampert/version3/luis-mora-1.jpg"
-      image-2: "/murray-lampert/version3/luis-mora-1.jpg"
+  - row: Row 7
+    team-members:
     - name: Carrie Mayers
       title: Team Coach
       email: ''
